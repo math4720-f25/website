@@ -5,46 +5,45 @@ format:
   html
 ---
 
--   **Homework 4 released, and due Friday, 5/2, 11:59 PM**.
+-   The website is for both Section 101 2 - 3:15 PM and Section 102 3:30-4:45 PM.
 
 *This schedule will be updated as the semester progresses, with all changes documented here.*
 
 ::: column-screen-inset-right
 | Week | Date | Topic | To Do | Slides | Code | Homework | Project |
 |:-------:|---------|---------|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 1 | Tue, Jan 14 | Syllabus/Overview of Statistical Learning | [📖](/weeks/week-1.html "Week 1") | [🖥️](slides/01-syllabus.html "Syllabus")[🖥️](slides/02-overview.html "Overview") |  |  |  |
-|  | Thu, Jan 16 | Bias-variance tradeoff |  | [🖥️](slides/03-bias-var.html "bias-var-tradeoff") |  |  |  |
-| 2 | Tue, Jan 21 | ***NO CLASS: Cold Weather*** | [📖](/weeks/week-2.html "Week 2") | [🖥️](slides/04-lin-reg.html "Linear regression") |  |  |  |
-|  | Thu, Jan 23 | Linear Regression |  |  | [`r fontawesome::fa("file-code")`](code/04-linear-reg-code.html "04-linear-reg-code") |  |  |
-| 3 | Tue, Jan 28 | Numerical Optimization | [📖](/weeks/week-3.html "Week 3") |  |  | [✍️ HW1](/hw/hw-1.html "Homework 1") |  |
-|  | Thu, Jan 30 | Stochastic Gradient Descen; Ridge Regression |  | [🖥️](slides/05-ridge-cv.html "Ridge regression and cross validation") | [`r fontawesome::fa("file-code")`](code/05-ridge-cv-code.html "05-ridge-cv-code") |  |  |
-| 4 | Tue, Feb 4 | Cross-Validation; Feature Selection | [📖](/weeks/week-4.html "Week 4") | [🖥️](slides/06-lasso-vs.html "06-lasso-vs") | [`r fontawesome::fa("file-code")`](code/06-lasso-vs-code.html "06-lasso-vs-code") |  |  |
-|  | Thu, Feb 6 | LASSO |  |  |  |  |  |
-| 5 | Tue, Feb 11 | Regression Splines | [📖](/weeks/week-5.html "Week 5") | [🖥️](slides/07-splines.html "07-splines") | [`r fontawesome::fa("file-code")`](code/07-splines-code.html "07-splines-code") |  |  |
-|  | Thu, Feb 13 | Smoothing Splines and Generalized Additive Models |  |  |  | HW 1 Due |  |
-| 6 | Tue, Feb 18 | Bayesian Inference and Linear Regression | [📖](/weeks/week-6.html "Week 6") | [🖥️](slides/08-bayes.html "08-bayes") | [`r fontawesome::fa("file-code")`](code/08-bayes-code.html "08-bayes-code") | [✍️ HW2](/hw/hw-2.html "Homework 2") |  |
-|  | Thu, Feb 20 | Bayesian Linear Regression |  |  |  |  | [✅](present-description.html#timeline-and-things-to-do "Midterm presentation 1") Team up Due |
-| 7 | Tue, Feb 25 | Binary Logistic Regression | [📖](/weeks/week-7.html "Week 7") | [🖥️](slides/09-class-glm.html "09-class-glm") | [`r fontawesome::fa("file-code")`](code/09-class-glm-code.html "09-class-glm-code") |  |  |
-|  | Thu, Feb 27 | Multinomial Logistic Regression |  |  |  | HW 2 Due | [✅](present-description.html#proposal "Midterm presentation 1") Proposal Due |
-| 8 | Tue, Mar 4 | Discriminant Analysis | [📖](/weeks/week-8.html "Week 8") | [🖥️](slides/10-generative.html "10-generative") | [`r fontawesome::fa("file-code")`](code/10-generative-code.html "10-generative-code") |  |  |
-|  | Thu, Mar 6 | **Midterm Presentation I** |  |  |  | [✍️ HW3](/hw/hw-3.html "Homework 3") | [✅](present-description.html#materials "Midterm presentation 1") Materials Due |
-| 9 | Tue, Mar 11 | ***NO CLASS: Spring break*** |  |  |  |  |  |
-|  | Thu, Mar 13 | ***NO CLASS: Spring break*** [Deep Learning Workshop (Fri, Mar 14)](https://web.cvent.com/event/c428cad1-0152-4fb8-adb5-926b6f5650cd/summary) |  |  |  |  |  |
-| 10 | Tue, Mar 18 | Naive Bayes | [📖](/weeks/week-10.html "Week 10") |  |  |  |  |
-|  | Thu, Mar 20 | K-Nearest Neighbors |  | [🖥️](slides/11-knn.html "11-knn") | [`r fontawesome::fa("file-code")`](code/11-knn-code.html "11-knn-code") |  |  |
-| 11 | Tue, Mar 25 | Gaussian Process Regression | [📖](/weeks/week-11.html "Week 11") | [🖥️](slides/12-gp.html "12-gp") |  |  |  |
-|  | Thu, Mar 27 | Gaussian Process Classification |  |  | [`r fontawesome::fa("file-code")`](code/12-gp-code.html "12-gp-code") |  |  |
-| 12 | Tue, Apr 1 | Support Vector Machine | [📖](/weeks/week-12.html "Week 11") | [🖥️](slides/13-svm.html "13-svm") |  |  |  |
-|  | Thu, Apr 3 | Support Vector Machine |  |  | [`r fontawesome::fa("file-code")`](code/13-svm-code.html "13-svm-code") | HW 3 Due |  |
-| 13 | Tue, Apr 8 | CART and Bagging | [📖](/weeks/week-13.html "Week 13") | [🖥️](slides/14-tree.html "14-tree") |  |  | Proposal-2 Due |
-|  | Thu, Apr 10 | Random Forests and Boosting |  |  | [`r fontawesome::fa("file-code")`](code/14-tree-code.html "14-tree-code") | [✍️ HW4](/hw/hw-4.html "hw-4") |  |
-| 14 | Tue, Apr 15 | **Midterm Presentation II** | [📖](present-work-2.html "present-work-2") |  |  |  | [✅](present-description-2.html#proposal "Presentation II Guideline") Project-2 Guideline |
-|  | Thu, Apr 17 | ***NO CLASS: Easter break*** |  |  |  |  |  |
-| 15 | Tue, Apr 22 | Principal Component Analysis | [📖](/weeks/week-15.html "Week 15") | [🖥️](slides/15-pca.html "15-pca") | [`r fontawesome::fa("file-code")`](code/15-pca-code.html "15-pca-code") |  |  |
-|  | Thu, Apr 24 | Principal Component Analysis |  |  |  |  |  |
-| 16 | Tue, Apr 29 | Clustering | [📖](/weeks/week-16.html "Week 16") | [🖥️](slides/16-clustering.html "16-clustering") | [`r fontawesome::fa("file-code")`](code/16-clustering-code.html "16-clustering-code") |  |  |
-|  | Thu, May 1 | Neural Networks |  |  |  | HW 4 Due |  |
-| 17 | Thu, May 8 | **Final Project Submission** |  |  |  |  | [✅](project-description.html "Final project guideline") Final project guideline |
+| 1 | Mon, Aug 25 | Syllabus/Overview of Statistics | [📖](/weeks/week-1.html "Week 1") | [🖥️](slides/01-syllabus.html "Syllabus")[🖥️](slides/02-overview.html "Overview") |  |  |  |
+|  | Wed, Aug 27 | Statistical Studies and Data Collection; Data Type |  | [🖥️](slides/03-bias-var.html "bias-var-tradeoff") |  |  |  |
+| 2 | Mon, Sep 1 | ***NO CLASS: Labor Day*** | [📖](/weeks/week-2.html "Week 2") | [🖥️](slides/04-lin-reg.html "Linear regression") |  |  |  |
+|  | Wed, Sep 3 | R Software and Computation |  |  | [`r fontawesome::fa("file-code")`](code/04-linear-reg-code.html "04-linear-reg-code") |  |  |
+| 3 | Mon, Sep 8 | Summarizing Data: Centrality | [📖](/weeks/week-3.html "Week 3") |  |  | [✍️ HW1](/hw/hw-1.html "Homework 1") |  |
+|  | Wed, Sep 10 | Summarizing Data: Variation |  | [🖥️](slides/05-ridge-cv.html "Ridge regression and cross validation") | [`r fontawesome::fa("file-code")`](code/05-ridge-cv-code.html "05-ridge-cv-code") |  |  |
+| 4 | Mon, Sep 15 | Probability Fundamentals | [📖](/weeks/week-4.html "Week 4") | [🖥️](slides/06-lasso-vs.html "06-lasso-vs") | [`r fontawesome::fa("file-code")`](code/06-lasso-vs-code.html "06-lasso-vs-code") |  |  |
+|  | Wed, Sep 17 | Random Variables |  |  |  |  |  |
+| 5 | Mon, Sep 22 | DiscreteProbability Distributions | [📖](/weeks/week-5.html "Week 5") | [🖥️](slides/07-splines.html "07-splines") | [`r fontawesome::fa("file-code")`](code/07-splines-code.html "07-splines-code") |  |  |
+|  | Wed, Sep 24 | Continuous Probability Distributions |  |  |  | HW 1 Due |  |
+| 6 | Mon, Sep 29 | Sampling Distributions | [📖](/weeks/week-6.html "Week 6") | [🖥️](slides/08-bayes.html "08-bayes") | [`r fontawesome::fa("file-code")`](code/08-bayes-code.html "08-bayes-code") | [✍️ HW2](/hw/hw-2.html "Homework 2") |  |
+|  | Wed, Oct 1 | Central Limit Theorem |  |  |  |  | [✅](present-description.html#timeline-and-things-to-do "Midterm presentation 1") Team up Due |
+| 7 | Mon, Oct 6 | **Exam 1** | [📖](/weeks/week-7.html "Week 7") | [🖥️](slides/09-class-glm.html "09-class-glm") | [`r fontawesome::fa("file-code")`](code/09-class-glm-code.html "09-class-glm-code") |  |  |
+|  | Wed, Oct 8 | Inference about Population Means: Confidence Intervals |  |  |  | HW 2 Due | [✅](present-description.html#proposal "Midterm presentation 1") Proposal Due |
+| 8 | Mon, Oct 13 | Inference about Population Means: Hypothesis Testing | [📖](/weeks/week-8.html "Week 8") | [🖥️](slides/10-generative.html "10-generative") | [`r fontawesome::fa("file-code")`](code/10-generative-code.html "10-generative-code") |  |  |
+|  | Wed, Oct 15 | Inference about Population Means: Hypothesis Testing |  |  |  | [✍️ HW3](/hw/hw-3.html "Homework 3") | [✅](present-description.html#materials "Midterm presentation 1") Materials Due |
+| 9 | Mon, Oct 20 | Comparing Two Population Means |  |  |  |  |  |
+|  | Wed, Oct 22 | Comparing Two Population Means |  |  |  |  |  |
+| 10 | Mon, Oct 27 | Inference about Population Variances | [📖](/weeks/week-10.html "Week 10") |  |  |  |  |
+|  | Wed, Oct 29 | Inference about Population Variances |  | [🖥️](slides/11-knn.html "11-knn") | [`r fontawesome::fa("file-code")`](code/11-knn-code.html "11-knn-code") |  |  |
+| 11 | Mon, Nov 3 | Analysis of Variance (ANOVA) | [📖](/weeks/week-11.html "Week 11") | [🖥️](slides/12-gp.html "12-gp") |  |  |  |
+|  | Wed, Nov 5 | Analysis of Variance (ANOVA) |  |  | [`r fontawesome::fa("file-code")`](code/12-gp-code.html "12-gp-code") |  |  |
+| 12 | Mon, Nov 10 | **Exam 2** | [📖](/weeks/week-12.html "Week 11") | [🖥️](slides/13-svm.html "13-svm") |  |  |  |
+|  | Wed, Nov 12 | Multiple Comparisons |  |  | [`r fontawesome::fa("file-code")`](code/13-svm-code.html "13-svm-code") | HW 3 Due |  |
+| 13 | Mon, Nov 17 | Correlation | [📖](/weeks/week-13.html "Week 13") | [🖥️](slides/14-tree.html "14-tree") |  |  | Proposal-2 Due |
+|  | Wed, Nov 19 | Simple Linear Regression |  |  | [`r fontawesome::fa("file-code")`](code/14-tree-code.html "14-tree-code") | [✍️ HW4](/hw/hw-4.html "hw-4") |  |
+| 14 | Mon, Nov 24 | Simple Linear Regression | [📖](present-work-2.html "present-work-2") |  |  |  | [✅](present-description-2.html#proposal "Presentation II Guideline") Project-2 Guideline |
+|  | Wed, Nov 26 | ***NO CLASS: Thanksgiving*** |  |  |  |  |  |
+| 15 | Mon, Dec 1 | Inference for Categorical Data | [📖](/weeks/week-15.html "Week 15") | [🖥️](slides/15-pca.html "15-pca") | [`r fontawesome::fa("file-code")`](code/15-pca-code.html "15-pca-code") |  |  |
+|  | Wed, Dec 3 | Inference for Categorical Data |  |  |  |  |  |
+| 16 | **Wed**, **Dec 10** | **Final Exam (Sec101-2PM)** |  |  |  | HW 4 Due |  |
+|  | **Fri, Dec 12** | **Final Exam (Sec102-3:30PM)** |  |  |  |  | [✅](project-description.html "Final project guideline") Final project guideline |
 :::
 
 I reserve the right to make changes to the schedule.
