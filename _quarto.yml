@@ -19,10 +19,10 @@ website:
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2025, Cheng-Han Yu"
-    background: "#fab9a2"
+    background: "#c0cfb2"
 
   sidebar:
-    background: "#fab9a2"
+    background: "#c0cfb2"
     logo: "/images/logo.png"
     pinned: true
     align: center

@@ -1,5 +1,5 @@
 ---
-title: "MSSC 6250 - Statistical Machine Learning (Spring 2025)"
+title: "MATH 4720 (MSSC 5720) - Statistical Methods (Fall 2025)"
 tbl-colwidths: [5,8,20,6,6,6,6]
 format:
   html
