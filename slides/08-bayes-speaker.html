@@ -11,7 +11,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.4.551">
 <meta name="author" content="Dr.&nbsp;Cheng-Han Yu   Department of Mathematical and Statistical Sciences   Marquette University">
-<title>MSSC 6250 - Spring 2025 - Bayesian Inference and Linear Regression r fontawesome::fa("scale-unbalanced")</title>
+<title>MATH 4720 (MSSC 5720) - Fall 2025 - Bayesian Inference and Linear Regression r fontawesome::fa("scale-unbalanced")</title>
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -385,9 +385,9 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="MSSC 6250 - Spring 2025 - Bayesian Inference and Linear Regression r fontawesome::fa(&quot;scale-unbalanced&quot;)">
+<meta property="og:title" content="MATH 4720 (MSSC 5720) - Fall 2025 - Bayesian Inference and Linear Regression r fontawesome::fa(&quot;scale-unbalanced&quot;)">
 <meta property="og:description" content="MSSC 6250 Statistical Machine Learning">
-<meta property="og:site_name" content="MSSC 6250 - Spring 2025">
+<meta property="og:site_name" content="MATH 4720 (MSSC 5720) - Fall 2025">
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -1440,7 +1440,7 @@ $ temp_feel &lt;dbl&gt; 64.7, 49.0, 51.1, 52.6, 50.8, 46.6, 45.6, 49.2, 46.4, 45
 <code>rstanarm</code> uses <a href="http://mc-stan.org/rstan/">RStan</a> syntax<sup>1</sup> to do Bayesian inference for <em>applied regression models</em> (arm).</li>
 </ul>
 <div class="cell" data-layout-align="center">
-<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="va">bike_model</span> <span class="op">&lt;-</span> <span class="fu">rstanarm</span><span class="fu">::</span><span class="fu"><a href="https://mc-stan.org/rstanarm/reference/stan_glm.html">stan_glm</a></span><span class="op">(</span><span class="va">rides</span> <span class="op">~</span> <span class="va">temp_feel</span>, data <span class="op">=</span> <span class="va">bikes</span>,</span>
+<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="va">bike_model</span> <span class="op">&lt;-</span> <span class="fu">rstanarm</span><span class="fu">::</span><span class="fu">stan_glm</span><span class="op">(</span><span class="va">rides</span> <span class="op">~</span> <span class="va">temp_feel</span>, data <span class="op">=</span> <span class="va">bikes</span>,</span>
 <span>                                 family <span class="op">=</span> <span class="va">gaussian</span>,</span>
 <span>                                 prior_intercept <span class="op">=</span> <span class="fu">normal</span><span class="op">(</span><span class="fl">5000</span>, <span class="fl">1000</span><span class="op">)</span>,</span>
 <span>                                 prior <span class="op">=</span> <span class="fu">normal</span><span class="op">(</span><span class="fl">100</span>, <span class="fl">40</span><span class="op">)</span>, </span>
@@ -1456,7 +1456,7 @@ $ temp_feel &lt;dbl&gt; 64.7, 49.0, 51.1, 52.6, 50.8, 46.6, 45.6, 49.2, 46.4, 45
 <aside><ol class="aside-footnotes"><li id="fn1"><p>RStan is the R interface to <a href="https://mc-stan.org/">Stan</a>.</p></li></ol></aside></section><section id="convergence-diagnostics" class="slide level2"><h2>Convergence Diagnostics</h2>
 <div class="cell" data-layout-align="center">
 <div class="sourceCode" id="cb6"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># Trace plots of parallel chains</span></span>
-<span><span class="fu">bayesplot</span><span class="fu">::</span><span class="fu"><a href="https://mc-stan.org/bayesplot/reference/MCMC-traces.html">mcmc_trace</a></span><span class="op">(</span><span class="va">bike_model</span>, size <span class="op">=</span> <span class="fl">0.1</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span><span class="fu">bayesplot</span><span class="fu">::</span><span class="fu">mcmc_trace</span><span class="op">(</span><span class="va">bike_model</span>, size <span class="op">=</span> <span class="fl">0.1</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 </div>
 <img data-src="images/08-bayes/unnamed-chunk-35-1.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section><section id="convergence-diagnostics-1" class="slide level2"><h2>Convergence Diagnostics</h2>
@@ -1475,7 +1475,7 @@ $ temp_feel &lt;dbl&gt; 64.7, 49.0, 51.1, 52.6, 50.8, 46.6, 45.6, 49.2, 46.4, 45
 <img data-src="./images/08-bayes/metropolis_hastings_animation.gif" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section><section id="convergence-diagnostics-3" class="slide level2"><h2>Convergence Diagnostics</h2>
 <div class="cell" data-layout-align="center">
 <div class="sourceCode" id="cb7"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># Density plots of parallel chains</span></span>
-<span><span class="fu">bayesplot</span><span class="fu">::</span><span class="fu"><a href="https://mc-stan.org/bayesplot/reference/MCMC-distributions.html">mcmc_dens_overlay</a></span><span class="op">(</span><span class="va">bike_model</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span><span class="fu">bayesplot</span><span class="fu">::</span><span class="fu">mcmc_dens_overlay</span><span class="op">(</span><span class="va">bike_model</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 </div>
 <img data-src="images/08-bayes/unnamed-chunk-38-1.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"><aside class="notes"><ul>
@@ -1494,13 +1494,13 @@ $ temp_feel &lt;dbl&gt; 64.7, 49.0, 51.1, 52.6, 50.8, 46.6, 45.6, 49.2, 46.4, 45
       }</style></aside></section><section id="convergence-diagnostics-4" class="slide level2"><h2>Convergence Diagnostics</h2>
 <div class="cell" data-layout-align="center">
 <div class="sourceCode" id="cb8"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># Effective sample size ratio</span></span>
-<span><span class="fu">bayesplot</span><span class="fu">::</span><span class="fu"><a href="https://mc-stan.org/bayesplot/reference/bayesplot-extractors.html">neff_ratio</a></span><span class="op">(</span><span class="va">bike_model</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span><span class="fu">bayesplot</span><span class="fu">::</span><span class="fu">neff_ratio</span><span class="op">(</span><span class="va">bike_model</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>(Intercept)   temp_feel       sigma 
       0.995       0.992       0.950 </code></pre>
 </div>
 <div class="sourceCode" id="cb10"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># Rhat</span></span>
-<span><span class="fu">bayesplot</span><span class="fu">::</span><span class="fu"><a href="https://mc-stan.org/bayesplot/reference/bayesplot-extractors.html">rhat</a></span><span class="op">(</span><span class="va">bike_model</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span><span class="fu">bayesplot</span><span class="fu">::</span><span class="fu">rhat</span><span class="op">(</span><span class="va">bike_model</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>(Intercept)   temp_feel       sigma 
           1           1           1 </code></pre>
@@ -1988,7 +1988,7 @@ $ temp_feel &lt;dbl&gt; 64.7, 49.0, 51.1, 52.6, 50.8, 46.6, 45.6, 49.2, 46.4, 45
       });
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp("https:\/\/mssc6250-s25\.github\.io\/website\/");
+          var filterRegex = new RegExp("https:\/\/math4720-f25\.github\.io\/website\/");
         var isInternal = (href) => {
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
