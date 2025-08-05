@@ -1,5 +1,9 @@
 ---
-title: "Homework 1 - Bias-Variance Tradeoff and Linear Regression"
+title: Homework 1
+subtitle: Bias-Variance Tradeoff and Linear Regression
+categories: Homework
+description: "Due Friday, Feb 14, 11:59 PM"
+draft: false
 editor: source
 ---
 
@@ -27,9 +31,9 @@ editor: source
 :::
 
 
-::: callout-important
-[Due **Friday, Feb 14, 11:59 PM**]{.red}
-:::
+<!-- ::: callout-important -->
+<!-- [Due **Friday, Feb 14, 11:59 PM**]{.red} -->
+<!-- ::: -->
 <!-- # Homework Instruction and Requirement -->
 - Please submit your work in **one** **PDF** file to **D2L \> Assessments \> Dropbox**. *Multiple files or a file that is not in pdf format are not allowed.*
 

@@ -1,0 +1,28 @@
+institute: "Marquette University <br> STA 199 - Fall 2025"
+author: "Dr. Cheng-Han Yu"
+date-format: long
+format:
+  live-revealjs:
+    footer: "[🔗 math4720-f25.github.io/website/](https://math4720-f25.github.io/website/)"
+    theme: slides.scss
+    transition: fade
+    slide-number: true
+    logo: "images/logo.png"
+    toc: false
+    webr:
+      cell-options:
+        autorun: false
+  live-html:
+    code-link: true
+    webr:
+      cell-options:
+        autorun: true
+engine: knitr
+highlight-style: a11y-light
+execute:
+  echo: true
+  warning: true
+knitr:
+  opts_chunk:
+    R.options:
+      width: 70
