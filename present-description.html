@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.4.551">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-
 <meta name="author" content="Dr.&nbsp;Cheng-Han Yu">
-
 <title>MATH 4720 (MSSC 5720) - Fall 2025 - Midterm Presentation I - Regression</title>
 <style>
 code{white-space: pre-wrap;}
@@ -22,7 +19,6 @@ ul.task-list li input[type="checkbox"] {
   vertical-align: middle;
 }
 </style>
-
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
@@ -42,8 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script id="quarto-search-options" type="application/json">{
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark"><script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
   "collapse-after": 3,
@@ -70,19 +65,14 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-
-
 <meta property="og:title" content="MATH 4720 (MSSC 5720) - Fall 2025 - Midterm Presentation I - Regression">
 <meta property="og:description" content="MSSC 6250 Machine Learning, Spring 2025">
 <meta property="og:site_name" content="MATH 4720 (MSSC 5720) - Fall 2025">
 </head>
-
 <body class="nav-sidebar docked">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
+  <header id="quarto-header" class="headroom fixed-top"><nav class="quarto-secondary-nav"><div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
@@ -93,16 +83,11 @@ ul.task-list li input[type="checkbox"] {
         <i class="bi bi-search"></i>
       </button>
     </div>
-  </nav>
-</header>
-<!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+  </nav></header><!-- content --><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto"><div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
-      <img src="./images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
-      </a>
+      <img src="./images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none"></a>
       <div class="sidebar-tools-main tools-wide">
     <a href="https://github.com/math4720-f25/website" title="GitHub organization" class="quarto-navigation-tool px-1" aria-label="GitHub organization"><i class="bi bi-github"></i></a>
     <a href="https://d2l.mu.edu/d2l/home/589421" title="D2L" class="quarto-navigation-tool px-1" aria-label="D2L"><i class="bi bi-person-fill"></i></a>
@@ -116,22 +101,16 @@ ul.task-list li input[type="checkbox"] {
         </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
+<li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
  <span class="menu-text">Course Information</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./course-news.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">News/Annoucements</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">
+<li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./course-overview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Overview</span></a>
@@ -150,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </li>
       </ul>
-  </li>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
@@ -159,8 +138,8 @@ ul.task-list li input[type="checkbox"] {
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">
+<li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./present-description.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Guideline and Policy</span></a>
@@ -173,17 +152,17 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </li>
       </ul>
-  </li>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">
  <span class="menu-text">Midterm Project II</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">
+<li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./present-description-2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Guideline and Policy</span></a>
@@ -196,17 +175,17 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </li>
       </ul>
-  </li>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">
  <span class="menu-text">Final Project</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">
+<li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./project-description.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Guideline and Policy</span></a>
@@ -219,149 +198,48 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </li>
       </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">
- <span class="menu-text">Weekly Materials</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
+</li>
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./weeks/week-1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 1</span></a>
+  <a href="./hw.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Homework</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 2</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-3.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 3</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 4</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-5.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 5</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-6.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 6</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-7.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 7</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-8.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 8</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-9.qmd" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 9</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-10.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 10</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-11.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 11</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-12.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 12</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-13.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 13</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-14.qmd" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 14</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-15.qmd" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 15</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weeks/week-16.qmd" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 16</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
     </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+</div>
+</nav><div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+        <nav id="TOC" role="doc-toc" class="toc-active"><h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#timeline-and-things-to-do" id="toc-timeline-and-things-to-do" class="nav-link active" data-scroll-target="#timeline-and-things-to-do">Timeline and Things to Do</a></li>
-  <li><a href="#policy" id="toc-policy" class="nav-link" data-scroll-target="#policy">Policy</a>
+<li><a href="#timeline-and-things-to-do" id="toc-timeline-and-things-to-do" class="nav-link active" data-scroll-target="#timeline-and-things-to-do">Timeline and Things to Do</a></li>
+  <li>
+<a href="#policy" id="toc-policy" class="nav-link" data-scroll-target="#policy">Policy</a>
   <ul class="collapse">
-  <li><a href="#team-up" id="toc-team-up" class="nav-link" data-scroll-target="#team-up"><strong>Team up!</strong></a></li>
+<li><a href="#team-up" id="toc-team-up" class="nav-link" data-scroll-target="#team-up"><strong>Team up!</strong></a></li>
   <li><a href="#proposal" id="toc-proposal" class="nav-link" data-scroll-target="#proposal"><strong>Proposal</strong></a></li>
   <li><a href="#presentation" id="toc-presentation" class="nav-link" data-scroll-target="#presentation"><strong>Presentation</strong></a></li>
   <li><a href="#materials" id="toc-materials" class="nav-link" data-scroll-target="#materials"><strong>Materials</strong></a></li>
-  </ul></li>
-  <li><a href="#project-content" id="toc-project-content" class="nav-link" data-scroll-target="#project-content">Project Content</a>
-  <ul class="collapse">
-  <li><a href="#data-analytics" id="toc-data-analytics" class="nav-link" data-scroll-target="#data-analytics">Data Analytics</a></li>
-  <li><a href="#modelalgorithm" id="toc-modelalgorithm" class="nav-link" data-scroll-target="#modelalgorithm">Model/Algorithm</a></li>
-  </ul></li>
-  <li><a href="#sec-grading" id="toc-sec-grading" class="nav-link" data-scroll-target="#sec-grading">Project Evaluation and Grading</a>
-  <ul class="collapse">
-  <li><a href="#group-performance-evaluation" id="toc-group-performance-evaluation" class="nav-link" data-scroll-target="#group-performance-evaluation">Group Performance Evaluation</a></li>
-  </ul></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/present-description.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+</li>
+  <li>
+<a href="#project-content" id="toc-project-content" class="nav-link" data-scroll-target="#project-content">Project Content</a>
+  <ul class="collapse">
+<li><a href="#data-analytics" id="toc-data-analytics" class="nav-link" data-scroll-target="#data-analytics">Data Analytics</a></li>
+  <li><a href="#modelalgorithm" id="toc-modelalgorithm" class="nav-link" data-scroll-target="#modelalgorithm">Model/Algorithm</a></li>
+  </ul>
+</li>
+  <li>
+<a href="#sec-grading" id="toc-sec-grading" class="nav-link" data-scroll-target="#sec-grading">Project Evaluation and Grading</a>
+  <ul class="collapse">
+<li><a href="#group-performance-evaluation" id="toc-group-performance-evaluation" class="nav-link" data-scroll-target="#group-performance-evaluation">Group Performance Evaluation</a></li>
+  </ul>
+</li>
+  </ul><div class="toc-actions"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/present-description.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./present-description.html">Midterm Project I</a></li><li class="breadcrumb-item"><a href="./present-description.html">Guideline and Policy</a></li></ol></nav>
-<div class="quarto-title">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./present-description.html">Midterm Project I</a></li><li class="breadcrumb-item"><a href="./present-description.html">Guideline and Policy</a></li></ol></nav><div class="quarto-title">
 <h1 class="title">Midterm Presentation I - Regression</h1>
 <p class="subtitle lead">MSSC 6250 Machine Learning, Spring 2025</p>
 </div>
@@ -381,7 +259,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">August 3, 2025</p>
+      <p class="date-modified">August 5, 2025</p>
     </div>
   </div>
     
@@ -389,65 +267,46 @@ ul.task-list li input[type="checkbox"] {
   
 
 
-</header>
-
-
-<section id="timeline-and-things-to-do" class="level1">
-<h1>Timeline and Things to Do</h1>
+</header><section id="timeline-and-things-to-do" class="level1"><h1>Timeline and Things to Do</h1>
 <ul>
 <li><p><del><strong>Team up!</strong> You will be working as <strong>a group of 3</strong>. One of you, please email me your team <span class="blue"><strong>member list</strong></span> by <span class="red"><strong>Friday, 2/21 11:59 PM</strong></span></del></p></li>
 <li><p><del><strong>Proposal</strong>. Please send me a <span class="blue"><strong>one-page PDF</strong></span> describing what you are going to do for your project (no word limit) with your <strong>project title</strong> by <span class="red"><strong>Friday, 2/28 11:59 PM</strong></span>.</del></p></li>
 <li><p><strong>Presentation</strong>. You will be presenting your project on <span class="red"><strong>Thursday, 3/6 in class</strong></span>.</p></li>
 <li><p><strong>Materials</strong>. Please share your <span class="blue"><strong>entire work</strong></span> (slides, code, data, etc) by <span class="red"><strong>Friday, 3/7 11:59 PM</strong></span>.</p></li>
-</ul>
-</section>
-<section id="policy" class="level1">
-<h1>Policy</h1>
-<section id="team-up" class="level2">
-<h2 class="anchored" data-anchor-id="team-up"><strong>Team up!</strong></h2>
+</ul></section><section id="policy" class="level1"><h1>Policy</h1>
+<section id="team-up" class="level2"><h2 class="anchored" data-anchor-id="team-up"><strong>Team up!</strong></h2>
 <ul>
 <li><p><em>Each one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.</em></p></li>
 <li><p>You will be <em>randomly</em> assigned to a group if you do not belong to any group before the deadline.</p></li>
-</ul>
-</section>
-<section id="proposal" class="level2">
-<h2 class="anchored" data-anchor-id="proposal"><strong>Proposal</strong></h2>
+</ul></section><section id="proposal" class="level2"><h2 class="anchored" data-anchor-id="proposal"><strong>Proposal</strong></h2>
 <ul>
 <li><p><em>Each one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.</em></p></li>
-<li><p>Your proposal (in PDF) should include three parts:</p>
+<li>
+<p>Your proposal (in PDF) should include three parts:</p>
 <ul>
 <li><strong>Project title</strong></li>
-<li><strong>The goal of your project</strong>. For example, what is the research question you’d like to answer? What machine learning method/model/algorithm you’d like to introduce? What data you’d like to use for analysis or demonstration? etc.</li>
-</ul></li>
-<li><p>Although it is risky, you can change your project topic after you submit your proposal if you decide to do something else.</p></li>
+<li>
+<strong>The goal of your project</strong>. For example, what is the research question you’d like to answer? What machine learning method/model/algorithm you’d like to introduce? What data you’d like to use for analysis or demonstration? etc.</li>
 </ul>
-</section>
-<section id="presentation" class="level2">
-<h2 class="anchored" data-anchor-id="presentation"><strong>Presentation</strong></h2>
+</li>
+<li><p>Although it is risky, you can change your project topic after you submit your proposal if you decide to do something else.</p></li>
+</ul></section><section id="presentation" class="level2"><h2 class="anchored" data-anchor-id="presentation"><strong>Presentation</strong></h2>
 <ul>
 <li><p>Each group presentation should be between <strong>10 and 11 minute</strong> long, followed by <strong>1 to 2 minute</strong> Q&amp;A. If your presentation is too short or too long, <em>every one of you loses 5 points</em> of your project grade.</p></li>
 <li><p>Every group member has to present some part of the group work. <strong>The one who does not present receives no point</strong>.</p></li>
 <li><p>Questions are encouraged during Q&amp;A. Everyone is welcome to ask any questions about the projects.</p></li>
-</ul>
-</section>
-<section id="materials" class="level2">
-<h2 class="anchored" data-anchor-id="materials"><strong>Materials</strong></h2>
+</ul></section><section id="materials" class="level2"><h2 class="anchored" data-anchor-id="materials"><strong>Materials</strong></h2>
 <ul>
 <li><p><em>Each one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.</em></p></li>
 <li><p>You need to share your entire work, including slides, code, and data if applicable.</p></li>
 <li><p>Your code should be able to <strong>reproduce all the numerical results, outputs, tables, and figures shown in the slides</strong>, including the source of the raw data (where you find and load the data) if the project is about data analysis.</p></li>
-</ul>
-</section>
-</section>
-<section id="project-content" class="level1">
-<h1>Project Content</h1>
+</ul></section></section><section id="project-content" class="level1"><h1>Project Content</h1>
 <p>Your project can be in either of the following categories:</p>
 <ol type="1">
 <li><p><strong>(DA)</strong> Data analytics using one or more <strong>REGRESSION</strong> methods.</p></li>
 <li><p><strong>(MA)</strong> Introduce a new <strong>REGRESSION</strong> model/method/algorithm not lectured in class.</p></li>
 </ol>
-<section id="data-analytics" class="level2">
-<h2 class="anchored" data-anchor-id="data-analytics">Data Analytics</h2>
+<section id="data-analytics" class="level2"><h2 class="anchored" data-anchor-id="data-analytics">Data Analytics</h2>
 <p>For your DA project, you need to</p>
 <ul>
 <li><p>Describe the selected data set.</p></li>
@@ -462,21 +321,14 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://dataverse.harvard.edu/">Harvard Dataverse</a></li>
 <li><a href="https://archive.ics.uci.edu/ml/index.php">UCI Machine Learning Repository</a></li>
 <li><a href="https://data.fivethirtyeight.com/">FiveThirtyEight</a></li>
-</ul>
-</section>
-<section id="modelalgorithm" class="level2">
-<h2 class="anchored" data-anchor-id="modelalgorithm">Model/Algorithm</h2>
+</ul></section><section id="modelalgorithm" class="level2"><h2 class="anchored" data-anchor-id="modelalgorithm">Model/Algorithm</h2>
 <p>For your MA project, you need to</p>
 <ul>
 <li><p>Describe the intuition and idea of the method. What are the pros and cons of the method?</p></li>
 <li><p>Provide the mathematical expression of the model/algorithm. Explain the model and its properties, and how we do supervised learning with the model/algorithm.</p></li>
 <li><p>Compare the chosen method with other methods learned in class. Determine which method performs better under what conditions.</p></li>
 <li><p>Demo how to implement the method using a programming language for supervised learning.</p></li>
-</ul>
-</section>
-</section>
-<section id="sec-grading" class="level1">
-<h1>Project Evaluation and Grading</h1>
+</ul></section></section><section id="sec-grading" class="level1"><h1>Project Evaluation and Grading</h1>
 <ul>
 <li><p>Your project performance grade is <em>determined by <strong>your classmates and Dr.&nbsp;Yu</strong></em>.</p></li>
 <li><p>Table 1 shows your possible performance grade. For example, if your group finish in second place (Silver) you get 145 points.</p></li>
@@ -489,12 +341,10 @@ ul.task-list li input[type="checkbox"] {
 <div class="cell-output-display">
 <table class="table table-sm table-striped small">
 <caption>Performance Grade Sheet</caption>
-<thead>
-<tr class="header">
+<thead><tr class="header">
 <th style="text-align: left;"></th>
 <th style="text-align: center;">Performace Grade 🎖</th>
-</tr>
-</thead>
+</tr></thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">Gold 🥇 1st</td>
@@ -516,66 +366,73 @@ ul.task-list li input[type="checkbox"] {
 </table>
 </div>
 </div>
-<section id="group-performance-evaluation" class="level2">
-<h2 class="anchored" data-anchor-id="group-performance-evaluation">Group Performance Evaluation</h2>
+<section id="group-performance-evaluation" class="level2"><h2 class="anchored" data-anchor-id="group-performance-evaluation">Group Performance Evaluation</h2>
 <ul>
 <li><p>You will need to <strong>evaluate all group projects except the one you work on</strong>.</p></li>
-<li><p>You evaluate group performance based on the rubric attached. Four evaluation criteria are considered:</p>
+<li>
+<p>You evaluate group performance based on the rubric attached. Four evaluation criteria are considered:</p>
 <ul>
 <li><strong>Project Content and Organization (8 pts)</strong></li>
 <li><strong>Presentation Material (Slides) Quality (4 pts)</strong></li>
 <li><strong>Oral Presentation Skill and Delivery (4 pts)</strong></li>
 <li><strong>Interactions and Q&amp;A (4 pts)</strong></li>
-</ul></li>
+</ul>
+</li>
 <li><p>The total points of a project presentation is <strong>20</strong> points.</p></li>
 <li><p>Evaluation sheets will be provided on the presentation day.</p></li>
 </ul>
 <p>How do you get the full points for each category? Check the rubric below. <!-- Note that for Content and Organization, data analysis and package projects have different requirements. --></p>
 <ul>
-<li><p><strong>Content and Organization (DA)</strong></p>
+<li>
+<p><strong>Content and Organization (DA)</strong></p>
 <ul>
 <li>Beautiful visualization helps find out relationship of variables and specification of models</li>
 <li>All questions are answered accurately by the models</li>
 <li>Discuss how and why the models are chosen</li>
 <li>Apply sophisticated models and detailed analysis</li>
 <li>All ideas are presented in logical order</li>
-</ul></li>
-<li><p><strong>Content and Organization (MA)</strong></p>
+</ul>
+</li>
+<li>
+<p><strong>Content and Organization (MA)</strong></p>
 <ul>
 <li>Explain the method clearly and accuratly</li>
 <li>Show the pros and cons of the method, and compare with the methods learned in class.</li>
 <li>Show how the method can be implemednted for supervised learning.</li>
 <li>All ideas are presented in logical order</li>
-</ul></li>
-<li><p><strong>Presentation Material Quality</strong></p>
+</ul>
+</li>
+<li>
+<p><strong>Presentation Material Quality</strong></p>
 <ul>
 <li>Presentation material show code and output beautifully</li>
 <li>Presentation material clearly aid the speaker in telling a coherent story</li>
 <li>All tables and graphics are informative and related to the topic and make it easier to understand</li>
 <li>Attractive design, layout, and neatness.</li>
-</ul></li>
-<li><p><strong>Oral Presentation Skill</strong></p>
+</ul>
+</li>
+<li>
+<p><strong>Oral Presentation Skill</strong></p>
 <ul>
 <li>Good volume and energy</li>
 <li>Proper pace and diction</li>
 <li>Avoidance of distracting gestures</li>
-</ul></li>
-<li><p><strong>Interactions and Q&amp;A</strong></p>
+</ul>
+</li>
+<li>
+<p><strong>Interactions and Q&amp;A</strong></p>
 <ul>
 <li>Good eye contact with audience</li>
 <li>Excellent listening skills</li>
 <li>Answers audience questions with authority and accuracy</li>
-</ul></li>
+</ul>
+</li>
 <li><p>After you evaluate all group project presentations, you rank them from 1st to last based on their earned points.</p></li>
 <li><p><strong>No two groups receive the same ranking</strong>. If you give two or more groups some points, you still need to give them a different ranking, deciding which team deserves a higher ranking according to your preference.</p></li>
 </ul>
 
 
-</section>
-</section>
-
-</main> <!-- /main -->
-<script id="quarto-html-after-body" type="application/javascript">
+</section></section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");
@@ -1127,9 +984,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
 });
-</script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
+</script><nav class="page-navigation"><div class="nav-page nav-page-previous">
       <a href="./course-syllabus.html" class="pagination-link" aria-label="Syllabus">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Syllabus</span>
       </a>          
@@ -1141,8 +996,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
+<footer class="footer"><div class="nav-footer">
     <div class="nav-footer-left">
 <p>© Copyright 2025, Cheng-Han Yu</p>
 </div>   
@@ -1154,8 +1008,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
-
-
 
 
 </body></html>
