@@ -1,12 +1,12 @@
 ---
 title: "Welcome Aboard `r emo::ji('raised_hands')`"
 title-slide-attributes:
-  data-background-image: ../images/bg.png
+  data-background-image: ./images/bg.png
   # data-background-size: stretch
   # data-slide-number: none
 format: 
   live-revealjs: 
-    output-file: 01-syllabus.html
+    output-file: 01-syllabus-slides.html
 webr:
   cell-options:
     autorun: false

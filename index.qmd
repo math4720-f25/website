@@ -12,7 +12,7 @@ format:
 ::: column-screen-inset-right
 | Week | Date | Topic | Slides | Reading | Code | Homework | Quiz | Project |
 |:------:|--------|--------|:------:|:------:|:------:|:------:|:------:|:------:|
-| 1 | Mon, Aug 25 | Syllabus/Overview of Statistics | 🖥️🖥️ |  |  |  |  |  |
+| 1 | Mon, Aug 25 | Syllabus/Overview of Statistics | [🖥️ syllabus](/slides/01-syllabus-slides.html)🖥️ |  |  |  |  |  |
 |  | Wed, Aug 27 | Statistical Studies and Data Collection; Data Type | 🖥️ |  |  |  |  |  |
 | 2 | Mon, Sep 1 | ***NO CLASS: Labor Day*** | 🖥️ |  |  |  |  |  |
 |  | Wed, Sep 3 | R Software and Computation |  |  | `r fontawesome::fa("file-code")` |  |  |  |
