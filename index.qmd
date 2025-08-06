@@ -1,6 +1,6 @@
 ---
 title: "MATH 4720 (MSSC 5720) Statistical Methods Fall 2025"
-tbl-colwidths: [5,8,20,10,6,6,6,6]
+tbl-colwidths: [5,8,20,10,6,6,6,6,6]
 format:
   html
 ---
@@ -10,40 +10,40 @@ format:
 *This schedule will be updated as the semester progresses, with all changes documented here.*
 
 ::: column-screen-inset-right
-| Week | Date | Topic | Studying | Code | Homework | Quiz | Project |
-|:------:|--------|--------|:------:|:------:|:------:|:------:|:------:|
-| 1 | Mon, Aug 25 | Syllabus/Overview of Statistics | [🖥️](slides/01-syllabus.html "Syllabus")[🖥️](slides/02-overview.html "Overview") |  |  |  |  |
-|  | Wed, Aug 27 | Statistical Studies and Data Collection; Data Type | [🖥️](slides/03-bias-var.html "bias-var-tradeoff") |  |  |  |  |
-| 2 | Mon, Sep 1 | ***NO CLASS: Labor Day*** | [🖥️](slides/04-lin-reg.html "Linear regression") |  |  |  |  |
-|  | Wed, Sep 3 | R Software and Computation |  | [`r fontawesome::fa("file-code")`](code/04-linear-reg-code.html "04-linear-reg-code") |  |  |  |
-| 3 | Mon, Sep 8 | Summarizing Data: Centrality |  |  | [✍️ HW1](/hw/hw-1.html "Homework 1") |  |  |
-|  | Wed, Sep 10 | Summarizing Data: Variation | [🖥️](slides/05-ridge-cv.html "Ridge regression and cross validation") | [`r fontawesome::fa("file-code")`](code/05-ridge-cv-code.html "05-ridge-cv-code") |  |  |  |
-| 4 | Mon, Sep 15 | Probability Fundamentals | [🖥️](slides/06-lasso-vs.html "06-lasso-vs") | [`r fontawesome::fa("file-code")`](code/06-lasso-vs-code.html "06-lasso-vs-code") |  |  |  |
-|  | Wed, Sep 17 | Random Variables |  |  |  |  |  |
-| 5 | Mon, Sep 22 | DiscreteProbability Distributions | [🖥️](slides/07-splines.html "07-splines") | [`r fontawesome::fa("file-code")`](code/07-splines-code.html "07-splines-code") |  |  |  |
-|  | Wed, Sep 24 | Continuous Probability Distributions |  |  | HW 1 Due |  |  |
-| 6 | Mon, Sep 29 | Sampling Distributions | [🖥️](slides/08-bayes.html "08-bayes") | [`r fontawesome::fa("file-code")`](code/08-bayes-code.html "08-bayes-code") | [✍️ HW2](/hw/hw-2.html "Homework 2") |  |  |
-|  | Wed, Oct 1 | Central Limit Theorem |  |  |  |  | [✅](present-description.html#timeline-and-things-to-do "Midterm presentation 1") Team up Due |
-| 7 | Mon, Oct 6 | **Exam 1** | [🖥️](slides/09-class-glm.html "09-class-glm") | [`r fontawesome::fa("file-code")`](code/09-class-glm-code.html "09-class-glm-code") |  |  |  |
-|  | Wed, Oct 8 | Inference about Population Means: Confidence Intervals |  |  | HW 2 Due |  | [✅](present-description.html#proposal "Midterm presentation 1") Proposal Due |
-| 8 | Mon, Oct 13 | Inference about Population Means: Hypothesis Testing | [🖥️](slides/10-generative.html "10-generative") | [`r fontawesome::fa("file-code")`](code/10-generative-code.html "10-generative-code") |  |  |  |
-|  | Wed, Oct 15 | Inference about Population Means: Hypothesis Testing |  |  | [✍️ HW3](/hw/hw-3.html "Homework 3") |  | [✅](present-description.html#materials "Midterm presentation 1") Materials Due |
-| 9 | Mon, Oct 20 | Comparing Two Population Means |  |  |  |  |  |
-|  | Wed, Oct 22 | Comparing Two Population Means |  |  |  |  |  |
-| 10 | Mon, Oct 27 | Inference about Population Variances |  |  |  |  |  |
-|  | Wed, Oct 29 | Inference about Population Variances | [🖥️](slides/11-knn.html "11-knn") | [`r fontawesome::fa("file-code")`](code/11-knn-code.html "11-knn-code") |  |  |  |
-| 11 | Mon, Nov 3 | Analysis of Variance (ANOVA) | [🖥️](slides/12-gp.html "12-gp") |  |  |  |  |
-|  | Wed, Nov 5 | Analysis of Variance (ANOVA) |  | [`r fontawesome::fa("file-code")`](code/12-gp-code.html "12-gp-code") |  |  |  |
-| 12 | Mon, Nov 10 | **Exam 2** | [🖥️](slides/13-svm.html "13-svm") |  |  |  |  |
-|  | Wed, Nov 12 | Multiple Comparisons |  | [`r fontawesome::fa("file-code")`](code/13-svm-code.html "13-svm-code") | HW 3 Due |  |  |
-| 13 | Mon, Nov 17 | Correlation | [🖥️](slides/14-tree.html "14-tree") |  |  |  | Proposal-2 Due |
-|  | Wed, Nov 19 | Simple Linear Regression |  | [`r fontawesome::fa("file-code")`](code/14-tree-code.html "14-tree-code") | [✍️ HW4](/hw/hw-4.html "hw-4") |  |  |
-| 14 | Mon, Nov 24 | Simple Linear Regression |  |  |  |  | [✅](present-description-2.html#proposal "Presentation II Guideline") Project-2 Guideline |
-|  | Wed, Nov 26 | ***NO CLASS: Thanksgiving*** |  |  |  |  |  |
-| 15 | Mon, Dec 1 | Inference for Categorical Data | [🖥️](slides/15-pca.html "15-pca") | [`r fontawesome::fa("file-code")`](code/15-pca-code.html "15-pca-code") |  |  |  |
-|  | Wed, Dec 3 | Inference for Categorical Data |  |  |  |  |  |
-| 16 | **Wed**, **Dec 10** | **Final Exam (Sec101-2PM)** |  |  | HW 4 Due |  |  |
-|  | **Fri, Dec 12** | **Final Exam (Sec102-3:30PM)** |  |  |  |  | [✅](project-description.html "Final project guideline") Final project guideline |
+| Week | Date | Topic | Slides | Reading | Code | Homework | Quiz | Project |
+|:-------:|---------|---------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| 1 | Mon, Aug 25 | Syllabus/Overview of Statistics | [🖥️](slides/01-syllabus.html "Syllabus")[🖥️](slides/02-overview.html "Overview") |  |  |  |  |  |
+|  | Wed, Aug 27 | Statistical Studies and Data Collection; Data Type | [🖥️](slides/03-bias-var.html "bias-var-tradeoff") |  |  |  |  |  |
+| 2 | Mon, Sep 1 | ***NO CLASS: Labor Day*** | [🖥️](slides/04-lin-reg.html "Linear regression") |  |  |  |  |  |
+|  | Wed, Sep 3 | R Software and Computation |  |  | [`r fontawesome::fa("file-code")`](code/04-linear-reg-code.html "04-linear-reg-code") |  |  |  |
+| 3 | Mon, Sep 8 | Summarizing Data: Centrality |  |  |  | [✍️ HW1](/hw/hw-1.html "Homework 1") |  |  |
+|  | Wed, Sep 10 | Summarizing Data: Variation | [🖥️](slides/05-ridge-cv.html "Ridge regression and cross validation") |  | [`r fontawesome::fa("file-code")`](code/05-ridge-cv-code.html "05-ridge-cv-code") |  |  |  |
+| 4 | Mon, Sep 15 | Probability Fundamentals | [🖥️](slides/06-lasso-vs.html "06-lasso-vs") |  | [`r fontawesome::fa("file-code")`](code/06-lasso-vs-code.html "06-lasso-vs-code") |  |  |  |
+|  | Wed, Sep 17 | Random Variables |  |  |  |  |  |  |
+| 5 | Mon, Sep 22 | DiscreteProbability Distributions | [🖥️](slides/07-splines.html "07-splines") |  | [`r fontawesome::fa("file-code")`](code/07-splines-code.html "07-splines-code") |  |  |  |
+|  | Wed, Sep 24 | Continuous Probability Distributions |  |  |  | HW 1 Due |  |  |
+| 6 | Mon, Sep 29 | Sampling Distributions | [🖥️](slides/08-bayes.html "08-bayes") |  | [`r fontawesome::fa("file-code")`](code/08-bayes-code.html "08-bayes-code") | [✍️ HW2](/hw/hw-2.html "Homework 2") |  |  |
+|  | Wed, Oct 1 | Central Limit Theorem |  |  |  |  |  | [✅](present-description.html#timeline-and-things-to-do "Midterm presentation 1") Team up Due |
+| 7 | Mon, Oct 6 | **Exam 1** | [🖥️](slides/09-class-glm.html "09-class-glm") |  | [`r fontawesome::fa("file-code")`](code/09-class-glm-code.html "09-class-glm-code") |  |  |  |
+|  | Wed, Oct 8 | Inference about Population Means: Confidence Intervals |  |  |  | HW 2 Due |  | [✅](present-description.html#proposal "Midterm presentation 1") Proposal Due |
+| 8 | Mon, Oct 13 | Inference about Population Means: Hypothesis Testing | [🖥️](slides/10-generative.html "10-generative") |  | [`r fontawesome::fa("file-code")`](code/10-generative-code.html "10-generative-code") |  |  |  |
+|  | Wed, Oct 15 | Inference about Population Means: Hypothesis Testing |  |  |  | [✍️ HW3](/hw/hw-3.html "Homework 3") |  | [✅](present-description.html#materials "Midterm presentation 1") Materials Due |
+| 9 | Mon, Oct 20 | Comparing Two Population Means |  |  |  |  |  |  |
+|  | Wed, Oct 22 | Comparing Two Population Means |  |  |  |  |  |  |
+| 10 | Mon, Oct 27 | Inference about Population Variances |  |  |  |  |  |  |
+|  | Wed, Oct 29 | Inference about Population Variances | [🖥️](slides/11-knn.html "11-knn") |  | [`r fontawesome::fa("file-code")`](code/11-knn-code.html "11-knn-code") |  |  |  |
+| 11 | Mon, Nov 3 | Analysis of Variance (ANOVA) | [🖥️](slides/12-gp.html "12-gp") |  |  |  |  |  |
+|  | Wed, Nov 5 | Analysis of Variance (ANOVA) |  |  | [`r fontawesome::fa("file-code")`](code/12-gp-code.html "12-gp-code") |  |  |  |
+| 12 | Mon, Nov 10 | **Exam 2** | [🖥️](slides/13-svm.html "13-svm") |  |  |  |  |  |
+|  | Wed, Nov 12 | Multiple Comparisons |  |  | [`r fontawesome::fa("file-code")`](code/13-svm-code.html "13-svm-code") | HW 3 Due |  |  |
+| 13 | Mon, Nov 17 | Correlation | [🖥️](slides/14-tree.html "14-tree") |  |  |  |  | Proposal-2 Due |
+|  | Wed, Nov 19 | Simple Linear Regression |  |  | [`r fontawesome::fa("file-code")`](code/14-tree-code.html "14-tree-code") | [✍️ HW4](/hw/hw-4.html "hw-4") |  |  |
+| 14 | Mon, Nov 24 | Simple Linear Regression |  |  |  |  |  | [✅](present-description-2.html#proposal "Presentation II Guideline") Project-2 Guideline |
+|  | Wed, Nov 26 | ***NO CLASS: Thanksgiving*** |  |  |  |  |  |  |
+| 15 | Mon, Dec 1 | Inference for Categorical Data | [🖥️](slides/15-pca.html "15-pca") |  | [`r fontawesome::fa("file-code")`](code/15-pca-code.html "15-pca-code") |  |  |  |
+|  | Wed, Dec 3 | Inference for Categorical Data |  |  |  |  |  |  |
+| 16 | **Wed**, **Dec 10** | **Final Exam (Sec101-2PM)** |  |  |  | HW 4 Due |  |  |
+|  | **Fri, Dec 12** | **Final Exam (Sec102-3:30PM)** |  |  |  |  |  | [✅](project-description.html "Final project guideline") Final project guideline |
 :::
 
 I reserve the right to make changes to the schedule.

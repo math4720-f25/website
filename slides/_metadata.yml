@@ -10,11 +10,17 @@ format:
     logo: "images/logo.png"
     toc: false
     webr:
+      packages:
+        - tidyverse
+        - knitr
       cell-options:
         autorun: false
   live-html:
     code-link: true
     webr:
+      packages:
+        - tidyverse
+        - knitr
       cell-options:
         autorun: true
 engine: knitr

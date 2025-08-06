@@ -1,0 +1,15 @@
+{
+  "hash": "70a1a2f82cc67a03c277c974a710d5c4",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: webR in Quarto HTML Documents\nformat: html\nengine: knitr\nfilters:\n  - webr\n---\n\nThis is a webr-enabled code cell in a Quarto HTML document.\n\n```{webr-r}\nfit = lm(mpg ~ am, data = mtcars)\nsummary(fit)\n```",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
