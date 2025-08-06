@@ -112,7 +112,6 @@ When you click the **Render** button a presentation will be generated that inclu
 
 
 ```{webr}
-#| echo: true
 fit = lm(mpg ~ am, data = mtcars)
 summary(fit)
 ```
