@@ -421,7 +421,7 @@
     "href": "index.html",
     "title": "MATH 4720 (MSSC 5720) Statistical Methods Fall 2025",
     "section": "",
-    "text": "The website is for both Section 101 2 - 3:15 PM and Section 102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nSlides\nReading\nCode\nHomework\nQuiz\nProject\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n🖥️\n\n\n\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n\n\n\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n\n\n\n✍️ HW1\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n🖥️\n\n\n\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 17\nRandom Variables\n\n\n\n\n\n\n\n\n5\nMon, Sep 22\nDiscrete Probability Distributions\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions\n\n\n\nHW 1 Due\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️\n\n\n✍️ HW2\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem\n\n\n\n\n\n✅ Team up Due\n\n\n7\nMon, Oct 6\nExam 1\n🖥️\n\n\n\n\n\n\n\n\nWed, Oct 8\nInference about Population Means: Confidence Intervals\n\n\n\nHW 2 Due\n\n\n✅ Proposal Due\n\n\n8\nMon, Oct 13\nInference about Population Means: Hypothesis Testing\n🖥️\n\n\n\n\n\n\n\n\nWed, Oct 15\nInference about Population Means: Hypothesis Testing\n\n\n\n✍️ HW3\n\n✅ Materials Due\n\n\n9\nMon, Oct 20\nComparing Two Population Means\n\n\n\n\n\n\n\n\n\nWed, Oct 22\nComparing Two Population Means\n\n\n\n\n\n\n\n\n10\nMon, Oct 27\nInference about Population Variances\n\n\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Population Variances\n🖥️\n\n\n\n\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA)\n🖥️\n\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA)\n\n\n\n\n\n\n\n\n12\nMon, Nov 10\nExam 2\n🖥️\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n\n\n\nHW 3 Due\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\n\n\n\n\nProposal-2 Due\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\n\n\n✍️ HW4\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\n\n\n\n\n✅ Project-2 Guideline\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\n\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\n\n\n\n\n\n\n\n16\n\nWed, Dec 10\n\nFinal Exam (Sec101-2PM)\n\n\n\nHW 4 Due\n\n\n\n\n\nFri, Dec 12\nFinal Exam (Sec102-3:30PM)\n\n\n\n\n\n✅ Final project guideline\n\n\n\n\nI reserve the right to make changes to the schedule.",
+    "text": "The website is for both Section 101 2 - 3:15 PM and Section 102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nSlides\nReading\nCode\nHomework\nQuiz\nProject\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ overview of data\n\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n🖥️\n\n\n\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n\n\n\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n\n\n\n✍️ HW1\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n🖥️\n\n\n\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 17\nRandom Variables\n\n\n\n\n\n\n\n\n5\nMon, Sep 22\nDiscrete Probability Distributions\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions\n\n\n\nHW 1 Due\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️\n\n\n✍️ HW2\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem\n\n\n\n\n\n✅ Team up Due\n\n\n7\nMon, Oct 6\nExam 1\n🖥️\n\n\n\n\n\n\n\n\nWed, Oct 8\nInference about Population Means: Confidence Intervals\n\n\n\nHW 2 Due\n\n\n✅ Proposal Due\n\n\n8\nMon, Oct 13\nInference about Population Means: Hypothesis Testing\n🖥️\n\n\n\n\n\n\n\n\nWed, Oct 15\nInference about Population Means: Hypothesis Testing\n\n\n\n✍️ HW3\n\n✅ Materials Due\n\n\n9\nMon, Oct 20\nComparing Two Population Means\n\n\n\n\n\n\n\n\n\nWed, Oct 22\nComparing Two Population Means\n\n\n\n\n\n\n\n\n10\nMon, Oct 27\nInference about Population Variances\n\n\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Population Variances\n🖥️\n\n\n\n\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA)\n🖥️\n\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA)\n\n\n\n\n\n\n\n\n12\nMon, Nov 10\nExam 2\n🖥️\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n\n\n\nHW 3 Due\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\n\n\n\n\nProposal-2 Due\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\n\n\n✍️ HW4\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\n\n\n\n\n✅ Project-2 Guideline\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\n\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\n\n\n\n\n\n\n\n16\n\nWed, Dec 10\n\nFinal Exam (Sec101-2PM)\n\n\n\nHW 4 Due\n\n\n\n\n\nFri, Dec 12\nFinal Exam (Sec102-3:30PM)\n\n\n\n\n\n✅ Final project guideline\n\n\n\n\nI reserve the right to make changes to the schedule.",
     "crumbs": [
       "Course Information",
       "Schedule"
@@ -590,5 +590,453 @@
       "Course Information",
       "Syllabus"
     ]
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#statistics-as-numeric-records",
+    "href": "slides/02-overview-slides.html#statistics-as-numeric-records",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as Numeric Records",
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#statistics-as-numeric-records-1",
+    "href": "slides/02-overview-slides.html#statistics-as-numeric-records-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as Numeric Records",
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records.\n\n\n\n\n\n\nhttps://slamgoods.com/products/jordan-collectors-issue"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#section-1",
+    "href": "slides/02-overview-slides.html#section-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "",
+    "text": "https://www.amazon.com/Funny-Statistics-Shirt-Definition/dp/B07JKMCDR2?customId=B07537PB8C&customizationToken=MC_Assembly_1%23B07537PB8C&th=1&psc=1"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#statistics-as-a-discipline",
+    "href": "slides/02-overview-slides.html#statistics-as-a-discipline",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as a Discipline",
+    "text": "Statistics as a Discipline\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Statistics\n\n\n\n\n\n\n\nStatistics is a Science of Data.\n\n\n\n\nA science of data using statistical thinking, methods and models.\n\n\n\n\n🤔 But wait, then what is DATA SCIENCE ❓"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#difference-between-statistics-and-data-science",
+    "href": "slides/02-overview-slides.html#difference-between-statistics-and-data-science",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Difference between Statistics and Data Science",
+    "text": "Difference between Statistics and Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy ChatGPT says:\n\nStatistics is foundational to Data Science, but Data Science also includes programming, data engineering, machine learning, and business communication."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#data-science-life-cycle",
+    "href": "slides/02-overview-slides.html#data-science-life-cycle",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Science Life Cycle",
+    "text": "Data Science Life Cycle"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#uc-santa-cruz-department-of-statistics-courses",
+    "href": "slides/02-overview-slides.html#uc-santa-cruz-department-of-statistics-courses",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "UC Santa Cruz Department of Statistics Courses",
+    "text": "UC Santa Cruz Department of Statistics Courses\n\n\n\nSTAT 5 – Statistics\nSTAT 7 – Statistical Methods for the Biological, Environmental, and Health Sciences\nSTAT 17 – Statistical Methods for Business and Economics\nSTAT 80A – Gambling and Gaming\nSTAT 80B – The Art of Data Visualization\nSTAT 108 – Linear Regression\nSTAT 131 – Introduction to Probability Theory\nSTAT 132 – Classical and Bayesian Inference\nSTAT 202 – Linear Models in SAS\nSTAT 203 – Introduction to Probability Theory\nSTAT 204 – Introduction to Statistical Data Analysis\nSTAT 205 – Introduction to Classical Statistical Learning\nSTAT 205B – Intermediate Classical Inference\nSTAT 206 – Applied Bayesian Statistics\nSTAT 206B – Intermediate Bayesian Inference\nSTAT 207 – Intermediate Bayesian Statistical Modeling\nSTAT 208 – Linear Statistical Models\nSTAT 209 – Generalized Linear Models\n\n\n\nSTAT 221 – Statistical Machine Learning\nSTAT 222 – Bayesian Nonparametric Methods\nSTAT 223 – Time Series Analysis\nSTAT 224 – Bayesian Survival Analysis and Clinical Design\nSTAT 225 – Multivariate Statistical Methods\nSTAT 226 – Spatial Statistics\nSTAT 227 – Statistical Learning and High-Dimensional Data Analysis\nSTAT 229 – Advanced Bayesian Computation\nSTAT 243 – Stochastic Processes\nSTAT 244 – Bayesian Decision Theory\nSTAT 246 – Probability Theory with Markov Chains\nSTAT 266A – Data Visualization and Statistical Programming in R\nSTAT 266B – Advanced Statistical Programming in R\nSTAT 266C – Introduction to Data Wrangling\n\n\n️⬛ Methods and models\n🟩 Other data science related topics"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#data-science-may-now-be-a-broader-view-of-statistics",
+    "href": "slides/02-overview-slides.html#data-science-may-now-be-a-broader-view-of-statistics",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Science May Now Be a Broader View of Statistics",
+    "text": "Data Science May Now Be a Broader View of Statistics\nCollection, organization, analysis, interpretation and presentation of data."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#what-we-learn-in-this-course",
+    "href": "slides/02-overview-slides.html#what-we-learn-in-this-course",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "What We Learn In this Course",
+    "text": "What We Learn In this Course\n\n\n\n\n\nOpenIntro Statistics Contents"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#we-focus-on-statistical-inference",
+    "href": "slides/02-overview-slides.html#we-focus-on-statistical-inference",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "We Focus On Statistical Inference",
+    "text": "We Focus On Statistical Inference\n\nWe spend most of time on various statistical methods for analyzing data.\n\nLearn useful information\n\nabout the population we are interested (e.g. All Marquette students)\nfrom our sample data (e.g. Students in MATH 4720)\nthrough statistical inferential methods, including estimation and testing (e.g. Confidence intervals)"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#statistics-is-a-science-of-data-so-what-is-data",
+    "href": "slides/02-overview-slides.html#statistics-is-a-science-of-data-so-what-is-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics is a Science of Data, so What is Data?",
+    "text": "Statistics is a Science of Data, so What is Data?\n\nData: A set of objects on which we observe or measure one or more characteristics.\nObjects are individuals, observations, subjects or cases in statistical studies.\nA characteristic or attribute is called a variable because it varies from one to another.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#data-matrix",
+    "href": "slides/02-overview-slides.html#data-matrix",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Matrix",
+    "text": "Data Matrix\n\nEach row corresponds to a unique case or observational unit.\nEach column represents a characteristic or variable.\nThis structure allows new cases to be added as rows or new variables as new columns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#target-population",
+    "href": "slides/02-overview-slides.html#target-population",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Target Population",
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nWhat is the average GPA of currently enrolled Marquette students?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll Marquette students that are currently enrolled."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#target-population-1",
+    "href": "slides/02-overview-slides.html#target-population-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Target Population",
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nDoes a new drug reduce mortality in patients with severe heart disease?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll people with severe heart disease."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#sample-data",
+    "href": "slides/02-overview-slides.html#sample-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Sample Data",
+    "text": "Sample Data\n\n\n\nSometimes, it’s possible to collect data of all cases we are interested.\nMost of the time, it is too expensive to collect data for every case in a population.\nWhat about the average GPA of all students in Illinois? the U.S.? the world? 😱 😱 😱\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample: A subset of cases selected from a population.\nCompute the average GPA of the sample data\nHope sample avg GPA \\(\\approx\\) population avg GPA. 🙏"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#good-sample-vs.-bad-sample",
+    "href": "slides/02-overview-slides.html#good-sample-vs.-bad-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Good Sample vs. Bad Sample",
+    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a sample data of the target population Marquette students?\n\n\n\nIs this 4720/5720 class a “good” sample of the target population?"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#good-sample-vs.-bad-sample-1",
+    "href": "slides/02-overview-slides.html#good-sample-vs.-bad-sample-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Good Sample vs. Bad Sample",
+    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a “good” sample of the target population?\n\n\nThe sample is convenient to be collected, but it may NOT be representative of the population.\nBiased sample: The average GPA of the class may be far from that of all Marquette undergrads."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#how-and-why-a-representative-sample",
+    "href": "slides/02-overview-slides.html#how-and-why-a-representative-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "How and Why a Representative Sample?",
+    "text": "How and Why a Representative Sample?\n\nWe always seek to randomly select a sample from a population.\nLots of statistical methods are based on randomness assumption."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#two-types-of-studies-to-collect-sample-data",
+    "href": "slides/02-overview-slides.html#two-types-of-studies-to-collect-sample-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Two Types of Studies to Collect Sample Data",
+    "text": "Two Types of Studies to Collect Sample Data\n\n\nObservational Study: Observe and measure characteristics/variables, and do NOT attempt to modify or intervene with the subjects being studied.\n\n\n Sample from 1️⃣ the heart disease and 2️⃣ heart disease-free populations. Then record the fat content of the diets for the two groups. \n\n\n\n\n\n\nExperimental Study: Apply some treatment(s) and then proceed to observe its responses or effects on the individuals (experimental units).\n\nAssign volunteers to one of several diets with different levels of dietary fat (treatments). Then compare the treatments with respect to the incidence of hear disease after a period of time. \n\n\n\n\n\n\nObservational or Experimental?\n\nRandomly select 40 males and 40 females to see the difference in blood pressure levels between male and female. \n Test the effects of a new drug by randomly dividing patients into 3 groups (high dosage, low dosage, placebo)."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#limitation-of-observational-studies-confounding",
+    "href": "slides/02-overview-slides.html#limitation-of-observational-studies-confounding",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Limitation of Observational Studies: Confounding",
+    "text": "Limitation of Observational Studies: Confounding\n\n\nConfounder: A variable NOT included in a study but affects the variables in the study.\nObserve past data show that increases in ice cream sales are associated with increases in drownings, and we conclude that eating ice cream causes drownings. 😱 😕 ⁉️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is the confounder that is not in the data, but affects ice cream sales and the number of drownings?\n\n\n\n\n\nTemperature: as temperature increases, ice cream sales increase and the number of drownings goes up because more people swim."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#causal-relationship",
+    "href": "slides/02-overview-slides.html#causal-relationship",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Causal Relationship",
+    "text": "Causal Relationship\n\nMaking causal conclusions based on experiments is often more reasonable than making the same causal conclusions based on observational data.\nObservational studies are generally only sufficient to show associations, not causality."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#simple-random-sample",
+    "href": "slides/02-overview-slides.html#simple-random-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Simple Random Sample",
+    "text": "Simple Random Sample\n\nRandom Sample: Each member of a population is equally likely to be selected.\nSimple Random Sample (SRS): Every possible sample of sample size \\(n\\) has the same chance to be chosen.\nExample: If sample 100 students from all, say 10,000 Marquette students, I would randomly assign each student a number (from 1 to 10,000), then randomly select 100 numbers.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://research-methodology.net/sampling-in-primary-data-collection/random-sampling/"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#stratified-random-sample",
+    "href": "slides/02-overview-slides.html#stratified-random-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Stratified Random Sample",
+    "text": "Stratified Random Sample\n\nStratified Sampling: Subdivide the population into different subgroups (strata) that share the same characteristics, then draw a simple random sample from each subgroup.\nHomogeneous within strata; Non-homogeneous between strata"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#stratified-random-sample-example",
+    "href": "slides/02-overview-slides.html#stratified-random-sample-example",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Stratified Random Sample Example",
+    "text": "Stratified Random Sample Example\n\n\nExample: Divide Marquette students into groups by colleges, then SRS for each group."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#cluster-sampling",
+    "href": "slides/02-overview-slides.html#cluster-sampling",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Cluster Sampling",
+    "text": "Cluster Sampling\n\nCluster Sampling: Divide the population into clusters, then randomly select some of those clusters, and then choose all the members from those selected clusters.\nHomogeneous between clusters; Non-homogeneous within clusters"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#cluster-sampling-example",
+    "href": "slides/02-overview-slides.html#cluster-sampling-example",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Cluster Sampling Example",
+    "text": "Cluster Sampling Example\n\n\nExample: Study 4720 student drinking habit by dividing the students into 9 groups, then randomly selecting 3 and interviewing all of the students in each of those clusters."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#categorical-vs.-numerical-variables",
+    "href": "slides/02-overview-slides.html#categorical-vs.-numerical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Categorical vs. Numerical Variables",
+    "text": "Categorical vs. Numerical Variables\n\n\nA categorical variable provides non-numerical information which can be placed in one (and only one) category from two or more categories.\n\nGender (Male 👨, Female 👩, Trans 🏳️‍🌈) \nClass (Freshman, Sophomore, Junior, Senior, Graduate) \nCountry (USA 🇺🇸, Canada 🇨🇦, UK 🇬🇧, Germany 🇩🇪, Japan 🇯🇵, Korea 🇰🇷) \n\n\n\nA numerical variable is recorded in a numerical value representing counts or measurements.\n\n GPA \n The number of relationships you’ve had \n Height"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#numerical-variables-can-be-discrete-or-continuous",
+    "href": "slides/02-overview-slides.html#numerical-variables-can-be-discrete-or-continuous",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Numerical Variables can be Discrete or Continuous",
+    "text": "Numerical Variables can be Discrete or Continuous\n\nA discrete variable takes on values of a finite or countable number.\n\nA continuous variable takes on values anywhere over a particular range without gaps or jumps.\n\n GPA is continuous because it can be any value between 0 and 4. \n The number of relationships you’ve had is discrete because you can count the number and it is finite.\n Height is continuous because it can be any number within a range."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#categorical-variables-are-usually-recorded-as-numbers",
+    "href": "slides/02-overview-slides.html#categorical-variables-are-usually-recorded-as-numbers",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Categorical Variables are Usually Recorded as Numbers",
+    "text": "Categorical Variables are Usually Recorded as Numbers\n\nGender (Male = 0, Female = 1, Trans = 2) \nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5) \nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301) \nUnited Airlines boarding groups\n\nThe numbers represent categories only; differences between them are meaningless.\n\nCanada - USA = 101 - 100 = 1?\nGraduate - Sophomore = 5 - 2 = 3 = Junior?\n\n\nWe need to learn the level of measurements to know whether or which arithmetic operations are meaningful."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#levels-of-measurements-nominal-and-ordinal-for-categorical-variables",
+    "href": "slides/02-overview-slides.html#levels-of-measurements-nominal-and-ordinal-for-categorical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Levels of Measurements: Nominal and Ordinal for Categorical Variables",
+    "text": "Levels of Measurements: Nominal and Ordinal for Categorical Variables\n\n\nNominal: The data can NOT be ordered in a meaningful or natural way.\n\n\nGender (Male = 0, Female = 1, Trans = 2)  is nominal because Male, Female and Trans cannot be ordered.\n\nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301)  is nominal.\n\n\n\n\n\n\nOrdinal: The data can be arranged in some meaningful order, but differences between data values can NOT be determined or are meaningless.\n\n\nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5)  is ordinal because Sophomore is one class higher than Freshman."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#converting-numerical-to-categorical",
+    "href": "slides/02-overview-slides.html#converting-numerical-to-categorical",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Converting Numerical to Categorical",
+    "text": "Converting Numerical to Categorical\n\nYou’ve already seen an example.\n\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#section-5",
+    "href": "slides/02-overview-slides.html#section-5",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "",
+    "text": "Identify data type of each variable in the Marquette men’s basketball player data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+  },
+  {
+    "objectID": "slides/02-overview.html#statistics-as-numeric-records",
+    "href": "slides/02-overview.html#statistics-as-numeric-records",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as Numeric Records",
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records."
+  },
+  {
+    "objectID": "slides/02-overview.html#statistics-as-numeric-records-1",
+    "href": "slides/02-overview.html#statistics-as-numeric-records-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as Numeric Records",
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records.\n\n\n\n\n\n\nhttps://slamgoods.com/products/jordan-collectors-issue"
+  },
+  {
+    "objectID": "slides/02-overview.html#section-1",
+    "href": "slides/02-overview.html#section-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "",
+    "text": "https://www.amazon.com/Funny-Statistics-Shirt-Definition/dp/B07JKMCDR2?customId=B07537PB8C&customizationToken=MC_Assembly_1%23B07537PB8C&th=1&psc=1"
+  },
+  {
+    "objectID": "slides/02-overview.html#statistics-as-a-discipline",
+    "href": "slides/02-overview.html#statistics-as-a-discipline",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as a Discipline",
+    "text": "Statistics as a Discipline\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Statistics\n\n\n\n\n. . .\n\n\nStatistics is a Science of Data.\n\n. . .\n\nA science of data using statistical thinking, methods and models.\n\n. . .\n\n🤔 But wait, then what is DATA SCIENCE ❓"
+  },
+  {
+    "objectID": "slides/02-overview.html#difference-between-statistics-and-data-science",
+    "href": "slides/02-overview.html#difference-between-statistics-and-data-science",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Difference between Statistics and Data Science",
+    "text": "Difference between Statistics and Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\nMy ChatGPT says:\n\nStatistics is foundational to Data Science, but Data Science also includes programming, data engineering, machine learning, and business communication."
+  },
+  {
+    "objectID": "slides/02-overview.html#data-science-life-cycle",
+    "href": "slides/02-overview.html#data-science-life-cycle",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Science Life Cycle",
+    "text": "Data Science Life Cycle"
+  },
+  {
+    "objectID": "slides/02-overview.html#uc-santa-cruz-department-of-statistics-courses",
+    "href": "slides/02-overview.html#uc-santa-cruz-department-of-statistics-courses",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "UC Santa Cruz Department of Statistics Courses",
+    "text": "UC Santa Cruz Department of Statistics Courses\n\n\n\nSTAT 5 – Statistics\nSTAT 7 – Statistical Methods for the Biological, Environmental, and Health Sciences\nSTAT 17 – Statistical Methods for Business and Economics\nSTAT 80A – Gambling and Gaming\nSTAT 80B – The Art of Data Visualization\nSTAT 108 – Linear Regression\nSTAT 131 – Introduction to Probability Theory\nSTAT 132 – Classical and Bayesian Inference\nSTAT 202 – Linear Models in SAS\nSTAT 203 – Introduction to Probability Theory\nSTAT 204 – Introduction to Statistical Data Analysis\nSTAT 205 – Introduction to Classical Statistical Learning\nSTAT 205B – Intermediate Classical Inference\nSTAT 206 – Applied Bayesian Statistics\nSTAT 206B – Intermediate Bayesian Inference\nSTAT 207 – Intermediate Bayesian Statistical Modeling\nSTAT 208 – Linear Statistical Models\nSTAT 209 – Generalized Linear Models\n\n\n\nSTAT 221 – Statistical Machine Learning\nSTAT 222 – Bayesian Nonparametric Methods\nSTAT 223 – Time Series Analysis\nSTAT 224 – Bayesian Survival Analysis and Clinical Design\nSTAT 225 – Multivariate Statistical Methods\nSTAT 226 – Spatial Statistics\nSTAT 227 – Statistical Learning and High-Dimensional Data Analysis\nSTAT 229 – Advanced Bayesian Computation\nSTAT 243 – Stochastic Processes\nSTAT 244 – Bayesian Decision Theory\nSTAT 246 – Probability Theory with Markov Chains\nSTAT 266A – Data Visualization and Statistical Programming in R\nSTAT 266B – Advanced Statistical Programming in R\nSTAT 266C – Introduction to Data Wrangling\n\n\n️⬛ Methods and models\n🟩 Other data science related topics"
+  },
+  {
+    "objectID": "slides/02-overview.html#data-science-may-now-be-a-broader-view-of-statistics",
+    "href": "slides/02-overview.html#data-science-may-now-be-a-broader-view-of-statistics",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Science May Now Be a Broader View of Statistics",
+    "text": "Data Science May Now Be a Broader View of Statistics\nCollection, organization, analysis, interpretation and presentation of data."
+  },
+  {
+    "objectID": "slides/02-overview.html#what-we-learn-in-this-course",
+    "href": "slides/02-overview.html#what-we-learn-in-this-course",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "What We Learn In this Course",
+    "text": "What We Learn In this Course\n\n\n\n\n\nOpenIntro Statistics Contents"
+  },
+  {
+    "objectID": "slides/02-overview.html#we-focus-on-statistical-inference",
+    "href": "slides/02-overview.html#we-focus-on-statistical-inference",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "We Focus On Statistical Inference",
+    "text": "We Focus On Statistical Inference\n\nWe spend most of time on various statistical methods for analyzing data.\n\nLearn useful information\n\nabout the population we are interested (e.g. All Marquette students)\nfrom our sample data (e.g. Students in MATH 4720)\nthrough statistical inferential methods, including estimation and testing (e.g. Confidence intervals)"
+  },
+  {
+    "objectID": "slides/02-overview.html#statistics-is-a-science-of-data-so-what-is-data",
+    "href": "slides/02-overview.html#statistics-is-a-science-of-data-so-what-is-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics is a Science of Data, so What is Data?",
+    "text": "Statistics is a Science of Data, so What is Data?\n\nData: A set of objects on which we observe or measure one or more characteristics.\nObjects are individuals, observations, subjects or cases in statistical studies.\nA characteristic or attribute is called a variable because it varies from one to another.\n\n. . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+  },
+  {
+    "objectID": "slides/02-overview.html#data-matrix",
+    "href": "slides/02-overview.html#data-matrix",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Matrix",
+    "text": "Data Matrix\n\nEach row corresponds to a unique case or observational unit.\nEach column represents a characteristic or variable.\nThis structure allows new cases to be added as rows or new variables as new columns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+  },
+  {
+    "objectID": "slides/02-overview.html#target-population",
+    "href": "slides/02-overview.html#target-population",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Target Population",
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nWhat is the average GPA of currently enrolled Marquette students?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll Marquette students that are currently enrolled."
+  },
+  {
+    "objectID": "slides/02-overview.html#target-population-1",
+    "href": "slides/02-overview.html#target-population-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Target Population",
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nDoes a new drug reduce mortality in patients with severe heart disease?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll people with severe heart disease."
+  },
+  {
+    "objectID": "slides/02-overview.html#sample-data",
+    "href": "slides/02-overview.html#sample-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Sample Data",
+    "text": "Sample Data\n\n\n\nSometimes, it’s possible to collect data of all cases we are interested.\nMost of the time, it is too expensive to collect data for every case in a population.\nWhat about the average GPA of all students in Illinois? the U.S.? the world? 😱 😱 😱\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nSample: A subset of cases selected from a population.\nCompute the average GPA of the sample data\nHope sample avg GPA \\(\\approx\\) population avg GPA. 🙏"
+  },
+  {
+    "objectID": "slides/02-overview.html#good-sample-vs.-bad-sample",
+    "href": "slides/02-overview.html#good-sample-vs.-bad-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Good Sample vs. Bad Sample",
+    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a sample data of the target population Marquette students?\n\n. . .\n\nIs this 4720/5720 class a “good” sample of the target population?\n\n. . ."
+  },
+  {
+    "objectID": "slides/02-overview.html#good-sample-vs.-bad-sample-1",
+    "href": "slides/02-overview.html#good-sample-vs.-bad-sample-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Good Sample vs. Bad Sample",
+    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a “good” sample of the target population?\n\n\nThe sample is convenient to be collected, but it may NOT be representative of the population.\nBiased sample: The average GPA of the class may be far from that of all Marquette undergrads."
+  },
+  {
+    "objectID": "slides/02-overview.html#how-and-why-a-representative-sample",
+    "href": "slides/02-overview.html#how-and-why-a-representative-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "How and Why a Representative Sample?",
+    "text": "How and Why a Representative Sample?\n\nWe always seek to randomly select a sample from a population.\nLots of statistical methods are based on randomness assumption."
+  },
+  {
+    "objectID": "slides/02-overview.html#two-types-of-studies-to-collect-sample-data",
+    "href": "slides/02-overview.html#two-types-of-studies-to-collect-sample-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Two Types of Studies to Collect Sample Data",
+    "text": "Two Types of Studies to Collect Sample Data\n\n\nObservational Study: Observe and measure characteristics/variables, and do NOT attempt to modify or intervene with the subjects being studied.\n\n\n Sample from 1️⃣ the heart disease and 2️⃣ heart disease-free populations. Then record the fat content of the diets for the two groups. \n\n\n\n. . .\n\n\nExperimental Study: Apply some treatment(s) and then proceed to observe its responses or effects on the individuals (experimental units).\n\nAssign volunteers to one of several diets with different levels of dietary fat (treatments). Then compare the treatments with respect to the incidence of hear disease after a period of time. \n\n\n\n. . .\n\nObservational or Experimental?\n\nRandomly select 40 males and 40 females to see the difference in blood pressure levels between male and female. \n Test the effects of a new drug by randomly dividing patients into 3 groups (high dosage, low dosage, placebo)."
+  },
+  {
+    "objectID": "slides/02-overview.html#limitation-of-observational-studies-confounding",
+    "href": "slides/02-overview.html#limitation-of-observational-studies-confounding",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Limitation of Observational Studies: Confounding",
+    "text": "Limitation of Observational Studies: Confounding\n\n\nConfounder: A variable NOT included in a study but affects the variables in the study.\nObserve past data show that increases in ice cream sales are associated with increases in drownings, and we conclude that eating ice cream causes drownings. 😱 😕 ⁉️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nWhat is the confounder that is not in the data, but affects ice cream sales and the number of drownings?\n\n. . .\n\n\nTemperature: as temperature increases, ice cream sales increase and the number of drownings goes up because more people swim."
+  },
+  {
+    "objectID": "slides/02-overview.html#causal-relationship",
+    "href": "slides/02-overview.html#causal-relationship",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Causal Relationship",
+    "text": "Causal Relationship\n\nMaking causal conclusions based on experiments is often more reasonable than making the same causal conclusions based on observational data.\nObservational studies are generally only sufficient to show associations, not causality."
+  },
+  {
+    "objectID": "slides/02-overview.html#simple-random-sample",
+    "href": "slides/02-overview.html#simple-random-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Simple Random Sample",
+    "text": "Simple Random Sample\n\nRandom Sample: Each member of a population is equally likely to be selected.\nSimple Random Sample (SRS): Every possible sample of sample size \\(n\\) has the same chance to be chosen.\nExample: If sample 100 students from all, say 10,000 Marquette students, I would randomly assign each student a number (from 1 to 10,000), then randomly select 100 numbers.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://research-methodology.net/sampling-in-primary-data-collection/random-sampling/"
+  },
+  {
+    "objectID": "slides/02-overview.html#stratified-random-sample",
+    "href": "slides/02-overview.html#stratified-random-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Stratified Random Sample",
+    "text": "Stratified Random Sample\n\nStratified Sampling: Subdivide the population into different subgroups (strata) that share the same characteristics, then draw a simple random sample from each subgroup.\nHomogeneous within strata; Non-homogeneous between strata"
+  },
+  {
+    "objectID": "slides/02-overview.html#stratified-random-sample-example",
+    "href": "slides/02-overview.html#stratified-random-sample-example",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Stratified Random Sample Example",
+    "text": "Stratified Random Sample Example\n\n\nExample: Divide Marquette students into groups by colleges, then SRS for each group."
+  },
+  {
+    "objectID": "slides/02-overview.html#cluster-sampling",
+    "href": "slides/02-overview.html#cluster-sampling",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Cluster Sampling",
+    "text": "Cluster Sampling\n\nCluster Sampling: Divide the population into clusters, then randomly select some of those clusters, and then choose all the members from those selected clusters.\nHomogeneous between clusters; Non-homogeneous within clusters"
+  },
+  {
+    "objectID": "slides/02-overview.html#cluster-sampling-example",
+    "href": "slides/02-overview.html#cluster-sampling-example",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Cluster Sampling Example",
+    "text": "Cluster Sampling Example\n\n\nExample: Study 4720 student drinking habit by dividing the students into 9 groups, then randomly selecting 3 and interviewing all of the students in each of those clusters."
+  },
+  {
+    "objectID": "slides/02-overview.html#categorical-vs.-numerical-variables",
+    "href": "slides/02-overview.html#categorical-vs.-numerical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Categorical vs. Numerical Variables",
+    "text": "Categorical vs. Numerical Variables\n\n\nA categorical variable provides non-numerical information which can be placed in one (and only one) category from two or more categories.\n\nGender (Male 👨, Female 👩, Trans 🏳️‍🌈) \nClass (Freshman, Sophomore, Junior, Senior, Graduate) \nCountry (USA 🇺🇸, Canada 🇨🇦, UK 🇬🇧, Germany 🇩🇪, Japan 🇯🇵, Korea 🇰🇷) \n\n\n\nA numerical variable is recorded in a numerical value representing counts or measurements.\n\n GPA \n The number of relationships you’ve had \n Height"
+  },
+  {
+    "objectID": "slides/02-overview.html#numerical-variables-can-be-discrete-or-continuous",
+    "href": "slides/02-overview.html#numerical-variables-can-be-discrete-or-continuous",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Numerical Variables can be Discrete or Continuous",
+    "text": "Numerical Variables can be Discrete or Continuous\n\nA discrete variable takes on values of a finite or countable number.\n\nA continuous variable takes on values anywhere over a particular range without gaps or jumps.\n\n GPA is continuous because it can be any value between 0 and 4. \n The number of relationships you’ve had is discrete because you can count the number and it is finite.\n Height is continuous because it can be any number within a range."
+  },
+  {
+    "objectID": "slides/02-overview.html#categorical-variables-are-usually-recorded-as-numbers",
+    "href": "slides/02-overview.html#categorical-variables-are-usually-recorded-as-numbers",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Categorical Variables are Usually Recorded as Numbers",
+    "text": "Categorical Variables are Usually Recorded as Numbers\n\nGender (Male = 0, Female = 1, Trans = 2) \nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5) \nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301) \nUnited Airlines boarding groups\n\nThe numbers represent categories only; differences between them are meaningless.\n\nCanada - USA = 101 - 100 = 1?\nGraduate - Sophomore = 5 - 2 = 3 = Junior?\n\n\nWe need to learn the level of measurements to know whether or which arithmetic operations are meaningful."
+  },
+  {
+    "objectID": "slides/02-overview.html#levels-of-measurements-nominal-and-ordinal-for-categorical-variables",
+    "href": "slides/02-overview.html#levels-of-measurements-nominal-and-ordinal-for-categorical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Levels of Measurements: Nominal and Ordinal for Categorical Variables",
+    "text": "Levels of Measurements: Nominal and Ordinal for Categorical Variables\n\n\nNominal: The data can NOT be ordered in a meaningful or natural way.\n\n\nGender (Male = 0, Female = 1, Trans = 2)  is nominal because Male, Female and Trans cannot be ordered.\n\nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301)  is nominal.\n\n\n\n\n\n\nOrdinal: The data can be arranged in some meaningful order, but differences between data values can NOT be determined or are meaningless.\n\n\nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5)  is ordinal because Sophomore is one class higher than Freshman."
+  },
+  {
+    "objectID": "slides/02-overview.html#converting-numerical-to-categorical",
+    "href": "slides/02-overview.html#converting-numerical-to-categorical",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Converting Numerical to Categorical",
+    "text": "Converting Numerical to Categorical\n\nYou’ve already seen an example.\n\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
+  },
+  {
+    "objectID": "slides/02-overview.html#section-5",
+    "href": "slides/02-overview.html#section-5",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "",
+    "text": "Identify data type of each variable in the Marquette men’s basketball player data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
   }
 ]
