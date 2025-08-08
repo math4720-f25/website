@@ -49,109 +49,607 @@
     "text": "Project Evaluation\nYour project will be evaluated soley by Dr. Yu based on\n\nContent:\n\nThe quality of research question and relevancy of data to those questions? For example, the relationship between human height and weight is a BAD question. An elementary-school height and weight data set is a BAD data set.\nThe quality of the chosen model. For example, one-way ANOVA is a BAD model.\n\nCorrectness, Completeness and Complexity:\n\nAre machine learning methods carried out and explained correctly?\nDoes project include rigorous analysis and models? Simple linear regression model lacks complexity.\n\nWriting: What is the quality of the machine learning model/method presentation, visualization, writing, and explanations.\nFormat: Does the report follow the required format?\nCreativity and Critical Thought: Is the project carefully thought out? Are the limitations carefully considered? Does it appear that time and effort went into the planning and implementation of the project?\nReproducibility: Can your code reproduce what you show in the paper?\nReference: Do you cite others work properly?"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#code",
-    "href": "slides/01-syllabus-slides.html#code",
-    "title": "Welcome Aboard 🙌",
-    "section": "Code",
-    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+    "objectID": "slides/02-overview-slides.html#statistics-as-numeric-records",
+    "href": "slides/02-overview-slides.html#statistics-as-numeric-records",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as Numeric Records",
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records."
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#my-journey",
-    "href": "slides/01-syllabus-slides.html#my-journey",
-    "title": "Welcome Aboard 🙌",
-    "section": "My Journey",
-    "text": "My Journey\n\nAssistant Professor (2020/08 - )\n\n\n\n\n\n\n\n\n\n\nPostdoctoral Fellow\n\n\n\n\n\n\n\n\n\n\nPhD in Statistics\n\n\n\n\n\n\n\n\n\n\nMA in Economics/PhD program in Statistics"
+    "objectID": "slides/02-overview-slides.html#statistics-as-numeric-records-1",
+    "href": "slides/02-overview-slides.html#statistics-as-numeric-records-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as Numeric Records",
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records.\n\n\n\n\n\n\nhttps://slamgoods.com/products/jordan-collectors-issue"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#how-to-reach-me",
-    "href": "slides/01-syllabus-slides.html#how-to-reach-me",
-    "title": "Welcome Aboard 🙌",
-    "section": "How to Reach Me",
-    "text": "How to Reach Me\n\nOffice hours TuTh 4:50 - 5:50 PM and Wed 12 - 1 PM in Cudahy Hall 353.\n📧 cheng-han.yu@marquette.edu\n\nAnswer your question within 24 hours.\nExpect a reply on Monday if shoot me a message on weekends.\nStart your subject line with [math4720] or [mssc5720] followed by a clear description of your question.\n\n\n\n\n\nI will NOT reply your e-mail if … Check the email policy in the syllabus!"
+    "objectID": "slides/02-overview-slides.html#section-1",
+    "href": "slides/02-overview-slides.html#section-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "",
+    "text": "https://www.amazon.com/Funny-Statistics-Shirt-Definition/dp/B07JKMCDR2?customId=B07537PB8C&customizationToken=MC_Assembly_1%23B07537PB8C&th=1&psc=1"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#ta-information",
-    "href": "slides/01-syllabus-slides.html#ta-information",
-    "title": "Welcome Aboard 🙌",
-    "section": "TA Information",
-    "text": "TA Information\n\n\n\nStatistics PhD student Qishi Zhan\n📨 qishi.zhan@marquette.edu\nHelp desk hours: To be announced.\nWelcome to set up a meeting with your TA via Teams.\nLet me know if you need any other help! 😄"
+    "objectID": "slides/02-overview-slides.html#statistics-as-a-discipline",
+    "href": "slides/02-overview-slides.html#statistics-as-a-discipline",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as a Discipline",
+    "text": "Statistics as a Discipline\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Statistics\n\n\n\n\n\n\n\nStatistics is a Science of Data.\n\n\n\n\nA science of data using statistical thinking, methods and models.\n\n\n\n\n🤔 But wait, then what is DATA SCIENCE ❓"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#course-materials",
-    "href": "slides/01-syllabus-slides.html#course-materials",
-    "title": "Welcome Aboard 🙌",
-    "section": "Course Materials",
-    "text": "Course Materials\n\nCourse Website - https://math4720-f25.github.io/website/"
+    "objectID": "slides/02-overview-slides.html#difference-between-statistics-and-data-science",
+    "href": "slides/02-overview-slides.html#difference-between-statistics-and-data-science",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Difference between Statistics and Data Science",
+    "text": "Difference between Statistics and Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy ChatGPT says:\n\nStatistics is foundational to Data Science, but Data Science also includes programming, data engineering, machine learning, and business communication."
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#textbook-dr.-yus-online-book",
-    "href": "slides/01-syllabus-slides.html#textbook-dr.-yus-online-book",
-    "title": "Welcome Aboard 🙌",
-    "section": "Textbook (Dr. Yu’s Online Book)",
-    "text": "Textbook (Dr. Yu’s Online Book)\n\nIntroduction to Statistics, by Cheng-Han Yu\nFull detailed explanation of course slides 😎"
+    "objectID": "slides/02-overview-slides.html#data-science-life-cycle",
+    "href": "slides/02-overview-slides.html#data-science-life-cycle",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Science Life Cycle",
+    "text": "Data Science Life Cycle"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#learning-management-system-d2l",
-    "href": "slides/01-syllabus-slides.html#learning-management-system-d2l",
-    "title": "Welcome Aboard 🙌",
-    "section": "Learning Management System (D2L)",
-    "text": "Learning Management System (D2L)\n\n\nAssessments &gt; Grades"
+    "objectID": "slides/02-overview-slides.html#uc-santa-cruz-department-of-statistics-courses",
+    "href": "slides/02-overview-slides.html#uc-santa-cruz-department-of-statistics-courses",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "UC Santa Cruz Department of Statistics Courses",
+    "text": "UC Santa Cruz Department of Statistics Courses\n\n\n\nSTAT 5 – Statistics\nSTAT 7 – Statistical Methods for the Biological, Environmental, and Health Sciences\nSTAT 17 – Statistical Methods for Business and Economics\nSTAT 80A – Gambling and Gaming\nSTAT 80B – The Art of Data Visualization\nSTAT 108 – Linear Regression\nSTAT 131 – Introduction to Probability Theory\nSTAT 132 – Classical and Bayesian Inference\nSTAT 202 – Linear Models in SAS\nSTAT 203 – Introduction to Probability Theory\nSTAT 204 – Introduction to Statistical Data Analysis\nSTAT 205 – Introduction to Classical Statistical Learning\nSTAT 205B – Intermediate Classical Inference\nSTAT 206 – Applied Bayesian Statistics\nSTAT 206B – Intermediate Bayesian Inference\nSTAT 207 – Intermediate Bayesian Statistical Modeling\nSTAT 208 – Linear Statistical Models\nSTAT 209 – Generalized Linear Models\n\n\n\nSTAT 221 – Statistical Machine Learning\nSTAT 222 – Bayesian Nonparametric Methods\nSTAT 223 – Time Series Analysis\nSTAT 224 – Bayesian Survival Analysis and Clinical Design\nSTAT 225 – Multivariate Statistical Methods\nSTAT 226 – Spatial Statistics\nSTAT 227 – Statistical Learning and High-Dimensional Data Analysis\nSTAT 229 – Advanced Bayesian Computation\nSTAT 243 – Stochastic Processes\nSTAT 244 – Bayesian Decision Theory\nSTAT 246 – Probability Theory with Markov Chains\nSTAT 266A – Data Visualization and Statistical Programming in R\nSTAT 266B – Advanced Statistical Programming in R\nSTAT 266C – Introduction to Data Wrangling\n\n\n️⬛ Methods and models\n🟩 Other data science related topics"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#grading-policy",
-    "href": "slides/01-syllabus-slides.html#grading-policy",
-    "title": "Welcome Aboard 🙌",
-    "section": "Grading Policy ✨",
-    "text": "Grading Policy ✨\n\nYour final grade is earned out of 1000 total points distributed as follows:\n\nHomework 1 to 8: 200 pts (25 pts each)\nQuiz 1 to 4: 240 pts (60 pts each)\nExam 1 and 2: 320 pts (160 pts each)\nFinal exam: 240 pts\n\nClass participation for extra points!\n\n\n❌ No extra credit projects/homework/exam to compensate for a poor grade.\nIndividual grade will NOT be curved.\nThis is not a course that gives most of students grade A. Wanna get a good grade? Study hard. No pain, no gain! ✍ ✍"
+    "objectID": "slides/02-overview-slides.html#data-science-may-now-be-a-broader-view-of-statistics",
+    "href": "slides/02-overview-slides.html#data-science-may-now-be-a-broader-view-of-statistics",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Science May Now Be a Broader View of Statistics",
+    "text": "Data Science May Now Be a Broader View of Statistics\nCollection, organization, analysis, interpretation and presentation of data."
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#grade-percentage-conversion",
-    "href": "slides/01-syllabus-slides.html#grade-percentage-conversion",
-    "title": "Welcome Aboard 🙌",
-    "section": "Grade-Percentage Conversion ✨",
-    "text": "Grade-Percentage Conversion ✨\n\nYour final grade is based on your percentage of points earned out of 1000 points.\n\n\\([x, y)\\) means greater than or equal to \\(x\\) and less than \\(y\\).\n\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
+    "objectID": "slides/02-overview-slides.html#what-we-learn-in-this-course",
+    "href": "slides/02-overview-slides.html#what-we-learn-in-this-course",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "What We Learn In this Course",
+    "text": "What We Learn In this Course\n\n\n\n\n\nOpenIntro Statistics Contents"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#homework-200-pts",
-    "href": "slides/01-syllabus-slides.html#homework-200-pts",
-    "title": "Welcome Aboard 🙌",
-    "section": "Homework (200 pts)",
-    "text": "Homework (200 pts)\n\n\nAssessments &gt; Dropbox and upload your homework in PDF format.\nThere are 8 homework sets.\nYou must submit YOUR OWN work. 🙏\n❌ No make-up homework.\nEvery homework is due by Friday 11:59 PM  (Don’t miss it. This is a hard deadline❗). \n\nThe lowest score of the homework sets will not be in your final grade calculation."
+    "objectID": "slides/02-overview-slides.html#we-focus-on-statistical-inference",
+    "href": "slides/02-overview-slides.html#we-focus-on-statistical-inference",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "We Focus On Statistical Inference",
+    "text": "We Focus On Statistical Inference\n\nWe spend most of time on various statistical methods for analyzing data.\n\nLearn useful information\n\nabout the population we are interested (e.g. All Marquette students)\nfrom our sample data (e.g. Students in MATH 4720)\nthrough statistical inferential methods, including estimation and testing (e.g. Confidence intervals)"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#quizzes-240-pts",
-    "href": "slides/01-syllabus-slides.html#quizzes-240-pts",
-    "title": "Welcome Aboard 🙌",
-    "section": "Quizzes (240 pts)",
-    "text": "Quizzes (240 pts)\n\nThere are 4 in-class quizzes. \n\n📚 Quizzes are individual and in closed-book format.\n❌ No cheat sheet is allowed.\n❌ No make-up quizzes for any reason unless you got COVID or excused absence. Check the syllabus for more details."
+    "objectID": "slides/02-overview-slides.html#statistics-is-a-science-of-data-so-what-is-data",
+    "href": "slides/02-overview-slides.html#statistics-is-a-science-of-data-so-what-is-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics is a Science of Data, so What is Data?",
+    "text": "Statistics is a Science of Data, so What is Data?\n\nData: A set of objects on which we observe or measure one or more characteristics.\nObjects are individuals, observations, subjects or cases in statistical studies.\nA characteristic or attribute is called a variable because it varies from one to another.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#exams-560-pts",
-    "href": "slides/01-syllabus-slides.html#exams-560-pts",
-    "title": "Welcome Aboard 🙌",
-    "section": "Exams (560 pts)",
-    "text": "Exams (560 pts)\n\nThere are two midterm exams and one final exam.\nHave in-class and take-home parts. \n\n📄 One piece of letter size cheat sheet is allowed. It has to be turned-in with your in-class exam.\n\nAssessments &gt; Dropbox to submit your take-home exams in PDF format. \n\nExam 1 covers Week 1 to 6\n\nExam 2 covers Week 7 to 11\n\nFinal exam is comprehensive and covers the all course materials. 😎\n❌ No make-up exams unless you got COVID or excused absence. Check the syllabus for more details."
+    "objectID": "slides/02-overview-slides.html#data-matrix",
+    "href": "slides/02-overview-slides.html#data-matrix",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Matrix",
+    "text": "Data Matrix\n\nEach row corresponds to a unique case or observational unit.\nEach column represents a characteristic or variable.\nThis structure allows new cases to be added as rows or new variables as new columns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#what-computing-language-we-use-i-teach",
-    "href": "slides/01-syllabus-slides.html#what-computing-language-we-use-i-teach",
-    "title": "Welcome Aboard 🙌",
-    "section": "What Computing Language We Use (I Teach)?",
-    "text": "What Computing Language We Use (I Teach)?\n\n\n\n📈 The best language for statistical computing! \n\n✅ You may use other tools or software such as Excel, Python, Minitab, etc to do your work, but I will NOT teach any of them.\n❌ Drop/Swap deadline: 09/05/2022. Don’t miss it!\n\n\n\n\n\n\nhttps://www.r-project.org/"
+    "objectID": "slides/02-overview-slides.html#target-population",
+    "href": "slides/02-overview-slides.html#target-population",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Target Population",
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nWhat is the average GPA of currently enrolled Marquette students?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll Marquette students that are currently enrolled."
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#generative-ai-and-sharingreusing-code-policy",
-    "href": "slides/01-syllabus-slides.html#generative-ai-and-sharingreusing-code-policy",
-    "title": "Welcome Aboard 🙌",
-    "section": "Generative AI and Sharing/Reusing Code Policy",
-    "text": "Generative AI and Sharing/Reusing Code Policy\n\n\nGenerative AI\n\nYou may use generative AI tools such as ChatGPT or DALL-E to generate a first draft of text for your work, provided that this use is documented and cited.\n\n[Example] Data science is an interdisciplinary field that … 1\n\n\n\n\n\n\n\n\n\n\n\nSharing/Reusing Code\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite where you obtained any code you directly use or use as inspiration in your solutions.\n\n[Example]\n\nThe code is modified from the GitHub repo https://github.com/chenghanyustats/slam\nThe code is generated from ChatGPT response to “Please generate Python code for solving the math problem I attach,” Jan 14, 2025.\n\n\nYou are responsible for the content of all work submitted for this course.\nYou can use any code shared online or in books. But please give the authors full credits. Cite their work and let me know whose code you are using to do your homework and project.\nI encourage you to write your own code. This way you learn the most.\n❌ Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism, regardless of source. 😱\n\n\nChatGPT, response to “Tell me what data science is,” Jan 14, 2025, https://chat.openai.com."
+    "objectID": "slides/02-overview-slides.html#target-population-1",
+    "href": "slides/02-overview-slides.html#target-population-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Target Population",
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nDoes a new drug reduce mortality in patients with severe heart disease?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll people with severe heart disease."
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#academic-integrity",
-    "href": "slides/01-syllabus-slides.html#academic-integrity",
-    "title": "Welcome Aboard 🙌",
-    "section": "Academic Integrity",
-    "text": "Academic Integrity\nThis course expects all students to follow University and College statements on academic integrity.\n\n\nHonor Pledge and Honor Code: I recognize the importance of personal integrity in all aspects of life and work. I commit myself to truthfulness, honor, and responsibility, by which I earn the respect of others. I support the development of good character, and commit myself to uphold the highest standards of academic integrity as an important aspect of personal integrity. My commitment obliges me to conduct myself according to the Marquette University Honor Code."
+    "objectID": "slides/02-overview-slides.html#sample-data",
+    "href": "slides/02-overview-slides.html#sample-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Sample Data",
+    "text": "Sample Data\n\n\n\nSometimes, it’s possible to collect data of all cases we are interested.\nMost of the time, it is too expensive to collect data for every case in a population.\nWhat about the average GPA of all students in Illinois? the U.S.? the world? 😱 😱 😱\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample: A subset of cases selected from a population.\nCompute the average GPA of the sample data\nHope sample avg GPA \\(\\approx\\) population avg GPA. 🙏"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#good-sample-vs.-bad-sample",
+    "href": "slides/02-overview-slides.html#good-sample-vs.-bad-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Good Sample vs. Bad Sample",
+    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a sample data of the target population Marquette students?\n\n\n\nIs this 4720/5720 class a “good” sample of the target population?"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#good-sample-vs.-bad-sample-1",
+    "href": "slides/02-overview-slides.html#good-sample-vs.-bad-sample-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Good Sample vs. Bad Sample",
+    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a “good” sample of the target population?\n\n\nThe sample is convenient to be collected, but it may NOT be representative of the population.\nBiased sample: The average GPA of the class may be far from that of all Marquette undergrads."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#how-and-why-a-representative-sample",
+    "href": "slides/02-overview-slides.html#how-and-why-a-representative-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "How and Why a Representative Sample?",
+    "text": "How and Why a Representative Sample?\n\nWe always seek to randomly select a sample from a population.\nLots of statistical methods are based on randomness assumption."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#two-types-of-studies-to-collect-sample-data",
+    "href": "slides/02-overview-slides.html#two-types-of-studies-to-collect-sample-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Two Types of Studies to Collect Sample Data",
+    "text": "Two Types of Studies to Collect Sample Data\n\n\nObservational Study: Observe and measure characteristics/variables, and do NOT attempt to modify or intervene with the subjects being studied.\n\n\n Sample from 1️⃣ the heart disease and 2️⃣ heart disease-free populations. Then record the fat content of the diets for the two groups. \n\n\n\n\n\n\nExperimental Study: Apply some treatment(s) and then proceed to observe its responses or effects on the individuals (experimental units).\n\nAssign volunteers to one of several diets with different levels of dietary fat (treatments). Then compare the treatments with respect to the incidence of hear disease after a period of time. \n\n\n\n\n\n\nObservational or Experimental?\n\nRandomly select 40 males and 40 females to see the difference in blood pressure levels between male and female. \n Test the effects of a new drug by randomly dividing patients into 3 groups (high dosage, low dosage, placebo)."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#limitation-of-observational-studies-confounding",
+    "href": "slides/02-overview-slides.html#limitation-of-observational-studies-confounding",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Limitation of Observational Studies: Confounding",
+    "text": "Limitation of Observational Studies: Confounding\n\n\nConfounder: A variable NOT included in a study but affects the variables in the study.\nObserve past data show that increases in ice cream sales are associated with increases in drownings, and we conclude that eating ice cream causes drownings. 😱 😕 ⁉️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is the confounder that is not in the data, but affects ice cream sales and the number of drownings?\n\n\n\n\n\nTemperature: as temperature increases, ice cream sales increase and the number of drownings goes up because more people swim."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#causal-relationship",
+    "href": "slides/02-overview-slides.html#causal-relationship",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Causal Relationship",
+    "text": "Causal Relationship\n\nMaking causal conclusions based on experiments is often more reasonable than making the same causal conclusions based on observational data.\nObservational studies are generally only sufficient to show associations, not causality."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#simple-random-sample",
+    "href": "slides/02-overview-slides.html#simple-random-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Simple Random Sample",
+    "text": "Simple Random Sample\n\nRandom Sample: Each member of a population is equally likely to be selected.\nSimple Random Sample (SRS): Every possible sample of sample size \\(n\\) has the same chance to be chosen.\nExample: If sample 100 students from all, say 10,000 Marquette students, I would randomly assign each student a number (from 1 to 10,000), then randomly select 100 numbers.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://research-methodology.net/sampling-in-primary-data-collection/random-sampling/"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#stratified-random-sample",
+    "href": "slides/02-overview-slides.html#stratified-random-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Stratified Random Sample",
+    "text": "Stratified Random Sample\n\nStratified Sampling: Subdivide the population into different subgroups (strata) that share the same characteristics, then draw a simple random sample from each subgroup.\nHomogeneous within strata; Non-homogeneous between strata"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#stratified-random-sample-example",
+    "href": "slides/02-overview-slides.html#stratified-random-sample-example",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Stratified Random Sample Example",
+    "text": "Stratified Random Sample Example\n\n\nExample: Divide Marquette students into groups by colleges, then SRS for each group."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#cluster-sampling",
+    "href": "slides/02-overview-slides.html#cluster-sampling",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Cluster Sampling",
+    "text": "Cluster Sampling\n\nCluster Sampling: Divide the population into clusters, then randomly select some of those clusters, and then choose all the members from those selected clusters.\nHomogeneous between clusters; Non-homogeneous within clusters"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#cluster-sampling-example",
+    "href": "slides/02-overview-slides.html#cluster-sampling-example",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Cluster Sampling Example",
+    "text": "Cluster Sampling Example\n\n\nExample: Study 4720 student drinking habit by dividing the students into 9 groups, then randomly selecting 3 and interviewing all of the students in each of those clusters."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#categorical-vs.-numerical-variables",
+    "href": "slides/02-overview-slides.html#categorical-vs.-numerical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Categorical vs. Numerical Variables",
+    "text": "Categorical vs. Numerical Variables\n\n\nA categorical variable provides non-numerical information which can be placed in one (and only one) category from two or more categories.\n\nGender (Male 👨, Female 👩, Trans 🏳️‍🌈) \nClass (Freshman, Sophomore, Junior, Senior, Graduate) \nCountry (USA 🇺🇸, Canada 🇨🇦, UK 🇬🇧, Germany 🇩🇪, Japan 🇯🇵, Korea 🇰🇷) \n\n\n\nA numerical variable is recorded in a numerical value representing counts or measurements.\n\n GPA \n The number of relationships you’ve had \n Height"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#numerical-variables-can-be-discrete-or-continuous",
+    "href": "slides/02-overview-slides.html#numerical-variables-can-be-discrete-or-continuous",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Numerical Variables can be Discrete or Continuous",
+    "text": "Numerical Variables can be Discrete or Continuous\n\nA discrete variable takes on values of a finite or countable number.\n\nA continuous variable takes on values anywhere over a particular range without gaps or jumps.\n\n GPA is continuous because it can be any value between 0 and 4. \n The number of relationships you’ve had is discrete because you can count the number and it is finite.\n Height is continuous because it can be any number within a range."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#categorical-variables-are-usually-recorded-as-numbers",
+    "href": "slides/02-overview-slides.html#categorical-variables-are-usually-recorded-as-numbers",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Categorical Variables are Usually Recorded as Numbers",
+    "text": "Categorical Variables are Usually Recorded as Numbers\n\nGender (Male = 0, Female = 1, Trans = 2) \nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5) \nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301) \nUnited Airlines boarding groups\n\nThe numbers represent categories only; differences between them are meaningless.\n\nCanada - USA = 101 - 100 = 1?\nGraduate - Sophomore = 5 - 2 = 3 = Junior?\n\n\nWe need to learn the level of measurements to know whether or which arithmetic operations are meaningful."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#levels-of-measurements-nominal-and-ordinal-for-categorical-variables",
+    "href": "slides/02-overview-slides.html#levels-of-measurements-nominal-and-ordinal-for-categorical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Levels of Measurements: Nominal and Ordinal for Categorical Variables",
+    "text": "Levels of Measurements: Nominal and Ordinal for Categorical Variables\n\n\nNominal: The data can NOT be ordered in a meaningful or natural way.\n\n\nGender (Male = 0, Female = 1, Trans = 2)  is nominal because Male, Female and Trans cannot be ordered.\n\nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301)  is nominal.\n\n\n\n\n\n\nOrdinal: The data can be arranged in some meaningful order, but differences between data values can NOT be determined or are meaningless.\n\n\nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5)  is ordinal because Sophomore is one class higher than Freshman."
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#converting-numerical-to-categorical",
+    "href": "slides/02-overview-slides.html#converting-numerical-to-categorical",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Converting Numerical to Categorical",
+    "text": "Converting Numerical to Categorical\n\nYou’ve already seen an example.\n\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
+  },
+  {
+    "objectID": "slides/02-overview-slides.html#section-5",
+    "href": "slides/02-overview-slides.html#section-5",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "",
+    "text": "Identify data type of each variable in the Marquette men’s basketball player data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+  },
+  {
+    "objectID": "slides/02-overview.html#statistics-as-numeric-records",
+    "href": "slides/02-overview.html#statistics-as-numeric-records",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as Numeric Records",
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records."
+  },
+  {
+    "objectID": "slides/02-overview.html#statistics-as-numeric-records-1",
+    "href": "slides/02-overview.html#statistics-as-numeric-records-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as Numeric Records",
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records.\n\n\n\n\n\n\nhttps://slamgoods.com/products/jordan-collectors-issue"
+  },
+  {
+    "objectID": "slides/02-overview.html#section-1",
+    "href": "slides/02-overview.html#section-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "",
+    "text": "https://www.amazon.com/Funny-Statistics-Shirt-Definition/dp/B07JKMCDR2?customId=B07537PB8C&customizationToken=MC_Assembly_1%23B07537PB8C&th=1&psc=1"
+  },
+  {
+    "objectID": "slides/02-overview.html#statistics-as-a-discipline",
+    "href": "slides/02-overview.html#statistics-as-a-discipline",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics as a Discipline",
+    "text": "Statistics as a Discipline\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Statistics\n\n\n\n\n. . .\n\n\nStatistics is a Science of Data.\n\n. . .\n\nA science of data using statistical thinking, methods and models.\n\n. . .\n\n🤔 But wait, then what is DATA SCIENCE ❓"
+  },
+  {
+    "objectID": "slides/02-overview.html#difference-between-statistics-and-data-science",
+    "href": "slides/02-overview.html#difference-between-statistics-and-data-science",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Difference between Statistics and Data Science",
+    "text": "Difference between Statistics and Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\nMy ChatGPT says:\n\nStatistics is foundational to Data Science, but Data Science also includes programming, data engineering, machine learning, and business communication."
+  },
+  {
+    "objectID": "slides/02-overview.html#data-science-life-cycle",
+    "href": "slides/02-overview.html#data-science-life-cycle",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Science Life Cycle",
+    "text": "Data Science Life Cycle"
+  },
+  {
+    "objectID": "slides/02-overview.html#uc-santa-cruz-department-of-statistics-courses",
+    "href": "slides/02-overview.html#uc-santa-cruz-department-of-statistics-courses",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "UC Santa Cruz Department of Statistics Courses",
+    "text": "UC Santa Cruz Department of Statistics Courses\n\n\n\nSTAT 5 – Statistics\nSTAT 7 – Statistical Methods for the Biological, Environmental, and Health Sciences\nSTAT 17 – Statistical Methods for Business and Economics\nSTAT 80A – Gambling and Gaming\nSTAT 80B – The Art of Data Visualization\nSTAT 108 – Linear Regression\nSTAT 131 – Introduction to Probability Theory\nSTAT 132 – Classical and Bayesian Inference\nSTAT 202 – Linear Models in SAS\nSTAT 203 – Introduction to Probability Theory\nSTAT 204 – Introduction to Statistical Data Analysis\nSTAT 205 – Introduction to Classical Statistical Learning\nSTAT 205B – Intermediate Classical Inference\nSTAT 206 – Applied Bayesian Statistics\nSTAT 206B – Intermediate Bayesian Inference\nSTAT 207 – Intermediate Bayesian Statistical Modeling\nSTAT 208 – Linear Statistical Models\nSTAT 209 – Generalized Linear Models\n\n\n\nSTAT 221 – Statistical Machine Learning\nSTAT 222 – Bayesian Nonparametric Methods\nSTAT 223 – Time Series Analysis\nSTAT 224 – Bayesian Survival Analysis and Clinical Design\nSTAT 225 – Multivariate Statistical Methods\nSTAT 226 – Spatial Statistics\nSTAT 227 – Statistical Learning and High-Dimensional Data Analysis\nSTAT 229 – Advanced Bayesian Computation\nSTAT 243 – Stochastic Processes\nSTAT 244 – Bayesian Decision Theory\nSTAT 246 – Probability Theory with Markov Chains\nSTAT 266A – Data Visualization and Statistical Programming in R\nSTAT 266B – Advanced Statistical Programming in R\nSTAT 266C – Introduction to Data Wrangling\n\n\n️⬛ Methods and models\n🟩 Other data science related topics"
+  },
+  {
+    "objectID": "slides/02-overview.html#data-science-may-now-be-a-broader-view-of-statistics",
+    "href": "slides/02-overview.html#data-science-may-now-be-a-broader-view-of-statistics",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Science May Now Be a Broader View of Statistics",
+    "text": "Data Science May Now Be a Broader View of Statistics\nCollection, organization, analysis, interpretation and presentation of data."
+  },
+  {
+    "objectID": "slides/02-overview.html#what-we-learn-in-this-course",
+    "href": "slides/02-overview.html#what-we-learn-in-this-course",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "What We Learn In this Course",
+    "text": "What We Learn In this Course\n\n\n\n\n\nOpenIntro Statistics Contents"
+  },
+  {
+    "objectID": "slides/02-overview.html#we-focus-on-statistical-inference",
+    "href": "slides/02-overview.html#we-focus-on-statistical-inference",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "We Focus On Statistical Inference",
+    "text": "We Focus On Statistical Inference\n\nWe spend most of time on various statistical methods for analyzing data.\n\nLearn useful information\n\nabout the population we are interested (e.g. All Marquette students)\nfrom our sample data (e.g. Students in MATH 4720)\nthrough statistical inferential methods, including estimation and testing (e.g. Confidence intervals)"
+  },
+  {
+    "objectID": "slides/02-overview.html#statistics-is-a-science-of-data-so-what-is-data",
+    "href": "slides/02-overview.html#statistics-is-a-science-of-data-so-what-is-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Statistics is a Science of Data, so What is Data?",
+    "text": "Statistics is a Science of Data, so What is Data?\n\nData: A set of objects on which we observe or measure one or more characteristics.\nObjects are individuals, observations, subjects or cases in statistical studies.\nA characteristic or attribute is called a variable because it varies from one to another.\n\n. . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+  },
+  {
+    "objectID": "slides/02-overview.html#data-matrix",
+    "href": "slides/02-overview.html#data-matrix",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Data Matrix",
+    "text": "Data Matrix\n\nEach row corresponds to a unique case or observational unit.\nEach column represents a characteristic or variable.\nThis structure allows new cases to be added as rows or new variables as new columns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+  },
+  {
+    "objectID": "slides/02-overview.html#target-population",
+    "href": "slides/02-overview.html#target-population",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Target Population",
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nWhat is the average GPA of currently enrolled Marquette students?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll Marquette students that are currently enrolled."
+  },
+  {
+    "objectID": "slides/02-overview.html#target-population-1",
+    "href": "slides/02-overview.html#target-population-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Target Population",
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nDoes a new drug reduce mortality in patients with severe heart disease?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll people with severe heart disease."
+  },
+  {
+    "objectID": "slides/02-overview.html#sample-data",
+    "href": "slides/02-overview.html#sample-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Sample Data",
+    "text": "Sample Data\n\n\n\nSometimes, it’s possible to collect data of all cases we are interested.\nMost of the time, it is too expensive to collect data for every case in a population.\nWhat about the average GPA of all students in Illinois? the U.S.? the world? 😱 😱 😱\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nSample: A subset of cases selected from a population.\nCompute the average GPA of the sample data\nHope sample avg GPA \\(\\approx\\) population avg GPA. 🙏"
+  },
+  {
+    "objectID": "slides/02-overview.html#good-sample-vs.-bad-sample",
+    "href": "slides/02-overview.html#good-sample-vs.-bad-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Good Sample vs. Bad Sample",
+    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a sample data of the target population Marquette students?\n\n. . .\n\nIs this 4720/5720 class a “good” sample of the target population?\n\n. . ."
+  },
+  {
+    "objectID": "slides/02-overview.html#good-sample-vs.-bad-sample-1",
+    "href": "slides/02-overview.html#good-sample-vs.-bad-sample-1",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Good Sample vs. Bad Sample",
+    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a “good” sample of the target population?\n\n\nThe sample is convenient to be collected, but it may NOT be representative of the population.\nBiased sample: The average GPA of the class may be far from that of all Marquette undergrads."
+  },
+  {
+    "objectID": "slides/02-overview.html#how-and-why-a-representative-sample",
+    "href": "slides/02-overview.html#how-and-why-a-representative-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "How and Why a Representative Sample?",
+    "text": "How and Why a Representative Sample?\n\nWe always seek to randomly select a sample from a population.\nLots of statistical methods are based on randomness assumption."
+  },
+  {
+    "objectID": "slides/02-overview.html#two-types-of-studies-to-collect-sample-data",
+    "href": "slides/02-overview.html#two-types-of-studies-to-collect-sample-data",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Two Types of Studies to Collect Sample Data",
+    "text": "Two Types of Studies to Collect Sample Data\n\n\nObservational Study: Observe and measure characteristics/variables, and do NOT attempt to modify or intervene with the subjects being studied.\n\n\n Sample from 1️⃣ the heart disease and 2️⃣ heart disease-free populations. Then record the fat content of the diets for the two groups. \n\n\n\n. . .\n\n\nExperimental Study: Apply some treatment(s) and then proceed to observe its responses or effects on the individuals (experimental units).\n\nAssign volunteers to one of several diets with different levels of dietary fat (treatments). Then compare the treatments with respect to the incidence of hear disease after a period of time. \n\n\n\n. . .\n\nObservational or Experimental?\n\nRandomly select 40 males and 40 females to see the difference in blood pressure levels between male and female. \n Test the effects of a new drug by randomly dividing patients into 3 groups (high dosage, low dosage, placebo)."
+  },
+  {
+    "objectID": "slides/02-overview.html#limitation-of-observational-studies-confounding",
+    "href": "slides/02-overview.html#limitation-of-observational-studies-confounding",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Limitation of Observational Studies: Confounding",
+    "text": "Limitation of Observational Studies: Confounding\n\n\nConfounder: A variable NOT included in a study but affects the variables in the study.\nObserve past data show that increases in ice cream sales are associated with increases in drownings, and we conclude that eating ice cream causes drownings. 😱 😕 ⁉️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nWhat is the confounder that is not in the data, but affects ice cream sales and the number of drownings?\n\n. . .\n\n\nTemperature: as temperature increases, ice cream sales increase and the number of drownings goes up because more people swim."
+  },
+  {
+    "objectID": "slides/02-overview.html#causal-relationship",
+    "href": "slides/02-overview.html#causal-relationship",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Causal Relationship",
+    "text": "Causal Relationship\n\nMaking causal conclusions based on experiments is often more reasonable than making the same causal conclusions based on observational data.\nObservational studies are generally only sufficient to show associations, not causality."
+  },
+  {
+    "objectID": "slides/02-overview.html#simple-random-sample",
+    "href": "slides/02-overview.html#simple-random-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Simple Random Sample",
+    "text": "Simple Random Sample\n\nRandom Sample: Each member of a population is equally likely to be selected.\nSimple Random Sample (SRS): Every possible sample of sample size \\(n\\) has the same chance to be chosen.\nExample: If sample 100 students from all, say 10,000 Marquette students, I would randomly assign each student a number (from 1 to 10,000), then randomly select 100 numbers.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://research-methodology.net/sampling-in-primary-data-collection/random-sampling/"
+  },
+  {
+    "objectID": "slides/02-overview.html#stratified-random-sample",
+    "href": "slides/02-overview.html#stratified-random-sample",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Stratified Random Sample",
+    "text": "Stratified Random Sample\n\nStratified Sampling: Subdivide the population into different subgroups (strata) that share the same characteristics, then draw a simple random sample from each subgroup.\nHomogeneous within strata; Non-homogeneous between strata"
+  },
+  {
+    "objectID": "slides/02-overview.html#stratified-random-sample-example",
+    "href": "slides/02-overview.html#stratified-random-sample-example",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Stratified Random Sample Example",
+    "text": "Stratified Random Sample Example\n\n\nExample: Divide Marquette students into groups by colleges, then SRS for each group."
+  },
+  {
+    "objectID": "slides/02-overview.html#cluster-sampling",
+    "href": "slides/02-overview.html#cluster-sampling",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Cluster Sampling",
+    "text": "Cluster Sampling\n\nCluster Sampling: Divide the population into clusters, then randomly select some of those clusters, and then choose all the members from those selected clusters.\nHomogeneous between clusters; Non-homogeneous within clusters"
+  },
+  {
+    "objectID": "slides/02-overview.html#cluster-sampling-example",
+    "href": "slides/02-overview.html#cluster-sampling-example",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Cluster Sampling Example",
+    "text": "Cluster Sampling Example\n\n\nExample: Study 4720 student drinking habit by dividing the students into 9 groups, then randomly selecting 3 and interviewing all of the students in each of those clusters."
+  },
+  {
+    "objectID": "slides/02-overview.html#categorical-vs.-numerical-variables",
+    "href": "slides/02-overview.html#categorical-vs.-numerical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Categorical vs. Numerical Variables",
+    "text": "Categorical vs. Numerical Variables\n\n\nA categorical variable provides non-numerical information which can be placed in one (and only one) category from two or more categories.\n\nGender (Male 👨, Female 👩, Trans 🏳️‍🌈) \nClass (Freshman, Sophomore, Junior, Senior, Graduate) \nCountry (USA 🇺🇸, Canada 🇨🇦, UK 🇬🇧, Germany 🇩🇪, Japan 🇯🇵, Korea 🇰🇷) \n\n\n\nA numerical variable is recorded in a numerical value representing counts or measurements.\n\n GPA \n The number of relationships you’ve had \n Height"
+  },
+  {
+    "objectID": "slides/02-overview.html#numerical-variables-can-be-discrete-or-continuous",
+    "href": "slides/02-overview.html#numerical-variables-can-be-discrete-or-continuous",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Numerical Variables can be Discrete or Continuous",
+    "text": "Numerical Variables can be Discrete or Continuous\n\nA discrete variable takes on values of a finite or countable number.\n\nA continuous variable takes on values anywhere over a particular range without gaps or jumps.\n\n GPA is continuous because it can be any value between 0 and 4. \n The number of relationships you’ve had is discrete because you can count the number and it is finite.\n Height is continuous because it can be any number within a range."
+  },
+  {
+    "objectID": "slides/02-overview.html#categorical-variables-are-usually-recorded-as-numbers",
+    "href": "slides/02-overview.html#categorical-variables-are-usually-recorded-as-numbers",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Categorical Variables are Usually Recorded as Numbers",
+    "text": "Categorical Variables are Usually Recorded as Numbers\n\nGender (Male = 0, Female = 1, Trans = 2) \nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5) \nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301) \nUnited Airlines boarding groups\n\nThe numbers represent categories only; differences between them are meaningless.\n\nCanada - USA = 101 - 100 = 1?\nGraduate - Sophomore = 5 - 2 = 3 = Junior?\n\n\nWe need to learn the level of measurements to know whether or which arithmetic operations are meaningful."
+  },
+  {
+    "objectID": "slides/02-overview.html#levels-of-measurements-nominal-and-ordinal-for-categorical-variables",
+    "href": "slides/02-overview.html#levels-of-measurements-nominal-and-ordinal-for-categorical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Levels of Measurements: Nominal and Ordinal for Categorical Variables",
+    "text": "Levels of Measurements: Nominal and Ordinal for Categorical Variables\n\n\nNominal: The data can NOT be ordered in a meaningful or natural way.\n\n\nGender (Male = 0, Female = 1, Trans = 2)  is nominal because Male, Female and Trans cannot be ordered.\n\nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301)  is nominal.\n\n\n\n\n\n\nOrdinal: The data can be arranged in some meaningful order, but differences between data values can NOT be determined or are meaningless.\n\n\nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5)  is ordinal because Sophomore is one class higher than Freshman."
+  },
+  {
+    "objectID": "slides/02-overview.html#converting-numerical-to-categorical",
+    "href": "slides/02-overview.html#converting-numerical-to-categorical",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Converting Numerical to Categorical",
+    "text": "Converting Numerical to Categorical\n\nYou’ve already seen an example.\n\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
+  },
+  {
+    "objectID": "slides/02-overview.html#section-5",
+    "href": "slides/02-overview.html#section-5",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "",
+    "text": "Identify data type of each variable in the Marquette men’s basketball player data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MATH 4720 (MSSC 5720) Statistical Methods Fall 2025",
+    "section": "",
+    "text": "The website is for both Section 101 2 - 3:15 PM and Section 102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nSlides\nReading\nCode\nHomework\nQuiz\nProject\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ overview of data\n\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n🖥️\n\n\n\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n\n\n\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n\n\n\n✍️ HW1\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n🖥️\n\n\n\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 17\nRandom Variables\n\n\n\n\n\n\n\n\n5\nMon, Sep 22\nDiscrete Probability Distributions\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions\n\n\n\nHW 1 Due\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️\n\n\n✍️ HW2\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem\n\n\n\n\n\n✅ Team up Due\n\n\n7\nMon, Oct 6\nExam 1\n🖥️\n\n\n\n\n\n\n\n\nWed, Oct 8\nInference about Population Means: Confidence Intervals\n\n\n\nHW 2 Due\n\n\n✅ Proposal Due\n\n\n8\nMon, Oct 13\nInference about Population Means: Hypothesis Testing\n🖥️\n\n\n\n\n\n\n\n\nWed, Oct 15\nInference about Population Means: Hypothesis Testing\n\n\n\n✍️ HW3\n\n✅ Materials Due\n\n\n9\nMon, Oct 20\nComparing Two Population Means\n\n\n\n\n\n\n\n\n\nWed, Oct 22\nComparing Two Population Means\n\n\n\n\n\n\n\n\n10\nMon, Oct 27\nInference about Population Variances\n\n\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Population Variances\n🖥️\n\n\n\n\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA)\n🖥️\n\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA)\n\n\n\n\n\n\n\n\n12\nMon, Nov 10\nExam 2\n🖥️\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n\n\n\nHW 3 Due\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\n\n\n\n\nProposal-2 Due\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\n\n\n✍️ HW4\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\n\n\n\n\n✅ Project-2 Guideline\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\n\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\n\n\n\n\n\n\n\n16\n\nWed, Dec 10\n\nFinal Exam (Sec101-2PM)\n\n\n\nHW 4 Due\n\n\n\n\n\nFri, Dec 12\nFinal Exam (Sec102-3:30PM)\n\n\n\n\n\n✅ Final project guideline\n\n\n\n\nI reserve the right to make changes to the schedule.",
+    "crumbs": [
+      "Course Information",
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "present-description-2.html",
+    "href": "present-description-2.html",
+    "title": "Midterm Presentation II - Classification",
+    "section": "",
+    "text": "Proposal. Please send me a one-page PDF describing what you are going to do for your project (no word limit) with your project title by Tuesday, 4/8 11:59 PM.\nPresentation. You will be presenting your project on Tuesday, 4/15 in class.\nMaterials. Please share your entire work (slides, code, data, etc) by Friday, 4/18 11:59 PM."
+  },
+  {
+    "objectID": "present-description-2.html#proposal",
+    "href": "present-description-2.html#proposal",
+    "title": "Midterm Presentation II - Classification",
+    "section": "Proposal",
+    "text": "Proposal\n\nEach one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.\n\nYour proposal (in PDF) should include three parts:\n\nProject title\n\nThe goal of your project. For example, what is the research question you’d like to answer? What machine learning method/model/algorithm you’d like to introduce? What data you’d like to use for analysis or demonstration? etc.\n\n\nAlthough it is risky, you can change your project topic after you submit your proposal if you decide to do something else."
+  },
+  {
+    "objectID": "present-description-2.html#presentation",
+    "href": "present-description-2.html#presentation",
+    "title": "Midterm Presentation II - Classification",
+    "section": "Presentation",
+    "text": "Presentation\n\nEach group presentation should be between 10 and 11 minute long, followed by 1 to 2 minute Q&A. If your presentation is too short or too long, every one of you loses 5 points of your project grade.\nEvery group member has to present some part of the group work. The one who does not present receives no point.\nQuestions are REQUIRED during Q&A. Each group is required to ask as least one question. More questions are welcome. If you, as a group, don’t ask a question when you should, every one of you loses 5 points of your project grade.\n\n\n\n\nTeam Presenting\nTeam Asking Questions\n\n\n\nTeam 1\nTeam 6\n\n\nTeam 2\nTeam 1\n\n\nTeam 3\nTeam 2\n\n\nTeam 4\nTeam 3\n\n\nTeam 5\nTeam 4\n\n\nTeam 6\nTeam 5"
+  },
+  {
+    "objectID": "present-description-2.html#materials",
+    "href": "present-description-2.html#materials",
+    "title": "Midterm Presentation II - Classification",
+    "section": "Materials",
+    "text": "Materials\n\nEach one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.\nYou need to share your entire work, including slides, code, and data if applicable.\nYour code should be able to reproduce all the numerical results, outputs, tables, and figures shown in the slides, including the source of the raw data (where you find and load the data) if the project is about data analysis."
+  },
+  {
+    "objectID": "present-description-2.html#data-analytics",
+    "href": "present-description-2.html#data-analytics",
+    "title": "Midterm Presentation II - Classification",
+    "section": "Data Analytics",
+    "text": "Data Analytics\nFor your DA project, you need to\n\nDescribe the selected data set.\nExplain and show why the chosen model(s) is appropriate for answering your research questions and better than others.\nInterpret your analysis result.\n\nBelow are some data repositories you can start with, but you are encouraged to explore more and find your favorite one.\n\nTidyTuesday\nKaggle\nAwesome Public Datasets\nHarvard Dataverse\nUCI Machine Learning Repository\nFiveThirtyEight"
+  },
+  {
+    "objectID": "present-description-2.html#modelalgorithm",
+    "href": "present-description-2.html#modelalgorithm",
+    "title": "Midterm Presentation II - Classification",
+    "section": "Model/Algorithm",
+    "text": "Model/Algorithm\nFor your MA project, you need to\n\nDescribe the intuition and idea of the method. What are the pros and cons of the method?\nProvide the mathematical expression of the model/algorithm. Explain the model and its properties, and how we do supervised learning with the model/algorithm.\nCompare the chosen method with other methods learned in class. Determine which method performs better under what conditions.\nDemo how to implement the method using a programming language for supervised learning."
+  },
+  {
+    "objectID": "present-description-2.html#group-performance-evaluation",
+    "href": "present-description-2.html#group-performance-evaluation",
+    "title": "Midterm Presentation II - Classification",
+    "section": "Group Performance Evaluation",
+    "text": "Group Performance Evaluation\n\nYou will need to evaluate all group projects except the one you work on.\n\nYou evaluate group performance based on the rubric attached. Four evaluation criteria are considered:\n\nProject Content and Organization (8 pts)\nPresentation Material (Slides) Quality (4 pts)\nOral Presentation Skill and Delivery (4 pts)\nInteractions and Q&A (4 pts)\n\n\nThe total points of a project presentation is 20 points.\nEvaluation sheets will be provided on the presentation day.\n\nHow do you get the full points for each category? Check the rubric below. \n\n\nContent and Organization (DA)\n\nBeautiful visualization helps find out relationship of variables and specification of models\nAll questions are answered accurately by the models\nDiscuss how and why the models are chosen\nApply sophisticated models and detailed analysis\nAll ideas are presented in logical order\n\n\n\nContent and Organization (MA)\n\nExplain the method clearly and accuratly\nShow the pros and cons of the method, and compare with the methods learned in class.\nShow how the method can be implemednted for supervised learning.\nAll ideas are presented in logical order\n\n\n\nPresentation Material Quality\n\nPresentation material show code and output beautifully\nPresentation material clearly aid the speaker in telling a coherent story\nAll tables and graphics are informative and related to the topic and make it easier to understand\nAttractive design, layout, and neatness.\n\n\n\nOral Presentation Skill\n\nGood volume and energy\nProper pace and diction\nAvoidance of distracting gestures\n\n\n\nInteractions and Q&A\n\nGood eye contact with audience\nExcellent listening skills\nAnswers audience questions with authority and accuracy\n\n\nAfter you evaluate all group project presentations, you rank them from 1st to last based on their earned points.\nNo two groups receive the same ranking. If you give two or more groups some points, you still need to give them a different ranking, deciding which team deserves a higher ranking according to your preference."
+  },
+  {
+    "objectID": "present-work.html",
+    "href": "present-work.html",
+    "title": "Midterm Project I Proposal and Presentation",
+    "section": "",
+    "text": "The presentation order is determined by the time you sent me your member info (c(\"John\", \"Jeremy\", \"Praful\") is the first to let me know, followed by c(\"Sajjad\", \"Tanjina\", \"Dewan\"), etc) and random sampling as follows.\n\nteam_lst &lt;- list(c(\"John\", \"Jeremy\", \"Praful\"), \n                 c(\"Sajjad\", \"Tanjina\", \"Dewan\"),\n                 c(\"Ethan\", \"Navid\", \"Sylvester\"), \n                 c(\"Violet\", \"Vanessa\", \"Michele\"), \n                 c(\"Rakesh\", \"Daniel\", \"Jeremy\"), \n                 c(\"Sai\", \"Rohith\", \"Shristi\"))\nset.seed(6250)\nteam_lst[sample(1:6, 6)]\n\n[[1]]\n[1] \"Sajjad\"  \"Tanjina\" \"Dewan\"  \n\n[[2]]\n[1] \"John\"   \"Jeremy\" \"Praful\"\n\n[[3]]\n[1] \"Violet\"  \"Vanessa\" \"Michele\"\n\n[[4]]\n[1] \"Rakesh\" \"Daniel\" \"Jeremy\"\n\n[[5]]\n[1] \"Sai\"     \"Rohith\"  \"Shristi\"\n\n[[6]]\n[1] \"Ethan\"     \"Navid\"     \"Sylvester\""
+  },
+  {
+    "objectID": "present-work.html#presentation-order",
+    "href": "present-work.html#presentation-order",
+    "title": "Midterm Project I Proposal and Presentation",
+    "section": "",
+    "text": "The presentation order is determined by the time you sent me your member info (c(\"John\", \"Jeremy\", \"Praful\") is the first to let me know, followed by c(\"Sajjad\", \"Tanjina\", \"Dewan\"), etc) and random sampling as follows.\n\nteam_lst &lt;- list(c(\"John\", \"Jeremy\", \"Praful\"), \n                 c(\"Sajjad\", \"Tanjina\", \"Dewan\"),\n                 c(\"Ethan\", \"Navid\", \"Sylvester\"), \n                 c(\"Violet\", \"Vanessa\", \"Michele\"), \n                 c(\"Rakesh\", \"Daniel\", \"Jeremy\"), \n                 c(\"Sai\", \"Rohith\", \"Shristi\"))\nset.seed(6250)\nteam_lst[sample(1:6, 6)]\n\n[[1]]\n[1] \"Sajjad\"  \"Tanjina\" \"Dewan\"  \n\n[[2]]\n[1] \"John\"   \"Jeremy\" \"Praful\"\n\n[[3]]\n[1] \"Violet\"  \"Vanessa\" \"Michele\"\n\n[[4]]\n[1] \"Rakesh\" \"Daniel\" \"Jeremy\"\n\n[[5]]\n[1] \"Sai\"     \"Rohith\"  \"Shristi\"\n\n[[6]]\n[1] \"Ethan\"     \"Navid\"     \"Sylvester\""
+  },
+  {
+    "objectID": "present-work.html#project-materials",
+    "href": "present-work.html#project-materials",
+    "title": "Midterm Project I Proposal and Presentation",
+    "section": "Project Materials",
+    "text": "Project Materials\n\nGroup 1 (Sajjad, Tanjina, Dewan) Predicting Life Expectancy: proposal\nGroup 2 (John, Jeremy, Praful) Poisson Regression: proposal\nGroup 3 (Violet, Vanessa, Michele) Is Ridge Regression or LASSO a better model to predict the price of houses in Ames, Iowa: proposal\nGroup 4 (Rakesh, Daniel, Jeremy) Predicting Abalone Age Using Regression Models: proposal\nGroup 5 (Sai, Rohith, Shristi) Analyzing the Impact of Housing Features on Sale Prices: A Regression-Based Study on the Ames Housing Dataset : proposal\nGroup 6 (Ethan, Navid, Sylvester) Predicting Car Sticker Price Regression: proposal"
+  },
+  {
+    "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
+    "href": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
+    "title": "Attribution-ShareAlike 4.0 International",
+    "section": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
+    "text": "Creative Commons Attribution-ShareAlike 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\n\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nBY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicense Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\n\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\nA. reproduce and Share the Licensed Material, in whole or in part; and\nB. produce, reproduce, and Share Adapted Material.\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.\nDownstream recipients.\nA. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nB. Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.\nC. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\nA. retain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nB. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nC. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\n\nShareAlike.\n\nIn addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.\n\nThe Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.\nYou must include the text of, or the URI or hyperlink to, the Adapter’s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.\nYou may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter’s License You apply.\n\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\n\n\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUnless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.\nTo the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\n\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\n\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\n\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
+  },
+  {
+    "objectID": "present-description.html",
+    "href": "present-description.html",
+    "title": "Midterm Presentation I - Regression",
+    "section": "",
+    "text": "Team up! You will be working as a group of 3. One of you, please email me your team member list by Friday, 2/21 11:59 PM\nProposal. Please send me a one-page PDF describing what you are going to do for your project (no word limit) with your project title by Friday, 2/28 11:59 PM.\nPresentation. You will be presenting your project on Thursday, 3/6 in class.\nMaterials. Please share your entire work (slides, code, data, etc) by Friday, 3/7 11:59 PM."
+  },
+  {
+    "objectID": "present-description.html#team-up",
+    "href": "present-description.html#team-up",
+    "title": "Midterm Presentation I - Regression",
+    "section": "Team up!",
+    "text": "Team up!\n\nEach one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.\nYou will be randomly assigned to a group if you do not belong to any group before the deadline."
+  },
+  {
+    "objectID": "present-description.html#proposal",
+    "href": "present-description.html#proposal",
+    "title": "Midterm Presentation I - Regression",
+    "section": "Proposal",
+    "text": "Proposal\n\nEach one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.\n\nYour proposal (in PDF) should include three parts:\n\nProject title\n\nThe goal of your project. For example, what is the research question you’d like to answer? What machine learning method/model/algorithm you’d like to introduce? What data you’d like to use for analysis or demonstration? etc.\n\n\nAlthough it is risky, you can change your project topic after you submit your proposal if you decide to do something else."
+  },
+  {
+    "objectID": "present-description.html#presentation",
+    "href": "present-description.html#presentation",
+    "title": "Midterm Presentation I - Regression",
+    "section": "Presentation",
+    "text": "Presentation\n\nEach group presentation should be between 10 and 11 minute long, followed by 1 to 2 minute Q&A. If your presentation is too short or too long, every one of you loses 5 points of your project grade.\nEvery group member has to present some part of the group work. The one who does not present receives no point.\nQuestions are encouraged during Q&A. Everyone is welcome to ask any questions about the projects."
+  },
+  {
+    "objectID": "present-description.html#materials",
+    "href": "present-description.html#materials",
+    "title": "Midterm Presentation I - Regression",
+    "section": "Materials",
+    "text": "Materials\n\nEach one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.\nYou need to share your entire work, including slides, code, and data if applicable.\nYour code should be able to reproduce all the numerical results, outputs, tables, and figures shown in the slides, including the source of the raw data (where you find and load the data) if the project is about data analysis."
+  },
+  {
+    "objectID": "present-description.html#data-analytics",
+    "href": "present-description.html#data-analytics",
+    "title": "Midterm Presentation I - Regression",
+    "section": "Data Analytics",
+    "text": "Data Analytics\nFor your DA project, you need to\n\nDescribe the selected data set.\nExplain and show why the chosen model(s) is appropriate for answering your research questions and better than others.\nInterpret your analysis result.\n\nBelow are some data repositories you can start with, but you are encouraged to explore more and find your favorite one.\n\nTidyTuesday\nKaggle\nAwesome Public Datasets\nHarvard Dataverse\nUCI Machine Learning Repository\nFiveThirtyEight"
+  },
+  {
+    "objectID": "present-description.html#modelalgorithm",
+    "href": "present-description.html#modelalgorithm",
+    "title": "Midterm Presentation I - Regression",
+    "section": "Model/Algorithm",
+    "text": "Model/Algorithm\nFor your MA project, you need to\n\nDescribe the intuition and idea of the method. What are the pros and cons of the method?\nProvide the mathematical expression of the model/algorithm. Explain the model and its properties, and how we do supervised learning with the model/algorithm.\nCompare the chosen method with other methods learned in class. Determine which method performs better under what conditions.\nDemo how to implement the method using a programming language for supervised learning."
+  },
+  {
+    "objectID": "present-description.html#group-performance-evaluation",
+    "href": "present-description.html#group-performance-evaluation",
+    "title": "Midterm Presentation I - Regression",
+    "section": "Group Performance Evaluation",
+    "text": "Group Performance Evaluation\n\nYou will need to evaluate all group projects except the one you work on.\n\nYou evaluate group performance based on the rubric attached. Four evaluation criteria are considered:\n\nProject Content and Organization (8 pts)\nPresentation Material (Slides) Quality (4 pts)\nOral Presentation Skill and Delivery (4 pts)\nInteractions and Q&A (4 pts)\n\n\nThe total points of a project presentation is 20 points.\nEvaluation sheets will be provided on the presentation day.\n\nHow do you get the full points for each category? Check the rubric below. \n\n\nContent and Organization (DA)\n\nBeautiful visualization helps find out relationship of variables and specification of models\nAll questions are answered accurately by the models\nDiscuss how and why the models are chosen\nApply sophisticated models and detailed analysis\nAll ideas are presented in logical order\n\n\n\nContent and Organization (MA)\n\nExplain the method clearly and accuratly\nShow the pros and cons of the method, and compare with the methods learned in class.\nShow how the method can be implemednted for supervised learning.\nAll ideas are presented in logical order\n\n\n\nPresentation Material Quality\n\nPresentation material show code and output beautifully\nPresentation material clearly aid the speaker in telling a coherent story\nAll tables and graphics are informative and related to the topic and make it easier to understand\nAttractive design, layout, and neatness.\n\n\n\nOral Presentation Skill\n\nGood volume and energy\nProper pace and diction\nAvoidance of distracting gestures\n\n\n\nInteractions and Q&A\n\nGood eye contact with audience\nExcellent listening skills\nAnswers audience questions with authority and accuracy\n\n\nAfter you evaluate all group project presentations, you rank them from 1st to last based on their earned points.\nNo two groups receive the same ranking. If you give two or more groups some points, you still need to give them a different ranking, deciding which team deserves a higher ranking according to your preference."
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "MATH 4720/5720 Fall 2025",
+    "section": "",
+    "text": "This course introduces the ideas of data summary and visualization, probability, and statistics with applications to natural and social sciences and daily life. Topics include but not limited to: random variables, discrete and continuous probability distributions, sampling distributions, confidence intervals, hypothesis testing, analysis of variance, and linear regression. This course builds a foundation for statistical inference, machine learning, and data modeling.\nThe course will assume facility with using the internet and a personal computer. A portion of the course involves  programming using RStudio or Posit Cloud, but prior coding experience is not required.",
+    "crumbs": [
+      "Course Information",
+      "Overview"
+    ]
   },
   {
     "objectID": "slides/01-syllabus.html",
@@ -273,159 +771,109 @@
     "text": "Footnotes\n\nChatGPT, response to “Tell me what data science is,” Jan 14, 2025, https://chat.openai.com.↩︎"
   },
   {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "MATH 4720/5720 Fall 2025",
-    "section": "",
-    "text": "This course introduces the ideas of data summary and visualization, probability, and statistics with applications to natural and social sciences and daily life. Topics include but not limited to: random variables, discrete and continuous probability distributions, sampling distributions, confidence intervals, hypothesis testing, analysis of variance, and linear regression. This course builds a foundation for statistical inference, machine learning, and data modeling.\nThe course will assume facility with using the internet and a personal computer. A portion of the course involves  programming using RStudio or Posit Cloud, but prior coding experience is not required.",
-    "crumbs": [
-      "Course Information",
-      "Overview"
-    ]
+    "objectID": "slides/01-syllabus-slides.html#code",
+    "href": "slides/01-syllabus-slides.html#code",
+    "title": "Welcome Aboard 🙌",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
   },
   {
-    "objectID": "present-description.html",
-    "href": "present-description.html",
-    "title": "Midterm Presentation I - Regression",
-    "section": "",
-    "text": "Team up! You will be working as a group of 3. One of you, please email me your team member list by Friday, 2/21 11:59 PM\nProposal. Please send me a one-page PDF describing what you are going to do for your project (no word limit) with your project title by Friday, 2/28 11:59 PM.\nPresentation. You will be presenting your project on Thursday, 3/6 in class.\nMaterials. Please share your entire work (slides, code, data, etc) by Friday, 3/7 11:59 PM."
+    "objectID": "slides/01-syllabus-slides.html#my-journey",
+    "href": "slides/01-syllabus-slides.html#my-journey",
+    "title": "Welcome Aboard 🙌",
+    "section": "My Journey",
+    "text": "My Journey\n\nAssistant Professor (2020/08 - )\n\n\n\n\n\n\n\n\n\n\nPostdoctoral Fellow\n\n\n\n\n\n\n\n\n\n\nPhD in Statistics\n\n\n\n\n\n\n\n\n\n\nMA in Economics/PhD program in Statistics"
   },
   {
-    "objectID": "present-description.html#team-up",
-    "href": "present-description.html#team-up",
-    "title": "Midterm Presentation I - Regression",
-    "section": "Team up!",
-    "text": "Team up!\n\nEach one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.\nYou will be randomly assigned to a group if you do not belong to any group before the deadline."
+    "objectID": "slides/01-syllabus-slides.html#how-to-reach-me",
+    "href": "slides/01-syllabus-slides.html#how-to-reach-me",
+    "title": "Welcome Aboard 🙌",
+    "section": "How to Reach Me",
+    "text": "How to Reach Me\n\nOffice hours TuTh 4:50 - 5:50 PM and Wed 12 - 1 PM in Cudahy Hall 353.\n📧 cheng-han.yu@marquette.edu\n\nAnswer your question within 24 hours.\nExpect a reply on Monday if shoot me a message on weekends.\nStart your subject line with [math4720] or [mssc5720] followed by a clear description of your question.\n\n\n\n\n\nI will NOT reply your e-mail if … Check the email policy in the syllabus!"
   },
   {
-    "objectID": "present-description.html#proposal",
-    "href": "present-description.html#proposal",
-    "title": "Midterm Presentation I - Regression",
-    "section": "Proposal",
-    "text": "Proposal\n\nEach one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.\n\nYour proposal (in PDF) should include three parts:\n\nProject title\n\nThe goal of your project. For example, what is the research question you’d like to answer? What machine learning method/model/algorithm you’d like to introduce? What data you’d like to use for analysis or demonstration? etc.\n\n\nAlthough it is risky, you can change your project topic after you submit your proposal if you decide to do something else."
+    "objectID": "slides/01-syllabus-slides.html#ta-information",
+    "href": "slides/01-syllabus-slides.html#ta-information",
+    "title": "Welcome Aboard 🙌",
+    "section": "TA Information",
+    "text": "TA Information\n\n\n\nStatistics PhD student Qishi Zhan\n📨 qishi.zhan@marquette.edu\nHelp desk hours: To be announced.\nWelcome to set up a meeting with your TA via Teams.\nLet me know if you need any other help! 😄"
   },
   {
-    "objectID": "present-description.html#presentation",
-    "href": "present-description.html#presentation",
-    "title": "Midterm Presentation I - Regression",
-    "section": "Presentation",
-    "text": "Presentation\n\nEach group presentation should be between 10 and 11 minute long, followed by 1 to 2 minute Q&A. If your presentation is too short or too long, every one of you loses 5 points of your project grade.\nEvery group member has to present some part of the group work. The one who does not present receives no point.\nQuestions are encouraged during Q&A. Everyone is welcome to ask any questions about the projects."
+    "objectID": "slides/01-syllabus-slides.html#course-materials",
+    "href": "slides/01-syllabus-slides.html#course-materials",
+    "title": "Welcome Aboard 🙌",
+    "section": "Course Materials",
+    "text": "Course Materials\n\nCourse Website - https://math4720-f25.github.io/website/"
   },
   {
-    "objectID": "present-description.html#materials",
-    "href": "present-description.html#materials",
-    "title": "Midterm Presentation I - Regression",
-    "section": "Materials",
-    "text": "Materials\n\nEach one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.\nYou need to share your entire work, including slides, code, and data if applicable.\nYour code should be able to reproduce all the numerical results, outputs, tables, and figures shown in the slides, including the source of the raw data (where you find and load the data) if the project is about data analysis."
+    "objectID": "slides/01-syllabus-slides.html#textbook-dr.-yus-online-book",
+    "href": "slides/01-syllabus-slides.html#textbook-dr.-yus-online-book",
+    "title": "Welcome Aboard 🙌",
+    "section": "Textbook (Dr. Yu’s Online Book)",
+    "text": "Textbook (Dr. Yu’s Online Book)\n\nIntroduction to Statistics, by Cheng-Han Yu\nFull detailed explanation of course slides 😎"
   },
   {
-    "objectID": "present-description.html#data-analytics",
-    "href": "present-description.html#data-analytics",
-    "title": "Midterm Presentation I - Regression",
-    "section": "Data Analytics",
-    "text": "Data Analytics\nFor your DA project, you need to\n\nDescribe the selected data set.\nExplain and show why the chosen model(s) is appropriate for answering your research questions and better than others.\nInterpret your analysis result.\n\nBelow are some data repositories you can start with, but you are encouraged to explore more and find your favorite one.\n\nTidyTuesday\nKaggle\nAwesome Public Datasets\nHarvard Dataverse\nUCI Machine Learning Repository\nFiveThirtyEight"
+    "objectID": "slides/01-syllabus-slides.html#learning-management-system-d2l",
+    "href": "slides/01-syllabus-slides.html#learning-management-system-d2l",
+    "title": "Welcome Aboard 🙌",
+    "section": "Learning Management System (D2L)",
+    "text": "Learning Management System (D2L)\n\n\nAssessments &gt; Grades"
   },
   {
-    "objectID": "present-description.html#modelalgorithm",
-    "href": "present-description.html#modelalgorithm",
-    "title": "Midterm Presentation I - Regression",
-    "section": "Model/Algorithm",
-    "text": "Model/Algorithm\nFor your MA project, you need to\n\nDescribe the intuition and idea of the method. What are the pros and cons of the method?\nProvide the mathematical expression of the model/algorithm. Explain the model and its properties, and how we do supervised learning with the model/algorithm.\nCompare the chosen method with other methods learned in class. Determine which method performs better under what conditions.\nDemo how to implement the method using a programming language for supervised learning."
+    "objectID": "slides/01-syllabus-slides.html#grading-policy",
+    "href": "slides/01-syllabus-slides.html#grading-policy",
+    "title": "Welcome Aboard 🙌",
+    "section": "Grading Policy ✨",
+    "text": "Grading Policy ✨\n\nYour final grade is earned out of 1000 total points distributed as follows:\n\nHomework 1 to 8: 200 pts (25 pts each)\nQuiz 1 to 4: 240 pts (60 pts each)\nExam 1 and 2: 320 pts (160 pts each)\nFinal exam: 240 pts\n\nClass participation for extra points!\n\n\n❌ No extra credit projects/homework/exam to compensate for a poor grade.\nIndividual grade will NOT be curved.\nThis is not a course that gives most of students grade A. Wanna get a good grade? Study hard. No pain, no gain! ✍ ✍"
   },
   {
-    "objectID": "present-description.html#group-performance-evaluation",
-    "href": "present-description.html#group-performance-evaluation",
-    "title": "Midterm Presentation I - Regression",
-    "section": "Group Performance Evaluation",
-    "text": "Group Performance Evaluation\n\nYou will need to evaluate all group projects except the one you work on.\n\nYou evaluate group performance based on the rubric attached. Four evaluation criteria are considered:\n\nProject Content and Organization (8 pts)\nPresentation Material (Slides) Quality (4 pts)\nOral Presentation Skill and Delivery (4 pts)\nInteractions and Q&A (4 pts)\n\n\nThe total points of a project presentation is 20 points.\nEvaluation sheets will be provided on the presentation day.\n\nHow do you get the full points for each category? Check the rubric below. \n\n\nContent and Organization (DA)\n\nBeautiful visualization helps find out relationship of variables and specification of models\nAll questions are answered accurately by the models\nDiscuss how and why the models are chosen\nApply sophisticated models and detailed analysis\nAll ideas are presented in logical order\n\n\n\nContent and Organization (MA)\n\nExplain the method clearly and accuratly\nShow the pros and cons of the method, and compare with the methods learned in class.\nShow how the method can be implemednted for supervised learning.\nAll ideas are presented in logical order\n\n\n\nPresentation Material Quality\n\nPresentation material show code and output beautifully\nPresentation material clearly aid the speaker in telling a coherent story\nAll tables and graphics are informative and related to the topic and make it easier to understand\nAttractive design, layout, and neatness.\n\n\n\nOral Presentation Skill\n\nGood volume and energy\nProper pace and diction\nAvoidance of distracting gestures\n\n\n\nInteractions and Q&A\n\nGood eye contact with audience\nExcellent listening skills\nAnswers audience questions with authority and accuracy\n\n\nAfter you evaluate all group project presentations, you rank them from 1st to last based on their earned points.\nNo two groups receive the same ranking. If you give two or more groups some points, you still need to give them a different ranking, deciding which team deserves a higher ranking according to your preference."
+    "objectID": "slides/01-syllabus-slides.html#grade-percentage-conversion",
+    "href": "slides/01-syllabus-slides.html#grade-percentage-conversion",
+    "title": "Welcome Aboard 🙌",
+    "section": "Grade-Percentage Conversion ✨",
+    "text": "Grade-Percentage Conversion ✨\n\nYour final grade is based on your percentage of points earned out of 1000 points.\n\n\\([x, y)\\) means greater than or equal to \\(x\\) and less than \\(y\\).\n\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
   },
   {
-    "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
-    "href": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
-    "title": "Attribution-ShareAlike 4.0 International",
-    "section": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
-    "text": "Creative Commons Attribution-ShareAlike 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\n\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nBY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicense Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\n\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\nA. reproduce and Share the Licensed Material, in whole or in part; and\nB. produce, reproduce, and Share Adapted Material.\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.\nDownstream recipients.\nA. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nB. Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.\nC. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\nA. retain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nB. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nC. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\n\nShareAlike.\n\nIn addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.\n\nThe Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.\nYou must include the text of, or the URI or hyperlink to, the Adapter’s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.\nYou may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter’s License You apply.\n\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\n\n\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUnless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.\nTo the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\n\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\n\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\n\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
+    "objectID": "slides/01-syllabus-slides.html#homework-200-pts",
+    "href": "slides/01-syllabus-slides.html#homework-200-pts",
+    "title": "Welcome Aboard 🙌",
+    "section": "Homework (200 pts)",
+    "text": "Homework (200 pts)\n\n\nAssessments &gt; Dropbox and upload your homework in PDF format.\nThere are 8 homework sets.\nYou must submit YOUR OWN work. 🙏\n❌ No make-up homework.\nEvery homework is due by Friday 11:59 PM  (Don’t miss it. This is a hard deadline❗). \n\nThe lowest score of the homework sets will not be in your final grade calculation."
   },
   {
-    "objectID": "present-work.html",
-    "href": "present-work.html",
-    "title": "Midterm Project I Proposal and Presentation",
-    "section": "",
-    "text": "The presentation order is determined by the time you sent me your member info (c(\"John\", \"Jeremy\", \"Praful\") is the first to let me know, followed by c(\"Sajjad\", \"Tanjina\", \"Dewan\"), etc) and random sampling as follows.\n\nteam_lst &lt;- list(c(\"John\", \"Jeremy\", \"Praful\"), \n                 c(\"Sajjad\", \"Tanjina\", \"Dewan\"),\n                 c(\"Ethan\", \"Navid\", \"Sylvester\"), \n                 c(\"Violet\", \"Vanessa\", \"Michele\"), \n                 c(\"Rakesh\", \"Daniel\", \"Jeremy\"), \n                 c(\"Sai\", \"Rohith\", \"Shristi\"))\nset.seed(6250)\nteam_lst[sample(1:6, 6)]\n\n[[1]]\n[1] \"Sajjad\"  \"Tanjina\" \"Dewan\"  \n\n[[2]]\n[1] \"John\"   \"Jeremy\" \"Praful\"\n\n[[3]]\n[1] \"Violet\"  \"Vanessa\" \"Michele\"\n\n[[4]]\n[1] \"Rakesh\" \"Daniel\" \"Jeremy\"\n\n[[5]]\n[1] \"Sai\"     \"Rohith\"  \"Shristi\"\n\n[[6]]\n[1] \"Ethan\"     \"Navid\"     \"Sylvester\""
+    "objectID": "slides/01-syllabus-slides.html#quizzes-240-pts",
+    "href": "slides/01-syllabus-slides.html#quizzes-240-pts",
+    "title": "Welcome Aboard 🙌",
+    "section": "Quizzes (240 pts)",
+    "text": "Quizzes (240 pts)\n\nThere are 4 in-class quizzes. \n\n📚 Quizzes are individual and in closed-book format.\n❌ No cheat sheet is allowed.\n❌ No make-up quizzes for any reason unless you got COVID or excused absence. Check the syllabus for more details."
   },
   {
-    "objectID": "present-work.html#presentation-order",
-    "href": "present-work.html#presentation-order",
-    "title": "Midterm Project I Proposal and Presentation",
-    "section": "",
-    "text": "The presentation order is determined by the time you sent me your member info (c(\"John\", \"Jeremy\", \"Praful\") is the first to let me know, followed by c(\"Sajjad\", \"Tanjina\", \"Dewan\"), etc) and random sampling as follows.\n\nteam_lst &lt;- list(c(\"John\", \"Jeremy\", \"Praful\"), \n                 c(\"Sajjad\", \"Tanjina\", \"Dewan\"),\n                 c(\"Ethan\", \"Navid\", \"Sylvester\"), \n                 c(\"Violet\", \"Vanessa\", \"Michele\"), \n                 c(\"Rakesh\", \"Daniel\", \"Jeremy\"), \n                 c(\"Sai\", \"Rohith\", \"Shristi\"))\nset.seed(6250)\nteam_lst[sample(1:6, 6)]\n\n[[1]]\n[1] \"Sajjad\"  \"Tanjina\" \"Dewan\"  \n\n[[2]]\n[1] \"John\"   \"Jeremy\" \"Praful\"\n\n[[3]]\n[1] \"Violet\"  \"Vanessa\" \"Michele\"\n\n[[4]]\n[1] \"Rakesh\" \"Daniel\" \"Jeremy\"\n\n[[5]]\n[1] \"Sai\"     \"Rohith\"  \"Shristi\"\n\n[[6]]\n[1] \"Ethan\"     \"Navid\"     \"Sylvester\""
+    "objectID": "slides/01-syllabus-slides.html#exams-560-pts",
+    "href": "slides/01-syllabus-slides.html#exams-560-pts",
+    "title": "Welcome Aboard 🙌",
+    "section": "Exams (560 pts)",
+    "text": "Exams (560 pts)\n\nThere are two midterm exams and one final exam.\nHave in-class and take-home parts. \n\n📄 One piece of letter size cheat sheet is allowed. It has to be turned-in with your in-class exam.\n\nAssessments &gt; Dropbox to submit your take-home exams in PDF format. \n\nExam 1 covers Week 1 to 6\n\nExam 2 covers Week 7 to 11\n\nFinal exam is comprehensive and covers the all course materials. 😎\n❌ No make-up exams unless you got COVID or excused absence. Check the syllabus for more details."
   },
   {
-    "objectID": "present-work.html#project-materials",
-    "href": "present-work.html#project-materials",
-    "title": "Midterm Project I Proposal and Presentation",
-    "section": "Project Materials",
-    "text": "Project Materials\n\nGroup 1 (Sajjad, Tanjina, Dewan) Predicting Life Expectancy: proposal\nGroup 2 (John, Jeremy, Praful) Poisson Regression: proposal\nGroup 3 (Violet, Vanessa, Michele) Is Ridge Regression or LASSO a better model to predict the price of houses in Ames, Iowa: proposal\nGroup 4 (Rakesh, Daniel, Jeremy) Predicting Abalone Age Using Regression Models: proposal\nGroup 5 (Sai, Rohith, Shristi) Analyzing the Impact of Housing Features on Sale Prices: A Regression-Based Study on the Ames Housing Dataset : proposal\nGroup 6 (Ethan, Navid, Sylvester) Predicting Car Sticker Price Regression: proposal"
+    "objectID": "slides/01-syllabus-slides.html#what-computing-language-we-use-i-teach",
+    "href": "slides/01-syllabus-slides.html#what-computing-language-we-use-i-teach",
+    "title": "Welcome Aboard 🙌",
+    "section": "What Computing Language We Use (I Teach)?",
+    "text": "What Computing Language We Use (I Teach)?\n\n\n\n📈 The best language for statistical computing! \n\n✅ You may use other tools or software such as Excel, Python, Minitab, etc to do your work, but I will NOT teach any of them.\n❌ Drop/Swap deadline: 09/05/2022. Don’t miss it!\n\n\n\n\n\n\nhttps://www.r-project.org/"
   },
   {
-    "objectID": "present-description-2.html",
-    "href": "present-description-2.html",
-    "title": "Midterm Presentation II - Classification",
-    "section": "",
-    "text": "Proposal. Please send me a one-page PDF describing what you are going to do for your project (no word limit) with your project title by Tuesday, 4/8 11:59 PM.\nPresentation. You will be presenting your project on Tuesday, 4/15 in class.\nMaterials. Please share your entire work (slides, code, data, etc) by Friday, 4/18 11:59 PM."
+    "objectID": "slides/01-syllabus-slides.html#generative-ai-and-sharingreusing-code-policy",
+    "href": "slides/01-syllabus-slides.html#generative-ai-and-sharingreusing-code-policy",
+    "title": "Welcome Aboard 🙌",
+    "section": "Generative AI and Sharing/Reusing Code Policy",
+    "text": "Generative AI and Sharing/Reusing Code Policy\n\n\nGenerative AI\n\nYou may use generative AI tools such as ChatGPT or DALL-E to generate a first draft of text for your work, provided that this use is documented and cited.\n\n[Example] Data science is an interdisciplinary field that … 1\n\n\n\n\n\n\n\n\n\n\n\nSharing/Reusing Code\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite where you obtained any code you directly use or use as inspiration in your solutions.\n\n[Example]\n\nThe code is modified from the GitHub repo https://github.com/chenghanyustats/slam\nThe code is generated from ChatGPT response to “Please generate Python code for solving the math problem I attach,” Jan 14, 2025.\n\n\nYou are responsible for the content of all work submitted for this course.\nYou can use any code shared online or in books. But please give the authors full credits. Cite their work and let me know whose code you are using to do your homework and project.\nI encourage you to write your own code. This way you learn the most.\n❌ Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism, regardless of source. 😱\n\n\nChatGPT, response to “Tell me what data science is,” Jan 14, 2025, https://chat.openai.com."
   },
   {
-    "objectID": "present-description-2.html#proposal",
-    "href": "present-description-2.html#proposal",
-    "title": "Midterm Presentation II - Classification",
-    "section": "Proposal",
-    "text": "Proposal\n\nEach one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.\n\nYour proposal (in PDF) should include three parts:\n\nProject title\n\nThe goal of your project. For example, what is the research question you’d like to answer? What machine learning method/model/algorithm you’d like to introduce? What data you’d like to use for analysis or demonstration? etc.\n\n\nAlthough it is risky, you can change your project topic after you submit your proposal if you decide to do something else."
-  },
-  {
-    "objectID": "present-description-2.html#presentation",
-    "href": "present-description-2.html#presentation",
-    "title": "Midterm Presentation II - Classification",
-    "section": "Presentation",
-    "text": "Presentation\n\nEach group presentation should be between 10 and 11 minute long, followed by 1 to 2 minute Q&A. If your presentation is too short or too long, every one of you loses 5 points of your project grade.\nEvery group member has to present some part of the group work. The one who does not present receives no point.\nQuestions are REQUIRED during Q&A. Each group is required to ask as least one question. More questions are welcome. If you, as a group, don’t ask a question when you should, every one of you loses 5 points of your project grade.\n\n\n\n\nTeam Presenting\nTeam Asking Questions\n\n\n\nTeam 1\nTeam 6\n\n\nTeam 2\nTeam 1\n\n\nTeam 3\nTeam 2\n\n\nTeam 4\nTeam 3\n\n\nTeam 5\nTeam 4\n\n\nTeam 6\nTeam 5"
-  },
-  {
-    "objectID": "present-description-2.html#materials",
-    "href": "present-description-2.html#materials",
-    "title": "Midterm Presentation II - Classification",
-    "section": "Materials",
-    "text": "Materials\n\nEach one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.\nYou need to share your entire work, including slides, code, and data if applicable.\nYour code should be able to reproduce all the numerical results, outputs, tables, and figures shown in the slides, including the source of the raw data (where you find and load the data) if the project is about data analysis."
-  },
-  {
-    "objectID": "present-description-2.html#data-analytics",
-    "href": "present-description-2.html#data-analytics",
-    "title": "Midterm Presentation II - Classification",
-    "section": "Data Analytics",
-    "text": "Data Analytics\nFor your DA project, you need to\n\nDescribe the selected data set.\nExplain and show why the chosen model(s) is appropriate for answering your research questions and better than others.\nInterpret your analysis result.\n\nBelow are some data repositories you can start with, but you are encouraged to explore more and find your favorite one.\n\nTidyTuesday\nKaggle\nAwesome Public Datasets\nHarvard Dataverse\nUCI Machine Learning Repository\nFiveThirtyEight"
-  },
-  {
-    "objectID": "present-description-2.html#modelalgorithm",
-    "href": "present-description-2.html#modelalgorithm",
-    "title": "Midterm Presentation II - Classification",
-    "section": "Model/Algorithm",
-    "text": "Model/Algorithm\nFor your MA project, you need to\n\nDescribe the intuition and idea of the method. What are the pros and cons of the method?\nProvide the mathematical expression of the model/algorithm. Explain the model and its properties, and how we do supervised learning with the model/algorithm.\nCompare the chosen method with other methods learned in class. Determine which method performs better under what conditions.\nDemo how to implement the method using a programming language for supervised learning."
-  },
-  {
-    "objectID": "present-description-2.html#group-performance-evaluation",
-    "href": "present-description-2.html#group-performance-evaluation",
-    "title": "Midterm Presentation II - Classification",
-    "section": "Group Performance Evaluation",
-    "text": "Group Performance Evaluation\n\nYou will need to evaluate all group projects except the one you work on.\n\nYou evaluate group performance based on the rubric attached. Four evaluation criteria are considered:\n\nProject Content and Organization (8 pts)\nPresentation Material (Slides) Quality (4 pts)\nOral Presentation Skill and Delivery (4 pts)\nInteractions and Q&A (4 pts)\n\n\nThe total points of a project presentation is 20 points.\nEvaluation sheets will be provided on the presentation day.\n\nHow do you get the full points for each category? Check the rubric below. \n\n\nContent and Organization (DA)\n\nBeautiful visualization helps find out relationship of variables and specification of models\nAll questions are answered accurately by the models\nDiscuss how and why the models are chosen\nApply sophisticated models and detailed analysis\nAll ideas are presented in logical order\n\n\n\nContent and Organization (MA)\n\nExplain the method clearly and accuratly\nShow the pros and cons of the method, and compare with the methods learned in class.\nShow how the method can be implemednted for supervised learning.\nAll ideas are presented in logical order\n\n\n\nPresentation Material Quality\n\nPresentation material show code and output beautifully\nPresentation material clearly aid the speaker in telling a coherent story\nAll tables and graphics are informative and related to the topic and make it easier to understand\nAttractive design, layout, and neatness.\n\n\n\nOral Presentation Skill\n\nGood volume and energy\nProper pace and diction\nAvoidance of distracting gestures\n\n\n\nInteractions and Q&A\n\nGood eye contact with audience\nExcellent listening skills\nAnswers audience questions with authority and accuracy\n\n\nAfter you evaluate all group project presentations, you rank them from 1st to last based on their earned points.\nNo two groups receive the same ranking. If you give two or more groups some points, you still need to give them a different ranking, deciding which team deserves a higher ranking according to your preference."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MATH 4720 (MSSC 5720) Statistical Methods Fall 2025",
-    "section": "",
-    "text": "The website is for both Section 101 2 - 3:15 PM and Section 102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nSlides\nReading\nCode\nHomework\nQuiz\nProject\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n🖥️\n\n\n\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n\n\n\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n\n\n\n✍️ HW1\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n🖥️\n\n\n\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 17\nRandom Variables\n\n\n\n\n\n\n\n\n5\nMon, Sep 22\nDiscrete Probability Distributions\n🖥️\n\n\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions\n\n\n\nHW 1 Due\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️\n\n\n✍️ HW2\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem\n\n\n\n\n\n✅ Team up Due\n\n\n7\nMon, Oct 6\nExam 1\n🖥️\n\n\n\n\n\n\n\n\nWed, Oct 8\nInference about Population Means: Confidence Intervals\n\n\n\nHW 2 Due\n\n\n✅ Proposal Due\n\n\n8\nMon, Oct 13\nInference about Population Means: Hypothesis Testing\n🖥️\n\n\n\n\n\n\n\n\nWed, Oct 15\nInference about Population Means: Hypothesis Testing\n\n\n\n✍️ HW3\n\n✅ Materials Due\n\n\n9\nMon, Oct 20\nComparing Two Population Means\n\n\n\n\n\n\n\n\n\nWed, Oct 22\nComparing Two Population Means\n\n\n\n\n\n\n\n\n10\nMon, Oct 27\nInference about Population Variances\n\n\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Population Variances\n🖥️\n\n\n\n\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA)\n🖥️\n\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA)\n\n\n\n\n\n\n\n\n12\nMon, Nov 10\nExam 2\n🖥️\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n\n\n\nHW 3 Due\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\n\n\n\n\nProposal-2 Due\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\n\n\n✍️ HW4\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\n\n\n\n\n✅ Project-2 Guideline\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\n\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\n\n\n\n\n\n\n\n16\n\nWed, Dec 10\n\nFinal Exam (Sec101-2PM)\n\n\n\nHW 4 Due\n\n\n\n\n\nFri, Dec 12\nFinal Exam (Sec102-3:30PM)\n\n\n\n\n\n✅ Final project guideline\n\n\n\n\nI reserve the right to make changes to the schedule.",
-    "crumbs": [
-      "Course Information",
-      "Schedule"
-    ]
+    "objectID": "slides/01-syllabus-slides.html#academic-integrity",
+    "href": "slides/01-syllabus-slides.html#academic-integrity",
+    "title": "Welcome Aboard 🙌",
+    "section": "Academic Integrity",
+    "text": "Academic Integrity\nThis course expects all students to follow University and College statements on academic integrity.\n\n\nHonor Pledge and Honor Code: I recognize the importance of personal integrity in all aspects of life and work. I commit myself to truthfulness, honor, and responsibility, by which I earn the respect of others. I support the development of good character, and commit myself to uphold the highest standards of academic integrity as an important aspect of personal integrity. My commitment obliges me to conduct myself according to the Marquette University Honor Code."
   },
   {
     "objectID": "hw.html",
