@@ -2,28 +2,35 @@
 title: "Syllabus"
 ---
 
-[**Click here**](/documents/syllabus-6250-sp25.pdf "PDF of syllabus") **to download the syllabus.**
+[**Syllabus for Section 101 2 - 3:15 PM**](/documents/syllabus-4720-101-f25.pdf).
+
+[**Syllabus for Section 102 3:30 - 4:45 PM**](/documents/syllabus-4720-102-f25.pdf).
 
 ## Time and location
 
 |          | Day     | Time           | Location       |
 |----------|---------|----------------|----------------|
-| Lectures | Tu & Th | 3:30 - 4:45 PM | Cuday Hall 120 |
+| Sec 101  | Mo & We | 2:00 - 3:15 PM | Cuday Hall 131 |
+| Sec 102  | Mo & We | 3:30 - 4:45 PM | Cuday Hall 131 |
 | Lab      | None    | None           | None           |
 
 ## Office Hours
 
--   My in-person office hours are TuTh 4:50 - 5:50 PM, and Wed 12 - 1 PM in Cudahy Hall room 353.
+-   My in-person office hours are MoWe 4:50 - 5:50 PM in Cudahy Hall room 353.
 
 -   You are welcome to schedule an online meeting via Microsoft Teams if you need/prefer.
 
+
 ## Prerequisites
 
--   MATH 4720 (Intro to Statistics), MATH 3100 (Linear Algebra) and MATH 4780 (Regression Analysis)
 
--   Having taken MATH 4700 (Probability) and MATH 4710 (Statistical Inference) or more advanced ones is strongly recommended.
+- MATH 1400, 1410, or 1450. 
 
--   This course is supposed to be taken in the *last* semester for the applied statistics (APST) master students. Talk to me if you are not sure whether or not this is the right course for you.
+- Basic computer and internet use expected. The course will also assume facility with using the internet and a personal computer. 
+
+- A portion of the course involves programming in [\textsf{R}](https://www.r-project.org/about.html) using [RStudio](https://rstudio.com/), but prior programming experience is not required.
+
+
 
 ## E-mail Policy
 
@@ -31,131 +38,142 @@ title: "Syllabus"
 
 -   **Expect a reply on Monday if you send a question during weekends**. If you do not receive a response from me within two days, re-send your question/comment in case there was a "mix-up" with email communication (Hope this won't happen!).
 
--   Please start your subject line with **\[mssc6250\]** followed by a clear description of your question. See an example below.
+-   Please start your e-mail subject line with **[math4720]** or **[mssc5720]** followed by a clear description of your question. See an example below.
 
-![Email Subject Line Example](./images/email.png)
+```{r}
+#| echo: false
+#| fig-cap: Email Subject Line Example
+#| out-width: 100%
+knitr::include_graphics("./images/email.png")
+```
 
--   Email etiquette is important. Please read this [article](https://www.insidehighered.com/views/2015/04/16/advice-students-so-they-dont-sound-silly-emails-essay) to learn more about email etiquette.
+- Email etiquette is important. Please read this [article](https://www.insidehighered.com/views/2015/04/16/advice-students-so-they-dont-sound-silly-emails-essay) to learn more about email etiquette.
 
--   I am more than happy to answer your questions about this course or data science/statistics in general. However, with tons of email messgaes everyday, I may choose **NOT** to respond to students' e-mail if
+- I am more than happy to answer your questions about this course or statistics in general. However, due to time constraint, I may choose **NOT** to respond to students' e-mail if
 
-    1.  The student could answer his/her own inquiry by reading the syllabus or information on the course website or D2L.
+    1. The student could answer his/her own inquiry by reading the syllabus or information on the course website or D2L.
+    
+    2. The student is asking for an extra credit opportunity. The answer is "no".
+    
+    3. The student is requesting an extension on homework. The answer is "no".
+    
+    4. The student is asking for a grade to be raised for no legitimate reason. The answer is "no".
+    
+    5. The student is sending an email with no etiquette.
 
-    2.  The student is asking for an extra credit opportunity. The answer is "no".
-
-    3.  The student is requesting an extension on homework. The answer is "no".
-
-    4.  The student is asking for a grade to be raised for no legitimate reason. The answer is "no".
-
-    5.  The student is sending an email with no etiquette.
 
 ## Required Textbook
 
--   [(**ISL**) *An Introduction to Statistical Learning*](https://www.statlearning.com/), by James et al. Publisher: Springer. (Undergraduate to master level, R and Python code)
+- **[IS]** [*Introduction to Statistics*](https://chenghanyu-introstatsbook.netlify.app/), by Dr. Cheng-Han Yu. (My online book)
 
 ## Optional References
 
--   [(**MML**) *Mathematics for Machine Learning*](https://mml-book.github.io/), by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Publisher: Cambridge University Press. (College level mathematics for machine learning)
+- **[OI] (optional)** [*Introduction to Modern Statistics, 2nd edition*](https://openintro-ims.netlify.app/), by Mine Çetinkaya-Rundel and Johanna Hardin. Publisher: OpenIntro. (computation and data-oriented)
 
--   [(**PML**) *Probabilistic Machine Learning: An Introduction*](https://probml.github.io/pml-book/book1.html), by Kevin Murphy. Publisher: MIT Press. (Master to PhD level, lots of mathematics foundations, Python code)
-
--   [(**PMLA**) *Probabilistic Machine Learning: Advanced Topics*](https://probml.github.io/pml-book/book2.html), by Kevin Murphy. Publisher: MIT Press. (PhD level, more probabilistic-based or Bayesian)
-
--   [(**ESL**) *The Elements of Statistical Learning, 2nd edition*](https://hastie.su.domains/ElemStatLearn/), by Hastie et. al. Publisher: Springer. (PhD level, more frequentist-based)
 
 ## Grading Policy
 
--   Your final grade is earned out of **1000 total points** distributed as follows:
+- The final grade is earned out of **1000 total points** distributed as follows:
+  - **Homework 1 to 8: 200 pts (25 pts each)**
+  - **Quiz 1 to 4: 200 pts (50 pts each)**
+  - **Exam 1 and 2: 300 pts (150 pts each)**
+  - **Final exam: 200 pts**
+  - **Project: 100 pts** 
+  - **Class participation for MSSC 5720**
 
-    -   **Homework: 500 pts**
-    -   **Midterm project presentation: 300 pts**
-    -   **Final project: 200 pts**
+- You will **NOT** be allowed any extra credit projects/homework/exam to compensate for a poor average. Everyone must be given the same opportunity to do well in this class. Individual exam will **NOT** be curved.
+<!-- however, I may use class participation to make grade adjustments at the end of the semester. -->
 
-    <!-- - **In-class attendance/participation: 50 pts** -->
+- The final grade is based on your percentage of points earned out of 1000 points and the grade-percentage conversion Table. $[x, y)$ means greater than or equal to $x$ and less than $y$. For example, 94.1 is in $[94, 100]$ and the grade is A and 92.8 is in $[90, 94)$ and the grade is A-.
 
--   You will **NOT** be allowed any extra credit projects/homework/exam to compensate for a poor average. Everyone must be given the same opportunity to do well in this class. Individual exam will **NOT** be curved. <!-- however, I may use class participation to make grade adjustments at the end of the semester. -->
-
--   The final grade is based on your percentage of points earned out of 1000 points and the grade-percentage conversion Table. $[x, y)$ means greater than or equal to $x$ and less than $y$. For example, 94.1 is in $[93, 100]$ and the grade is A and 92.8 is in $[90, 94)$ and the grade is A-.
-
-```{r, echo=FALSE}
-letter <- c("A", "A-", "B+", "B", "B-", "C+", "C", "F")
+```{r}
+#| echo: false
+letter <- c("A", "A-", "B+", "B", "B-", "C+", "C", "C-",
+                       "D+", "D", "F")
 percentage <- c("[94, 100]", "[90, 94)", "[87, 90)", "[83, 87)", "[80, 83)",
-                "[77, 80)", "[70, 77)", "[0, 70)")
+                "[77, 80)", "[73, 77)", "[70, 73)", 
+                "[65, 70)", "[60, 65)", "[0, 60)")
 grade_dist <- data.frame(Grade = letter, Percentage = percentage)
-knitr::kable(grade_dist, longtable = TRUE, caption = "Grade-Percentage Conversion")
+knitr::kable(grade_dist, longtable = TRUE, 
+             caption = "Grade-Percentage Conversion")
 ```
+- This is not a course that gives most of students grade A. If you want to obtain a good grade, study hard. No pain, no gain.
 
-<!-- - This is not a course that gives most of students grade A. If you want to obtain a good grade, study hard. No pain, no gain. -->
 
--   You may use your preferred programming language to do your homework and/or your project.
 
 ### Homework
 
-<!-- - Homework will be assigned through D2L in weekly modules in **Content**.  -->
+- Homework will be assigned through the course website.
 
--   Homework will be assigned through the course website in weekly modules.
+- To submit your homework, please go to **D2L > Assessments > Dropbox** and upload your homework in **PDF** format.
 
--   To submit your homework, please go to **D2L \> Assessments \> Dropbox** and upload your homework in **PDF** format.
+- There will be totally 8 homework sets graded by your TA.
 
--   **No late or make-up homework** for any reason.
+- MSSC 5720 students may have more or different homework questions.
 
-## Midterm Project Presentation
+- The lowest score of the homework sets will be dropped when your final grade is calculated. (That means the lowest score will be replaced with a perfect 25 points. You could only submit 7 homework sets.)
 
--   There will be 2 in-class mini project presentations
+- You will get a better understanding of the material if you discuss it with others. However, you must submit YOUR OWN work. 
 
--   Students will learn from each other by presenting and discussing the assigned topics.
+- **NO LATE HOMEWORK WILL BE ACCEPTED NOR WILL YOU BE ALLOWED TO MAKE UP MISSED HOMEWORK** for any reason. 
 
--   More details about the mini project presentation will be released later.
 
-## Final Project
+### Quizzes
 
--   The final project is submitted as a paper and some relevant work.
+- There will be 4 in-class quizzes.
 
--   The project submission deadline is **Thursday, 5/8, 10 AM**.
+- Quiz questions are similar to the questions in the homework assignments.
 
--   More details about the final project will be released in April.
+- Quizzes are individual and in **closed-book** format. No cheat sheet is allowed.
 
-## Generative AI and Sharing/Reusing Code Policy
+- **No make-up quizzes** unless you got [excused absence](https://bulletin.marquette.edu/policies/attendance/undergraduate/).
 
-### Generative AI ![](images/genai.png){fig-alt="You can use AI in this assignment at will, but it should be cited." width="50"}
+- If you miss a quiz due to an excused absence as defined in [Attendance in Academic Regulations](https://bulletin.marquette.edu/policies/attendance/undergraduate/), the 50 pts will be added to your prorated final exam pts, i.e., (200 + 50 = 250) pts. If you miss more than one quiz, only one quiz pts can be added to the final exam. You get 0 pt for other quizzes.
 
--   You are responsible for the content of all work submitted for this course. You may use generative AI tools such as ChatGPT or DALL-E to generate a first draft of text for your assignments, provided that this use is [appropriately documented and cited]{.underline}.
 
--   Read the articles ([MLA](https://style.mla.org/citing-generative-ai/) and [APA](https://apastyle.apa.org/blog/how-to-cite-chatgpt)) to learn how to cite and document the use of AI in your work. Learn more citing chatbots at <https://libguides.marquette.edu/generative_technologies/citing>
+### Exams
 
-### Sharing/Reusing Code
+- There will be 2 midterm exams and 1 final exam.
 
--   Unless explicitly stated otherwise, you may make use of any online resources, but you must **explicitly cite** where you obtained any code you directly use or use as inspiration in your solutions.
+- Exams have in-class part and take-home part. The in-class part tests your understanding of mathematical and statistical intuitions. The take-home part tests your ability to do statistical data analysis using statistical software such as R.
 
--   Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism, regardless of source.
+- One **page** of **letter size** cheat sheet is allowed. The sheet should be turned-in with your exam.
+
+- Please go to **Assessments > Dropbox** to submit your take-home exam in **PDF** format. 
+
+- Exam 1 covers **Week 1 to 6**. Exam 2 covers **Week 7 to 11**. Final exam is comprehensive and covers **all course materials**.
+
+- **No make-up exams** for any reason unless you got an [excused absence](https://bulletin.marquette.edu/policies/attendance/undergraduate/)
+
+- If you miss an midterm exam due to an excused absence defined in [Attendance in Academic Regulations](https://bulletin.marquette.edu/policies/attendance/undergraduate/), the 150 pts will be added to your prorated final exam pts, i.e., (200 + 150 = 350) pts. If you miss two midterm exams, only one exam pts can be added to the final exam. You get 0 pt for the other.
+
+## Generative AI Policy
 
 ## Academic Integrity
 
--   This course expects all students to follow University and College statements on [academic integrity](https://bulletin.marquette.edu/policies/academic-integrity/).
+- This course expects all students to follow University and College statements on [academic integrity](https://bulletin.marquette.edu/policies/academic-integrity/).
 
--   **Honor Pledge and Honor Code**: *I recognize the importance of personal integrity in all aspects of life and work. I commit myself to truthfulness, honor, and responsibility, by which I earn the respect of others. I support the development of good character, and commit myself to uphold the highest standards of academic integrity as an important aspect of personal integrity. My commitment obliges me to conduct myself according to the Marquette University Honor Code*.
+- **Honor Pledge and Honor Code**: *I recognize the importance of personal integrity in all aspects of life and work. I commit myself to truthfulness, honor, and responsibility, by which I earn the respect of others. I support the development of good character, and commit myself to uphold the highest standards of academic integrity as an important aspect of personal integrity. My commitment obliges me to conduct myself according to the Marquette University Honor Code*.
 
-<!-- ```{=html} -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/_KN97j30ST4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> -->
-
-<!-- </iframe> -->
-
-<!-- ``` -->
 
 ## Accommodation
 
 If you need to request accommodations, or modify existing accommodations that address disability-related needs, please contact [Disability Service](https://www.marquette.edu/disability-services/).
 
+
 ## Important dates
 
--   **Jan 21:** Last day to add/swap/drop
--   **Mar 10-16:** Spring break
--   **Mar 11:** Midterm grade submission
--   **Apr 11:** Withdrawal deadline
--   **Apr 17 - Apr 20:** Easter break
--   **May 3**: Last day of class
--   **May 8**: Final project submission
--   **May 13**: Final grade submission
+-   **Sep 1:** Labor day
+-   **Sep 2:** Last day to add/swap/drop
+-   **Oct 6:** In-class Exam 1
+-   **Oct 16-17:** Midterm break
+-   **Oct 21:** Midterm grade submission
+-   **Nov 10:** In-class Exam 2
+-   **Nov 14:** Withdrawal deadline
+-   **Nov 26 - 30:** Thanksgiving break
+-   **Dec 6**: Last day of class
+-   **Dec 10**: In-class Final Exam (Sec 101 2 PM)
+-   **Dec 12**: In-class Final Exam (Sec 102 3:30 PM)
+-   **Dec 16**: Final grade submission
 
-Click [here](https://www.marquette.edu/central/registrar/2025-spring-academic-calendar.php) for the full Marquette academic calendar.
+Click [here](https://www.marquette.edu/central/registrar/2025-fall-academic-calendar.php) for the full Marquette academic calendar.
