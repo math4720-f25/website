@@ -1,7 +1,7 @@
 ---
 title: "Welcome Aboard `r emo::ji('raised_hands')`"
 title-slide-attributes:
-  data-background-image: ./images/bg.png
+  data-background-image: ../images/bg.png
   # data-background-size: stretch
   # data-slide-number: none
 format: 
@@ -102,19 +102,19 @@ knitr::knit_hooks$set(output = function(x, options) {
 
 <!-- end: webr fodder -->
 
-## Code
+<!-- ## Code -->
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+<!-- When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this: -->
 
-```{r}
-1 + 1
-```
+<!-- ```{r} -->
+<!-- 1 + 1 -->
+<!-- ``` -->
 
 
-```{webr}
-fit = lm(mpg ~ am, data = mtcars)
-summary(fit)
-```
+<!-- ```{webr} -->
+<!-- fit = lm(mpg ~ am, data = mtcars) -->
+<!-- summary(fit) -->
+<!-- ``` -->
 
 
 
@@ -165,7 +165,8 @@ knitr::include_graphics("./images/01-syllabus/iub.png")
 
 ## How to Reach Me
 
-- Office hours **TuTh 4:50 - 5:50 PM** and **Wed 12 - 1 PM** in **Cudahy Hall 353**.
+- Office hours **MoWe 4:50 - 5:50 PM** and **Tu 1 - 2 PM** in **Cudahy Hall 353**.
+
 - `r emo::ji('e-mail')`  <cheng-han.yu@marquette.edu> 
   + Answer your question within 24 hours. 
   + Expect a reply on **Monday** if shoot me a message **on weekends**.
@@ -180,7 +181,7 @@ knitr::include_graphics("./images/01-syllabus/email.png")
 
 
 
-## TA Information
+## TA Information {visibility="hidden"}
 
 ::::: {.columns}
 
@@ -210,16 +211,48 @@ knitr::include_graphics("./images/01-syllabus/qishi.jpeg")
 :::::
 
 
+
+## Help Desk Hours
+
+::::: {.columns}
+
+:::: {.column width="50%"}
+
+
+- Unfortunately, no TA for this course. `r emo::ji('sad')`
+
+- Help desk hours on the **4th** floor of Cudahy Hall.
+
+- The hours will be released later.
+
+::::
+
+:::: {.column width="50%"}
+
+```{r}
+#| out-width: 70%
+knitr::include_graphics("./images/01-syllabus/help_s25.png")
+```
+
+::::
+
+:::::
+
+
+
+
 ## Course Materials
 
 - Course Website - <https://math4720-f25.github.io/website/>
 
+
 ```{r}
-#| out-width: 100%
 #| fig-align: center
 #| fig-link: https://math4720-f25.github.io/website/
-knitr::include_graphics("./images/01-syllabus/website_s25.png")
+knitr::include_graphics("./images/01-syllabus/website_f25.png")
 ```
+
+- **All course materials and information** can be found on this website. Bookmark it!
 
 
 
@@ -231,34 +264,41 @@ knitr::include_graphics("./images/01-syllabus/website_s25.png")
 - Full detailed explanation of course slides `r emo::ji('sunglasses')`
 
 ```{r}
-#| out-width: 80%
+#| out-width: 60%
+#| fig-link: https://chenghanyu-introstatsbook.netlify.app/
 knitr::include_graphics("./images/01-syllabus/IS.png")
 ```
 
-## Learning Management System ([D2L](https://d2l.mu.edu/d2l/home/545777))
+## Learning Management System (D2L)
 
 ```{r}
 #| out-width: 100%
 #| fig-align: center
-knitr::include_graphics("./images/01-syllabus/d2l_s25.png")
+knitr::include_graphics("./images/01-syllabus/d2l_f25.png")
 ```
 
-- **Assessments > Grades**
+- Submit your work: **Assessments > Dropbox**
 
+- Check your grade: **Assessments > Grades**
+
+- New announcement: **News**
 
 
 ## Grading Policy &#x2728;
 
-- Your final grade is earned out of **1000 total points** distributed as follows:
-  - **Homework 1 to 8: 200 pts (25 pts each)**
-  - **Quiz 1 to 4: 240 pts (60 pts each)**
-  - **Exam 1 and 2: 320 pts (160 pts each)**
-  - **Final exam: 240 pts**
-  - **Class participation** for extra points!
+- Your final grade is earned out of **[1000]{.red} total points** distributed as follows:
+  - **Homework 1 to 8: [175]{.red} pts (25 pts each)**
+  - **Quiz 1 to 4: [200]{.red} pts (50 pts each)**
+  - **Exam 1 and 2: [300]{.red} pts (150 pts each)**
+  - **Final exam: [150]{.red} pts**
+  - **AI Project: [150]{.red} pts** 
+  - **Class participation: [25]{.red} pts**
 
 - `r emo::ji("x")` No extra credit projects/homework/exam to compensate for a poor grade.
+
 - Individual grade will **NOT** be curved.
-- This is not a course that gives most of students grade A. Wanna get a good grade? Study hard. No pain, no gain! &#x270D; &#x270D;
+
+<!-- - This is not a course that gives most of students grade A. Wanna get a good grade? Study hard. No pain, no gain! &#x270D; &#x270D; -->
 
 
 ## Grade-Percentage Conversion &#x2728;
@@ -275,45 +315,80 @@ percentage <- c("[94, 100]", "[90, 94)", "[87, 90)", "[83, 87)", "[80, 83)",
                 "[65, 70)", "[60, 65)", "[0, 60)")
 grade_dist <- data.frame(Grade = letter, Percentage = percentage)
 library(kableExtra)
-knitr::kable(grade_dist, longtable = TRUE, format = "html", align = 'l') %>% kable_styling(position = "center", font_size = 21)
+knitr::kable(grade_dist, longtable = TRUE, format = "html", align = 'l') %>% kable_styling(position = "center", font_size = 35)
 ```
 
 
 
 
-## Homework (200 pts)
+## Homework (175 pts)
 
 - **Assessments > Dropbox** and upload your homework in **PDF** format.
+
 - There are 8 homework sets.
+
 - You must submit YOUR OWN work. `r emo::ji("please")`
-- `r emo::ji("x")` **No make-up homework**.
+
 - Every homework is due by **Friday 11:59 PM ** (**Don't miss it. This is a hard deadline**`r emo::ji("exclamation")`).
-<!-- - At least **one week** is allowed to do your homework. -->
-- The lowest score of the homework sets will not be in your final grade calculation.
+
+- MSSC 5720 students may have more or different homework questions.
+
+- `r emo::ji("x")` **No make-up homework**.
+
+- The lowest score will not be in your final grade calculation.
+
+- Using generative AI (GenAI) tools is allowed, but you **must carefully cite it or reveal your use of AI.**
 
 
 
-## Quizzes (240 pts)
 
-- There are 4 in-class quizzes.
+
+## Quizzes (200 pts)
+
+- There are 4 in-class 15-min quizzes.
 <!-- - Questions in the quizzes are similar to homework questions. So do the HW! -->
-- `r emo::ji("books")` Quizzes are individual and in *closed-book* format.
-- `r emo::ji("x")` No cheat sheet is allowed.
-- `r emo::ji("x")` **No make-up quizzes** for any reason unless you got [COVID](https://www.marquette.edu/central/registrar/faculty-staff/guidance-on-fall-2023-class-attendance-withdrawal-grading.php) or [excused absence](https://bulletin.marquette.edu/undergrad/academicregulations/#attendance). Check the syllabus for more details.
+- `r emo::ji("books")` Quizzes are individual and in **closed-book** and **no-tech** format, except a calculator.
+
+- `r emo::ji("x")` No cheat sheet or GenAI is allowed.
+
+- `r emo::ji("x")` **No make-up quizzes** for any reason unless you got an [excused absence](https://bulletin.marquette.edu/policies/attendance/undergraduate/). Check the [syllabus](https://math4720-f25.github.io/website/course-syllabus.html#quizzes) for more details.
 
 
-## Exams (560 pts)
+## Exams (450 pts)
 
 - There are **two** midterm exams and **one** final exam.
-- Have *in-class* and *take-home* parts.
+
+- The midterms have *in-class* and *take-home* parts, and the final is a in-class written exam.
+
 <!-- - The in-class exams are about one-hour long. -->
-- `r emo::ji("page_facing_up")` One piece of  **letter size** cheat sheet is allowed. It has to be turned-in with your in-class exam.
+- `r emo::ji("page_facing_up")` For the in-class parts, one piece of  **letter size** cheat sheet is allowed. It has to be turned-in with your exam.
+
+- For the take-home parts, you are allowed to use GenAI tools. However, you **must carefully cite it or reveal your use of AI.**
+
+. . .
+
 - **Assessments > Dropbox** to submit your take-home exams in **PDF** format.
 <!-- - `r emo::ji("x")` **Handwriting is NOT allowed**. -->
-- Exam 1 covers Week **1 to 6**
-- Exam 2 covers Week **7 to 11**
+
+- Exam 1 covers Week **1 to 6**.
+
+- Exam 2 covers Week **7 to 11**.
+
 - Final exam is comprehensive and covers the **all course materials**.  `r emo::ji("sunglasses")`
-- `r emo::ji("x")` **No make-up exams** unless you got [COVID](https://www.marquette.edu/central/registrar/faculty-staff/guidance-on-fall-2023-class-attendance-withdrawal-grading.php) or [excused absence](https://bulletin.marquette.edu/undergrad/academicregulations/#attendance). Check the syllabus for more details.
+
+- `r emo::ji("x")` **No make-up exams** for any reason unless you got an [excused absence](https://bulletin.marquette.edu/policies/attendance/undergraduate/).
+
+
+
+## AI Project (150 pts)
+
+- There will be one AI project released around Week 13.
+
+- You have to use GenAI to self learn a topic that is not covered in my lectures, and generate a data analysis report.
+
+- The project topic will also be tested in the final exam.
+
+- You **must carefully cite your GenAI tool or reveal your use of AI.**
 
 
 ##  What Computing Language We Use (I Teach)?
@@ -325,7 +400,7 @@ knitr::kable(grade_dist, longtable = TRUE, format = "html", align = 'l') %>% kab
 - `r emo::ji("chart_with_upwards_trend") ` The best language for statistical computing!
 <!-- - `r emo::ji("x") ` If you do **NOT** want to learn R, choose another section!  -->
 - `r emo::ji("white_check_mark")` You may use other tools or software such as Excel, Python, Minitab, etc to do your work, but I will **NOT** teach any of them.
-- `r emo::ji("x")` Drop/Swap deadline: **09/05/2022**. Don't miss it!
+- `r emo::ji("x")` Drop/Swap deadline: **09/02/2025**. Don't miss it!
 
 ::::
 
@@ -335,7 +410,7 @@ knitr::kable(grade_dist, longtable = TRUE, format = "html", align = 'l') %>% kab
 
 
 ```{r}
-#| fig-cap: <https://www.r-project.org/>
+#| fig-link: <https://www.r-project.org/>
 knitr::include_graphics("./images/01-syllabus/Rlogo.png")
 ```
 
@@ -343,20 +418,21 @@ knitr::include_graphics("./images/01-syllabus/Rlogo.png")
 
 :::::
 
-## Generative AI and Sharing/Reusing Code Policy
+## Document Generative AI Use
 
 
 :::: {.columns}
 ::: {.column width="80%"}
 
-### Generative AI
+<!-- ### Generative AI -->
 
-- You may use generative AI tools such as ChatGPT or DALL-E to generate a first draft of text for your work, provided that this use is *documented and cited*.
+- You may use generative AI tools such as ChatGPT and Gemini to generate a first draft of text for your work, provided that this use is **documented and cited**.
 
-[Example] Data science is an interdisciplinary field that ... [^1]
+<!-- [Example] Data science is an interdisciplinary field that ... [^1] -->
 
-[^1]: ChatGPT, response to *“Tell me what data science is,”* Jan 14, 2025, https://chat.openai.com.
+<!-- [^1]: ChatGPT, response to *“Tell me what data science is,”* Jan 14, 2025, https://chat.openai.com. -->
 
+- Unless explicitly stated otherwise, you may make use of any online resources, but you must **explicitly cite/document** where you obtained any code you directly use or use as inspiration in your solutions.
 :::
 
 ::: {.column width="20%"}
@@ -371,29 +447,86 @@ knitr::include_graphics("images/01-syllabus/genai.png")
 
 ::::
 
-. . .
 
-### Sharing/Reusing Code
 
-- Unless explicitly stated otherwise, you may make use of any online resources, but you must **explicitly cite** where you obtained any code you directly use or use as inspiration in your solutions.
 
-[Example]
+- If you use GenAI, please include the followings in your submitted work:
 
-- The code is modified from the GitHub repo <https://github.com/chenghanyustats/slam>
+  + **How I used AI (prompts or questions)**
+  + **Generated output (screenshot or copy-paste excerpt)**
+  + **How I used the output**
+ 
+ 
+## Document Generative AI Use
 
-- The code is generated from ChatGPT response to *“Please generate Python code for solving the math problem I attach,”* Jan 14, 2025.
+- **How I used AI (prompts and questions)**
+  + *I asked ChatGPT to generate a histogram using R.*
+ 
+- **Generated output (screenshot or copy-paste excerpt)**
 
-::: notes
-- You are responsible for the content of all work submitted for this course.
-- You can use any code shared online or in books. But please give the authors full credits. Cite their work and let me know whose code you are using to do your homework and project.
-- I encourage you to write your own code. This way you learn the most.
-- `r emo::ji("x")`  Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism, regardless of source. `r emo::ji("scream")`
+::: tiny
+```{r}
+#| out-width: 35%
+#| fig-align: center
+knitr::include_graphics("images/01-syllabus/genai_screenshot.png")
+```
 :::
 
 
+- **How I used the output**
+  + *I reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50.*
+
+
+
+ 
+<!-- ## Sharing/Reusing Code -->
+
+<!-- - Unless explicitly stated otherwise, you may make use of any online resources, but you must **explicitly cite** where you obtained any code you directly use or use as inspiration in your solutions. -->
+
+<!-- [Example] -->
+
+<!-- - The code is modified from the GitHub repo <https://github.com/chenghanyustats/slam> -->
+
+<!-- - The code is generated from ChatGPT response to *“Please generate R code for solving the probability problem I attach,”* Jan 14, 2025. -->
+
+<!-- ::: notes -->
+<!-- - You are responsible for the content of all work submitted for this course. -->
+<!-- - You can use any code shared online or in books. But please give the authors full credits. Cite their work and let me know whose code you are using to do your homework and project. -->
+<!-- - I encourage you to write your own code. This way you learn the most. -->
+<!-- - `r emo::ji("x")`  Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism, regardless of source. `r emo::ji("scream")` -->
+<!-- ::: -->
+
+<!-- ## -->
+
+<!-- How I used AI: -->
+<!--  I asked ChatGPT to suggest different ways to start my personal statement. -->
+<!-- Generated Output (excerpt): -->
+<!--  (screenshot or copy-paste excerpt) -->
+<!-- “One way to begin your personal statement could be with a defining moment: ‘The first time I stood in front of a classroom, I realized that teaching was not just a profession—it was my calling.’ Another option is to highlight your motivation with a story of overcoming a challenge…” -->
+<!-- How I used it: -->
+<!--  I reviewed the suggestions, but I did not use the exact wording. Instead, I used the idea of starting with a defining moment and wrote my own opening sentence. -->
+
+
+ 
 ## Academic Integrity
 
 This course expects all students to follow University and College statements on [academic integrity](https://bulletin.marquette.edu/undergrad/academicregulations/).
 
 - **Honor Pledge and Honor Code**: *I recognize the importance of personal integrity in all aspects of life and work. I commit myself to truthfulness, honor, and responsibility, by which I earn the respect of others. I support the development of good character, and commit myself to uphold the highest standards of academic integrity as an important aspect of personal integrity. My commitment obliges me to conduct myself according to the Marquette University Honor Code*.
 <!-- - `r emo::ji("x")` You know what I am talking about. Yes, **DO NOT CHEAT**.  -->
+
+
+## GenAI and Academic Integrity
+
+```{=html}
+<!-- Replace host and id with yours -->
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+  <iframe
+    src="https://marquette.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36be65f1-ba4f-457d-bad3-b1b8013b9448&start=0.5"
+    title="GenAI and Academic Integrity"
+    style="position:absolute; top:0; left:0; width:100%; height:90%; border:0;"
+    allow="encrypted-media; fullscreen; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>
+```

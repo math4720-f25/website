@@ -5,10 +5,16 @@
 $link-color: #315dee;
 $font-family-sans-serif: 'Open Sans', sans-serif;
 $font-family-monospace: 'Fira Mono', monospace;
-$code-block-font-size: 0.83em;
+$code-block-font-size: 0.88em;
 $presentation-font-size-root: 38px;
 $presentation-font-smaller: 0.75;
 
+
+/* Make all slide headings bold */
+:root { --r-heading-font-weight: 800; }
+
+/* Make the title slide subtitle bold too */
+.title-slide .subtitle { font-weight: 700; }
 
 
 .reveal #title-slide .subtitle {
@@ -17,10 +23,12 @@ $presentation-font-smaller: 0.75;
 
 .reveal #title-slide .author {
   text-align: left;
+  font-weight: bold;
 }
 
 .reveal #title-slide .institute {
   text-align: left;
+  font-weight: bold;
 }
 
 
@@ -28,6 +36,7 @@ $presentation-font-smaller: 0.75;
 
 .reveal .slides > section > section {
   text-align:left;
+  font-weight: bold;
 }
 
 
@@ -36,6 +45,7 @@ $presentation-font-smaller: 0.75;
   font-family: 'Delius Unicase', cursive;
   color: #d2e3f3;
   font-size: 3em;
+  font-weight: bold;
   position: absolute;
   left: 20px;
   top: 20px
@@ -45,6 +55,7 @@ $presentation-font-smaller: 0.75;
   font-family: 'Delius Unicase', cursive;
   color: #d2e3f3;
   font-size: 2em;
+  font-weight: bold;
   position: absolute;
   left: 20px;
   top: 200px
@@ -118,6 +129,7 @@ $presentation-font-smaller: 0.75;
 
 h2 {
   color: #003366 !important;
+  font-weight: bold;
 }
 
 
@@ -125,7 +137,7 @@ h2 {
 .huge { font-size: 280% }
 .xlarge { font-size: 180% }
 .large { font-size: 130% }
-.midi { font-size: 80% }
+.midi { font-size: 88% }
 .small { font-size: 70% }
 .xsmall { font-size: 60% }
 .tiny { font-size: 50% }
@@ -240,7 +252,7 @@ h2 {
 }
 
 .question, .your-turn, .tip {
-  padding: 5px 5px;
+  padding: 1px 1px;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -455,6 +467,62 @@ width: 200px;
 .reveal .code-output, 
 .reveal .cm-editor, 
 .reveal .cm-content {
-  font-size: 1.1em !important; /* adjust as needed */
+  font-size: 0.95em !important; /* adjust as needed */
   /*line-height: 1.4;*/
+}
+
+
+.reveal .code-output {
+  max-height: none;       /* Remove default height limit */
+  overflow-y: visible;    /* Prevent scrollbars */
+  font-size: 0.9em;       /* Optional: adjust font size */
+}
+
+.reveal pre {
+  max-height: none;       /* Let code blocks expand fully */
+}
+
+.reveal .slides section.middle {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center; /* vertical */
+  height: 100%;
+}
+
+.blackbox {
+  padding: -1em;
+  background: #FFCC00;
+  color: #003366;
+  border: 3px solid orange;
+  border-radius: 9px;
+}
+
+table {
+  background-color: #f8f9fa; /* Light grey background for all tables */
+}
+
+th {
+  background-color: #e9ecef; /* Slightly darker header background */
+}
+
+tr:nth-child(even) {
+  background-color: #ffffff; /* White background for even rows (to remove default striping if desired) */
+}
+
+
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  color: #003366;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  color: #003366;
+  font-size: 12px;
+  margin: 0 0 0.5em 0;
 }
