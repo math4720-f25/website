@@ -53,42 +53,42 @@
     "href": "slides/02-overview-slides.html#statistics-as-numeric-records",
     "title": "Overview of Statistics and Data 📖",
     "section": "Statistics as Numeric Records",
-    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records."
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records.\n\n\n\nFor example, some NBA star’s career statistics are right here.\nAnyone know who he is? Wanna guess?"
   },
   {
     "objectID": "slides/02-overview-slides.html#statistics-as-numeric-records-1",
     "href": "slides/02-overview-slides.html#statistics-as-numeric-records-1",
     "title": "Overview of Statistics and Data 📖",
     "section": "Statistics as Numeric Records",
-    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records.\n\n\n\n\n\n\nhttps://slamgoods.com/products/jordan-collectors-issue"
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records.\n\n\n\n\n\n\nhttps://slamgoods.com/products/jordan-collectors-issue\n\n\n\n\n\nYes, Michael Jordan! My favorite NBA player.\nYou know I was born in 80’s.\nYou guys didn’t watch MJ playing, but I did. in TV. OK.\nYour idol may be Kobe, or LBJ or Stephen Curry, but for people born in 80’s, or your parents, most of them would agree MJ is the greatest of all time.\nOK I am gone too far.\nAgain, in ordinary conversations, the word statistics represents numeric records."
   },
   {
     "objectID": "slides/02-overview-slides.html#section-1",
     "href": "slides/02-overview-slides.html#section-1",
     "title": "Overview of Statistics and Data 📖",
     "section": "",
-    "text": "https://www.amazon.com/Funny-Statistics-Shirt-Definition/dp/B07JKMCDR2?customId=B07537PB8C&customizationToken=MC_Assembly_1%23B07537PB8C&th=1&psc=1"
+    "text": "https://www.amazon.com/Funny-Statistics-Shirt-Definition/dp/B07JKMCDR2?customId=B07537PB8C&customizationToken=MC_Assembly_1%23B07537PB8C&th=1&psc=1\n\n\n\n\n\nAnd somebody defines statistics as the only field where two experts, using identical data, may come to completely opposite conclusions, which is true in some sense.\nAnd well see why later in this course.\nWith the same data, different statistical methods may produce different results and lead to difference conclusions."
   },
   {
     "objectID": "slides/02-overview-slides.html#statistics-as-a-discipline",
     "href": "slides/02-overview-slides.html#statistics-as-a-discipline",
     "title": "Overview of Statistics and Data 📖",
     "section": "Statistics as a Discipline",
-    "text": "Statistics as a Discipline\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Statistics\n\n\n\n\n\n\n\nStatistics is a Science of Data.\n\n\n\n\nA science of data using statistical thinking, methods and models.\n\n\n\n\n🤔 But wait, then what is DATA SCIENCE ❓"
+    "text": "Statistics as a Discipline\n\n\n\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Statistics\n\n\n\n\n\nForget about that useless definition.\nFrom Wiki, Statistics is formally defined as the discipline that concerns the collection, organization, analysis, interpretation and presentation of data.\n\n\n\nStatistics is a subject dealing with data, or Science of Data.\n\n\nSo, Statistics is a Science of Data.\nThere might be another science of data. I’m not saying statistics is THE science of data.\n\n\n\n\nA science of data using statistical thinking, methods and models.\n\n\n\n\n🤔 But wait, then what is DATA SCIENCE ❓"
   },
   {
     "objectID": "slides/02-overview-slides.html#difference-between-statistics-and-data-science",
     "href": "slides/02-overview-slides.html#difference-between-statistics-and-data-science",
     "title": "Overview of Statistics and Data 📖",
     "section": "Difference between Statistics and Data Science",
-    "text": "Difference between Statistics and Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy ChatGPT says:\n\nStatistics is foundational to Data Science, but Data Science also includes programming, data engineering, machine learning, and business communication."
+    "text": "Difference between Statistics and Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the term Data science just came out around 10 years ago, there is no formal definition of data science.\n\nMy ChatGPT says:\n\nStatistics is foundational to Data Science, but Data Science also includes programming, data engineering, machine learning, and business communication."
   },
   {
     "objectID": "slides/02-overview-slides.html#data-science-life-cycle",
     "href": "slides/02-overview-slides.html#data-science-life-cycle",
     "title": "Overview of Statistics and Data 📖",
     "section": "Data Science Life Cycle",
-    "text": "Data Science Life Cycle"
+    "text": "Data Science Life Cycle\n\n\n\nData science is an discipline that helps us turn raw data into understanding, insight, and knowledge that includes multiple steps associated with data.\nThis pipeline is the entrie workflow of data science."
   },
   {
     "objectID": "slides/02-overview-slides.html#uc-santa-cruz-department-of-statistics-courses",
@@ -102,56 +102,56 @@
     "href": "slides/02-overview-slides.html#data-science-may-now-be-a-broader-view-of-statistics",
     "title": "Overview of Statistics and Data 📖",
     "section": "Data Science May Now Be a Broader View of Statistics",
-    "text": "Data Science May Now Be a Broader View of Statistics\nCollection, organization, analysis, interpretation and presentation of data."
+    "text": "Data Science May Now Be a Broader View of Statistics\nCollection, organization, analysis, interpretation and presentation of data.\n\n\nAlthough statistics deals with Collection, organization, analysis, interpretation and presentation of data, statistics focus much more on data analysis, methods and models.\nAnd now data science is more like a broader view of statistics."
   },
   {
     "objectID": "slides/02-overview-slides.html#what-we-learn-in-this-course",
     "href": "slides/02-overview-slides.html#what-we-learn-in-this-course",
     "title": "Overview of Statistics and Data 📖",
     "section": "What We Learn In this Course",
-    "text": "What We Learn In this Course\n\n\n\n\n\nOpenIntro Statistics Contents"
+    "text": "What We Learn In this Course\n\n\n\n\n\nOpenIntro Statistics Contents\n\n\n\n\n\nIn particular, we will spend most of the time talking about probability and statistical inference methods OK."
   },
   {
     "objectID": "slides/02-overview-slides.html#we-focus-on-statistical-inference",
     "href": "slides/02-overview-slides.html#we-focus-on-statistical-inference",
     "title": "Overview of Statistics and Data 📖",
     "section": "We Focus On Statistical Inference",
-    "text": "We Focus On Statistical Inference\n\nWe spend most of time on various statistical methods for analyzing data.\n\nLearn useful information\n\nabout the population we are interested (e.g. All Marquette students)\nfrom our sample data (e.g. Students in MATH 4720)\nthrough statistical inferential methods, including estimation and testing (e.g. Confidence intervals)"
+    "text": "We Focus On Statistical Inference\n\nWe spend most of time on various statistical methods for analyzing data.\n\nLearn useful information\n\nabout the population we are interested (e.g. All Marquette students)\nfrom our sample data (e.g. Students in MATH 4720)\nthrough statistical inferential methods, including estimation and testing (e.g. Confidence intervals)\n\n\n\n\n\nDon’t worry if you have no idea of these terms.\nThese are what we will discuss throughout the course, and I’ll explain each term in detail later in class. OK."
   },
   {
     "objectID": "slides/02-overview-slides.html#statistics-is-a-science-of-data-so-what-is-data",
     "href": "slides/02-overview-slides.html#statistics-is-a-science-of-data-so-what-is-data",
     "title": "Overview of Statistics and Data 📖",
     "section": "Statistics is a Science of Data, so What is Data?",
-    "text": "Statistics is a Science of Data, so What is Data?\n\nData: A set of objects on which we observe or measure one or more characteristics.\nObjects are individuals, observations, subjects or cases in statistical studies.\nA characteristic or attribute is called a variable because it varies from one to another.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+    "text": "Statistics is a Science of Data, so What is Data?\n\nData: A set of objects on which we observe or measure one or more characteristics.\nObjects are individuals, observations, subjects or cases in statistical studies.\nA characteristic or attribute is called a variable because it varies from one to another.\n\n\nAll right. Statistics is a Science of Data, so What is Data?\nLet’s define Data.\nA data set is a set of objects on which we observe or measure one or more characteristics.\nObjects are individuals, observations, subjects or cases in statistical studies.\nA characteristic or attribute is called a variable because it varies from one to another.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0\n\n\n\n\n\n\n\nFor example, the data set right here is a set of Marquette mens basketball players.\nSo objects are individuals or players in the data.\nAnd each player has several characteristics or attributes shown in columns associated with him.\nFor example, his #, class, position, height, weight, hometown, and high school.\nThese characteristics are called variables because they vary form one to another. Clear?"
   },
   {
     "objectID": "slides/02-overview-slides.html#data-matrix",
     "href": "slides/02-overview-slides.html#data-matrix",
     "title": "Overview of Statistics and Data 📖",
     "section": "Data Matrix",
-    "text": "Data Matrix\n\nEach row corresponds to a unique case or observational unit.\nEach column represents a characteristic or variable.\nThis structure allows new cases to be added as rows or new variables as new columns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+    "text": "Data Matrix\n\nEach row corresponds to a unique case or observational unit.\nEach column represents a characteristic or variable.\nThis structure allows new cases to be added as rows or new variables as new columns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0\n\n\n\n\n\n\n\nAnd we usually store a data set in a matrix form that has rows and columns.\nEach row corresponds to a unique case or observational unit, or the object.\nEach column represents a characteristic or variable.\nThis structure allows new cases to be added as rows or new variables as new columns."
   },
   {
     "objectID": "slides/02-overview-slides.html#target-population",
     "href": "slides/02-overview-slides.html#target-population",
     "title": "Overview of Statistics and Data 📖",
     "section": "Target Population",
-    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nWhat is the average GPA of currently enrolled Marquette students?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll Marquette students that are currently enrolled."
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nWhat is the average GPA of currently enrolled Marquette students?\n\n\n\n\n\n\n\n\n\n\n\n\nTarget Population: The complete collection of data we’d like to make inference about.\nSo the population is a set of all objects which we are interested in studying from.\nBecause All Marquette undergrads that are currently enrolled is the complete collection of data we’d like to make inference about.\nEach currently enrolled Marquette undergrad is an object.\nNote that students who are not currently enrolled or students that are already graduated are not our interest, and they shouldn’t be a part of target population.\nCan anybody tell me what variable associated with Marquette undergrads is our interest?\nSo average GPA is the variable or population property we like to make inference about.\n\n\n\nAll Marquette students that are currently enrolled."
   },
   {
     "objectID": "slides/02-overview-slides.html#target-population-1",
     "href": "slides/02-overview-slides.html#target-population-1",
     "title": "Overview of Statistics and Data 📖",
     "section": "Target Population",
-    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nDoes a new drug reduce mortality in patients with severe heart disease?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll people with severe heart disease."
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nDoes a new drug reduce mortality in patients with severe heart disease?\n\n\n\n\n\n\n\n\n\n\n\n\nOK. Another example. If our research question is Does a new drug reduce mortality in patients with severe heart disease? What is our target population?\nA person with severe heart disease represents a case.\nThe population includes all patients with severe heart disease.\n\n\n\nAll people with severe heart disease."
   },
   {
     "objectID": "slides/02-overview-slides.html#sample-data",
     "href": "slides/02-overview-slides.html#sample-data",
     "title": "Overview of Statistics and Data 📖",
     "section": "Sample Data",
-    "text": "Sample Data\n\n\n\nSometimes, it’s possible to collect data of all cases we are interested.\nMost of the time, it is too expensive to collect data for every case in a population.\nWhat about the average GPA of all students in Illinois? the U.S.? the world? 😱 😱 😱\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample: A subset of cases selected from a population.\nCompute the average GPA of the sample data\nHope sample avg GPA \\(\\approx\\) population avg GPA. 🙏"
+    "text": "Sample Data\n\n\n\nSometimes, it’s possible to collect data of all cases we are interested.\nMost of the time, it is too expensive to collect data for every case in a population.\nWhat about the average GPA of all students in Illinois? the U.S.? the world? 😱 😱 😱\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample: A subset of cases selected from a population.\nCompute the average GPA of the sample data\nHope sample avg GPA \\(\\approx\\) population avg GPA. 🙏\n\n\nSo sampling is our solution to it.\nA Sample is A subset of cases selected from a population.\nAnd the idea is that OK, we are not able to compute the average GPA of a population, but we collect a sample from that population which has way less objects than the population.\nAnd then we compute the average GPA of the sample data.\nAnd we hope the sample average GPA can be close to the population average GPA because the population GPA is our main interest, not the sample GPA.\nTo have sample average GPA close to population GPA, we want the sample to look like the population so that the sample and the population share similar attribute including GPA."
   },
   {
     "objectID": "slides/02-overview-slides.html#good-sample-vs.-bad-sample",
@@ -165,14 +165,14 @@
     "href": "slides/02-overview-slides.html#good-sample-vs.-bad-sample-1",
     "title": "Overview of Statistics and Data 📖",
     "section": "Good Sample vs. Bad Sample",
-    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a “good” sample of the target population?\n\n\nThe sample is convenient to be collected, but it may NOT be representative of the population.\nBiased sample: The average GPA of the class may be far from that of all Marquette undergrads."
+    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a “good” sample of the target population?\n\n\nThe sample is convenient to be collected, but it may NOT be representative of the population.\nBiased sample: The average GPA of the class may be far from that of all Marquette undergrads.\n\n\n\nThe sample is convenient to be collected, but it is NOT representative of the population.\nYou are mostly STEM majors, and so with a high chance, your avg GPA is not the same as the GPA of humanities or business students,right.\n\nBiased sample: The average GPA of you guys may not be close to the average GPA of all Marquette undergrads.\nSample data must be collected in an appropriate way. If not GIGO."
   },
   {
     "objectID": "slides/02-overview-slides.html#how-and-why-a-representative-sample",
     "href": "slides/02-overview-slides.html#how-and-why-a-representative-sample",
     "title": "Overview of Statistics and Data 📖",
     "section": "How and Why a Representative Sample?",
-    "text": "How and Why a Representative Sample?\n\nWe always seek to randomly select a sample from a population.\nLots of statistical methods are based on randomness assumption."
+    "text": "How and Why a Representative Sample?\n\nWe always seek to randomly select a sample from a population.\nLots of statistical methods are based on randomness assumption.\n\n\n\nWe always seek to randomly select a sample from a population because random sampling usually give us a Representative Sample, as long as the sample size, or the number of objects in the sample is not too small.\nSo in the example, the proportion of major in our sample should look pretty similar to the proportion of our target population, which is all marquette students.\nIf data are not collected in a random framework, these statistical methods – the estimates and errors associated with the estimates – are not reliable."
   },
   {
     "objectID": "slides/02-overview-slides.html#two-types-of-studies-to-collect-sample-data",
@@ -186,7 +186,7 @@
     "href": "slides/02-overview-slides.html#limitation-of-observational-studies-confounding",
     "title": "Overview of Statistics and Data 📖",
     "section": "Limitation of Observational Studies: Confounding",
-    "text": "Limitation of Observational Studies: Confounding\n\n\nConfounder: A variable NOT included in a study but affects the variables in the study.\nObserve past data show that increases in ice cream sales are associated with increases in drownings, and we conclude that eating ice cream causes drownings. 😱 😕 ⁉️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is the confounder that is not in the data, but affects ice cream sales and the number of drownings?\n\n\n\n\n\nTemperature: as temperature increases, ice cream sales increase and the number of drownings goes up because more people swim."
+    "text": "Limitation of Observational Studies: Confounding\n\n\nConfounder: A variable NOT included in a study but affects the variables in the study.\nObserve past data show that increases in ice cream sales are associated with increases in drownings, and we conclude that eating ice cream causes drownings. 😱 😕 ⁉️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is the confounder that is not in the data, but affects ice cream sales and the number of drownings?\n\n\n\n\n\nTemperature: as temperature increases, ice cream sales increase and the number of drownings goes up because more people swim.\n\n\n\n\n\n\n\n\n\n\nAs temperature increases (season), ice cream sales increase and the number of drownings goes up because more people swim."
   },
   {
     "objectID": "slides/02-overview-slides.html#causal-relationship",
@@ -228,7 +228,7 @@
     "href": "slides/02-overview-slides.html#cluster-sampling-example",
     "title": "Overview of Statistics and Data 📖",
     "section": "Cluster Sampling Example",
-    "text": "Cluster Sampling Example\n\n\nExample: Study 4720 student drinking habit by dividing the students into 9 groups, then randomly selecting 3 and interviewing all of the students in each of those clusters."
+    "text": "Cluster Sampling Example\n\n\nExample: Study 4720 student drinking habit by dividing the students into 9 groups, then randomly selecting 3 and interviewing all of the students in each of those clusters.\n\n\n\nclusters look similar each other, but members in a cluster are not very alike. They have different characteristics.\nHomogeneous between clusters because all classes are STEM classes.\nNon-homogeneous within clusters because students in the same class may have different majors or from different colleges"
   },
   {
     "objectID": "slides/02-overview-slides.html#categorical-vs.-numerical-variables",
@@ -263,56 +263,56 @@
     "href": "slides/02-overview-slides.html#converting-numerical-to-categorical",
     "title": "Overview of Statistics and Data 📖",
     "section": "Converting Numerical to Categorical",
-    "text": "Converting Numerical to Categorical\n\nYou’ve already seen an example.\n\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
+    "text": "Converting Numerical to Categorical\n\nYou’ve already seen an example.\n\n\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
   },
   {
     "objectID": "slides/02-overview-slides.html#section-5",
     "href": "slides/02-overview-slides.html#section-5",
     "title": "Overview of Statistics and Data 📖",
     "section": "",
-    "text": "Identify data type of each variable in the Marquette men’s basketball player data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+    "text": "Identify data type of each variable in the Marquette men’s basketball player data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0\n\n\n\n\n\n\n\n  \n    −\n    +\n \n 03:00"
   },
   {
     "objectID": "slides/02-overview.html#statistics-as-numeric-records",
     "href": "slides/02-overview.html#statistics-as-numeric-records",
     "title": "Overview of Statistics and Data 📖",
     "section": "Statistics as Numeric Records",
-    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records."
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records.\n\n\n\n\n\n\n\n\n\n\n\nFor example, some NBA star’s career statistics are right here.\nAnyone know who he is? Wanna guess?"
   },
   {
     "objectID": "slides/02-overview.html#statistics-as-numeric-records-1",
     "href": "slides/02-overview.html#statistics-as-numeric-records-1",
     "title": "Overview of Statistics and Data 📖",
     "section": "Statistics as Numeric Records",
-    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records.\n\n\n\n\n\n\nhttps://slamgoods.com/products/jordan-collectors-issue"
+    "text": "Statistics as Numeric Records\n\nIn ordinary conversations, the word statistics is used as a term to indicate a set or collection of numeric records.\n\n\n\n\n\n\nhttps://slamgoods.com/products/jordan-collectors-issue\n\n\n\n\n\n\nYes, Michael Jordan! My favorite NBA player.\nYou know I was born in 80’s.\nYou guys didn’t watch MJ playing, but I did. in TV. OK.\nYour idol may be Kobe, or LBJ or Stephen Curry, but for people born in 80’s, or your parents, most of them would agree MJ is the greatest of all time.\nOK I am gone too far.\nAgain, in ordinary conversations, the word statistics represents numeric records."
   },
   {
     "objectID": "slides/02-overview.html#section-1",
     "href": "slides/02-overview.html#section-1",
     "title": "Overview of Statistics and Data 📖",
     "section": "",
-    "text": "https://www.amazon.com/Funny-Statistics-Shirt-Definition/dp/B07JKMCDR2?customId=B07537PB8C&customizationToken=MC_Assembly_1%23B07537PB8C&th=1&psc=1"
+    "text": "https://www.amazon.com/Funny-Statistics-Shirt-Definition/dp/B07JKMCDR2?customId=B07537PB8C&customizationToken=MC_Assembly_1%23B07537PB8C&th=1&psc=1\n\n\n\n\n\n\nAnd somebody defines statistics as the only field where two experts, using identical data, may come to completely opposite conclusions, which is true in some sense.\nAnd well see why later in this course.\nWith the same data, different statistical methods may produce different results and lead to difference conclusions."
   },
   {
     "objectID": "slides/02-overview.html#statistics-as-a-discipline",
     "href": "slides/02-overview.html#statistics-as-a-discipline",
     "title": "Overview of Statistics and Data 📖",
     "section": "Statistics as a Discipline",
-    "text": "Statistics as a Discipline\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Statistics\n\n\n\n\n. . .\n\n\nStatistics is a Science of Data.\n\n. . .\n\nA science of data using statistical thinking, methods and models.\n\n. . .\n\n🤔 But wait, then what is DATA SCIENCE ❓"
+    "text": "Statistics as a Discipline\n\n\n\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Statistics\n\n\n\n\n\n\nForget about that useless definition.\nFrom Wiki, Statistics is formally defined as the discipline that concerns the collection, organization, analysis, interpretation and presentation of data.\n\n\n. . .\n\n\nStatistics is a subject dealing with data, or Science of Data.\n\n\n\nSo, Statistics is a Science of Data.\nThere might be another science of data. I’m not saying statistics is THE science of data.\n\n\n. . .\n\nA science of data using statistical thinking, methods and models.\n\n. . .\n\n🤔 But wait, then what is DATA SCIENCE ❓"
   },
   {
     "objectID": "slides/02-overview.html#difference-between-statistics-and-data-science",
     "href": "slides/02-overview.html#difference-between-statistics-and-data-science",
     "title": "Overview of Statistics and Data 📖",
     "section": "Difference between Statistics and Data Science",
-    "text": "Difference between Statistics and Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\nMy ChatGPT says:\n\nStatistics is foundational to Data Science, but Data Science also includes programming, data engineering, machine learning, and business communication."
+    "text": "Difference between Statistics and Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the term Data science just came out around 10 years ago, there is no formal definition of data science.\n\n\n. . .\nMy ChatGPT says:\n\nStatistics is foundational to Data Science, but Data Science also includes programming, data engineering, machine learning, and business communication."
   },
   {
     "objectID": "slides/02-overview.html#data-science-life-cycle",
     "href": "slides/02-overview.html#data-science-life-cycle",
     "title": "Overview of Statistics and Data 📖",
     "section": "Data Science Life Cycle",
-    "text": "Data Science Life Cycle"
+    "text": "Data Science Life Cycle\n\n\n\n\n\n\n\n\n\n\n\nData science is an discipline that helps us turn raw data into understanding, insight, and knowledge that includes multiple steps associated with data.\nThis pipeline is the entrie workflow of data science."
   },
   {
     "objectID": "slides/02-overview.html#uc-santa-cruz-department-of-statistics-courses",
@@ -326,56 +326,56 @@
     "href": "slides/02-overview.html#data-science-may-now-be-a-broader-view-of-statistics",
     "title": "Overview of Statistics and Data 📖",
     "section": "Data Science May Now Be a Broader View of Statistics",
-    "text": "Data Science May Now Be a Broader View of Statistics\nCollection, organization, analysis, interpretation and presentation of data."
+    "text": "Data Science May Now Be a Broader View of Statistics\nCollection, organization, analysis, interpretation and presentation of data.\n\n\n\n\n\n\n\n\n\n\nAlthough statistics deals with Collection, organization, analysis, interpretation and presentation of data, statistics focus much more on data analysis, methods and models.\nAnd now data science is more like a broader view of statistics."
   },
   {
     "objectID": "slides/02-overview.html#what-we-learn-in-this-course",
     "href": "slides/02-overview.html#what-we-learn-in-this-course",
     "title": "Overview of Statistics and Data 📖",
     "section": "What We Learn In this Course",
-    "text": "What We Learn In this Course\n\n\n\n\n\nOpenIntro Statistics Contents"
+    "text": "What We Learn In this Course\n\n\n\n\n\nOpenIntro Statistics Contents\n\n\n\n\n\n\nIn particular, we will spend most of the time talking about probability and statistical inference methods OK."
   },
   {
     "objectID": "slides/02-overview.html#we-focus-on-statistical-inference",
     "href": "slides/02-overview.html#we-focus-on-statistical-inference",
     "title": "Overview of Statistics and Data 📖",
     "section": "We Focus On Statistical Inference",
-    "text": "We Focus On Statistical Inference\n\nWe spend most of time on various statistical methods for analyzing data.\n\nLearn useful information\n\nabout the population we are interested (e.g. All Marquette students)\nfrom our sample data (e.g. Students in MATH 4720)\nthrough statistical inferential methods, including estimation and testing (e.g. Confidence intervals)"
+    "text": "We Focus On Statistical Inference\n\nWe spend most of time on various statistical methods for analyzing data.\n\nLearn useful information\n\nabout the population we are interested (e.g. All Marquette students)\nfrom our sample data (e.g. Students in MATH 4720)\nthrough statistical inferential methods, including estimation and testing (e.g. Confidence intervals)\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t worry if you have no idea of these terms.\nThese are what we will discuss throughout the course, and I’ll explain each term in detail later in class. OK."
   },
   {
     "objectID": "slides/02-overview.html#statistics-is-a-science-of-data-so-what-is-data",
     "href": "slides/02-overview.html#statistics-is-a-science-of-data-so-what-is-data",
     "title": "Overview of Statistics and Data 📖",
     "section": "Statistics is a Science of Data, so What is Data?",
-    "text": "Statistics is a Science of Data, so What is Data?\n\nData: A set of objects on which we observe or measure one or more characteristics.\nObjects are individuals, observations, subjects or cases in statistical studies.\nA characteristic or attribute is called a variable because it varies from one to another.\n\n. . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+    "text": "Statistics is a Science of Data, so What is Data?\n\nData: A set of objects on which we observe or measure one or more characteristics.\nObjects are individuals, observations, subjects or cases in statistical studies.\nA characteristic or attribute is called a variable because it varies from one to another.\n\n\n\nAll right. Statistics is a Science of Data, so What is Data?\nLet’s define Data.\nA data set is a set of objects on which we observe or measure one or more characteristics.\nObjects are individuals, observations, subjects or cases in statistical studies.\nA characteristic or attribute is called a variable because it varies from one to another.\n\n\n. . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0\n\n\n\n\n\n\n\n\nFor example, the data set right here is a set of Marquette mens basketball players.\nSo objects are individuals or players in the data.\nAnd each player has several characteristics or attributes shown in columns associated with him.\nFor example, his #, class, position, height, weight, hometown, and high school.\nThese characteristics are called variables because they vary form one to another. Clear?"
   },
   {
     "objectID": "slides/02-overview.html#data-matrix",
     "href": "slides/02-overview.html#data-matrix",
     "title": "Overview of Statistics and Data 📖",
     "section": "Data Matrix",
-    "text": "Data Matrix\n\nEach row corresponds to a unique case or observational unit.\nEach column represents a characteristic or variable.\nThis structure allows new cases to be added as rows or new variables as new columns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0"
+    "text": "Data Matrix\n\nEach row corresponds to a unique case or observational unit.\nEach column represents a characteristic or variable.\nThis structure allows new cases to be added as rows or new variables as new columns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumber\nName\nClass\nPos\nHt\nWt\nHometown\nHigh_School\nPPG\nRPG\nAPG\n\n\n\n1\nKam Jones\nSr\nG\n6’5”\n205\nMemphis, TN\nEvangelical Christian School\n19.2\n4.5\n5.9\n\n\n2\nChase Ross\nJr\nG\n6’5”\n210\nDallas, TX\nCushing Academy\n10.5\n3.8\n2.1\n\n\n4\nStevie Mitchell\nSr\nG\n6’3”\n200\nReading, PA\nWilson HS\n10.7\n4.1\n1.6\n\n\n5\nTre Norman\nSo\nG\n6’4”\n210\nBoston, MA\nWorcester Academy\n1.9\n1.5\n0.5\n\n\n7\nZaide Lowery\nSo\nG\n6’5”\n200\nSpringfield, MO\nLa Lumiere School\n4.1\n3.0\n0.2\n\n\n8\nJoshua Clark\nFr\nF\n7’1”\n225\nVirginia Beach, VA\nClements HS\nNA\nNA\nNA\n\n\n10\nDamarius Owens\nFr\nF\n6’7”\n200\nRochester, NY\nWestern Reserve Academy\n2.6\n1.2\n0.5\n\n\n12\nBen Gold\nJr\nF\n6’11”\n235\nWellington, NZ\nNBA Global Academy\n7.4\n4.3\n0.9\n\n\n13\nRoyce Parham\nFr\nF\n6’8”\n230\nPittsburgh, PA\nWestern Reserve Academy\n5.1\n2.2\n0.4\n\n\n21\nAl Amadou\nSo\nF\n6’9”\n210\nPhiladelphia, PA\nChestnut Hill Academy\nNA\nNA\nNA\n\n\n22\nSean Jones\nJr (RS)\nG\n5’10”\n185\nColumbus, OH\nLincoln HS\nNA\nNA\nNA\n\n\n23\nDavid Joplin\nSr\nF\n6’8”\n225\nBrookfield, WI\nBrookfield Central HS\n14.2\n5.4\n1.3\n\n\n25\nJack Anderson\nSr\nG\n6’4”\n200\nDavie, FL\nWestern HS\n0.4\n0.4\n0.0\n\n\n35\nCaedin Hamilton\nR-Fr\nF\n6’9”\n250\nSanta Maria, CA\nSt. Joseph HS\n1.5\n1.2\n0.6\n\n\n40\nCasey O’Malley\nJr\nG\n6’3”\n200\nOmaha, NE\nCreighton Prep\n0.6\n0.2\n0.0\n\n\n41\nJonah Lucas\nJr\nG\n6’1”\n180\nWest Lafayette, IN\nHarrison HS\n0.0\n0.2\n0.0\n\n\n42\nLuke Jacobson\nFr\nF\n6’7”\n215\nSan Luis Obispo, CA\nMission Prep\nNA\nNA\nNA\n\n\n54\nJake Ciardo\nJr\nG\n6’2”\n185\nGermantown, WI\nGermantown HS\n0.4\n0.8\n0.0\n\n\n55\nCameron Brown\nSr\nG\n6’1”\n215\nPlano, TX\nJohn Paul II HS\n0.4\n0.2\n0.0\n\n\n\n\n\n\n\n\nAnd we usually store a data set in a matrix form that has rows and columns.\nEach row corresponds to a unique case or observational unit, or the object.\nEach column represents a characteristic or variable.\nThis structure allows new cases to be added as rows or new variables as new columns."
   },
   {
     "objectID": "slides/02-overview.html#target-population",
     "href": "slides/02-overview.html#target-population",
     "title": "Overview of Statistics and Data 📖",
     "section": "Target Population",
-    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nWhat is the average GPA of currently enrolled Marquette students?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll Marquette students that are currently enrolled."
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nWhat is the average GPA of currently enrolled Marquette students?\n\n\n\n\n\n\n\n\n\n\n\n\n\nTarget Population: The complete collection of data we’d like to make inference about.\nSo the population is a set of all objects which we are interested in studying from.\nBecause All Marquette undergrads that are currently enrolled is the complete collection of data we’d like to make inference about.\nEach currently enrolled Marquette undergrad is an object.\nNote that students who are not currently enrolled or students that are already graduated are not our interest, and they shouldn’t be a part of target population.\nCan anybody tell me what variable associated with Marquette undergrads is our interest?\nSo average GPA is the variable or population property we like to make inference about.\n\n\n\n\nAll Marquette students that are currently enrolled."
   },
   {
     "objectID": "slides/02-overview.html#target-population-1",
     "href": "slides/02-overview.html#target-population-1",
     "title": "Overview of Statistics and Data 📖",
     "section": "Target Population",
-    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nDoes a new drug reduce mortality in patients with severe heart disease?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll people with severe heart disease."
+    "text": "Target Population\n\nThe first step in conducting a study is to identify questions to be investigated.\n\nA clear research question is helpful in identifying\n\nwhat cases should be studied (row)\nwhat variables are important (column)\n\n\nTarget Population: the collection of all objects which we are interested in studying from.\n\n\n\n\nDoes a new drug reduce mortality in patients with severe heart disease?\n\n\n\n\n\n\n\n\n\n\n\n\n\nOK. Another example. If our research question is Does a new drug reduce mortality in patients with severe heart disease? What is our target population?\nA person with severe heart disease represents a case.\nThe population includes all patients with severe heart disease.\n\n\n\n\nAll people with severe heart disease."
   },
   {
     "objectID": "slides/02-overview.html#sample-data",
     "href": "slides/02-overview.html#sample-data",
     "title": "Overview of Statistics and Data 📖",
     "section": "Sample Data",
-    "text": "Sample Data\n\n\n\nSometimes, it’s possible to collect data of all cases we are interested.\nMost of the time, it is too expensive to collect data for every case in a population.\nWhat about the average GPA of all students in Illinois? the U.S.? the world? 😱 😱 😱\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nSample: A subset of cases selected from a population.\nCompute the average GPA of the sample data\nHope sample avg GPA \\(\\approx\\) population avg GPA. 🙏"
+    "text": "Sample Data\n\n\n\nSometimes, it’s possible to collect data of all cases we are interested.\nMost of the time, it is too expensive to collect data for every case in a population.\nWhat about the average GPA of all students in Illinois? the U.S.? the world? 😱 😱 😱\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nSample: A subset of cases selected from a population.\nCompute the average GPA of the sample data\nHope sample avg GPA \\(\\approx\\) population avg GPA. 🙏\n\n\n\nSo sampling is our solution to it.\nA Sample is A subset of cases selected from a population.\nAnd the idea is that OK, we are not able to compute the average GPA of a population, but we collect a sample from that population which has way less objects than the population.\nAnd then we compute the average GPA of the sample data.\nAnd we hope the sample average GPA can be close to the population average GPA because the population GPA is our main interest, not the sample GPA.\nTo have sample average GPA close to population GPA, we want the sample to look like the population so that the sample and the population share similar attribute including GPA."
   },
   {
     "objectID": "slides/02-overview.html#good-sample-vs.-bad-sample",
@@ -389,14 +389,14 @@
     "href": "slides/02-overview.html#good-sample-vs.-bad-sample-1",
     "title": "Overview of Statistics and Data 📖",
     "section": "Good Sample vs. Bad Sample",
-    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a “good” sample of the target population?\n\n\nThe sample is convenient to be collected, but it may NOT be representative of the population.\nBiased sample: The average GPA of the class may be far from that of all Marquette undergrads."
+    "text": "Good Sample vs. Bad Sample\n\nIs this 4720/5720 class a “good” sample of the target population?\n\n\nThe sample is convenient to be collected, but it may NOT be representative of the population.\nBiased sample: The average GPA of the class may be far from that of all Marquette undergrads.\n\n\n\n\n\n\n\n\n\n\n\nThe sample is convenient to be collected, but it is NOT representative of the population.\nYou are mostly STEM majors, and so with a high chance, your avg GPA is not the same as the GPA of humanities or business students,right.\n\nBiased sample: The average GPA of you guys may not be close to the average GPA of all Marquette undergrads.\nSample data must be collected in an appropriate way. If not GIGO."
   },
   {
     "objectID": "slides/02-overview.html#how-and-why-a-representative-sample",
     "href": "slides/02-overview.html#how-and-why-a-representative-sample",
     "title": "Overview of Statistics and Data 📖",
     "section": "How and Why a Representative Sample?",
-    "text": "How and Why a Representative Sample?\n\nWe always seek to randomly select a sample from a population.\nLots of statistical methods are based on randomness assumption."
+    "text": "How and Why a Representative Sample?\n\nWe always seek to randomly select a sample from a population.\nLots of statistical methods are based on randomness assumption.\n\n\n\n\n\n\n\n\n\n\n\nWe always seek to randomly select a sample from a population because random sampling usually give us a Representative Sample, as long as the sample size, or the number of objects in the sample is not too small.\nSo in the example, the proportion of major in our sample should look pretty similar to the proportion of our target population, which is all marquette students.\nIf data are not collected in a random framework, these statistical methods – the estimates and errors associated with the estimates – are not reliable."
   },
   {
     "objectID": "slides/02-overview.html#two-types-of-studies-to-collect-sample-data",
@@ -410,7 +410,7 @@
     "href": "slides/02-overview.html#limitation-of-observational-studies-confounding",
     "title": "Overview of Statistics and Data 📖",
     "section": "Limitation of Observational Studies: Confounding",
-    "text": "Limitation of Observational Studies: Confounding\n\n\nConfounder: A variable NOT included in a study but affects the variables in the study.\nObserve past data show that increases in ice cream sales are associated with increases in drownings, and we conclude that eating ice cream causes drownings. 😱 😕 ⁉️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nWhat is the confounder that is not in the data, but affects ice cream sales and the number of drownings?\n\n. . .\n\n\nTemperature: as temperature increases, ice cream sales increase and the number of drownings goes up because more people swim."
+    "text": "Limitation of Observational Studies: Confounding\n\n\nConfounder: A variable NOT included in a study but affects the variables in the study.\nObserve past data show that increases in ice cream sales are associated with increases in drownings, and we conclude that eating ice cream causes drownings. 😱 😕 ⁉️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nWhat is the confounder that is not in the data, but affects ice cream sales and the number of drownings?\n\n. . .\n\n\nTemperature: as temperature increases, ice cream sales increase and the number of drownings goes up because more people swim.\n\n\n\n\n\n\n\n\n\n\n\n\nAs temperature increases (season), ice cream sales increase and the number of drownings goes up because more people swim."
   },
   {
     "objectID": "slides/02-overview.html#causal-relationship",
@@ -452,7 +452,7 @@
     "href": "slides/02-overview.html#cluster-sampling-example",
     "title": "Overview of Statistics and Data 📖",
     "section": "Cluster Sampling Example",
-    "text": "Cluster Sampling Example\n\n\nExample: Study 4720 student drinking habit by dividing the students into 9 groups, then randomly selecting 3 and interviewing all of the students in each of those clusters."
+    "text": "Cluster Sampling Example\n\n\nExample: Study 4720 student drinking habit by dividing the students into 9 groups, then randomly selecting 3 and interviewing all of the students in each of those clusters.\n\n\n\n\n\n\n\n\n\n\n\nclusters look similar each other, but members in a cluster are not very alike. They have different characteristics.\nHomogeneous between clusters because all classes are STEM classes.\nNon-homogeneous within clusters because students in the same class may have different majors or from different colleges"
   },
   {
     "objectID": "slides/02-overview.html#categorical-vs.-numerical-variables",
@@ -487,7 +487,7 @@
     "href": "slides/02-overview.html#converting-numerical-to-categorical",
     "title": "Overview of Statistics and Data 📖",
     "section": "Converting Numerical to Categorical",
-    "text": "Converting Numerical to Categorical\n\nYou’ve already seen an example.\n\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
+    "text": "Converting Numerical to Categorical\n\nYou’ve already seen an example.\n\n. . .\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
   },
   {
     "objectID": "slides/02-overview.html#section-5",
@@ -501,7 +501,7 @@
     "href": "index.html",
     "title": "MATH 4720 (MSSC 5720) Statistical Methods Fall 2025",
     "section": "",
-    "text": "The website is for both Section 101 2 - 3:15 PM and Section 102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nSlides\nReading\nR Code\nHomework\nQuiz\nAI Project\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ overview of data\n\n\nSyllabusIS Ch1GenAI Video\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n\nIS Ch 2\n\n✍️ HW 1\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n🖥️\nIS Ch 3\n\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n🖥️\nIS Ch 5 - 6\n\n\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n\nIS Ch 5 - 6\n\n✍️ HW 2\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n🖥️\nIS Ch 7 - 8\n\n\n\n\n\n\n\nWed, Sep 17\nRandom Variables\n\nIS Ch 9\n\n✍️ HW 3\n✅ Quiz 1\n\n\n\n5\nMon, Sep 22\nDiscrete Probability Distributions\n🖥️\nIS Ch 10\n\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions\n\nIS Ch 11\n\n✍️ HW 4\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️\nIS Ch 12\n\n\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem\n\nIS Ch 13\n\n\n✅ Quiz 2\n\n\n\n7\nMon, Oct 6\nIn-class Exam 1\n\n\n\n\n\n\n\n\n\nWed, Oct 8\nInference about Population Means: Confidence Intervals\n🖥️\nIS Ch 14\n\n\n\n\n\n\n8\nMon, Oct 13\nInference about Population Means: Hypothesis Testing\n🖥️\nIS Ch 16\n\n\n\n\n\n\n\nWed, Oct 15\nInference about Population Means: Hypothesis Testing\n\nIS Ch 16\n\n✍️ HW 5\n\n\n\n\n9\nMon, Oct 20\nComparing Two Population Means\n🖥️\nIS Ch 17\n\n\n\n\n\n\n\nWed, Oct 22\nComparing Two Population Means\n\nIS Ch 17\n\n✍️ HW 6\n\n\n\n\n10\nMon, Oct 27\nInference about Population Variances\n🖥️\nIS Ch 18\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Population Variances\n\nIS Ch 18\n\n✍️ HW 7\n✅ Quiz 3\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA)\n🖥️\nIS Ch 24\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA)\n\nIS Ch 24\n\n\n\n\n\n\n12\nMon, Nov 10\nIn-class Exam 2\n\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n🖥️\nIS Ch 25\n\n\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\nIS Ch 27.1\n\n\n\n\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\nIS Ch 27.2 - 27.3\n\n\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\nIS Ch 27.4 - 27.6\n\n\n\n\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n✍️ HW 8\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\nIS Ch 19\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\nIS Ch 20\n\n\n✅ Quiz 4\n\n\n\n16\n\nWed, Dec 10, 10:30 AM - 12:30 PM\n\nIn-class Final Exam (Sec101-2PM)\n\n\n\n\n\n\n\n\n\nFri, Dec 12, 8- 10 AM\nIn-class Final Exam (Sec102-3:30PM)\n\n\n\n\n\n\n\n\n\n\nI reserve the right to make changes to the schedule.",
+    "text": "The website is for both Section 101 2 - 3:15 PM and Section 102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nSlides\nReading\nR Code\nHomework\nQuiz\nAI Project\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ statistics and data\n\n\nSyllabusIS Ch1GenAI Video\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n\nIS Ch 2\n\n✍️ HW 1\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n🖥️\nIS Ch 3\n\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n🖥️\nIS Ch 5 - 6\n\n\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n\nIS Ch 5 - 6\n\n✍️ HW 2\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n🖥️\nIS Ch 7 - 8\n\n\n\n\n\n\n\nWed, Sep 17\nRandom Variables\n\nIS Ch 9\n\n✍️ HW 3\n✅ Quiz 1\n\n\n\n5\nMon, Sep 22\nDiscrete Probability Distributions\n🖥️\nIS Ch 10\n\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions\n\nIS Ch 11\n\n✍️ HW 4\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️\nIS Ch 12\n\n\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem\n\nIS Ch 13\n\n\n✅ Quiz 2\n\n\n\n7\nMon, Oct 6\nIn-class Exam 1\n\n\n\n\n\n\n\n\n\nWed, Oct 8\nInference about Population Means: Confidence Intervals\n🖥️\nIS Ch 14\n\n\n\n\n\n\n8\nMon, Oct 13\nInference about Population Means: Hypothesis Testing\n🖥️\nIS Ch 16\n\n\n\n\n\n\n\nWed, Oct 15\nInference about Population Means: Hypothesis Testing\n\nIS Ch 16\n\n✍️ HW 5\n\n\n\n\n9\nMon, Oct 20\nComparing Two Population Means\n🖥️\nIS Ch 17\n\n\n\n\n\n\n\nWed, Oct 22\nComparing Two Population Means\n\nIS Ch 17\n\n✍️ HW 6\n\n\n\n\n10\nMon, Oct 27\nInference about Population Variances\n🖥️\nIS Ch 18\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Population Variances\n\nIS Ch 18\n\n✍️ HW 7\n✅ Quiz 3\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA)\n🖥️\nIS Ch 24\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA)\n\nIS Ch 24\n\n\n\n\n\n\n12\nMon, Nov 10\nIn-class Exam 2\n\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n🖥️\nIS Ch 25\n\n\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\nIS Ch 27.1\n\n\n\n\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\nIS Ch 27.2 - 27.3\n\n\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\nIS Ch 27.4 - 27.6\n\n\n\n\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n✍️ HW 8\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\nIS Ch 19\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\nIS Ch 20\n\n\n✅ Quiz 4\n\n\n\n16\n\nWed, Dec 10, 10:30 AM - 12:30 PM\n\nIn-class Final Exam (Sec101-2PM)\n\n\n\n\n\n\n\n\n\nFri, Dec 12, 8- 10 AM\nIn-class Final Exam (Sec102-3:30PM)\n\n\n\n\n\n\n\n\n\n\nI reserve the right to make changes to the schedule.",
     "crumbs": [
       "Course Information",
       "Schedule"
@@ -652,20 +652,6 @@
     ]
   },
   {
-    "objectID": "slides/01-syllabus.html",
-    "href": "slides/01-syllabus.html",
-    "title": "Welcome Aboard 🙌",
-    "section": "",
-    "text": "When you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
-  },
-  {
-    "objectID": "slides/01-syllabus.html#code",
-    "href": "slides/01-syllabus.html#code",
-    "title": "Welcome Aboard 🙌",
-    "section": "",
-    "text": "When you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
-  },
-  {
     "objectID": "slides/01-syllabus.html#my-journey",
     "href": "slides/01-syllabus.html#my-journey",
     "title": "Welcome Aboard 🙌",
@@ -685,6 +671,13 @@
     "title": "Welcome Aboard 🙌",
     "section": "TA Information",
     "text": "TA Information\n\n\n\nStatistics PhD student Qishi Zhan\n📨 qishi.zhan@marquette.edu\nHelp desk hours: To be announced.\nWelcome to set up a meeting with your TA via Teams.\nLet me know if you need any other help! 😄"
+  },
+  {
+    "objectID": "slides/01-syllabus.html#help-desk-hours",
+    "href": "slides/01-syllabus.html#help-desk-hours",
+    "title": "Welcome Aboard 🙌",
+    "section": "Help Desk Hours",
+    "text": "Help Desk Hours\n\n\n\nUnfortunately, no TA for this course. 😿\nHelp desk hours on the 4th floor of Cudahy Hall.\nThe hours will be released later."
   },
   {
     "objectID": "slides/01-syllabus.html#course-materials",
@@ -722,25 +715,32 @@
     "text": "Grade-Percentage Conversion ✨\n\nYour final grade is based on your percentage of points earned out of 1000 points.\n\n\\([x, y)\\) means greater than or equal to \\(x\\) and less than \\(y\\).\n\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
   },
   {
-    "objectID": "slides/01-syllabus.html#homework-200-pts",
-    "href": "slides/01-syllabus.html#homework-200-pts",
+    "objectID": "slides/01-syllabus.html#homework-175-pts",
+    "href": "slides/01-syllabus.html#homework-175-pts",
     "title": "Welcome Aboard 🙌",
-    "section": "Homework (200 pts)",
-    "text": "Homework (200 pts)\n\n\nAssessments &gt; Dropbox and upload your homework in PDF format.\nThere are 8 homework sets.\nYou must submit YOUR OWN work. 🙏\n❌ No make-up homework.\nEvery homework is due by Friday 11:59 PM  (Don’t miss it. This is a hard deadline❗). \n\nThe lowest score of the homework sets will not be in your final grade calculation."
+    "section": "Homework (175 pts)",
+    "text": "Homework (175 pts)\n\nAssessments &gt; Dropbox and upload your homework in PDF format.\nThere are 8 homework sets.\nYou must submit YOUR OWN work. 🙏\nEvery homework is due by Friday 11:59 PM  (Don’t miss it. This is a hard deadline❗).\nMSSC 5720 students may have more or different homework questions.\n❌ No make-up homework.\nThe lowest score will not be in your final grade calculation.\nUsing generative AI (GenAI) tools is allowed, but you must carefully cite it or reveal your use of AI."
   },
   {
-    "objectID": "slides/01-syllabus.html#quizzes-240-pts",
-    "href": "slides/01-syllabus.html#quizzes-240-pts",
+    "objectID": "slides/01-syllabus.html#quizzes-200-pts",
+    "href": "slides/01-syllabus.html#quizzes-200-pts",
     "title": "Welcome Aboard 🙌",
-    "section": "Quizzes (240 pts)",
-    "text": "Quizzes (240 pts)\n\nThere are 4 in-class quizzes. \n\n📚 Quizzes are individual and in closed-book format.\n❌ No cheat sheet is allowed.\n❌ No make-up quizzes for any reason unless you got COVID or excused absence. Check the syllabus for more details."
+    "section": "Quizzes (200 pts)",
+    "text": "Quizzes (200 pts)\n\nThere are 4 in-class 15-min quizzes. \n📚 Quizzes are individual and in closed-book and no-tech format, except a calculator.\n❌ No cheat sheet or GenAI is allowed.\n❌ No make-up quizzes for any reason unless you got an excused absence. Check the syllabus for more details."
   },
   {
-    "objectID": "slides/01-syllabus.html#exams-560-pts",
-    "href": "slides/01-syllabus.html#exams-560-pts",
+    "objectID": "slides/01-syllabus.html#exams-450-pts",
+    "href": "slides/01-syllabus.html#exams-450-pts",
     "title": "Welcome Aboard 🙌",
-    "section": "Exams (560 pts)",
-    "text": "Exams (560 pts)\n\nThere are two midterm exams and one final exam.\nHave in-class and take-home parts. \n\n📄 One piece of letter size cheat sheet is allowed. It has to be turned-in with your in-class exam.\n\nAssessments &gt; Dropbox to submit your take-home exams in PDF format. \n\nExam 1 covers Week 1 to 6\n\nExam 2 covers Week 7 to 11\n\nFinal exam is comprehensive and covers the all course materials. 😎\n❌ No make-up exams unless you got COVID or excused absence. Check the syllabus for more details."
+    "section": "Exams (450 pts)",
+    "text": "Exams (450 pts)\n\nThere are two midterm exams and one final exam.\nThe midterms have in-class and take-home parts, and the final is a in-class written exam.\n\n\n📄 For the in-class parts, one piece of letter size cheat sheet is allowed. It has to be turned-in with your exam.\nFor the take-home parts, you are allowed to use GenAI tools. However, you must carefully cite it or reveal your use of AI.\n\n. . .\n\nAssessments &gt; Dropbox to submit your take-home exams in PDF format. \nExam 1 covers Week 1 to 6.\nExam 2 covers Week 7 to 11.\nFinal exam is comprehensive and covers the all course materials. 😎\n❌ No make-up exams for any reason unless you got an excused absence."
+  },
+  {
+    "objectID": "slides/01-syllabus.html#ai-project-150-pts",
+    "href": "slides/01-syllabus.html#ai-project-150-pts",
+    "title": "Welcome Aboard 🙌",
+    "section": "AI Project (150 pts)",
+    "text": "AI Project (150 pts)\n\nThere will be one AI project released around Week 13.\nYou have to use GenAI to self learn a topic that is not covered in my lectures, and generate a data analysis report.\nThe project topic will also be tested in the final exam.\nYou must carefully cite your GenAI tool or reveal your use of AI."
   },
   {
     "objectID": "slides/01-syllabus.html#what-computing-language-we-use-i-teach",
@@ -750,11 +750,18 @@
     "text": "What Computing Language We Use (I Teach)?\n\n\n\n📈 The best language for statistical computing! \n\n✅ You may use other tools or software such as Excel, Python, Minitab, etc to do your work, but I will NOT teach any of them.\n❌ Drop/Swap deadline: 09/02/2025. Don’t miss it!"
   },
   {
-    "objectID": "slides/01-syllabus.html#generative-ai-and-sharingreusing-code-policy",
-    "href": "slides/01-syllabus.html#generative-ai-and-sharingreusing-code-policy",
+    "objectID": "slides/01-syllabus.html#document-generative-ai-use",
+    "href": "slides/01-syllabus.html#document-generative-ai-use",
     "title": "Welcome Aboard 🙌",
-    "section": "Generative AI and Sharing/Reusing Code Policy",
-    "text": "Generative AI and Sharing/Reusing Code Policy\n\n\nGenerative AI\n\nYou may use generative AI tools such as ChatGPT or DALL-E to generate a first draft of text for your work, provided that this use is documented and cited.\n\n[Example] Data science is an interdisciplinary field that … 1\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\nSharing/Reusing Code\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite where you obtained any code you directly use or use as inspiration in your solutions.\n\n[Example]\n\nThe code is modified from the GitHub repo https://github.com/chenghanyustats/slam\nThe code is generated from ChatGPT response to “Please generate Python code for solving the math problem I attach,” Jan 14, 2025.\n\n\n\nYou are responsible for the content of all work submitted for this course.\nYou can use any code shared online or in books. But please give the authors full credits. Cite their work and let me know whose code you are using to do your homework and project.\nI encourage you to write your own code. This way you learn the most.\n❌ Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism, regardless of source. 😱"
+    "section": "Document Generative AI Use",
+    "text": "Document Generative AI Use\n\n\n\n\nYou may use generative AI tools such as ChatGPT and Gemini to generate a first draft of text for your work, provided that this use is documented and cited.\n\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite/document where you obtained any code you directly use or use as inspiration in your solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nHow I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output"
+  },
+  {
+    "objectID": "slides/01-syllabus.html#document-generative-ai-use-1",
+    "href": "slides/01-syllabus.html#document-generative-ai-use-1",
+    "title": "Welcome Aboard 🙌",
+    "section": "Document Generative AI Use",
+    "text": "Document Generative AI Use\n\n\nHow I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50."
   },
   {
     "objectID": "slides/01-syllabus.html#academic-integrity",
@@ -764,18 +771,11 @@
     "text": "Academic Integrity\nThis course expects all students to follow University and College statements on academic integrity.\n\n\nHonor Pledge and Honor Code: I recognize the importance of personal integrity in all aspects of life and work. I commit myself to truthfulness, honor, and responsibility, by which I earn the respect of others. I support the development of good character, and commit myself to uphold the highest standards of academic integrity as an important aspect of personal integrity. My commitment obliges me to conduct myself according to the Marquette University Honor Code."
   },
   {
-    "objectID": "slides/01-syllabus.html#footnotes",
-    "href": "slides/01-syllabus.html#footnotes",
+    "objectID": "slides/01-syllabus.html#genai-and-academic-integrity",
+    "href": "slides/01-syllabus.html#genai-and-academic-integrity",
     "title": "Welcome Aboard 🙌",
-    "section": "Footnotes",
-    "text": "Footnotes\n\nChatGPT, response to “Tell me what data science is,” Jan 14, 2025, https://chat.openai.com.↩︎"
-  },
-  {
-    "objectID": "slides/01-syllabus-slides.html#code",
-    "href": "slides/01-syllabus-slides.html#code",
-    "title": "Welcome Aboard 🙌",
-    "section": "Code",
-    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+    "section": "GenAI and Academic Integrity",
+    "text": "GenAI and Academic Integrity"
   },
   {
     "objectID": "slides/01-syllabus-slides.html#my-journey",
@@ -792,11 +792,11 @@
     "text": "How to Reach Me\n\nOffice hours MoWe 4:50 - 5:50 PM and Tu 1 - 2 PM in Cudahy Hall 353.\n\n📧 cheng-han.yu@marquette.edu\n\nAnswer your question within 24 hours.\nExpect a reply on Monday if shoot me a message on weekends.\nStart your subject line with [math4720] or [mssc5720] followed by a clear description of your question.\n\n\n\n\n\nI will NOT reply your e-mail if … Check the email policy in the syllabus!"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#ta-information",
-    "href": "slides/01-syllabus-slides.html#ta-information",
+    "objectID": "slides/01-syllabus-slides.html#help-desk-hours",
+    "href": "slides/01-syllabus-slides.html#help-desk-hours",
     "title": "Welcome Aboard 🙌",
-    "section": "TA Information",
-    "text": "TA Information\n\n\n\nStatistics PhD student Qishi Zhan\n📨 qishi.zhan@marquette.edu\nHelp desk hours: To be announced.\nWelcome to set up a meeting with your TA via Teams.\nLet me know if you need any other help! 😄"
+    "section": "Help Desk Hours",
+    "text": "Help Desk Hours\n\n\n\nUnfortunately, no TA for this course. 🙍\nHelp desk hours on the 4th floor of Cudahy Hall.\nThe hours will be released later."
   },
   {
     "objectID": "slides/01-syllabus-slides.html#course-materials",
@@ -834,25 +834,32 @@
     "text": "Grade-Percentage Conversion ✨\n\nYour final grade is based on your percentage of points earned out of 1000 points.\n\n\\([x, y)\\) means greater than or equal to \\(x\\) and less than \\(y\\).\n\n\n\n\n\nGrade\nPercentage\n\n\n\nA\n[94, 100]\n\n\nA-\n[90, 94)\n\n\nB+\n[87, 90)\n\n\nB\n[83, 87)\n\n\nB-\n[80, 83)\n\n\nC+\n[77, 80)\n\n\nC\n[73, 77)\n\n\nC-\n[70, 73)\n\n\nD+\n[65, 70)\n\n\nD\n[60, 65)\n\n\nF\n[0, 60)"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#homework-200-pts",
-    "href": "slides/01-syllabus-slides.html#homework-200-pts",
+    "objectID": "slides/01-syllabus-slides.html#homework-175-pts",
+    "href": "slides/01-syllabus-slides.html#homework-175-pts",
     "title": "Welcome Aboard 🙌",
-    "section": "Homework (200 pts)",
-    "text": "Homework (200 pts)\n\n\nAssessments &gt; Dropbox and upload your homework in PDF format.\nThere are 8 homework sets.\nYou must submit YOUR OWN work. 🙏\n❌ No make-up homework.\nEvery homework is due by Friday 11:59 PM  (Don’t miss it. This is a hard deadline❗). \n\nThe lowest score of the homework sets will not be in your final grade calculation."
+    "section": "Homework (175 pts)",
+    "text": "Homework (175 pts)\n\nAssessments &gt; Dropbox and upload your homework in PDF format.\nThere are 8 homework sets.\nYou must submit YOUR OWN work. 🙏\nEvery homework is due by Friday 11:59 PM  (Don’t miss it. This is a hard deadline❗).\nMSSC 5720 students may have more or different homework questions.\n❌ No make-up homework.\nThe lowest score will not be in your final grade calculation.\nUsing generative AI (GenAI) tools is allowed, but you must carefully cite it or reveal your use of AI."
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#quizzes-240-pts",
-    "href": "slides/01-syllabus-slides.html#quizzes-240-pts",
+    "objectID": "slides/01-syllabus-slides.html#quizzes-200-pts",
+    "href": "slides/01-syllabus-slides.html#quizzes-200-pts",
     "title": "Welcome Aboard 🙌",
-    "section": "Quizzes (240 pts)",
-    "text": "Quizzes (240 pts)\n\nThere are 4 in-class quizzes. \n\n📚 Quizzes are individual and in closed-book format.\n❌ No cheat sheet is allowed.\n❌ No make-up quizzes for any reason unless you got COVID or excused absence. Check the syllabus for more details."
+    "section": "Quizzes (200 pts)",
+    "text": "Quizzes (200 pts)\n\nThere are 4 in-class 15-min quizzes. \n📚 Quizzes are individual and in closed-book and no-tech format, except a calculator.\n❌ No cheat sheet or GenAI is allowed.\n❌ No make-up quizzes for any reason unless you got an excused absence. Check the syllabus for more details."
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#exams-560-pts",
-    "href": "slides/01-syllabus-slides.html#exams-560-pts",
+    "objectID": "slides/01-syllabus-slides.html#exams-450-pts",
+    "href": "slides/01-syllabus-slides.html#exams-450-pts",
     "title": "Welcome Aboard 🙌",
-    "section": "Exams (560 pts)",
-    "text": "Exams (560 pts)\n\nThere are two midterm exams and one final exam.\nHave in-class and take-home parts. \n\n📄 One piece of letter size cheat sheet is allowed. It has to be turned-in with your in-class exam.\n\nAssessments &gt; Dropbox to submit your take-home exams in PDF format. \n\nExam 1 covers Week 1 to 6\n\nExam 2 covers Week 7 to 11\n\nFinal exam is comprehensive and covers the all course materials. 😎\n❌ No make-up exams unless you got COVID or excused absence. Check the syllabus for more details."
+    "section": "Exams (450 pts)",
+    "text": "Exams (450 pts)\n\nThere are two midterm exams and one final exam.\nThe midterms have in-class and take-home parts, and the final is a in-class written exam.\n\n\n📄 For the in-class parts, one piece of letter size cheat sheet is allowed. It has to be turned-in with your exam.\nFor the take-home parts, you are allowed to use GenAI tools. However, you must carefully cite it or reveal your use of AI.\n\n\n\nAssessments &gt; Dropbox to submit your take-home exams in PDF format. \nExam 1 covers Week 1 to 6.\nExam 2 covers Week 7 to 11.\nFinal exam is comprehensive and covers the all course materials. 😎\n❌ No make-up exams for any reason unless you got an excused absence."
+  },
+  {
+    "objectID": "slides/01-syllabus-slides.html#ai-project-150-pts",
+    "href": "slides/01-syllabus-slides.html#ai-project-150-pts",
+    "title": "Welcome Aboard 🙌",
+    "section": "AI Project (150 pts)",
+    "text": "AI Project (150 pts)\n\nThere will be one AI project released around Week 13.\nYou have to use GenAI to self learn a topic that is not covered in my lectures, and generate a data analysis report.\nThe project topic will also be tested in the final exam.\nYou must carefully cite your GenAI tool or reveal your use of AI."
   },
   {
     "objectID": "slides/01-syllabus-slides.html#what-computing-language-we-use-i-teach",
@@ -862,11 +869,18 @@
     "text": "What Computing Language We Use (I Teach)?\n\n\n\n📈 The best language for statistical computing! \n\n✅ You may use other tools or software such as Excel, Python, Minitab, etc to do your work, but I will NOT teach any of them.\n❌ Drop/Swap deadline: 09/02/2025. Don’t miss it!"
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#generative-ai-and-sharingreusing-code-policy",
-    "href": "slides/01-syllabus-slides.html#generative-ai-and-sharingreusing-code-policy",
+    "objectID": "slides/01-syllabus-slides.html#document-generative-ai-use",
+    "href": "slides/01-syllabus-slides.html#document-generative-ai-use",
     "title": "Welcome Aboard 🙌",
-    "section": "Generative AI and Sharing/Reusing Code Policy",
-    "text": "Generative AI and Sharing/Reusing Code Policy\n\n\nGenerative AI\n\nYou may use generative AI tools such as ChatGPT or DALL-E to generate a first draft of text for your work, provided that this use is documented and cited.\n\n[Example] Data science is an interdisciplinary field that … 1\n\n\n\n\n\n\n\n\n\n\n\nSharing/Reusing Code\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite where you obtained any code you directly use or use as inspiration in your solutions.\n\n[Example]\n\nThe code is modified from the GitHub repo https://github.com/chenghanyustats/slam\nThe code is generated from ChatGPT response to “Please generate Python code for solving the math problem I attach,” Jan 14, 2025.\n\n\nYou are responsible for the content of all work submitted for this course.\nYou can use any code shared online or in books. But please give the authors full credits. Cite their work and let me know whose code you are using to do your homework and project.\nI encourage you to write your own code. This way you learn the most.\n❌ Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism, regardless of source. 😱\n\n\nChatGPT, response to “Tell me what data science is,” Jan 14, 2025, https://chat.openai.com."
+    "section": "Document Generative AI Use",
+    "text": "Document Generative AI Use\n\n\n\n\nYou may use generative AI tools such as ChatGPT and Gemini to generate a first draft of text for your work, provided that this use is documented and cited.\n\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite/document where you obtained any code you directly use or use as inspiration in your solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nHow I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output"
+  },
+  {
+    "objectID": "slides/01-syllabus-slides.html#document-generative-ai-use-1",
+    "href": "slides/01-syllabus-slides.html#document-generative-ai-use-1",
+    "title": "Welcome Aboard 🙌",
+    "section": "Document Generative AI Use",
+    "text": "Document Generative AI Use\n\n\nHow I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50."
   },
   {
     "objectID": "slides/01-syllabus-slides.html#academic-integrity",
@@ -874,6 +888,13 @@
     "title": "Welcome Aboard 🙌",
     "section": "Academic Integrity",
     "text": "Academic Integrity\nThis course expects all students to follow University and College statements on academic integrity.\n\n\nHonor Pledge and Honor Code: I recognize the importance of personal integrity in all aspects of life and work. I commit myself to truthfulness, honor, and responsibility, by which I earn the respect of others. I support the development of good character, and commit myself to uphold the highest standards of academic integrity as an important aspect of personal integrity. My commitment obliges me to conduct myself according to the Marquette University Honor Code."
+  },
+  {
+    "objectID": "slides/01-syllabus-slides.html#genai-and-academic-integrity",
+    "href": "slides/01-syllabus-slides.html#genai-and-academic-integrity",
+    "title": "Welcome Aboard 🙌",
+    "section": "GenAI and Academic Integrity",
+    "text": "GenAI and Academic Integrity"
   },
   {
     "objectID": "hw.html",
@@ -974,11 +995,11 @@
     ]
   },
   {
-    "objectID": "course-syllabus.html#generative-ai-policy",
-    "href": "course-syllabus.html#generative-ai-policy",
+    "objectID": "course-syllabus.html#sec-genai",
+    "href": "course-syllabus.html#sec-genai",
     "title": "Syllabus",
-    "section": "Generative AI Policy",
-    "text": "Generative AI Policy",
+    "section": "Generative Artificial Intelligence (GenAI) Policy",
+    "text": "Generative Artificial Intelligence (GenAI) Policy\n\nYou are responsible for the content of all work submitted for this course.\nFor your homework, take-home exams, and project, you are allowed to use generative AI tools such as ChatGPT to generate a draft of text of your work.\n\nTo avoid any academic integrity issue, you must cite your AI usage, or screenshot your entire AI usage history. Check the followings on how to cite it.\n\nHow to cite ChatGPT\nHow to Cite AI-Generated Content\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nHow I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output\n\n\n\nHere is an example.\n\n\nHow I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50.",
     "crumbs": [
       "Course Information",
       "Syllabus"
@@ -1018,159 +1039,17 @@
     ]
   },
   {
-    "objectID": "course-syllabus.html#generative-artificial-intelligence-ai-policy",
-    "href": "course-syllabus.html#generative-artificial-intelligence-ai-policy",
-    "title": "Syllabus",
-    "section": "Generative Artificial Intelligence (AI) Policy",
-    "text": "Generative Artificial Intelligence (AI) Policy\n\nYou are responsible for the content of all work submitted for this course. You are allowed to use advanced automated tools (such as artificial intelligence or machine learning tools like ChatGPT or DALL-E 2) to generate a first draft of text for your assignments, provided that this use is appropriately documented and credited. Read this article to learn how to credit and document the use of AI in your paper.\nIf an AI tool is used in an assignment, you must also include a brief (1 to 3 sentences) description of how you used the tool. You must review and revise any AI-generated text/code/calculation before submission. AI text/code/calculation generators can be useful tools, but they are often prone to factual errors, incorrect or fabricated citations, and misinterpretations of abstract concepts. Utilize them with caution.",
-    "crumbs": [
-      "Course Information",
-      "Syllabus"
-    ]
+    "objectID": "slides/02-overview-slides.html#section-3",
+    "href": "slides/02-overview-slides.html#section-3",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "",
+    "text": "This diagram tell us everything.\nWe are going to learn each data type."
   },
   {
-    "objectID": "course-syllabus.html#project",
-    "href": "course-syllabus.html#project",
-    "title": "Syllabus",
-    "section": "Project",
-    "text": "Project\n\nThere will be one (or two?) project released around Week 13.\nYou have to use GenAI to self learn a topic that is not covered in my lectures, and generate a data analysis report.\nThe project topic will also be tested in the final exam.\nYou must carefully cite your GenAI tool or reveal your use of AI.",
-    "crumbs": [
-      "Course Information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "course-syllabus.html#generative-artificial-intelligence-genai-policy",
-    "href": "course-syllabus.html#generative-artificial-intelligence-genai-policy",
-    "title": "Syllabus",
-    "section": "Generative Artificial Intelligence (GenAI) Policy",
-    "text": "Generative Artificial Intelligence (GenAI) Policy\n\nYou are responsible for the content of all work submitted for this course.\nFor your homework, take-home exams, and project, you are allowed to use GenAI tools such as ChatGPT to generate a draft of text of your work.\n\nTo avoid any academic integrity issue, you must cite your AI usage, or screenshot your entire AI usage history. Check the followings on how to cite it.\n\nHow to cite ChatGPT\nHow to Cite AI-Generated Content\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nHow I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output\n\n\n\nHere is an example.\n\n\nHow I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50.",
-    "crumbs": [
-      "Course Information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "course-syllabus.html#sec-genai",
-    "href": "course-syllabus.html#sec-genai",
-    "title": "Syllabus",
-    "section": "Generative Artificial Intelligence (GenAI) Policy",
-    "text": "Generative Artificial Intelligence (GenAI) Policy\n\nYou are responsible for the content of all work submitted for this course.\nFor your homework, take-home exams, and project, you are allowed to use generative AI tools such as ChatGPT to generate a draft of text of your work.\n\nTo avoid any academic integrity issue, you must cite your AI usage, or screenshot your entire AI usage history. Check the followings on how to cite it.\n\nHow to cite ChatGPT\nHow to Cite AI-Generated Content\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nHow I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output\n\n\n\nHere is an example.\n\n\nHow I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50.",
-    "crumbs": [
-      "Course Information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "slides/01-syllabus-slides.html#help-desk-hours",
-    "href": "slides/01-syllabus-slides.html#help-desk-hours",
-    "title": "Welcome Aboard 🙌",
-    "section": "Help Desk Hours",
-    "text": "Help Desk Hours\n\n\n\nUnfortunately, no TA for this course. 😿\nHelp desk hours on the 4th floor of Cudahy Hall.\nThe hours will be released later."
-  },
-  {
-    "objectID": "slides/01-syllabus-slides.html#homework-175-pts",
-    "href": "slides/01-syllabus-slides.html#homework-175-pts",
-    "title": "Welcome Aboard 🙌",
-    "section": "Homework (175 pts)",
-    "text": "Homework (175 pts)\n\nAssessments &gt; Dropbox and upload your homework in PDF format.\nThere are 8 homework sets.\nYou must submit YOUR OWN work. 🙏\nEvery homework is due by Friday 11:59 PM  (Don’t miss it. This is a hard deadline❗).\nMSSC 5720 students may have more or different homework questions.\n❌ No make-up homework.\nThe lowest score will not be in your final grade calculation.\nUsing generative AI (GenAI) tools is allowed, but you must carefully cite it or reveal your use of AI."
-  },
-  {
-    "objectID": "slides/01-syllabus-slides.html#quizzes-200-pts",
-    "href": "slides/01-syllabus-slides.html#quizzes-200-pts",
-    "title": "Welcome Aboard 🙌",
-    "section": "Quizzes (200 pts)",
-    "text": "Quizzes (200 pts)\n\nThere are 4 in-class 15-min quizzes. \n📚 Quizzes are individual and in closed-book and no-tech format, except a calculator.\n❌ No cheat sheet or GenAI is allowed.\n❌ No make-up quizzes for any reason unless you got an excused absence. Check the syllabus for more details."
-  },
-  {
-    "objectID": "slides/01-syllabus-slides.html#exams-450-pts",
-    "href": "slides/01-syllabus-slides.html#exams-450-pts",
-    "title": "Welcome Aboard 🙌",
-    "section": "Exams (450 pts)",
-    "text": "Exams (450 pts)\n\nThere are two midterm exams and one final exam.\nThe midterms have in-class and take-home parts, and the final is a in-class written exam.\n\n\n📄 For the in-class parts, one piece of letter size cheat sheet is allowed. It has to be turned-in with your exam.\nFor the take-home parts, you are allowed to use GenAI tools. However, you must carefully cite it or reveal your use of AI.\n\n\n\nAssessments &gt; Dropbox to submit your take-home exams in PDF format. \nExam 1 covers Week 1 to 6.\nExam 2 covers Week 7 to 11.\nFinal exam is comprehensive and covers the all course materials. 😎\n❌ No make-up exams for any reason unless you got an excused absence."
-  },
-  {
-    "objectID": "slides/01-syllabus-slides.html#ai-project-150-pts",
-    "href": "slides/01-syllabus-slides.html#ai-project-150-pts",
-    "title": "Welcome Aboard 🙌",
-    "section": "AI Project (150 pts)",
-    "text": "AI Project (150 pts)\n\nThere will be one AI project released around Week 13.\nYou have to use GenAI to self learn a topic that is not covered in my lectures, and generate a data analysis report.\nThe project topic will also be tested in the final exam.\nYou must carefully cite your GenAI tool or reveal your use of AI."
-  },
-  {
-    "objectID": "slides/01-syllabus-slides.html#document-generative-ai-use",
-    "href": "slides/01-syllabus-slides.html#document-generative-ai-use",
-    "title": "Welcome Aboard 🙌",
-    "section": "Document Generative AI Use",
-    "text": "Document Generative AI Use\n\n\n\n\nYou may use generative AI tools such as ChatGPT and Gemini to generate a first draft of text for your work, provided that this use is documented and cited.\n\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite/document where you obtained any code you directly use or use as inspiration in your solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nHow I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output"
-  },
-  {
-    "objectID": "slides/01-syllabus-slides.html#document-generative-ai-use-1",
-    "href": "slides/01-syllabus-slides.html#document-generative-ai-use-1",
-    "title": "Welcome Aboard 🙌",
-    "section": "Document Generative AI Use",
-    "text": "Document Generative AI Use\n\n\nHow I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50."
-  },
-  {
-    "objectID": "slides/01-syllabus-slides.html#genai-and-academic-integrity",
-    "href": "slides/01-syllabus-slides.html#genai-and-academic-integrity",
-    "title": "Welcome Aboard 🙌",
-    "section": "GenAI and Academic Integrity",
-    "text": "GenAI and Academic Integrity"
-  },
-  {
-    "objectID": "slides/01-syllabus.html#help-desk-hours",
-    "href": "slides/01-syllabus.html#help-desk-hours",
-    "title": "Welcome Aboard 🙌",
-    "section": "Help Desk Hours",
-    "text": "Help Desk Hours\n\n\n\nUnfortunately, no TA for this course. 😿\nHelp desk hours on the 4th floor of Cudahy Hall.\nThe hours will be released later."
-  },
-  {
-    "objectID": "slides/01-syllabus.html#homework-175-pts",
-    "href": "slides/01-syllabus.html#homework-175-pts",
-    "title": "Welcome Aboard 🙌",
-    "section": "Homework (175 pts)",
-    "text": "Homework (175 pts)\n\nAssessments &gt; Dropbox and upload your homework in PDF format.\nThere are 8 homework sets.\nYou must submit YOUR OWN work. 🙏\nEvery homework is due by Friday 11:59 PM  (Don’t miss it. This is a hard deadline❗).\nMSSC 5720 students may have more or different homework questions.\n❌ No make-up homework.\nThe lowest score will not be in your final grade calculation.\nUsing generative AI (GenAI) tools is allowed, but you must carefully cite it or reveal your use of AI."
-  },
-  {
-    "objectID": "slides/01-syllabus.html#quizzes-200-pts",
-    "href": "slides/01-syllabus.html#quizzes-200-pts",
-    "title": "Welcome Aboard 🙌",
-    "section": "Quizzes (200 pts)",
-    "text": "Quizzes (200 pts)\n\nThere are 4 in-class 15-min quizzes. \n📚 Quizzes are individual and in closed-book and no-tech format, except a calculator.\n❌ No cheat sheet or GenAI is allowed.\n❌ No make-up quizzes for any reason unless you got an excused absence. Check the syllabus for more details."
-  },
-  {
-    "objectID": "slides/01-syllabus.html#exams-450-pts",
-    "href": "slides/01-syllabus.html#exams-450-pts",
-    "title": "Welcome Aboard 🙌",
-    "section": "Exams (450 pts)",
-    "text": "Exams (450 pts)\n\nThere are two midterm exams and one final exam.\nThe midterms have in-class and take-home parts, and the final is a in-class written exam.\n\n\n📄 For the in-class parts, one piece of letter size cheat sheet is allowed. It has to be turned-in with your exam.\nFor the take-home parts, you are allowed to use GenAI tools. However, you must carefully cite it or reveal your use of AI.\n\n. . .\n\nAssessments &gt; Dropbox to submit your take-home exams in PDF format. \nExam 1 covers Week 1 to 6.\nExam 2 covers Week 7 to 11.\nFinal exam is comprehensive and covers the all course materials. 😎\n❌ No make-up exams for any reason unless you got an excused absence."
-  },
-  {
-    "objectID": "slides/01-syllabus.html#ai-project-150-pts",
-    "href": "slides/01-syllabus.html#ai-project-150-pts",
-    "title": "Welcome Aboard 🙌",
-    "section": "AI Project (150 pts)",
-    "text": "AI Project (150 pts)\n\nThere will be one AI project released around Week 13.\nYou have to use GenAI to self learn a topic that is not covered in my lectures, and generate a data analysis report.\nThe project topic will also be tested in the final exam.\nYou must carefully cite your GenAI tool or reveal your use of AI."
-  },
-  {
-    "objectID": "slides/01-syllabus.html#document-generative-ai-use",
-    "href": "slides/01-syllabus.html#document-generative-ai-use",
-    "title": "Welcome Aboard 🙌",
-    "section": "Document Generative AI Use",
-    "text": "Document Generative AI Use\n\n\n\n\nYou may use generative AI tools such as ChatGPT and Gemini to generate a first draft of text for your work, provided that this use is documented and cited.\n\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite/document where you obtained any code you directly use or use as inspiration in your solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nHow I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output"
-  },
-  {
-    "objectID": "slides/01-syllabus.html#document-generative-ai-use-1",
-    "href": "slides/01-syllabus.html#document-generative-ai-use-1",
-    "title": "Welcome Aboard 🙌",
-    "section": "Document Generative AI Use",
-    "text": "Document Generative AI Use\n\n\nHow I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50."
-  },
-  {
-    "objectID": "slides/01-syllabus.html#genai-and-academic-integrity",
-    "href": "slides/01-syllabus.html#genai-and-academic-integrity",
-    "title": "Welcome Aboard 🙌",
-    "section": "GenAI and Academic Integrity",
-    "text": "GenAI and Academic Integrity"
+    "objectID": "slides/02-overview.html#section-3",
+    "href": "slides/02-overview.html#section-3",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "",
+    "text": "This diagram tell us everything.\nWe are going to learn each data type."
   }
 ]
