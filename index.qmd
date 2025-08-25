@@ -5,7 +5,7 @@ format:
   html
 ---
 
--   The website is for both Section 101 2 - 3:15 PM and Section 102 3:30-4:45 PM.
+-   The website is for Section-101 **2 - 3:15 PM** and Section-102 **3:30-4:45 PM**.
 
 *This schedule will be updated as the semester progresses, with all changes documented here.*
 
