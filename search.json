@@ -691,7 +691,7 @@
     "href": "slides/01-syllabus.html#help-desk-hours",
     "title": "Welcome Aboard 🙌",
     "section": "Help Desk Hours",
-    "text": "Help Desk Hours\n\n\n\nUnfortunately, no TA for this course. 🙍\nHelp desk hours on the 4th floor of Cudahy Hall.\nThe hours will be released later."
+    "text": "Help Desk Hours\n\n\n\nUnfortunately, no TA for this course. 😿\nHelp desk hours on the 4th floor of Cudahy Hall.\nThe hours will be released later."
   },
   {
     "objectID": "slides/01-syllabus.html#course-materials",
@@ -699,6 +699,13 @@
     "title": "Welcome Aboard 🙌",
     "section": "Course Materials",
     "text": "Course Materials\n\nCourse Website - https://math4720-f25.github.io/website/\n\n\n\n\n\n\n\n\n\n\n\n\nAll course materials and information can be found on this website. Bookmark it!"
+  },
+  {
+    "objectID": "slides/01-syllabus.html#textbook-really",
+    "href": "slides/01-syllabus.html#textbook-really",
+    "title": "Welcome Aboard 🙌",
+    "section": "Textbook (Really?!)",
+    "text": "Textbook (Really?!)"
   },
   {
     "objectID": "slides/01-syllabus.html#textbook-dr.-yus-online-book",
@@ -768,14 +775,14 @@
     "href": "slides/01-syllabus.html#document-generative-ai-use",
     "title": "Welcome Aboard 🙌",
     "section": "Document Generative AI Use",
-    "text": "Document Generative AI Use\n\n\n\n\nYou may use generative AI tools such as ChatGPT and Gemini to generate a first draft of text for your work, provided that this use is documented and cited.\n\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite/document where you obtained any code you directly use or use as inspiration in your solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nHow I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output"
+    "text": "Document Generative AI Use\n\n\n\n\nYou may use generative AI tools such as ChatGPT and Gemini to generate a first draft of text for your work, provided that this use is documented and cited.\n\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite/document where you obtained any code you directly use or use as inspiration in your solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nWhy/How I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output"
   },
   {
     "objectID": "slides/01-syllabus.html#document-generative-ai-use-1",
     "href": "slides/01-syllabus.html#document-generative-ai-use-1",
     "title": "Welcome Aboard 🙌",
     "section": "Document Generative AI Use",
-    "text": "Document Generative AI Use\n\n\nHow I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50."
+    "text": "Document Generative AI Use\n\n\nWhy/How I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50."
   },
   {
     "objectID": "slides/01-syllabus.html#academic-integrity",
@@ -810,7 +817,7 @@
     "href": "slides/01-syllabus-slides.html#help-desk-hours",
     "title": "Welcome Aboard 🙌",
     "section": "Help Desk Hours",
-    "text": "Help Desk Hours\n\n\n\nUnfortunately, no TA for this course. 🙍\nHelp desk hours on the 4th floor of Cudahy Hall.\nThe hours will be released later."
+    "text": "Help Desk Hours\n\n\n\nUnfortunately, no TA for this course. 😿\nHelp desk hours on the 4th floor of Cudahy Hall.\nThe hours will be released later."
   },
   {
     "objectID": "slides/01-syllabus-slides.html#course-materials",
@@ -818,6 +825,13 @@
     "title": "Welcome Aboard 🙌",
     "section": "Course Materials",
     "text": "Course Materials\n\nCourse Website - https://math4720-f25.github.io/website/\n\n\n\n\n\n\n\n\n\n\n\n\nAll course materials and information can be found on this website. Bookmark it!"
+  },
+  {
+    "objectID": "slides/01-syllabus-slides.html#textbook-really",
+    "href": "slides/01-syllabus-slides.html#textbook-really",
+    "title": "Welcome Aboard 🙌",
+    "section": "Textbook (Really?!)",
+    "text": "Textbook (Really?!)"
   },
   {
     "objectID": "slides/01-syllabus-slides.html#textbook-dr.-yus-online-book",
@@ -887,14 +901,14 @@
     "href": "slides/01-syllabus-slides.html#document-generative-ai-use",
     "title": "Welcome Aboard 🙌",
     "section": "Document Generative AI Use",
-    "text": "Document Generative AI Use\n\n\n\n\nYou may use generative AI tools such as ChatGPT and Gemini to generate a first draft of text for your work, provided that this use is documented and cited.\n\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite/document where you obtained any code you directly use or use as inspiration in your solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nHow I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output"
+    "text": "Document Generative AI Use\n\n\n\n\nYou may use generative AI tools such as ChatGPT and Gemini to generate a first draft of text for your work, provided that this use is documented and cited.\n\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite/document where you obtained any code you directly use or use as inspiration in your solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nWhy/How I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output"
   },
   {
     "objectID": "slides/01-syllabus-slides.html#document-generative-ai-use-1",
     "href": "slides/01-syllabus-slides.html#document-generative-ai-use-1",
     "title": "Welcome Aboard 🙌",
     "section": "Document Generative AI Use",
-    "text": "Document Generative AI Use\n\n\nHow I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50."
+    "text": "Document Generative AI Use\n\n\nWhy/How I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50."
   },
   {
     "objectID": "slides/01-syllabus-slides.html#academic-integrity",
@@ -1013,7 +1027,7 @@
     "href": "course-syllabus.html#sec-genai",
     "title": "Syllabus",
     "section": "Generative Artificial Intelligence (GenAI) Policy",
-    "text": "Generative Artificial Intelligence (GenAI) Policy\n\nYou are responsible for the content of all work submitted for this course.\nFor your homework, take-home exams, and project, you are allowed to use generative AI tools such as ChatGPT to generate a draft of text of your work.\n\nTo avoid any academic integrity issue, you must cite your AI usage, or screenshot your entire AI usage history. Check the followings on how to cite it.\n\nHow to cite ChatGPT\nHow to Cite AI-Generated Content\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nHow I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output\n\n\n\nHere is an example.\n\n\nHow I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50.",
+    "text": "Generative Artificial Intelligence (GenAI) Policy\n\nYou are responsible for the content of all work submitted for this course.\nFor your homework, take-home exams, and project, you are allowed to use generative AI tools such as ChatGPT to generate a draft of text of your work.\n\nTo avoid any academic integrity issue, you must cite your AI usage, or screenshot your entire AI usage history. Check the followings on how to cite it.\n\nHow to cite ChatGPT\nHow to Cite AI-Generated Content\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nWhy/How I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output\n\n\n\nHere is an example.\n\n\nWhy/How I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50.",
     "crumbs": [
       "Course Information",
       "Syllabus"
