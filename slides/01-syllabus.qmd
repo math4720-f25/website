@@ -256,6 +256,20 @@ knitr::include_graphics("./images/01-syllabus/website_f25.png")
 
 
 
+## Textbook (Really?!)
+
+:::: r-stack
+
+![](./images/01-syllabus/read1.png){.fragment width="1800" height="1000"}
+
+![](./images/01-syllabus/read2.png){.fragment width="1600" height="900"}
+
+![](./images/01-syllabus/read3.png){.fragment width="1400" height="400"}
+
+![](./images/01-syllabus/read4.png){.fragment width="1200" height="800"}
+::::
+
+
 
 ## Textbook (Dr. Yu's Online Book)
 
@@ -452,14 +466,14 @@ knitr::include_graphics("images/01-syllabus/genai.png")
 
 - If you use GenAI, please include the followings in your submitted work:
 
-  + **How I used AI (prompts or questions)**
+  + **Why/How I used AI (prompts or questions)**
   + **Generated output (screenshot or copy-paste excerpt)**
   + **How I used the output**
  
  
 ## Document Generative AI Use
 
-- **How I used AI (prompts and questions)**
+- **Why/How I used AI (prompts and questions)**
   + *I asked ChatGPT to generate a histogram using R.*
  
 - **Generated output (screenshot or copy-paste excerpt)**
