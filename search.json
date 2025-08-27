@@ -266,6 +266,13 @@
     "text": "Levels of Measurements: Nominal and Ordinal for Categorical Variables\n\n\nNominal: The data can NOT be ordered in a meaningful or natural way.\n\n\nGender (Male = 0, Female = 1, Trans = 2)  is nominal because Male, Female and Trans cannot be ordered.\n\nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301)  is nominal.\n\n\n\n\n\n\nOrdinal: The data can be arranged in some meaningful order, but differences between data values can NOT be determined or are meaningless.\n\n\nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5)  is ordinal because Sophomore is one class higher than Freshman."
   },
   {
+    "objectID": "slides/02-overview-slides.html#levels-of-measurements-interval-and-ratio-for-numerical-variables",
+    "href": "slides/02-overview-slides.html#levels-of-measurements-interval-and-ratio-for-numerical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Levels of Measurements: Interval and Ratio for Numerical Variables",
+    "text": "Levels of Measurements: Interval and Ratio for Numerical Variables\n\n\nInterval: The data have meaningful difference between any two values. But the data do NOT have a natural zero or starting point. The data can do \\(\\color{red} +\\) and \\(\\color{red} -\\), but can’t reasonably do \\(\\color{red} \\times\\) and \\(\\color{red} \\div\\).\n\n\nTemperature is interval because \\(80^{\\circ}\\)F is 40 degrees higher than \\(40^{\\circ}\\)F \\((80-40=40)\\), but \\(0^{\\circ}\\) does not mean NO heat and \\(80^{\\circ}\\)F is NOT twice as hot as \\(40^{\\circ}\\)F.\n\n\n\n\n\n\nRatio: The data have both meaningful differences and ratios, and there is a natural zero starting point that indicates none of the quantity. The data can do \\(\\color{red} +\\), \\(\\color{red} -\\), \\(\\color{red} \\times\\) and \\(\\color{red} \\div\\).\n\n\nDistance is ratio because \\(80\\) miles is twice as far as \\(40\\) miles \\((80/40 = 2)\\), and \\(0\\) mile means no distance."
+  },
+  {
     "objectID": "slides/02-overview-slides.html#converting-numerical-to-categorical",
     "href": "slides/02-overview-slides.html#converting-numerical-to-categorical",
     "title": "Overview of Statistics and Data 📖",
@@ -495,6 +502,13 @@
     "title": "Overview of Statistics and Data 📖",
     "section": "Levels of Measurements: Nominal and Ordinal for Categorical Variables",
     "text": "Levels of Measurements: Nominal and Ordinal for Categorical Variables\n\n\nNominal: The data can NOT be ordered in a meaningful or natural way.\n\n\nGender (Male = 0, Female = 1, Trans = 2)  is nominal because Male, Female and Trans cannot be ordered.\n\nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301)  is nominal.\n\n\n\n\n\n\nOrdinal: The data can be arranged in some meaningful order, but differences between data values can NOT be determined or are meaningless.\n\n\nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5)  is ordinal because Sophomore is one class higher than Freshman."
+  },
+  {
+    "objectID": "slides/02-overview.html#levels-of-measurements-interval-and-ratio-for-numerical-variables",
+    "href": "slides/02-overview.html#levels-of-measurements-interval-and-ratio-for-numerical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Levels of Measurements: Interval and Ratio for Numerical Variables",
+    "text": "Levels of Measurements: Interval and Ratio for Numerical Variables\n\n\nInterval: The data have meaningful difference between any two values. But the data do NOT have a natural zero or starting point. The data can do \\(\\color{red} +\\) and \\(\\color{red} -\\), but can’t reasonably do \\(\\color{red} \\times\\) and \\(\\color{red} \\div\\).\n\n\nTemperature is interval because \\(80^{\\circ}\\)F is 40 degrees higher than \\(40^{\\circ}\\)F \\((80-40=40)\\), but \\(0^{\\circ}\\) does not mean NO heat and \\(80^{\\circ}\\)F is NOT twice as hot as \\(40^{\\circ}\\)F.\n\n\n\n. . .\n\n\nRatio: The data have both meaningful differences and ratios, and there is a natural zero starting point that indicates none of the quantity. The data can do \\(\\color{red} +\\), \\(\\color{red} -\\), \\(\\color{red} \\times\\) and \\(\\color{red} \\div\\).\n\n\nDistance is ratio because \\(80\\) miles is twice as far as \\(40\\) miles \\((80/40 = 2)\\), and \\(0\\) mile means no distance."
   },
   {
     "objectID": "slides/02-overview.html#converting-numerical-to-categorical",
