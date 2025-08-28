@@ -27,7 +27,7 @@ editor: source
 ```{r, echo=FALSE}
 ## BIO 1-2 3
 ```
-(@) **Data Type** Identify each of the following as numerical or categorical data.
+(@) **Data Type.** Identify each of the following as numerical or categorical data.
     (a) The names of the pharmaceutical companies that manufacture aspirin tablets
     (b) The colors of pills
     (c) The weights of aspirin tablets
@@ -80,7 +80,7 @@ editor: source
 <br>
 
 
-(@) **(MSSC) UK baby names**. The visualization below shows the number of baby girls born in the United Kingdom (comprised of England & Wales, Northern Ireland, and Scotland) who were given the name "Fiona" over the years.
+(@) **(MSSC) UK baby names.** The visualization below shows the number of baby girls born in the United Kingdom (comprised of England & Wales, Northern Ireland, and Scotland) who were given the name "Fiona" over the years.
 
 ```{r}
 #| echo: false
