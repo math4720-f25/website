@@ -81,7 +81,8 @@ editor: source
 
 
 (@) **(MSSC) UK baby names.** The visualization below shows the number of baby girls born in the United Kingdom (comprised of England & Wales, Northern Ireland, and Scotland) who were given the name "Fiona" over the years.
-
+    (a) List the variables you believe were necessary to create this visualization.
+    (b) Indicate whether each variable is numerical or categorical. If numerical, identify as continuous or discrete. If categorical, indicate if the variable is ordinal.
 ```{r}
 #| echo: false
 #| out-width: 80%
@@ -89,8 +90,6 @@ editor: source
 ## OpenIntro 1-15
 knitr::include_graphics("./hw01-fiona.png")
 ```
-
-
 
 (@) **AI Usage Declaration.** Using GenAI is permitted for this course. If you choose to use GenAI to assist with your homework, you must include a brief statement documenting your use. Please provide the following information:
     (a) **Why/How I Used AI** Why do you need to use GenAI? Which tool did you use? Describe your prompts or questions. What and how did you ask the AI to help you?
