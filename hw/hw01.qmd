@@ -13,7 +13,7 @@ editor: source
 
 - Please submit your work in *one* **PDF** file to **D2L > Assessments > Dropbox**. Multiple files or a file that is not in pdf format is not accepted. 
 
-<!-- - In your homework, please number questions **in order**.  -->
+- In your homework, please number questions **in order**.
 
 <!-- - Your homework can be handwritten or typewritten. If it is handwritten, make sure you scan your work well, and put everything in one single pdf. -->
 
