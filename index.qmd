@@ -1,6 +1,6 @@
 ---
 title: "MATH 4720 (MSSC 5720) Statistical Methods Fall 2025"
-tbl-colwidths: [5,8,20,10,6,6,6,6,6]
+tbl-colwidths: [5,8,20,10,6,6,8,6,6]
 format:
   html
 ---
@@ -13,7 +13,7 @@ format:
 | Week | Date | Topic | Slides | Reading | R Code | Homework | Quiz | AI Project |
 |:------:|--------|--------|:------:|:------:|:------:|:------:|:------:|:------:|
 | 1 | Mon, Aug 25 | Syllabus/Overview of Statistics | [🖥️ syllabus](/slides/01-syllabus-slides.html)<br>[🖥️ statistics and data](/slides/02-overview-slides.html) | [Syllabus](course-syllabus.html)<br>[IS Ch1](https://chenghanyu-introstatsbook.netlify.app/intro-stats)<br>[GenAI Video](https://shorturl.at/0yLUl) |  |  |  |  |
-|  | Wed, Aug 27 | Statistical Studies and Data Collection; Data Type |  | [IS Ch 2](https://chenghanyu-introstatsbook.netlify.app/intro-data) |  | ✍️ HW 1 |  |  |
+|  | Wed, Aug 27 | Statistical Studies and Data Collection; Data Type |  | [IS Ch 2](https://chenghanyu-introstatsbook.netlify.app/intro-data) |  | ✍️ [HW 1](hw/hw01.html "Data collection and data type") (due 9/5) |  |  |
 | 2 | Mon, Sep 1 | ***NO CLASS: Labor Day*** |  |  |  |  |  |  |
 |  | Wed, Sep 3 | R Software and Computation | 🖥️ | [IS Ch 3](https://chenghanyu-introstatsbook.netlify.app/intro-r) | `r fontawesome::fa("file-code")` |  |  |  |
 | 3 | Mon, Sep 8 | Summarizing Data: Centrality | 🖥️ | IS Ch 5 - 6 |  |  |  |  |

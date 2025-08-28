@@ -266,6 +266,13 @@
     "text": "Levels of Measurements: Nominal and Ordinal for Categorical Variables\n\n\nNominal: The data can NOT be ordered in a meaningful or natural way.\n\n\nGender (Male = 0, Female = 1, Trans = 2)  is nominal because Male, Female and Trans cannot be ordered.\n\nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301)  is nominal.\n\n\n\n\n\n\nOrdinal: The data can be arranged in some meaningful order, but differences between data values can NOT be determined or are meaningless.\n\n\nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5)  is ordinal because Sophomore is one class higher than Freshman."
   },
   {
+    "objectID": "slides/02-overview-slides.html#levels-of-measurements-interval-and-ratio-for-numerical-variables",
+    "href": "slides/02-overview-slides.html#levels-of-measurements-interval-and-ratio-for-numerical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Levels of Measurements: Interval and Ratio for Numerical Variables",
+    "text": "Levels of Measurements: Interval and Ratio for Numerical Variables\n\n\nInterval: The data have meaningful difference between any two values. But the data do NOT have a natural zero or starting point. The data can do \\(\\color{red} +\\) and \\(\\color{red} -\\), but can’t reasonably do \\(\\color{red} \\times\\) and \\(\\color{red} \\div\\).\n\n\nTemperature is interval because \\(80^{\\circ}\\)F is 40 degrees higher than \\(40^{\\circ}\\)F \\((80-40=40)\\), but \\(0^{\\circ}\\) does not mean NO heat and \\(80^{\\circ}\\)F is NOT twice as hot as \\(40^{\\circ}\\)F.\n\n\n\n\n\n\nRatio: The data have both meaningful differences and ratios, and there is a natural zero starting point that indicates none of the quantity. The data can do \\(\\color{red} +\\), \\(\\color{red} -\\), \\(\\color{red} \\times\\) and \\(\\color{red} \\div\\).\n\n\nDistance is ratio because \\(80\\) miles is twice as far as \\(40\\) miles \\((80/40 = 2)\\), and \\(0\\) mile means no distance."
+  },
+  {
     "objectID": "slides/02-overview-slides.html#converting-numerical-to-categorical",
     "href": "slides/02-overview-slides.html#converting-numerical-to-categorical",
     "title": "Overview of Statistics and Data 📖",
@@ -497,6 +504,13 @@
     "text": "Levels of Measurements: Nominal and Ordinal for Categorical Variables\n\n\nNominal: The data can NOT be ordered in a meaningful or natural way.\n\n\nGender (Male = 0, Female = 1, Trans = 2)  is nominal because Male, Female and Trans cannot be ordered.\n\nCountry (USA = 100, Canada = 101, UK = 200, Germany = 201, Japan = 300, Korea = 301)  is nominal.\n\n\n\n\n\n\nOrdinal: The data can be arranged in some meaningful order, but differences between data values can NOT be determined or are meaningless.\n\n\nClass (Freshman = 1, Sophomore = 2, Junior = 3, Senior = 4, Graduate = 5)  is ordinal because Sophomore is one class higher than Freshman."
   },
   {
+    "objectID": "slides/02-overview.html#levels-of-measurements-interval-and-ratio-for-numerical-variables",
+    "href": "slides/02-overview.html#levels-of-measurements-interval-and-ratio-for-numerical-variables",
+    "title": "Overview of Statistics and Data 📖",
+    "section": "Levels of Measurements: Interval and Ratio for Numerical Variables",
+    "text": "Levels of Measurements: Interval and Ratio for Numerical Variables\n\n\nInterval: The data have meaningful difference between any two values. But the data do NOT have a natural zero or starting point. The data can do \\(\\color{red} +\\) and \\(\\color{red} -\\), but can’t reasonably do \\(\\color{red} \\times\\) and \\(\\color{red} \\div\\).\n\n\nTemperature is interval because \\(80^{\\circ}\\)F is 40 degrees higher than \\(40^{\\circ}\\)F \\((80-40=40)\\), but \\(0^{\\circ}\\) does not mean NO heat and \\(80^{\\circ}\\)F is NOT twice as hot as \\(40^{\\circ}\\)F.\n\n\n\n. . .\n\n\nRatio: The data have both meaningful differences and ratios, and there is a natural zero starting point that indicates none of the quantity. The data can do \\(\\color{red} +\\), \\(\\color{red} -\\), \\(\\color{red} \\times\\) and \\(\\color{red} \\div\\).\n\n\nDistance is ratio because \\(80\\) miles is twice as far as \\(40\\) miles \\((80/40 = 2)\\), and \\(0\\) mile means no distance."
+  },
+  {
     "objectID": "slides/02-overview.html#converting-numerical-to-categorical",
     "href": "slides/02-overview.html#converting-numerical-to-categorical",
     "title": "Overview of Statistics and Data 📖",
@@ -515,7 +529,7 @@
     "href": "index.html",
     "title": "MATH 4720 (MSSC 5720) Statistical Methods Fall 2025",
     "section": "",
-    "text": "The website is for Section-101 2 - 3:15 PM and Section-102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nSlides\nReading\nR Code\nHomework\nQuiz\nAI Project\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ statistics and data\n\n\nSyllabusIS Ch1GenAI Video\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n\nIS Ch 2\n\n✍️ HW 1\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n🖥️\nIS Ch 3\n\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n🖥️\nIS Ch 5 - 6\n\n\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n\nIS Ch 5 - 6\n\n✍️ HW 2\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n🖥️\nIS Ch 7 - 8\n\n\n\n\n\n\n\nWed, Sep 17\nRandom Variables\n\nIS Ch 9\n\n✍️ HW 3\n✅ Quiz 1\n\n\n\n5\nMon, Sep 22\nDiscrete Probability Distributions\n🖥️\nIS Ch 10\n\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions\n\nIS Ch 11\n\n✍️ HW 4\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️\nIS Ch 12\n\n\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem\n\nIS Ch 13\n\n\n✅ Quiz 2\n\n\n\n7\nMon, Oct 6\nIn-class Exam 1\n\n\n\n\n\n\n\n\n\nWed, Oct 8\nInference about Population Means: Confidence Intervals\n🖥️\nIS Ch 14\n\n\n\n\n\n\n8\nMon, Oct 13\nInference about Population Means: Hypothesis Testing\n🖥️\nIS Ch 16\n\n\n\n\n\n\n\nWed, Oct 15\nInference about Population Means: Hypothesis Testing\n\nIS Ch 16\n\n✍️ HW 5\n\n\n\n\n9\nMon, Oct 20\nComparing Two Population Means\n🖥️\nIS Ch 17\n\n\n\n\n\n\n\nWed, Oct 22\nComparing Two Population Means\n\nIS Ch 17\n\n✍️ HW 6\n\n\n\n\n10\nMon, Oct 27\nInference about Population Variances\n🖥️\nIS Ch 18\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Population Variances\n\nIS Ch 18\n\n✍️ HW 7\n✅ Quiz 3\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA)\n🖥️\nIS Ch 24\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA)\n\nIS Ch 24\n\n\n\n\n\n\n12\nMon, Nov 10\nIn-class Exam 2\n\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n🖥️\nIS Ch 25\n\n\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\nIS Ch 27.1\n\n\n\n\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\nIS Ch 27.2 - 27.3\n\n\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\nIS Ch 27.4 - 27.6\n\n\n\n\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n✍️ HW 8\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\nIS Ch 19\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\nIS Ch 20\n\n\n✅ Quiz 4\n\n\n\n16\n\nWed, Dec 10, 10:30 AM - 12:30 PM\n\nIn-class Final Exam (Sec101-2PM)\n\n\n\n\n\n\n\n\n\nFri, Dec 12, 8- 10 AM\nIn-class Final Exam (Sec102-3:30PM)\n\n\n\n\n\n\n\n\n\n\nI reserve the right to make changes to the schedule.",
+    "text": "The website is for Section-101 2 - 3:15 PM and Section-102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nSlides\nReading\nR Code\nHomework\nQuiz\nAI Project\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ statistics and data\n\n\nSyllabusIS Ch1GenAI Video\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n\nIS Ch 2\n\n✍️ HW 1 (due 9/5)\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n🖥️\nIS Ch 3\n\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n🖥️\nIS Ch 5 - 6\n\n\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n\nIS Ch 5 - 6\n\n✍️ HW 2\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n🖥️\nIS Ch 7 - 8\n\n\n\n\n\n\n\nWed, Sep 17\nRandom Variables\n\nIS Ch 9\n\n✍️ HW 3\n✅ Quiz 1\n\n\n\n5\nMon, Sep 22\nDiscrete Probability Distributions\n🖥️\nIS Ch 10\n\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions\n\nIS Ch 11\n\n✍️ HW 4\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️\nIS Ch 12\n\n\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem\n\nIS Ch 13\n\n\n✅ Quiz 2\n\n\n\n7\nMon, Oct 6\nIn-class Exam 1\n\n\n\n\n\n\n\n\n\nWed, Oct 8\nInference about Population Means: Confidence Intervals\n🖥️\nIS Ch 14\n\n\n\n\n\n\n8\nMon, Oct 13\nInference about Population Means: Hypothesis Testing\n🖥️\nIS Ch 16\n\n\n\n\n\n\n\nWed, Oct 15\nInference about Population Means: Hypothesis Testing\n\nIS Ch 16\n\n✍️ HW 5\n\n\n\n\n9\nMon, Oct 20\nComparing Two Population Means\n🖥️\nIS Ch 17\n\n\n\n\n\n\n\nWed, Oct 22\nComparing Two Population Means\n\nIS Ch 17\n\n✍️ HW 6\n\n\n\n\n10\nMon, Oct 27\nInference about Population Variances\n🖥️\nIS Ch 18\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Population Variances\n\nIS Ch 18\n\n✍️ HW 7\n✅ Quiz 3\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA)\n🖥️\nIS Ch 24\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA)\n\nIS Ch 24\n\n\n\n\n\n\n12\nMon, Nov 10\nIn-class Exam 2\n\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n🖥️\nIS Ch 25\n\n\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\nIS Ch 27.1\n\n\n\n\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\nIS Ch 27.2 - 27.3\n\n\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\nIS Ch 27.4 - 27.6\n\n\n\n\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n✍️ HW 8\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\nIS Ch 19\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\nIS Ch 20\n\n\n✅ Quiz 4\n\n\n\n16\n\nWed, Dec 10, 10:30 AM - 12:30 PM\n\nIn-class Final Exam (Sec101-2PM)\n\n\n\n\n\n\n\n\n\nFri, Dec 12, 8- 10 AM\nIn-class Final Exam (Sec102-3:30PM)\n\n\n\n\n\n\n\n\n\n\nI reserve the right to make changes to the schedule.",
     "crumbs": [
       "Course Information",
       "Schedule"
@@ -691,7 +705,7 @@
     "href": "slides/01-syllabus.html#help-desk-hours",
     "title": "Welcome Aboard 🙌",
     "section": "Help Desk Hours",
-    "text": "Help Desk Hours\n\n\n\nUnfortunately, no TA for this course. 🙍\nHelp desk hours on the 4th floor of Cudahy Hall.\nThe hours will be released later."
+    "text": "Help Desk Hours\n\n\n\nUnfortunately, no TA for this course. 😿\nHelp desk hours on the 4th floor of Cudahy Hall.\nThe hours will be released later."
   },
   {
     "objectID": "slides/01-syllabus.html#course-materials",
@@ -699,6 +713,13 @@
     "title": "Welcome Aboard 🙌",
     "section": "Course Materials",
     "text": "Course Materials\n\nCourse Website - https://math4720-f25.github.io/website/\n\n\n\n\n\n\n\n\n\n\n\n\nAll course materials and information can be found on this website. Bookmark it!"
+  },
+  {
+    "objectID": "slides/01-syllabus.html#textbook-really",
+    "href": "slides/01-syllabus.html#textbook-really",
+    "title": "Welcome Aboard 🙌",
+    "section": "Textbook (Really?!)",
+    "text": "Textbook (Really?!)"
   },
   {
     "objectID": "slides/01-syllabus.html#textbook-dr.-yus-online-book",
@@ -768,14 +789,14 @@
     "href": "slides/01-syllabus.html#document-generative-ai-use",
     "title": "Welcome Aboard 🙌",
     "section": "Document Generative AI Use",
-    "text": "Document Generative AI Use\n\n\n\n\nYou may use generative AI tools such as ChatGPT and Gemini to generate a first draft of text for your work, provided that this use is documented and cited.\n\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite/document where you obtained any code you directly use or use as inspiration in your solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nHow I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output"
+    "text": "Document Generative AI Use\n\n\n\n\nYou may use generative AI tools such as ChatGPT and Gemini to generate a first draft of text for your work, provided that this use is documented and cited.\n\n\nUnless explicitly stated otherwise, you may make use of any online resources, but you must explicitly cite/document where you obtained any code you directly use or use as inspiration in your solutions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf you use GenAI, please include the followings in your submitted work:\n\nWhy/How I used AI (prompts or questions)\nGenerated output (screenshot or copy-paste excerpt)\nHow I used the output"
   },
   {
     "objectID": "slides/01-syllabus.html#document-generative-ai-use-1",
     "href": "slides/01-syllabus.html#document-generative-ai-use-1",
     "title": "Welcome Aboard 🙌",
     "section": "Document Generative AI Use",
-    "text": "Document Generative AI Use\n\n\nHow I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50."
+    "text": "Document Generative AI Use\n\n\nWhy/How I used AI (prompts and questions)\n\nI asked ChatGPT to generate a histogram using R.\n\n\nGenerated output (screenshot or copy-paste excerpt)\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow I used the output\n\nI reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50."
   },
   {
     "objectID": "slides/01-syllabus.html#academic-integrity",
@@ -818,6 +839,13 @@
     "title": "Welcome Aboard 🙌",
     "section": "Course Materials",
     "text": "Course Materials\n\nCourse Website - https://math4720-f25.github.io/website/\n\n\n\n\n\n\n\n\n\n\n\n\nAll course materials and information can be found on this website. Bookmark it!"
+  },
+  {
+    "objectID": "slides/01-syllabus-slides.html#textbook-really",
+    "href": "slides/01-syllabus-slides.html#textbook-really",
+    "title": "Welcome Aboard 🙌",
+    "section": "Textbook (Really?!)",
+    "text": "Textbook (Really?!)"
   },
   {
     "objectID": "slides/01-syllabus-slides.html#textbook-dr.-yus-online-book",
@@ -915,7 +943,7 @@
     "href": "hw.html",
     "title": "Homework",
     "section": "",
-    "text": "More homework sets to be added as the semester progresses.\n\n\n\n\n\n\n\n\nNo.\nTitle\nDue date\n\n\n\n\n\nNo matching items",
+    "text": "More homework sets to be added as the semester progresses.\n\n\n\n\n\n\n\n\n\n\nNo.\n\n\n\nTitle\n\n\n\nDue date\n\n\n\n\n\n\n\n\nHomework 1\n\n\nData Collection and Data Type\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Homework"
     ]
@@ -1053,10 +1081,10 @@
     ]
   },
   {
-    "objectID": "slides/01-syllabus-slides.html#textbook-really",
-    "href": "slides/01-syllabus-slides.html#textbook-really",
-    "title": "Welcome Aboard 🙌",
-    "section": "Textbook (Really?!)",
-    "text": "Textbook (Really?!)"
+    "objectID": "hw/hw01.html",
+    "href": "hw/hw01.html",
+    "title": "Homework 1",
+    "section": "",
+    "text": "Important\n\n\n\nDue Friday, Sep 5, 11:59 PM\n\n\n\nHomework 1 covers Week 1 course materials.\nPlease submit your work in one PDF file to D2L &gt; Assessments &gt; Dropbox. Multiple files or a file that is not in pdf format is not accepted.\n\n\nQuestions started with (MSSC) are required for MSSC 5720 students, and optional for MATH 4720 students.\n\nHomework Questions\n\n\nData Type Identify each of the following as numerical or categorical data.\n\nThe names of the pharmaceutical companies that manufacture aspirin tablets\nThe colors of pills\nThe weights of aspirin tablets\n\n\n\n\n\n\nLevel of Measurements. Identify the level of measurement used in each of the following.\n\nThe weights of people in a sample of Marquette engineering students.\nA physician’s descriptions of “abstains from alcohol, light drinker, moderate drinker, heavy drinker.”\nTree classifications of “oak, maple, elm.”\nBob measures time in days, with 0 corresponding to his birth date. The day before his birth is -1, the day after his birth is +1, and so on. Bib has converted the dates of major historical events to his numbering system. What is the level of measurement of these numbers?\n\n\n\n\n\n\nDiscrete vs Continuous. Determine whether the data are discrete or continuous.\n\nThe length of stay (in days) for each baby in a sample of babies born in Wisconsin.\nSeveral subjects are randomly selected and their heights are recorded.\nFrom a data set, we see that a female had an arm circumference of 32.49 cm.\nA sample of married couples is randomly selected and the number of children inn each family is recorded.\n\n\n\n\n\n\nSampling Method. Identify which of these types of sampling is used: random, stratified, or cluster.\n\nDr. Yu surveys his statistics class by identifying groups of males and females, then randomly selecting 5 students from each of those two groups.\nDr. Yu conducts a survey by randomly selecting 3 different classes at Marquette and surveying all of the students as they left those classes\n532 subjects were randomly assigned to (1) regular exercise or (2) no exercise groups to study the effectiveness of exercise in lowering blood pressure.\n\n\n\n\n\n\nStudy Type. Determine whether the study is an experiment or an observational study, then identify a major problem with this study.\n\nIn a survey conducted by USA Today, 1072 Internet users chose to respond to the question:“How often do you seek medical information online?” 38% of the respondents said “frequently.”\nThe Physicians’ Health Study involved 22,071 male physicians. Based on random selections, 11,037 of them were treated with aspirin and other other 11,034 were given placebos. The study was stopped early because it became clear that aspirin reduced the risk of myocardial infarctions by a substantial amount.\n\n\n\n\n\n\n(MSSC) UK baby names. The visualization below shows the number of baby girls born in the United Kingdom (comprised of England & Wales, Northern Ireland, and Scotland) who were given the name “Fiona” over the years.\n\n\n\n\n\n\n\n\n\n\n\nAI Usage Declaration. Using GenAI is permitted for this course. If you choose to use GenAI to assist with your homework, you must include a brief statement documenting your use. Please provide the following information:\n\n\nWhy/How I Used AI Why do you need to use GenAI? Which tool did you use? Describe your prompts or questions. What and how did you ask the AI to help you?\n\nGenerated Output Include a screenshot or excerpt (copy and paste) of the AI’s response.\n\nHow I Used the Output Did you revise it? Did you use it directly, or compare it with your answers? What decisions did you make based on the output?"
   }
 ]
