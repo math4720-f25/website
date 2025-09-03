@@ -2,78 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://math4720-f25.github.io/website/present-work-2.html</loc>
-    <lastmod>2025-08-03T15:41:04.953Z</lastmod>
+    <lastmod>2025-08-03T15:41:04.000Z</lastmod>
   </url>
   <url>
     <loc>https://math4720-f25.github.io/website/project-description.html</loc>
-    <lastmod>2025-08-03T15:41:04.953Z</lastmod>
+    <lastmod>2025-08-03T15:41:04.000Z</lastmod>
   </url>
   <url>
-    <loc>https://math4720-f25.github.io/website/slides/03-r-slides.html</loc>
-    <lastmod>2025-09-03T13:55:54.329Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/slides/03-r.html</loc>
-    <lastmod>2025-09-03T13:55:54.329Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/slides/04-programming-slides.html</loc>
-    <lastmod>2025-09-03T15:03:46.315Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/slides/04-programming.html</loc>
-    <lastmod>2025-09-03T15:03:46.315Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/index.html</loc>
-    <lastmod>2025-09-03T15:36:07.795Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/present-description-2.html</loc>
-    <lastmod>2025-08-03T15:41:04.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/hw/hw01.html</loc>
-    <lastmod>2025-09-03T14:14:30.671Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/present-description.html</loc>
-    <lastmod>2025-08-03T15:41:04.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/LICENSE.html</loc>
-    <lastmod>2025-08-03T15:41:04.436Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/present-work.html</loc>
-    <lastmod>2025-08-03T15:41:04.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/course-overview.html</loc>
-    <lastmod>2025-08-05T04:30:26.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/slides/01-syllabus.html</loc>
-    <lastmod>2025-08-25T16:03:41.690Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/slides/01-syllabus-slides.html</loc>
-    <lastmod>2025-08-25T16:03:41.690Z</lastmod>
-  </url>
-  <url>
-    <loc>https://math4720-f25.github.io/website/slides/02-overview.html</loc>
-    <lastmod>2025-08-27T18:21:28.000Z</lastmod>
+    <loc>https://math4720-f25.github.io/website/course-hours.html</loc>
+    <lastmod>2025-09-03T17:05:41.624Z</lastmod>
   </url>
   <url>
     <loc>https://math4720-f25.github.io/website/slides/02-overview-slides.html</loc>
-    <lastmod>2025-08-27T18:21:28.000Z</lastmod>
+    <lastmod>2025-08-27T18:21:28.736Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/slides/02-overview.html</loc>
+    <lastmod>2025-08-27T18:21:28.736Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/slides/01-syllabus-slides.html</loc>
+    <lastmod>2025-08-25T16:03:41.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/slides/01-syllabus.html</loc>
+    <lastmod>2025-08-25T16:03:41.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/course-overview.html</loc>
+    <lastmod>2025-08-05T04:30:26.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/present-work.html</loc>
+    <lastmod>2025-08-03T15:41:04.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/LICENSE.html</loc>
+    <lastmod>2025-08-03T15:41:04.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/present-description.html</loc>
+    <lastmod>2025-08-03T15:41:04.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/hw/hw01.html</loc>
+    <lastmod>2025-09-03T15:46:35.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/present-description-2.html</loc>
+    <lastmod>2025-08-03T15:41:04.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/index.html</loc>
+    <lastmod>2025-09-03T15:36:07.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/slides/04-programming.html</loc>
+    <lastmod>2025-09-03T15:03:46.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/slides/04-programming-slides.html</loc>
+    <lastmod>2025-09-03T15:03:46.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/slides/03-r.html</loc>
+    <lastmod>2025-09-03T13:55:54.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math4720-f25.github.io/website/slides/03-r-slides.html</loc>
+    <lastmod>2025-09-03T13:55:54.000Z</lastmod>
   </url>
   <url>
     <loc>https://math4720-f25.github.io/website/hw.html</loc>
-    <lastmod>2025-08-05T04:03:49.726Z</lastmod>
+    <lastmod>2025-08-05T04:03:49.000Z</lastmod>
   </url>
   <url>
     <loc>https://math4720-f25.github.io/website/course-syllabus.html</loc>
-    <lastmod>2025-08-25T16:01:19.664Z</lastmod>
+    <lastmod>2025-08-25T16:01:19.000Z</lastmod>
   </url>
 </urlset>
