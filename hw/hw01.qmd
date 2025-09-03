@@ -49,7 +49,7 @@ editor: source
     (a) The length of stay (in days) for each baby in a sample of babies born in Wisconsin.
     (b) Several subjects are randomly selected and their heights are recorded.
     (c) From a data set, we see that a female had an arm circumference of 32.49 cm.
-    (d) A sample of married couples is randomly selected and the number of children inn each family is recorded.
+    (d) A sample of married couples is randomly selected and the number of children in each family is recorded.
  
 <br>   
 
@@ -60,7 +60,7 @@ editor: source
 ```
 (@) **Sampling Method.** Identify which of these types of sampling is used: random, stratified, or cluster.
     (a) Dr. Yu surveys his statistics class by identifying groups of males and females, then randomly selecting 5 students from each of those two groups.
-    (b) Dr. Yu conducts a survey by randomly selecting 3 different classes at Marquette and surveying all of the students as they left those classes
+    (b) Dr. Yu conducts a survey by randomly selecting 3 different classes at Marquette and surveying all of the students as they left those classes.
     (c) 532 subjects were randomly assigned to (1) regular exercise or (2) no exercise groups to study the effectiveness of exercise in lowering blood pressure.
 
 <br>

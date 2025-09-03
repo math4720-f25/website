@@ -51,6 +51,8 @@ website:
             text: Schedule
           - href: course-syllabus.qmd
             text: Syllabus
+          - href: course-hours.qmd
+            text: Help Desk Hours
           # - href: course-support.qmd
           #   text: Support
           # - href: course-team.qmd
