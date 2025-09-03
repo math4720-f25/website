@@ -95,4 +95,4 @@ knitr::include_graphics("./hw01-fiona.png")
     (a) **Why/How I Used AI** Why do you need to use GenAI? Which tool did you use? Describe your prompts or questions. What and how did you ask the AI to help you?
     (b) **Generated Output** Include a screenshot or excerpt (copy and paste) of the AI’s response.
     (c) **How I Used the Output** Did you revise it? Did you use it directly, or compare it with your answers? What decisions did you make based on the output?
-    
+

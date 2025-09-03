@@ -467,7 +467,7 @@ width: 200px;
 .reveal .code-output, 
 .reveal .cm-editor, 
 .reveal .cm-content {
-  font-size: 0.95em !important; /* adjust as needed */
+  font-size: 1.1em !important; /* adjust as needed */
   /*line-height: 1.4;*/
 }
 
@@ -526,3 +526,9 @@ h2 {
   font-size: 12px;
   margin: 0 0 0.5em 0;
 }
+
+/*
+.cell-code .sourceCode {
+  font-size: 1em !important;
+}
+*/
