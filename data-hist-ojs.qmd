@@ -60,7 +60,7 @@ plt = {
 
 ```{ojs}
 //| echo: false
-Ch3data = FileAttachment("./data/OnlyTitanic.xlsx").xlsx("Titanic")
+Ch3data = FileAttachment("./slides/data/OnlyTitanic.xlsx").xlsx("Titanic")
 ```
 
 ```{ojs}
