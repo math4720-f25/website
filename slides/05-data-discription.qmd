@@ -347,6 +347,7 @@ knitr::kable(grade_dist, longtable = TRUE, format = "html", align = 'l') %>% kab
 
 ```{r}
 #| code-line-numbers: false
+#| echo: !expr -c(4)
 body_mass <- penguins$body_mass_g
 head(body_mass, 20)
 body_mass <- body_mass[complete.cases(body_mass)]
