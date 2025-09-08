@@ -1048,7 +1048,7 @@
     "href": "slides/05-data-discription.html#body-mass-grams-in-data-penguins",
     "title": "Describing Data 👨‍💻",
     "section": "Body Mass (Grams) in Data penguins\n",
-    "text": "Body Mass (Grams) in Data penguins\n\n\nbody_mass &lt;- penguins$body_mass_g\nhead(body_mass, 20)\n\n [1] 3750 3800 3250   NA 3450 3650 3625 4675 3475 4250 3300 3700 3200 3800 4400\n[16] 3700 3450 4500 3325 4200\n\nbody_mass &lt;- body_mass[complete.cases(body_mass)]\nint_rate &lt;- round(loan50$interest_rate, 1)"
+    "text": "Body Mass (Grams) in Data penguins\n\n\nbody_mass &lt;- penguins$body_mass_g\nhead(body_mass, 20)\n\n [1] 3750 3800 3250   NA 3450 3650 3625 4675 3475 4250 3300 3700 3200 3800 4400\n[16] 3700 3450 4500 3325 4200\n\nbody_mass &lt;- body_mass[complete.cases(body_mass)]"
   },
   {
     "objectID": "slides/05-data-discription.html#frequency-distribution-of-body-mass",
@@ -1293,7 +1293,7 @@
     "href": "slides/05-data-discription-slides.html#body-mass-grams-in-data-penguins",
     "title": "Describing Data 👨‍💻",
     "section": "Body Mass (Grams) in Data penguins\n",
-    "text": "Body Mass (Grams) in Data penguins\n\n\nbody_mass &lt;- penguins$body_mass_g\nhead(body_mass, 20)\n\n [1] 3750 3800 3250   NA 3450 3650 3625 4675 3475 4250 3300 3700 3200 3800 4400\n[16] 3700 3450 4500 3325 4200\n\nbody_mass &lt;- body_mass[complete.cases(body_mass)]\nint_rate &lt;- round(loan50$interest_rate, 1)"
+    "text": "Body Mass (Grams) in Data penguins\n\n\nbody_mass &lt;- penguins$body_mass_g\nhead(body_mass, 20)\n\n [1] 3750 3800 3250   NA 3450 3650 3625 4675 3475 4250 3300 3700 3200 3800 4400\n[16] 3700 3450 4500 3325 4200\n\nbody_mass &lt;- body_mass[complete.cases(body_mass)]"
   },
   {
     "objectID": "slides/05-data-discription-slides.html#frequency-distribution-of-body-mass",
