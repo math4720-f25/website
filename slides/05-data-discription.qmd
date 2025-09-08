@@ -466,10 +466,10 @@ hist(x = body_mass,
 
 
 
-## Histogram Applet
+<!-- ## Histogram Applet -->
 
 
-{{< include data-hist-ojs.qmd >}}
+<!-- {{< include data-hist-ojs.qmd >}} -->
 
 
 ## Skewness
@@ -911,10 +911,10 @@ axis(1, labels = FALSE, tick = TRUE)
 
 
 
-## Outliers Applet
+<!-- ## Outliers Applet -->
 
 
-{{< include data-extremes-ojs.qmd >}}
+<!-- {{< include data-extremes-ojs.qmd >}} -->
 
 
 

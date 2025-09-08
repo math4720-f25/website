@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.8.19">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<title>MATH 4720 (MSSC 5720) Statistical Methods Fall 2025 – MATH 4720 (MSSC 5720) - Fall 2025</title>
+<title>Syllabus – MATH 4720 (MSSC 5720) - Fall 2025</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,8 +25,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./course-syllabus.html" rel="next">
-<link href="./course-overview.html" rel="prev">
+<link href="./course-hours.html" rel="next">
+<link href="./index.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -67,10 +67,38 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit",
     "search-label": "Search"
   }
-}</script>
-<meta property="og:title" content="MATH 4720 (MSSC 5720) Statistical Methods Fall 2025 – MATH 4720 (MSSC 5720) - Fall 2025">
+}</script><script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script><script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+<meta property="og:title" content="Syllabus – MATH 4720 (MSSC 5720) - Fall 2025">
 <meta property="og:description" content="Homepage for MATH 4720 (MSSC 5720) - Statistical Methods at Marquette University, Fall 2025.">
+<meta property="og:image" content="https://math4720-f25.github.io/website/images/email.png">
 <meta property="og:site_name" content="MATH 4720 (MSSC 5720) - Fall 2025">
+<meta property="og:image:height" content="92">
+<meta property="og:image:width" content="440">
 </head>
 <body class="nav-sidebar docked quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
@@ -241,7 +269,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./course-overview.html">Course Information</a></li><li class="breadcrumb-item"><a href="./index.html">Schedule</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./course-overview.html">Course Information</a></li><li class="breadcrumb-item"><a href="./course-syllabus.html">Syllabus</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -283,13 +311,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Schedule</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-syllabus.html" class="sidebar-item-text sidebar-link">
+  <a href="./course-syllabus.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Syllabus</span></a>
   </div>
 </li>
@@ -311,12 +339,35 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </nav><div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active"><h2 id="toc-title">On this page</h2>
+   
+  <ul>
+<li><a href="#time-and-location" id="toc-time-and-location" class="nav-link active" data-scroll-target="#time-and-location">Time and location</a></li>
+  <li><a href="#office-hours" id="toc-office-hours" class="nav-link" data-scroll-target="#office-hours">Office Hours</a></li>
+  <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
+  <li><a href="#e-mail-policy" id="toc-e-mail-policy" class="nav-link" data-scroll-target="#e-mail-policy">E-mail Policy</a></li>
+  <li><a href="#required-textbook" id="toc-required-textbook" class="nav-link" data-scroll-target="#required-textbook">Required Textbook</a></li>
+  <li><a href="#optional-references" id="toc-optional-references" class="nav-link" data-scroll-target="#optional-references">Optional References</a></li>
+  <li>
+<a href="#grading-policy" id="toc-grading-policy" class="nav-link" data-scroll-target="#grading-policy">Grading Policy</a>
+  <ul class="collapse">
+<li><a href="#homework" id="toc-homework" class="nav-link" data-scroll-target="#homework">Homework</a></li>
+  <li><a href="#quizzes" id="toc-quizzes" class="nav-link" data-scroll-target="#quizzes">Quizzes</a></li>
+  <li><a href="#exams" id="toc-exams" class="nav-link" data-scroll-target="#exams">Exams</a></li>
+  <li><a href="#ai-project" id="toc-ai-project" class="nav-link" data-scroll-target="#ai-project">AI Project</a></li>
+  <li><a href="#class-participation" id="toc-class-participation" class="nav-link" data-scroll-target="#class-participation">Class Participation</a></li>
+  </ul>
+</li>
+  <li><a href="#sec-genai" id="toc-sec-genai" class="nav-link" data-scroll-target="#sec-genai">Generative Artificial Intelligence (GenAI) Policy</a></li>
+  <li><a href="#academic-integrity" id="toc-academic-integrity" class="nav-link" data-scroll-target="#academic-integrity">Academic Integrity</a></li>
+  <li><a href="#accommodation" id="toc-accommodation" class="nav-link" data-scroll-target="#accommodation">Accommodation</a></li>
+  <li><a href="#important-dates" id="toc-important-dates" class="nav-link" data-scroll-target="#important-dates">Important dates</a></li>
+  </ul><div class="toc-actions"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/course-syllabus.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./course-overview.html">Course Information</a></li><li class="breadcrumb-item"><a href="./index.html">Schedule</a></li></ol></nav><div class="quarto-title">
-<h1 class="title">MATH 4720 (MSSC 5720) Statistical Methods Fall 2025</h1>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./course-overview.html">Course Information</a></li><li class="breadcrumb-item"><a href="./course-syllabus.html">Syllabus</a></li></ol></nav><div class="quarto-title">
+<h1 class="title">Syllabus</h1>
 </div>
 
 
@@ -330,408 +381,275 @@ ul.task-list li input[type="checkbox"] {
   
 
 
-</header><ul>
-<li>The website is for Section-101 <strong>2 - 3:15 PM</strong> and Section-102 <strong>3:30-4:45 PM</strong>.</li>
-</ul>
-<p><em>This schedule will be updated as the semester progresses, with all changes documented here.</em></p>
-<div class="column-screen-inset-right">
+</header><p><a href="./documents/syllabus-4720-101-f25.pdf"><strong>Syllabus for Section 101 2 - 3:15 PM</strong></a>.</p>
+<p><a href="./documents/syllabus-4720-102-f25.pdf"><strong>Syllabus for Section 102 3:30 - 4:45 PM</strong></a>.</p>
+<section id="time-and-location" class="level2"><h2 class="anchored" data-anchor-id="time-and-location">Time and location</h2>
 <table class="caption-top table">
-<colgroup>
-<col style="width: 5%">
-<col style="width: 8%">
-<col style="width: 20%">
-<col style="width: 10%">
-<col style="width: 6%">
-<col style="width: 6%">
-<col style="width: 8%">
-<col style="width: 6%">
-<col style="width: 6%">
-</colgroup>
 <thead><tr class="header">
-<th style="text-align: center;">Week</th>
-<th>Date</th>
-<th>Topic</th>
-<th style="text-align: center;">Slides</th>
-<th style="text-align: center;">Reading</th>
-<th style="text-align: center;">R Code</th>
-<th style="text-align: center;">Homework</th>
-<th style="text-align: center;">Quiz</th>
-<th style="text-align: center;">AI Project</th>
+<th></th>
+<th>Day</th>
+<th>Time</th>
+<th>Location</th>
 </tr></thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;">1</td>
-<td>Mon, Aug 25</td>
-<td>Syllabus/Overview of Statistics</td>
-<td style="text-align: center;">
-<a href="./slides/01-syllabus-slides.html">🖥️ syllabus</a><br><a href="./slides/02-overview-slides.html">🖥️ statistics and data</a>
-</td>
-<td style="text-align: center;">
-<a href="course-syllabus.html">Syllabus</a><br><a href="https://chenghanyu-introstatsbook.netlify.app/intro-stats">IS Ch1</a><br><a href="https://shorturl.at/0yLUl">GenAI Video</a>
-</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td>Sec 101</td>
+<td>Mo &amp; We</td>
+<td>2:00 - 3:15 PM</td>
+<td>Cudahy Hall 131</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Aug 27</td>
-<td>Statistical Studies and Data Collection; Data Type</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><a href="https://chenghanyu-introstatsbook.netlify.app/intro-data">IS Ch 2</a></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">✍️ <a href="hw/hw01.html" title="Data collection and data type">HW 1</a> (due 9/5)</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td>Sec 102</td>
+<td>Mo &amp; We</td>
+<td>3:30 - 4:45 PM</td>
+<td>Cudahy Hall 131</td>
+</tr>
+</tbody>
+</table></section><section id="office-hours" class="level2"><h2 class="anchored" data-anchor-id="office-hours">Office Hours</h2>
+<ul>
+<li><p>My in-person office hours are MoWe 4:50 - 5:50 PM and Tu 1 - 2 PM in Cudahy Hall room 353.</p></li>
+<li><p>You are welcome to schedule an online meeting via Microsoft Teams if you need/prefer.</p></li>
+</ul></section><section id="prerequisites" class="level2"><h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
+<ul>
+<li><p>MATH 1400, 1410, or 1450.</p></li>
+<li><p>Basic computer and internet use expected. The course will also assume facility with using the internet and a personal computer.</p></li>
+<li><p>A portion of the course involves programming in <a href="https://www.r-project.org/about.html"></a> using <a href="https://rstudio.com/">RStudio</a>, but prior programming experience is not required.</p></li>
+</ul></section><section id="e-mail-policy" class="level2"><h2 class="anchored" data-anchor-id="e-mail-policy">E-mail Policy</h2>
+<ul>
+<li><p>I will attempt to reply your email quickly, at least <strong>within 24 hours</strong>.</p></li>
+<li><p><strong>Expect a reply on Monday if you send a question during weekends</strong>. If you do not receive a response from me within two days, re-send your question/comment in case there was a “mix-up” with email communication (Hope this won’t happen!).</p></li>
+<li><p>Please start your e-mail subject line with <strong>[math4720]</strong> or <strong>[mssc5720]</strong> followed by a clear description of your question. See an example below.</p></li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="./images/email.png" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Email Subject Line Example</figcaption></figure>
+</div>
+</div>
+</div>
+<ul>
+<li><p>Email etiquette is important. Please read this <a href="https://www.insidehighered.com/views/2015/04/16/advice-students-so-they-dont-sound-silly-emails-essay">article</a> to learn more about email etiquette.</p></li>
+<li>
+<p>I am more than happy to answer your questions about this course or statistics in general. However, due to time constraint, I may choose <strong>NOT</strong> to respond to students’ e-mail if</p>
+<ol type="1">
+<li><p>The student could answer his/her own inquiry by reading the syllabus or information on the course website or D2L.</p></li>
+<li><p>The student is asking for an extra credit opportunity. The answer is “no”.</p></li>
+<li><p>The student is requesting an extension on homework. The answer is “no”.</p></li>
+<li><p>The student is asking for a grade to be raised for no legitimate reason. The answer is “no”.</p></li>
+<li><p>The student is sending an email with no etiquette.</p></li>
+</ol>
+</li>
+</ul></section><section id="required-textbook" class="level2"><h2 class="anchored" data-anchor-id="required-textbook">Required Textbook</h2>
+<ul>
+<li>
+<strong>[IS]</strong> <a href="https://chenghanyu-introstatsbook.netlify.app/"><em>Introduction to Statistics</em></a>, by Dr.&nbsp;Cheng-Han Yu. (My online book)</li>
+</ul></section><section id="optional-references" class="level2"><h2 class="anchored" data-anchor-id="optional-references">Optional References</h2>
+<ul>
+<li>
+<strong>[OI] (optional)</strong> <a href="https://openintro-ims.netlify.app/"><em>Introduction to Modern Statistics, 2nd edition</em></a>, by Mine Çetinkaya-Rundel and Johanna Hardin. Publisher: OpenIntro. (computation and data-oriented)</li>
+</ul></section><section id="grading-policy" class="level2"><h2 class="anchored" data-anchor-id="grading-policy">Grading Policy</h2>
+<ul>
+<li>
+<p>The final grade is earned out of <strong>1000 total points</strong> distributed as follows:</p>
+<ul>
+<li><strong>Homework 1 to 8: 175 pts (25 pts each)</strong></li>
+<li><strong>Quiz 1 to 4: 200 pts (50 pts each)</strong></li>
+<li><strong>Exam 1 and 2: 300 pts (150 pts each)</strong></li>
+<li><strong>Final exam: 150 pts</strong></li>
+<li><strong>Project: 150 pts</strong></li>
+<li><strong>Class participation: 25 pts</strong></li>
+</ul>
+</li>
+<li><p>You will <strong>NOT</strong> be allowed any extra credit projects/homework/exam to compensate for a poor average. Everyone must be given the same opportunity to do well in this class. Individual exam will <strong>NOT</strong> be curved. <!-- however, I may use class participation to make grade adjustments at the end of the semester. --></p></li>
+<li><p>The final grade is based on your percentage of points earned out of 1000 points and the grade-percentage conversion Table. <span class="math inline">\([x, y)\)</span> means greater than or equal to <span class="math inline">\(x\)</span> and less than <span class="math inline">\(y\)</span>. For example, 94.1 is in <span class="math inline">\([94, 100]\)</span> and the grade is A and 92.8 is in <span class="math inline">\([90, 94)\)</span> and the grade is A-.</p></li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<caption>Grade-Percentage Conversion</caption>
+<thead><tr class="header">
+<th style="text-align: left;">Grade</th>
+<th style="text-align: left;">Percentage</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">[94, 100]</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A-</td>
+<td style="text-align: left;">[90, 94)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">2</td>
-<td>Mon, Sep 1</td>
-<td><strong><em>NO CLASS: Labor Day</em></strong></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: left;">B+</td>
+<td style="text-align: left;">[87, 90)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Sep 3</td>
-<td>R Software and Computation</td>
-<td style="text-align: center;">
-<a href="./slides/03-r-slides.html">🖥️ R and RStudio</a><br><a href="./slides/04-programming-slides.html">🖥️ data type and structure</a>
-</td>
-<td style="text-align: center;"><a href="https://chenghanyu-introstatsbook.netlify.app/intro-r">IS Ch 3</a></td>
-<td style="text-align: center;">
-<a href="code/03_intro-r.R"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></a> (data type and structure)</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">[83, 87)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">3</td>
-<td>Mon, Sep 8</td>
-<td>Summarizing Data: Centrality</td>
-<td style="text-align: center;">
-<a href="./slides/05-data-discription-slides.html">🖥️ data summary</a><br><a href="slides/data-hist-ojs.html">histogram breaks</a><br><a href="slides/data-extremes-ojs.html">data extremes</a>
-</td>
-<td style="text-align: center;"><a href="https://chenghanyu-introstatsbook.netlify.app/data-graphics">IS Ch 5 - 6</a></td>
-<td style="text-align: center;">
-<a href="code/04_data-graphics.R"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></a> (data graphics)</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: left;">B-</td>
+<td style="text-align: left;">[80, 83)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Sep 10</td>
-<td>Summarizing Data: Variation</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">IS Ch 5 - 6</td>
-<td style="text-align: center;">
-<a href="code/05_data-numerics.R"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></a> (data numerics)</td>
-<td style="text-align: center;">✍️ HW 2</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: left;">C+</td>
+<td style="text-align: left;">[77, 80)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">4</td>
-<td>Mon, Sep 15</td>
-<td>Probability Fundamentals</td>
-<td style="text-align: center;">🖥️</td>
-<td style="text-align: center;">IS Ch 7 - 8</td>
-<td style="text-align: center;"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">[73, 77)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Sep 17</td>
-<td>Random Variables</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">IS Ch 9</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">✍️ HW 3</td>
-<td style="text-align: center;">✅ Quiz 1</td>
-<td style="text-align: center;"></td>
+<td style="text-align: left;">C-</td>
+<td style="text-align: left;">[70, 73)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">5</td>
-<td>Mon, Sep 22</td>
-<td>Discrete Probability Distributions</td>
-<td style="text-align: center;">🖥️</td>
-<td style="text-align: center;">IS Ch 10</td>
-<td style="text-align: center;"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: left;">D+</td>
+<td style="text-align: left;">[65, 70)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Sep 24</td>
-<td>Continuous Probability Distributions</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">IS Ch 11</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">✍️ HW 4</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: left;">D</td>
+<td style="text-align: left;">[60, 65)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">6</td>
-<td>Mon, Sep 29</td>
-<td>Sampling Distributions</td>
-<td style="text-align: center;">🖥️</td>
-<td style="text-align: center;">IS Ch 12</td>
-<td style="text-align: center;"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Oct 1</td>
-<td>Central Limit Theorem</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">IS Ch 13</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">✅ Quiz 2</td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">7</td>
-<td>Mon, Oct 6</td>
-<td><strong>In-class Exam 1</strong></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Oct 8</td>
-<td>Inference about Population Means: Confidence Intervals</td>
-<td style="text-align: center;">🖥️</td>
-<td style="text-align: center;">IS Ch 14</td>
-<td style="text-align: center;"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">8</td>
-<td>Mon, Oct 13</td>
-<td>Inference about Population Means: Hypothesis Testing</td>
-<td style="text-align: center;">🖥️</td>
-<td style="text-align: center;">IS Ch 16</td>
-<td style="text-align: center;"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Oct 15</td>
-<td>Inference about Population Means: Hypothesis Testing</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">IS Ch 16</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">✍️ HW 5</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">9</td>
-<td>Mon, Oct 20</td>
-<td>Comparing Two Population Means</td>
-<td style="text-align: center;">🖥️</td>
-<td style="text-align: center;">IS Ch 17</td>
-<td style="text-align: center;"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Oct 22</td>
-<td>Comparing Two Population Means</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">IS Ch 17</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">✍️ HW 6</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">10</td>
-<td>Mon, Oct 27</td>
-<td>Inference about Population Variances</td>
-<td style="text-align: center;">🖥️</td>
-<td style="text-align: center;">IS Ch 18</td>
-<td style="text-align: center;"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Oct 29</td>
-<td>Inference about Population Variances</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">IS Ch 18</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">✍️ HW 7</td>
-<td style="text-align: center;">✅ Quiz 3</td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">11</td>
-<td>Mon, Nov 3</td>
-<td>Analysis of Variance (ANOVA)</td>
-<td style="text-align: center;">🖥️</td>
-<td style="text-align: center;">IS Ch 24</td>
-<td style="text-align: center;"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Nov 5</td>
-<td>Analysis of Variance (ANOVA)</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">IS Ch 24</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">12</td>
-<td>Mon, Nov 10</td>
-<td><strong>In-class Exam 2</strong></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Nov 12</td>
-<td>Multiple Comparisons</td>
-<td style="text-align: center;">🖥️</td>
-<td style="text-align: center;">IS Ch 25</td>
-<td style="text-align: center;"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">13</td>
-<td>Mon, Nov 17</td>
-<td>Correlation</td>
-<td style="text-align: center;">🖥️</td>
-<td style="text-align: center;">IS Ch 27.1</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Nov 19</td>
-<td>Simple Linear Regression</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">IS Ch 27.2 - 27.3</td>
-<td style="text-align: center;"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">14</td>
-<td>Mon, Nov 24</td>
-<td>Simple Linear Regression</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">IS Ch 27.4 - 27.6</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Nov 26</td>
-<td><strong><em>NO CLASS: Thanksgiving</em></strong></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">✍️ HW 8</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">15</td>
-<td>Mon, Dec 1</td>
-<td>Inference for Categorical Data</td>
-<td style="text-align: center;">🖥️</td>
-<td style="text-align: center;">IS Ch 19</td>
-<td style="text-align: center;"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm97 289c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0L79 303c-9.4 9.4-9.4 24.6 0 33.9l48 48c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-31-31 31-31zM257 255c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l48-48c9.4-9.4 9.4-24.6 0-33.9l-48-48z"></path></svg></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td>Wed, Dec 3</td>
-<td>Inference for Categorical Data</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">IS Ch 20</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">✅ Quiz 4</td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">16</td>
-<td>
-<strong>Wed</strong>, <strong>Dec 10, 10:30 AM - 12:30 PM</strong>
-</td>
-<td><strong>In-class Final Exam (Sec101-2PM)</strong></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td><strong>Fri, Dec 12, 8- 10 AM</strong></td>
-<td><strong>In-class Final Exam (Sec102-3:30PM)</strong></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: left;">F</td>
+<td style="text-align: left;">[0, 60)</td>
 </tr>
 </tbody>
 </table>
 </div>
-<p>I reserve the right to make changes to the schedule.</p>
+</div>
+<ul>
+<li>This is not a course that gives most of students grade A. If you want to obtain a good grade, study hard. No pain, no gain.</li>
+</ul>
+<section id="homework" class="level3"><h3 class="anchored" data-anchor-id="homework">Homework</h3>
+<ul>
+<li><p>Homework will be assigned through the course website.</p></li>
+<li><p>To submit your homework, please go to <strong>D2L &gt; Assessments &gt; Dropbox</strong> and upload your homework in <strong>PDF</strong> format.</p></li>
+<li><p>There will be 8 homework sets.</p></li>
+<li><p>Every homework is due by <strong>Friday 11:59 PM </strong> (<strong>Don’t miss it. This is a hard deadline. No late submission</strong>).</p></li>
+<li><p>MSSC 5720 students may have more or different homework questions.</p></li>
+<li><p>The lowest score of the homework sets will be dropped when your final grade is calculated.</p></li>
+<li><p>Generative AI (GenAI) is allowed, but you <strong>must carefully cite it or reveal your use of AI.</strong> See <a href="#sec-genai" class="quarto-xref">Section&nbsp;8</a> for more details.</p></li>
+</ul>
+<!-- - You will get a better understanding of the material if you discuss it with others. However, you must submit YOUR OWN work.  --><!-- - **NO LATE HOMEWORK WILL BE ACCEPTED NOR WILL YOU BE ALLOWED TO MAKE UP MISSED HOMEWORK** for any reason.  --></section><section id="quizzes" class="level3"><h3 class="anchored" data-anchor-id="quizzes">Quizzes</h3>
+<ul>
+<li><p>There will be 4 in-class 15-min quizzes.</p></li>
+<li><p>Quiz questions are similar to the questions in the homework assignments.</p></li>
+<li><p>Quizzes are individual and in <strong>closed-book</strong> and <strong>no-tech</strong> format, except a calculator.</p></li>
+<li><p>❌ No cheat sheet or GenAI is allowed.</p></li>
+<li><p><strong>No make-up quizzes</strong> unless you got an <a href="https://bulletin.marquette.edu/policies/attendance/undergraduate/">excused absence</a>.</p></li>
+<li><p>If you miss a quiz due to an excused absence as defined in <a href="https://bulletin.marquette.edu/policies/attendance/undergraduate/">Attendance in Academic Regulations</a>, the 50 pts will be added to your prorated final exam pts, i.e., (200 + 50 = 250) pts. If you miss more than one quiz, only one quiz pts can be added to the final exam. You get 0 pt for other quizzes.</p></li>
+</ul></section><section id="exams" class="level3"><h3 class="anchored" data-anchor-id="exams">Exams</h3>
+<ul>
+<li><p>There will be 2 midterm exams and 1 final exam.</p></li>
+<li><p>Midterm exams have in-class part and take-home part. The in-class part tests your understanding of mathematical and statistical intuitions. The take-home part tests your ability to do statistical data analysis using statistical software such as R.</p></li>
+<li><p>For the in-class parts, one piece of <strong>letter size</strong> cheat sheet is allowed. It has to be turned-in with your exam.</p></li>
+<li><p>For the take-home parts, you are allowed to use GenAI tools. However, you <strong>must carefully cite it or reveal your use of AI.</strong> See <a href="#sec-genai" class="quarto-xref">Section&nbsp;8</a> for more details.</p></li>
+<li><p>Please go to <strong>Assessments &gt; Dropbox</strong> to submit your take-home exam in <strong>PDF</strong> format.</p></li>
+<li><p>Exam 1 covers <strong>Week 1 to 6</strong>. Exam 2 covers <strong>Week 7 to 11</strong>. In-class final exam is comprehensive and covers <strong>all course materials</strong>.</p></li>
+<li><p><strong>No make-up exams</strong> for any reason unless you got an <a href="https://bulletin.marquette.edu/policies/attendance/undergraduate/">excused absence</a></p></li>
+<li><p>If you miss an midterm exam due to an excused absence defined in <a href="https://bulletin.marquette.edu/policies/attendance/undergraduate/">Attendance in Academic Regulations</a>, the 150 pts will be added to your prorated final exam pts, i.e., (150 + 150 = 300) pts. If you miss two midterm exams, only one exam pts can be added to the final exam. You get 0 pt for the other.</p></li>
+</ul></section><section id="ai-project" class="level3"><h3 class="anchored" data-anchor-id="ai-project">AI Project</h3>
+<ul>
+<li><p>There will be one (or two?) project released around Week 13.</p></li>
+<li><p>You have to use GenAI to self learn a topic that is not covered in my lectures, and generate a data analysis report.</p></li>
+<li><p>The project topic will also be tested in the final exam.</p></li>
+<li><p>You <strong>must carefully cite your GenAI tool or reveal your use of AI.</strong> See <a href="#sec-genai" class="quarto-xref">Section&nbsp;8</a> for more details.</p></li>
+</ul></section><section id="class-participation" class="level3"><h3 class="anchored" data-anchor-id="class-participation">Class Participation</h3>
+<ul>
+<li><p>I will randomly take attendance throughout the semester.</p></li>
+<li><p>If you are absent on a day when attendance is taken once (twice), 15 (25) points will be deducted from your grade unless you have <a href="https://bulletin.marquette.edu/policies/attendance/undergraduate/">excused absences</a>.</p></li>
+</ul></section></section><section id="sec-genai" class="level2"><h2 class="anchored" data-anchor-id="sec-genai">Generative Artificial Intelligence (GenAI) Policy</h2>
+<ul>
+<li><p><em>You are responsible for the content of all work submitted for this course.</em></p></li>
+<li><p>For your homework, take-home exams, and project, you are allowed to use generative AI tools such as ChatGPT to generate a draft of text of your work.</p></li>
+<li>
+<p>To avoid any academic integrity issue, you <strong>must cite your AI usage, or screenshot your entire AI usage history</strong>. Check the followings on how to cite it.</p>
+<ul>
+<li><a href="https://apastyle.apa.org/blog/how-to-cite-chatgpt">How to cite ChatGPT</a></li>
+<li><a href="https://guides.lib.purdue.edu/c.php?g=1371380&amp;p=10135074">How to Cite AI-Generated Content</a></li>
+</ul>
+</li>
+<li>
+<p>If you use GenAI, please include the followings in your submitted work:</p>
+<ul>
+<li><strong>Why/How I used AI (prompts or questions)</strong></li>
+<li><strong>Generated output (screenshot or copy-paste excerpt)</strong></li>
+<li><strong>How I used the output</strong></li>
+</ul>
+</li>
+</ul>
+<p>Here is an example.</p>
+<ul>
+<li>
+<strong>Why/How I used AI (prompts and questions)</strong>
+<ul>
+<li><em>I asked ChatGPT to generate a histogram using R.</em></li>
+</ul>
+</li>
+<li><strong>Generated output (screenshot or copy-paste excerpt)</strong></li>
+</ul>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/genai_screenshot.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="841"></p>
+</figure>
+</div>
+</div>
+</div>
+<ul>
+<li>
+<strong>How I used the output</strong>
+<ul>
+<li><em>I reviewed the suggestions, but I did not use the exact code. Instead, I change the code format and breaks value to 50.</em></li>
+</ul>
+</li>
+</ul></section><section id="academic-integrity" class="level2"><h2 class="anchored" data-anchor-id="academic-integrity">Academic Integrity</h2>
+<ul>
+<li>Watch the video below to learn the importance of using GenAI properly.</li>
+</ul>
+<!-- Replace host and id with yours --><div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+  <iframe src="https://marquette.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36be65f1-ba4f-457d-bad3-b1b8013b9448&amp;start=0.5" title="GenAI and Academic Integrity" style="position:absolute; top:0; left:0; width:100%; height:90%; border:0;" allow="encrypted-media; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<ul>
+<li><p>This course expects all students to follow University and College statements on <a href="https://bulletin.marquette.edu/policies/academic-integrity/">academic integrity</a>.</p></li>
+<li><p><strong>Honor Pledge and Honor Code</strong>: <em>I recognize the importance of personal integrity in all aspects of life and work. I commit myself to truthfulness, honor, and responsibility, by which I earn the respect of others. I support the development of good character, and commit myself to uphold the highest standards of academic integrity as an important aspect of personal integrity. My commitment obliges me to conduct myself according to the Marquette University Honor Code</em>.</p></li>
+</ul></section><section id="accommodation" class="level2"><h2 class="anchored" data-anchor-id="accommodation">Accommodation</h2>
+<p>If you need to request accommodations, or modify existing accommodations that address disability-related needs, please contact <a href="https://www.marquette.edu/disability-services/">Disability Service</a>.</p>
+</section><section id="important-dates" class="level2"><h2 class="anchored" data-anchor-id="important-dates">Important dates</h2>
+<ul>
+<li>
+<strong>Sep 1:</strong> Labor day</li>
+<li>
+<strong>Sep 2:</strong> Last day to add/swap/drop</li>
+<li>
+<strong>Oct 6:</strong> In-class Exam 1</li>
+<li>
+<strong>Oct 16-17:</strong> Midterm break</li>
+<li>
+<strong>Oct 21:</strong> Midterm grade submission</li>
+<li>
+<strong>Nov 10:</strong> In-class Exam 2</li>
+<li>
+<strong>Nov 14:</strong> Withdrawal deadline</li>
+<li>
+<strong>Nov 26 - 30:</strong> Thanksgiving break</li>
+<li>
+<strong>Dec 6</strong>: Last day of class</li>
+<li>
+<strong>Dec 10</strong>: In-class Final Exam (Sec 101 class time 2 PM)</li>
+<li>
+<strong>Dec 12</strong>: In-class Final Exam (Sec 102 class time 3:30 PM)</li>
+<li>
+<strong>Dec 16</strong>: Final grade submission</li>
+</ul>
+<p>Click <a href="https://www.marquette.edu/central/registrar/2025-fall-academic-calendar.php">here</a> for the full Marquette academic calendar.</p>
 
 
-
-</main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
+</section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
     if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -1143,13 +1061,13 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script><nav class="page-navigation"><div class="nav-page nav-page-previous">
-      <a href="./course-overview.html" class="pagination-link" aria-label="Overview">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Overview</span>
+      <a href="./index.html" class="pagination-link" aria-label="Schedule">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Schedule</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./course-syllabus.html" class="pagination-link" aria-label="Syllabus">
-        <span class="nav-page-text">Syllabus</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./course-hours.html" class="pagination-link" aria-label="Help Desk Hours">
+        <span class="nav-page-text">Help Desk Hours</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1160,7 +1078,7 @@ ul.task-list li input[type="checkbox"] {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/course-syllabus.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
