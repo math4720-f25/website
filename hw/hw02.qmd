@@ -97,13 +97,11 @@ rings <- c(FALSE, FALSE, FALSE, FALSE, TRUE, TRUE, TRUE, TRUE)
     <!-- (e) Use the function `plot()` to create a scatter plot of displacement (`disp`) vs. miles per gallon (`mpg`). As the displacement increases, the miles per gallon tends to increase or decrease? -->
     <!-- (f) Compute the mean, median and standard deviation of the miles per gallon (`mpg`). -->
 
-To save your figures, in RStudio you go to tab **Plots > Export > Save as Image > choose Image format (PNG is good), choose where the image is saved (Directory), type the File name, decide Width and Height > Click Save**.
-
-To download an image file to your local computer, select the file, go to **More > Export > Download**.
+To save your figures, in RStudio you go to tab **Plots > Export > Save as Image > choose Image format (PNG is good), choose where the image is saved (Directory), type the File name, decide Width and Height > Click Save**. To download an image file to your local computer, select the file, go to **More > Export > Download**. You could take screenshots of plots or code to show your work too.
 
 <br>
 
-(@) **(MSSC) R Lists** A **list** in R allows you to gather a variety of objects under one name (that is, the name of the list) in an ordered way. These objects can be matrices, vectors, data frames, even other lists. Alos, it is not required that these objects are related to each other in any way.
+(@) **(MSSC) R Lists Data Structure.** A **list** in R allows you to gather a variety of objects under one name (that is, the name of the list) in an ordered way. These objects can be matrices, vectors, data frames, even other lists. Alos, it is not required that these objects are related to each other in any way.
     (a) Use command  `list()` to create a list named `employee` of three elements, `name`, `salary`, and `union` with value `"Joe"`, `55000` and `TRUE` respectively. Print `employee`.
     (b) Construct a list, named `my_list` that contains 3 list components: `days_vec`, `planets_df`, and `employee`. Print the structure of `my_list`.  
     (c) What is the difference between `my_list[[1]]` and `my_list[1]`? What is the data type they return?
