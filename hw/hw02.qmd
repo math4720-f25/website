@@ -101,7 +101,7 @@ To save your figures, in RStudio you go to tab **Plots > Export > Save as Image 
 
 <br>
 
-(@) **(MSSC) R Lists Data Structure.** A **list** in R allows you to gather a variety of objects under one name (that is, the name of the list) in an ordered way. These objects can be matrices, vectors, data frames, even other lists. Alos, it is not required that these objects are related to each other in any way.
+(@) **(MSSC) R List Data Structure.** A **list** in R allows you to gather a variety of objects under one name (that is, the name of the list) in an ordered way. These objects can be matrices, vectors, data frames, even other lists. Alos, it is not required that these objects are related to each other in any way.
     (a) Use command  `list()` to create a list named `employee` of three elements, `name`, `salary`, and `union` with value `"Joe"`, `55000` and `TRUE` respectively. Print `employee`.
     (b) Construct a list, named `my_list` that contains 3 list components: `days_vec`, `planets_df`, and `employee`. Print the structure of `my_list`.  
     (c) What is the difference between `my_list[[1]]` and `my_list[1]`? What is the data type they return?
