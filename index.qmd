@@ -17,7 +17,7 @@ format:
 | 2 | Mon, Sep 1 | ***NO CLASS: Labor Day*** |  |  |  |  |  |  |
 |  | Wed, Sep 3 | R Software and Computation | [🖥️ R and RStudio](/slides/03-r-slides.html)<br>[🖥️ data type and structure](/slides/04-programming-slides.html) | [IS Ch 3](https://chenghanyu-introstatsbook.netlify.app/intro-r) | [`r fontawesome::fa("file-code")`](code/03_intro-r.R) (data type and structure) |  |  |  |
 | 3 | Mon, Sep 8 | Summarizing Data: Centrality | [🖥️ data summary](/slides/05-data-discription-slides.html)<br>👉[histogram breaks](ojs/data-hist-ojs.html)<br>👉[data extremes](ojs/data-extremes-ojs.html) | [IS Ch 5 - 6](https://chenghanyu-introstatsbook.netlify.app/data-graphics) | [`r fontawesome::fa("file-code")`](code/04_data-graphics.R) (data graphics) |  |  |  |
-|  | Wed, Sep 10 | Summarizing Data: Variation |  | IS Ch 5 - 6 | [`r fontawesome::fa("file-code")`](code/05_data-numerics.R) (data numerics) | ✍️ HW 2 |  |  |
+|  | Wed, Sep 10 | Summarizing Data: Variation |  | IS Ch 5 - 6 | [`r fontawesome::fa("file-code")`](code/05_data-numerics.R) (data numerics) | ✍️ [HW 2](hw/hw02.html "Basic R, Data Description and Graphics") (due 9/19) |  |  |
 | 4 | Mon, Sep 15 | Probability Fundamentals | 🖥️ | IS Ch 7 - 8 | `r fontawesome::fa("file-code")` |  |  |  |
 |  | Wed, Sep 17 | Random Variables |  | IS Ch 9 |  | ✍️ HW 3 | ✅ Quiz 1 |  |
 | 5 | Mon, Sep 22 | Discrete Probability Distributions | 🖥️ | IS Ch 10 | `r fontawesome::fa("file-code")` |  |  |  |
