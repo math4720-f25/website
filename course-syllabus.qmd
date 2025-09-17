@@ -135,7 +135,7 @@ knitr::kable(grade_dist, longtable = TRUE,
 
 - **No make-up quizzes** unless you got an [excused absence](https://bulletin.marquette.edu/policies/attendance/undergraduate/).
 
-- If you miss a quiz due to an excused absence as defined in [Attendance in Academic Regulations](https://bulletin.marquette.edu/policies/attendance/undergraduate/), the 50 pts will be added to your prorated final exam pts, i.e., (200 + 50 = 250) pts. If you miss more than one quiz, only one quiz pts can be added to the final exam. You get 0 pt for other quizzes.
+- If you miss a quiz due to an excused absence as defined in [Attendance in Academic Regulations](https://bulletin.marquette.edu/policies/attendance/undergraduate/), the 50 pts will be added to your prorated final exam pts, i.e., (150 + 50 = 250) pts. If you miss more than one quiz, only one quiz pts can be added to the final exam. You get 0 pt for other quizzes.
 
 
 ### Exams

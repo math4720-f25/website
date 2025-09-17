@@ -1043,7 +1043,7 @@ $P(\text{understand} \mid \text{passed}) = P(A \mid B) = \frac{P(B \mid A)P(A)}{
 
 ::: {.column width="60%"}
 ```{r}
-knitr::include_graphics("./images/06-probability/bayestree.png")
+knitr::include_graphics("./images/06-probability/bayestree_new.png")
 ```
 :::
 

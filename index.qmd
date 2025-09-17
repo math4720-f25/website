@@ -19,9 +19,9 @@ format:
 | 3 | Mon, Sep 8 | Summarizing Data: Centrality | [🖥️ data summary](/slides/05-data-discription-slides.html)<br>👉[histogram breaks](ojs/data-hist-ojs.html)<br>👉[data extremes](ojs/data-extremes-ojs.html) | [IS Ch 5 - 6](https://chenghanyu-introstatsbook.netlify.app/data-graphics) | [`r fontawesome::fa("file-code")`](code/04_data-graphics.R) (data graphics) |  |  |  |
 |  | Wed, Sep 10 | Summarizing Data: Variation |  | IS Ch 5 - 6 | [`r fontawesome::fa("file-code")`](code/05_data-numerics.R) (data numerics) | ✍️ [HW 2](hw/hw02.html "Basic R, Data Description and Graphics") (due 9/19) |  |  |
 | 4 | Mon, Sep 15 | Probability Fundamentals | [🖥️ probability](/slides/06-probability-slides.html)<br>👉[venn diagram](http://www.stat.ucla.edu/~vlew/stat11/lectures/venn/venn.html) | [IS Ch 7 - 8](https://chenghanyu-introstatsbook.netlify.app/prob-define) |  |  |  |  |
-|  | Wed, Sep 17 | Bayes Formula and Random Variables |  | IS Ch 9 |  | ✍️ HW 3 | ✅ Quiz 1 |  |
-| 5 | Mon, Sep 22 | Discrete Probability Distributions | 🖥️ <br>👉binomial<br>👉poisson | IS Ch 10 | `r fontawesome::fa("file-code")` |  |  |  |
-|  | Wed, Sep 24 | Continuous Probability Distributions | 👉normal | IS Ch 11 |  | ✍️ HW 4 |  |  |
+|  | Wed, Sep 17 | Conditional Probability, Independence, Bayes Formula |  | [IS Ch 9](https://chenghanyu-introstatsbook.netlify.app/prob-rv) |  | ✍️ HW 3 | ✅ Quiz 1 |  |
+| 5 | Mon, Sep 22 | Random Variables, Discrete Probability Distributions | 🖥️ distribution <br>👉binomial<br>👉poisson | [IS Ch 10](https://chenghanyu-introstatsbook.netlify.app/prob-disc) | `r fontawesome::fa("file-code")` |  |  |  |
+|  | Wed, Sep 24 | Continuous Probability Distributions | 👉normal | [IS Ch 11](https://chenghanyu-introstatsbook.netlify.app/prob-cont) | `r fontawesome::fa("file-code")` | ✍️ HW 4 |  |  |
 | 6 | Mon, Sep 29 | Sampling Distributions | 🖥️ | IS Ch 12 | `r fontawesome::fa("file-code")` |  |  |  |
 |  | Wed, Oct 1 | Central Limit Theorem |  | IS Ch 13 |  |  | ✅ Quiz 2 |  |
 | 7 | Mon, Oct 6 | **In-class Exam 1** |  |  |  |  |  |  |
