@@ -23,7 +23,7 @@ format:
 | 5 | Mon, Sep 22 | Random Variables, Discrete Probability Distributions | 🖥️ distribution <br>👉binomial<br>👉poisson | [IS Ch 10](https://chenghanyu-introstatsbook.netlify.app/prob-disc) | `r fontawesome::fa("file-code")` |  |  |  |
 |  | Wed, Sep 24 | Continuous Probability Distributions | 👉normal | [IS Ch 11](https://chenghanyu-introstatsbook.netlify.app/prob-cont) | `r fontawesome::fa("file-code")` | ✍️ HW 4 |  |  |
 | 6 | Mon, Sep 29 | Sampling Distributions | 🖥️ | IS Ch 12 | `r fontawesome::fa("file-code")` |  |  |  |
-|  | Wed, Oct 1 | Central Limit Theorem |  | IS Ch 13 |  |  | ✅ Quiz 2 |  |
+|  | Wed, Oct 1 | Central Limit Theorem (CLT) | 👉CLT | IS Ch 13 |  |  | ✅ Quiz 2 |  |
 | 7 | Mon, Oct 6 | **In-class Exam 1** |  |  |  |  |  |  |
 |  | Wed, Oct 8 | Inference about Population Means: Confidence Intervals | 🖥️ | IS Ch 14 | `r fontawesome::fa("file-code")` |  |  |  |
 | 8 | Mon, Oct 13 | Inference about Population Means: Hypothesis Testing | 🖥️ | IS Ch 16 | `r fontawesome::fa("file-code")` |  |  |  |
