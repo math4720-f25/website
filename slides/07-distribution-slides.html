@@ -315,7 +315,10 @@ Dr.&nbsp;Cheng-Han Yu <br> Department of Mathematical and Statistical Sciences <
 <li><p>The display can be a <em>table</em>, <em>graph</em>, or <em>mathematical formula</em> of <span class="math inline">\(P(X = x)\)</span>.</p></li>
 </ul>
 <div class="fragment">
-<p><span style="color:blue"> <strong>Example:</strong> 🪙🪙 Toss a fair coin twice <em>independently</em> and <span class="math inline">\(X\)</span> is the number of heads. </span> - The probability distribution of <span class="math inline">\(X\)</span> as a table is</p>
+<p><span style="color:blue"> <strong>Example:</strong> 🪙🪙 Toss a fair coin twice <em>independently</em> and <span class="math inline">\(X\)</span> is the number of heads. </span></p>
+<ul>
+<li>The probability distribution of <span class="math inline">\(X\)</span> as a table is</li>
+</ul>
 <div class="cell" data-layout-align="center">
 <div class="cell-output-display">
 <table class="caption-top"><tbody>
@@ -1225,11 +1228,11 @@ Dr.&nbsp;Cheng-Han Yu <br> Department of Mathematical and Statistical Sciences <
 </li>
 <li><p><span style="color:red"> Step 2: Draw a picture</span></p></li>
 </ul>
-
-<img data-src="07-distribution_files/figure-revealjs/unnamed-chunk-28-1.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"><div class="alert">
+<div class="alert">
 <p><strong>Find a <span class="math inline">\(x\)</span> value of the normal distribution, not an area (probability), which is 0.95.</strong></p>
 </div>
-</section><section id="sat-example-contd-2" class="slide level2"><h2>SAT Example Cont’d</h2>
+
+<img data-src="07-distribution_files/figure-revealjs/unnamed-chunk-28-1.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section><section id="sat-example-contd-2" class="slide level2"><h2>SAT Example Cont’d</h2>
 <ul>
 <li>
 <span style="color:red"> Step 3: Find <span class="math inline">\(z\)</span>-score s.t. <span class="math inline">\(P(Z &lt; z) = 0.95\)</span> using <code><a href="https://rdrr.io/r/stats/Normal.html">qnorm()</a></code></span>:</li>
@@ -1264,31 +1267,21 @@ Dr.&nbsp;Cheng-Han Yu <br> Department of Mathematical and Statistical Sciences <
 <pre><code>[1] 1429</code></pre>
 </div>
 </div>
+<!-- ## Finding Probabilties -->
+<!-- 👉 **Draw and label the normal curve and shade the area of interest.** -->
+<!-- - 👉 **Less than** -->
+<!--   + $\small P(X < x) = P(Z < z)$ -->
+<!--   + `pnorm(z)` -->
+<!--   + `pnorm(x, mean = mu, sd = sigma)` -->
+<!-- - 👉 **Greater than** -->
+<!--   + $\small P(X > x) = P(Z > z) = 1 - P(Z \le z)$ -->
+<!--   + `1 - pnorm(z)` -->
+<!-- ::: alert -->
+<!-- - 👉 Standardization is not a must.  -->
+<!-- - 👉 We have to specify the mean and SD of the original distribution of $X$, like `pnorm(x, mean = mu, sd = sigma)`. -->
+<!-- ::: -->
 </div>
 </section><section id="finding-probabilties" class="slide level2"><h2>Finding Probabilties</h2>
-<p>👉 <strong>Draw and label the normal curve and shade the area of interest.</strong></p>
-<ul>
-<li>👉 <strong>Less than</strong>
-<ul>
-<li><span class="math inline">\(\small P(X &lt; x) = P(Z &lt; z)\)</span></li>
-<li><code>pnorm(z)</code></li>
-<li><code>pnorm(x, mean = mu, sd = sigma)</code></li>
-</ul>
-</li>
-<li>👉 <strong>Greater than</strong>
-<ul>
-<li><span class="math inline">\(\small P(X &gt; x) = P(Z &gt; z) = 1 - P(Z \le z)\)</span></li>
-<li><code>1 - pnorm(z)</code></li>
-</ul>
-</li>
-</ul>
-<div class="alert">
-<ul>
-<li>👉 Standardization is not a must.</li>
-<li>👉 We have to specify the mean and SD of the original distribution of <span class="math inline">\(X\)</span>, like <code>pnorm(x, mean = mu, sd = sigma)</code>.</li>
-</ul>
-</div>
-</section><section id="finding-probabilties-1" class="slide level2"><h2>Finding Probabilties</h2>
 <p>👉 <strong>Draw and label the normal curve and shade the area of interest.</strong></p>
 <ul>
 <li>👉 <strong>Less than</strong>
@@ -1311,80 +1304,7 @@ Dr.&nbsp;Cheng-Han Yu <br> Department of Mathematical and Statistical Sciences <
 <li><p>👉 We have to specify the mean and SD of the original distribution of <span class="math inline">\(X\)</span>, like <code>pnorm(x, mean = mu, sd = sigma)</code>.</p></li>
 </ul>
 </div>
-</section><section id="finding-probabilties-2" class="slide level2"><h2>Finding Probabilties</h2>
-<ul>
-<li>👉 <strong>Between two numbers</strong>
-<ul>
-<li><span class="math inline">\(\small P(a &lt; X &lt; b) = P(z_a &lt; Z &lt; z_b) = P(Z &lt; z_b) - P(Z &lt; z_a)\)</span></li>
-<li><code>pnorm(z_b) - pnorm(z_a)</code></li>
-</ul>
-</li>
-<li>👉 <strong>Outside of two numbers</strong> <span class="math inline">\((a &lt; b)\)</span> <span class="math display">\[\small \begin{align} P(X &lt; a \text{ or } X &gt; b) &amp;= P(Z &lt; z_a \text{ or } Z &gt; z_b) \\ &amp;= P(Z &lt; z_a) + P(Z &gt; z_b) \\ &amp;= P(Z &lt; z_a) + 1 - P(Z &lt; z_b) \end{align}\]</span>
-<ul>
-<li><code>pnorm(z_a) + 1 - pnorm(z_b)</code></li>
-<li><code>pnorm(z_a) + pnorm(z_b, lower.tail = FALSE)</code></li>
-</ul>
-</li>
-</ul>
-<div class="alert">
-<ul>
-<li><p>👉 Any probability can be computed using the <em>“less than”</em> form (<em>lower</em> or <em>left</em> tail).</p></li>
-<li><p>👉 If the calculation involves the “greater than” form, add <code>lower.tail = FALSE</code> in <code><a href="https://rdrr.io/r/stats/Normal.html">pnorm()</a></code>.</p></li>
-</ul>
-</div>
-</section><section id="checking-normality-normal-quantile-plot" class="slide level2"><h2>Checking Normality: Normal Quantile Plot</h2>
-<ul>
-<li><p>Many statistical methods assume variables are normally distributed.</p></li>
-<li><p>Testing the appropriateness of the normal assumption is a key step.</p></li>
-<li>
-<p>A <strong>normal quantile plot (normal probability plot)</strong> or a <strong>Quantile-Quantile plot (QQ plot)</strong> helps us check normality assumption.</p>
-<ul>
-<li>
-<span class="math inline">\(X\)</span>-axis: Quantiles of the <em>ordered</em> data if the data were normally distributed.</li>
-<li>
-<span class="math inline">\(Y\)</span>-axis: <em>Ordered</em> data values</li>
-</ul>
-</li>
-<li><p>If the data are like normally distributed, the points on the QQ plot will lie close to a <strong>straight line</strong>.</p></li>
-</ul>
-<aside class="notes"><ul>
-<li>Many statistical methods assume variables are normally distributed.</li>
-<li>Testing the appropriateness of the normal assumption is a key step in many data analyses.</li>
-<li>A <strong>normal quantile plot (normal probability plot)</strong> or a <strong>Quantile-Quantile plot (QQ plot)</strong> consists of a plot of the <strong>ordered data</strong> on the Y-axis and the <span class="math inline">\(z\)</span>-scores associated with order of the observations on the X-axis.</li>
-<li>If the distribution of the data is close to a normal distribution, the plotted points on the QQ plot will lie close to a <strong>straight line</strong>.</li>
-</ul><style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside></section><section id="qq-plot-in-r" class="slide level2"><h2>QQ plot in R</h2>
-<div class="cell" data-layout-align="center">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb29"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/stats/qqnorm.html">qqnorm</a></span><span class="op">(</span><span class="va">normal_sample</span>, main <span class="op">=</span> <span class="st">"Normal data"</span>, col <span class="op">=</span> <span class="fl">4</span><span class="op">)</span></span>
-<span><span class="fu"><a href="https://rdrr.io/r/stats/qqnorm.html">qqline</a></span><span class="op">(</span><span class="va">normal_sample</span><span class="op">)</span></span>
-<span><span class="fu"><a href="https://rdrr.io/r/stats/qqnorm.html">qqnorm</a></span><span class="op">(</span><span class="va">right_skewed_sample</span>, main <span class="op">=</span> <span class="st">"Right-skewed data"</span>, col <span class="op">=</span> <span class="fl">6</span><span class="op">)</span></span>
-<span><span class="fu"><a href="https://rdrr.io/r/stats/qqnorm.html">qqline</a></span><span class="op">(</span><span class="va">right_skewed_sample</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-
-</div>
-
-
-<img data-src="07-distribution_files/figure-revealjs/unnamed-chunk-32-1.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"><script type="ojs-module-contents">
-eyJjb250ZW50cyI6W119
-</script><div id="exercise-loading-indicator" class="exercise-loading-indicator d-none d-flex align-items-center gap-2">
-<div id="exercise-loading-status" class="d-flex gap-2">
-
-</div>
-<div class="spinner-grow spinner-grow-sm">
-
-</div>
-</div>
-<script type="vfs-file">
-W10=
-</script></section></section>
+</section></section>
 </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Marquette_Golden_Eagles_logo.svg" class="slide-logo"></p>
