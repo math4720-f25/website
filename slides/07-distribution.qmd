@@ -150,6 +150,7 @@ include_graphics("./images/07-distribution/common_dist.png")
 . . .
 
 <span style="color:blue"> **Example:** 🪙🪙 Toss a fair coin twice *independently* and $X$ is the number of heads. </span>
+
 - The probability distribution of $X$ as a table is 
 
 ```{r}
@@ -185,12 +186,13 @@ How do we get $P(X = 0)$, $P(X=1)$ and $P(X=2)$ ?
 ```{r}
 #| out-width: 100%
 #| fig-asp: 0.4
-par(mar = c(3.8, 3.8, 0, 0))
+par(mar = c(3.8, 6, 0, 0), mgp = c(3, 1, 0))
 plot(c("0", "1", "2"), c(0.25, 0.5, 0.25), type = "h", ylim = c(0, 0.75),
-     lwd = 5, col = "#003366", ylab = "P(X = x)", xlab = "x", las = 1, axes = F)
+     lwd = 5, col = "#003366", ylab = "P(X = x)", xlab = "x", 
+     las = 1, axes = F, cex.lab = 1.5)
 points(c("0", "1", "2"), c(0.25, 0.5, 0.25), pch = 16, cex = 2, col = "#FFCC00")
-axis(1, 0:2, c("0", "1", "2"), col.axis = "black")
-axis(2, seq(0, 0.75, by = 0.25), col.axis = "black", las = 2)
+axis(1, 0:2, c("0", "1", "2"), col.axis = "black", cex.axis = 1.5)
+axis(2, seq(0, 0.75, by = 0.25), col.axis = "black", las = 2, cex.axis = 1.5)
 ```
 
 - $0 \le P(X = x) \le 1$ for every value $x$ of $X$.
@@ -710,13 +712,13 @@ $$\small f(x) = \frac{1}{\sqrt{2\pi}\sigma}e^{\frac{-(x-\mu)^2}{2\sigma^2}}, \qu
 
 ```{r}
 par(mfrow = c(1, 1))
-par(mar = c(1.8, 0, 1.2, 0), mgp = c(0.5, 0.2, 0), las = 1)
+par(mar = c(1.8, 0, 1.8, 0), mgp = c(0.5, 0.5, 0), las = 1)
 mean=100; sd=15
 # lb=80; ub=120
 x <- seq(-4,4,length=100)*sd + mean
 hx <- dnorm(x,mean,sd)
-plot(x, hx, type="n", xlab="x", ylab="",
-  main=expression(N(100, 15^2)), axes=FALSE)
+plot(x, hx, type="n", xlab="x", ylab="", cex.lab = 1.5,
+  main=expression(N(100, 15^2)), axes=FALSE, cex.main = 1.5)
 # i <- x >= lb & x <= ub
 lines(x, hx, col = "#003366", lwd = 3)
 # polygon(c(lb,x[i],ub), c(0,hx[i],0), col="red")
@@ -724,7 +726,7 @@ lines(x, hx, col = "#003366", lwd = 3)
 # result <- paste("P(",lb,"< IQ <",ub,") =",
 #    signif(area, digits=3))
 # mtext(result,3)
-axis(1, at=seq(40, 160, 20), pos=0, tick = -0.005)
+axis(1, at=seq(40, 160, 20), pos=0, tick = -0.005, cex.axis = 1.5)
 ```
 
 
@@ -737,7 +739,7 @@ x <- seq(-4,4,length=100)*sd + mean
 hx <- dnorm(x,mean,sd)
 par(mar = c(2.5, 0, 2, 0), mgp = c(0.5, 0.5, 0))
 plot(x, hx, type="n", xlab="x", ylab="", xlim = c(-30, 160), bty = "n",
-     main="normal densities", yaxt = "n", xaxt = "n")
+     main="Normal Densities", yaxt = "n", xaxt = "n")
 axis(1, at=seq(-30, 160, 20), pos=0, tick = -0.005)
 lines(x, hx, col = "#003366", lwd = 3)
 mean=100; sd=15
@@ -751,7 +753,7 @@ lines(x, hx, col = 2, lwd = 3)
 legend("topright", c(expression(N(100, 10^2)), 
                      expression(N(100, 15^2)), 
                      expression(N(20, 10^2))), 
-       col = c("#003366", "#FFCC00", 2), lwd = 3, bty = "n")
+       col = c("#003366", "#FFCC00", 2), lwd = 3, bty = "n", cex = 1.5)
 ```
 
 
@@ -834,7 +836,7 @@ $$z = \frac{x - \mu}{\sigma}$$
 #| out-width: 56%
 #| fig-asp: 0.3
 mean = 3; sd = 2
-par(mar = c(2, 0, 1, 0), mgp = c(0.5, 0.2, 0), las = 1)
+par(mar = c(2, 0, 1, 0), mgp = c(0.6, 0.3, 0), las = 1)
 x <- seq(-6, 9, length = 100)
 # z <- seq(-3, 13, length = 100)
 hx <- dnorm(x, mean, sd)
@@ -847,7 +849,7 @@ axis(1, at = seq(-3, 9, 1), pos=0)
 # abline(v = c(0, 3))
 segments(x0 = 0, y0 = 0, y1 = dnorm(0, 0, sd), col = "blue", lwd = 2)
 segments(x0 = mean, y0 = 0, y1 = dnorm(mean, mean, sd), col = "#003366", lwd = 2)
-arrows(x0 = 3, y0 = 0.1, x1 = 0, col = "darkgray", lwd = 2)
+arrows(x0 = 3, y0 = 0.1, x1 = 0, col = "#FFCC00", lwd = 5)
 ```
 
 . . .
@@ -857,7 +859,7 @@ arrows(x0 = 3, y0 = 0.1, x1 = 0, col = "darkgray", lwd = 2)
 ```{r}
 #| out-width: 56%
 #| fig-asp: 0.3
-par(mar = c(2, 0, 1, 0), mgp = c(0.5, 0.2, 0), las = 1)
+par(mar = c(2, 0, 1, 0), mgp = c(0.6, 0.3, 0), las = 1)
 x <- seq(-6, 9, length = 100)
 # z <- seq(-3, 13, length = 100)
 hx <- dnorm(x, 0, sd)
@@ -868,8 +870,8 @@ lines(x, hz, col = "red", lwd = 4)
 lines(x, hx, col = "blue", lwd = 4)
 axis(1, at = seq(-3, 9, 1), pos=0)
 segments(x0 = 0, y0 = 0, y1 = dnorm(0, 0, 1), col = "red", lwd = 2)
-arrows(x0 = 3, y0 = 0.05, x1 = 2, col = "darkgray", lwd = 2)
-arrows(x0 = 0.5, y0 = dnorm(0, 0, 2), x1 = 0.5, y1 = dnorm(0, 0, 1), col = "darkgray", lwd = 2)
+arrows(x0 = 3, y0 = 0.05, x1 = 2, col = "#FFCC00", lwd = 5)
+arrows(x0 = 0.5, y0 = dnorm(0, 0, 2), x1 = 0.5, y1 = dnorm(0, 0, 1), col = "#FFCC00", lwd = 5)
 ```
 
 
@@ -893,7 +895,7 @@ segments(x0 = 3, y0 = 0, y1 = 5*dnorm(3, 0, 1), col = 4, lwd = 1, lty = 2)
 segments(x0 = -1, y0 = 0, y1 = dnorm(-1, 0, 1), col = 4, lwd = 1, lty = 2)
 segments(x0 = -2, y0 = 0, y1 = dnorm(-2, 0, 1), col = 4, lwd = 1, lty = 2)
 segments(x0 = -3, y0 = 0, y1 = 5*dnorm(-3, 0, 1), col = 4, lwd = 1, lty = 2)
-axis(1, at = seq(-3, 3, 1), pos=0, line = 1)
+axis(1, at = seq(-3, 3, 1), pos=0, line = 1, cex.axis = 1.5)
 labels <- expression(mu - 3 * sigma,
                      mu - 2 * sigma,
                      mu - sigma,
@@ -901,7 +903,7 @@ labels <- expression(mu - 3 * sigma,
                      mu + sigma,
                      mu + 2 * sigma,
                      mu + 3 * sigma)
-axis(1, at = seq(-3, 3, 1), labels, tick = 0.01, line = 2)
+axis(1, at = seq(-3, 3, 1), labels, tick = 0.01, line = 2, cex.axis = 1.5)
 ```
 
 
@@ -1135,14 +1137,16 @@ lines(c(11.5, 12.5), c(0.21, 0.21), lwd = 3)
   
 - <span style="color:red"> Step 2: Draw a picture
 
+::: alert
+**Find a $x$ value of the normal distribution, not an area (probability), which is 0.95.**
+:::
+
 ```{r}
 par(mfrow = c(1, 1), las = 1, mar = c(1.8, 0, 0, 0), mgp = c(0.5, 0.5, 0))
 normTail(m = 1100, s = 200, L = qnorm(0.95, 1100, 200), col = 4, cex.axis = 1.3)
 ```
 
-::: alert
-**Find a $x$ value of the normal distribution, not an area (probability), which is 0.95.**
-:::
+
 
 
 ## SAT Example Cont'd
@@ -1172,23 +1176,23 @@ qnorm(p = 0.95, mean = 1100, sd = 200)
 ```
 
 
-## Finding Probabilties
+<!-- ## Finding Probabilties -->
 
-`r emo::ji('point_right')` **Draw and label the normal curve and shade the area of interest.**
+<!-- `r emo::ji('point_right')` **Draw and label the normal curve and shade the area of interest.** -->
 
-- `r emo::ji('point_right')` **Less than**
-  + $\small P(X < x) = P(Z < z)$
-  + `pnorm(z)`
-  + `pnorm(x, mean = mu, sd = sigma)`
+<!-- - `r emo::ji('point_right')` **Less than** -->
+<!--   + $\small P(X < x) = P(Z < z)$ -->
+<!--   + `pnorm(z)` -->
+<!--   + `pnorm(x, mean = mu, sd = sigma)` -->
 
-- `r emo::ji('point_right')` **Greater than**
-  + $\small P(X > x) = P(Z > z) = 1 - P(Z \le z)$
-  + `1 - pnorm(z)`
+<!-- - `r emo::ji('point_right')` **Greater than** -->
+<!--   + $\small P(X > x) = P(Z > z) = 1 - P(Z \le z)$ -->
+<!--   + `1 - pnorm(z)` -->
 
-::: alert
-- `r emo::ji('point_right')` Standardization is not a must. 
-- `r emo::ji('point_right')` We have to specify the mean and SD of the original distribution of $X$, like `pnorm(x, mean = mu, sd = sigma)`.
-:::
+<!-- ::: alert -->
+<!-- - `r emo::ji('point_right')` Standardization is not a must.  -->
+<!-- - `r emo::ji('point_right')` We have to specify the mean and SD of the original distribution of $X$, like `pnorm(x, mean = mu, sd = sigma)`. -->
+<!-- ::: -->
 
 
 
@@ -1216,7 +1220,7 @@ qnorm(p = 0.95, mean = 1100, sd = 200)
 
 
 
-## Finding Probabilties
+## Finding Probabilties {visibility="hidden"}
 
 - `r emo::ji('point_right')` **Between two numbers**
   + $\small P(a < X < b) = P(z_a < Z < z_b) = P(Z < z_b) - P(Z < z_a)$
@@ -1237,7 +1241,7 @@ $$\small \begin{align} P(X < a \text{ or } X > b) &= P(Z < z_a \text{ or } Z > z
 :::
 
 
-## Checking Normality: Normal Quantile Plot
+## Checking Normality: Normal Quantile Plot {visibility="hidden"}
 
 - Many statistical methods assume variables are normally distributed.
 
@@ -1262,7 +1266,7 @@ $$\small \begin{align} P(X < a \text{ or } X > b) &= P(Z < z_a \text{ or } Z > z
 :::
 
 
-## QQ plot in R
+## QQ plot in R {visibility="hidden"}
 
 ```{r}
 #| echo: !expr c(5, 6, 8, 9)
