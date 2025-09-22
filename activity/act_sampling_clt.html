@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.8.19">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<title>In-class Activity: Match the Scenario to the Distribution – MATH 4720 (MSSC 5720) - Fall 2025</title>
+<title>Activity: Sampling Distribution and Central Limit Theorem – MATH 4720 (MSSC 5720) - Fall 2025</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,9 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-1da5838089477fe5b285348978043904.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark-311c866fdd058187a59d486837a94991.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-1da5838089477fe5b285348978043904.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
-<script src="../site_libs/quarto-contrib/countdown-0.5.0/countdown.js"></script>
-<link href="../site_libs/quarto-contrib/countdown-0.5.0/countdown.css" rel="stylesheet"><script id="quarto-search-options" type="application/json">{
+<link href="../site_libs/bootstrap/bootstrap-1da5838089477fe5b285348978043904.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light"><script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
   "collapse-after": 3,
@@ -67,40 +65,15 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit",
     "search-label": "Search"
   }
-}</script><script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script><script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-<meta property="og:title" content="In-class Activity: Match the Scenario to the Distribution – MATH 4720 (MSSC 5720) - Fall 2025">
+}</script>
+<meta property="og:title" content="Activity: Sampling Distribution and Central Limit Theorem – MATH 4720 (MSSC 5720) - Fall 2025">
 <meta property="og:description" content="Homepage for MATH 4720 (MSSC 5720) - Statistical Methods at Marquette University, Fall 2025.">
-<meta property="og:image" content="https://math4720-f25.github.io/website/images/QRCode_distribution.png">
+<meta property="og:image" content="https://math4720-f25.github.io/website/images/rolling-die.png">
 <meta property="og:site_name" content="MATH 4720 (MSSC 5720) - Fall 2025">
-<meta property="og:image:height" content="1890">
-<meta property="og:image:width" content="1890">
+<meta property="og:image:height" content="924">
+<meta property="og:image:width" content="1740">
 </head>
-<body class="nav-sidebar docked slimcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-sidebar docked quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -269,7 +242,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">In-class Activity: Match the Scenario to the Distribution</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Activity: Sampling Distribution and Central Limit Theorem</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -345,13 +318,12 @@ window.Quarto = {
   <ul>
 <li><a href="#objective" id="toc-objective" class="nav-link active" data-scroll-target="#objective"><strong>Objective</strong></a></li>
   <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a></li>
-  <li><a href="#scenarios" id="toc-scenarios" class="nav-link" data-scroll-target="#scenarios">Scenarios</a></li>
-  <li><a href="#quick-reference-key-features" id="toc-quick-reference-key-features" class="nav-link" data-scroll-target="#quick-reference-key-features">Quick Reference: Key Features</a></li>
-  </ul><div class="toc-actions"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/activity/act_knn.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+  <li><a href="#discussion" id="toc-discussion" class="nav-link" data-scroll-target="#discussion">Discussion</a></li>
+  </ul><div class="toc-actions"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/activity/act_sampling_clt.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
-<h1 class="title">In-class Activity: Match the Scenario to the Distribution</h1>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
+<h1 class="title">Activity: Sampling Distribution and Central Limit Theorem</h1>
 </div>
 
 
@@ -366,129 +338,37 @@ window.Quarto = {
 
 
 </header><section id="objective" class="level2"><h2 class="anchored" data-anchor-id="objective"><strong>Objective</strong></h2>
-<p>You will practice identifying which type of probability distribution (<strong>binomial</strong>, <strong>Poisson</strong>, or <strong>normal</strong>) fits a given real-world context, and explain why.</p>
-</section><section id="instructions" class="level2 page-columns page-full"><h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
+<p>You will experience</p>
+<ul>
+<li>how sample means vary,</li>
+<li>how a sampling distribution of sample mean is created</li>
+<li>how they approximate a normal distribution as sample size increases.</li>
+</ul></section><section id="instructions" class="level2"><h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
 <ol type="1">
-<li><p>Form groups of <strong>three</strong> or <strong>four</strong>.</p></li>
-<li><p>Scan the QR code, or go to <a href="https://forms.office.com/r/eiiVmnu3nq" class="uri">https://forms.office.com/r/eiiVmnu3nq</a> to fill out your names.</p></li>
-<li><p>In the form, read each scenario, choose the most appropriate distribution, or all three distributions may not be appropriate to model the scenario.</p></li>
-<li><p>The group with the most correct answers will get a hex sticker, and share their reasoning!</p></li>
+<li>Go to Dr.&nbsp;Yu’s app <a href="https://cheyu.shinyapps.io/rolling-die/" class="uri">https://cheyu.shinyapps.io/rolling-die/</a>
+</li>
 </ol>
-<div class="cell page-columns page-full">
-
-<div class="no-row-height column-margin column-container"><div class="cell-output-display">
+<div class="cell">
+<div class="cell-output-display">
 <div>
-<figure class="figure"><p><img src="../images/QRCode_distribution.png" class="img-fluid figure-img" width="945"></p>
+<figure class="figure"><p><a href="https://cheyu.shinyapps.io/rolling-die/"><img src="../images/rolling-die.png" class="img-fluid figure-img" width="870"></a></p>
 </figure>
 </div>
-</div></div></div>
-</section><section id="scenarios" class="level2"><h2 class="anchored" data-anchor-id="scenarios">Scenarios</h2>
-<ol class="example" type="1">
-<li><p>A quality inspector checks 20 light bulbs, each having a 5 percent chance of being defective. What distribution models the number of defective bulbs?</p></li>
-<li><p>The number of emails arriving in a professor’s inbox between 2 and 3 pm.</p></li>
-<li><p>The distribution of households income in Wisconsin, USA</p></li>
-<li><p>The heights of adult women in the United States.</p></li>
-<li><p>The number of students who show up to class without doing their homework, out of 30 students.</p></li>
-<li><p>Time between buses arriving at a stop The Commons.</p></li>
-<li><p>The number of cars passing through a toll booth in a 10 minute interval.</p></li>
-<li><p>Students’ letter grades in Dr.&nbsp;Yu’s MATH 4720 class (A, B, C, D, F).</p></li>
-<li><p>The distribution of IQ scores of adults in Milwaukee.</p></li>
-<li><p>Survival time of cancer patients after chemotherapy.</p></li>
-</ol></section><section id="quick-reference-key-features" class="level2"><h2 class="anchored" data-anchor-id="quick-reference-key-features">Quick Reference: Key Features</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
-</colgroup>
-<thead><tr class="header">
-<th>Distribution</th>
-<th>When to use</th>
-<th>Common parameters</th>
-</tr></thead>
-<tbody>
-<tr class="odd">
-<td><strong>Binomial</strong></td>
-<td>Fixed number of trials, two outcomes per trial, constant probability, independent trials</td>
-<td>
-<span class="math inline">\((n)\)</span> number of trials, <span class="math inline">\((\pi)\)</span> probability of success</td>
-</tr>
-<tr class="even">
-<td><strong>Poisson</strong></td>
-<td>Counting events in a fixed interval of time or space, events occur independently at a constant average rate</td>
-<td>
-<span class="math inline">\((\lambda)\)</span> average rate per interval</td>
-</tr>
-<tr class="odd">
-<td><strong>Normal</strong></td>
-<td>Continuous measurements that are symmetric around a center with bell shape</td>
-<td>
-<span class="math inline">\((\mu)\)</span> mean, <span class="math inline">\((\sigma)\)</span> standard deviation</td>
-</tr>
-</tbody>
-</table>
-<div id="timer_4f592b251333b512d4ed13b374c61e0bdd4bda3f" class="countdown" data-warn-when="0" data-update-every="1" data-play-sound="false" data-blink-colon="false" data-start-immediately="false" tabindex="0" style="right: 0;bottom: 0;">
-  <div class="countdown-controls">
-    <button class="countdown-bump-down">−</button>
-    <button class="countdown-bump-up">+</button>
- </div>
- <code class="countdown-time"><span class="countdown-digits minutes">10</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
- </div>
-<!-- ## Mini Check for Understanding -->
-<!-- Choose the best fitting distribution for each prompt. You can use the checkboxes and compare with the answer key at the end. -->
-<!-- **A.** Number of free throws made by a player out of 10 attempts.   -->
-<!-- - [ ] Binomial   -->
-<!-- - [ ] Poisson   -->
-<!-- - [ ] Normal   -->
-<!-- **B.** The time between arrivals of buses at a stop.   -->
-<!-- - [ ] Binomial   -->
-<!-- - [ ] Poisson   -->
-<!-- - [ ] Normal   -->
-<!-- **C.** Weights of pumpkins at a county fair.   -->
-<!-- - [ ] Binomial   -->
-<!-- - [ ] Poisson   -->
-<!-- - [ ] Normal   -->
-<!-- ::: callout-note -->
-<!-- **Tip:** If you are counting successes out of a fixed number of trials with the same probability each time, think **Binomial**. If you are counting how many events occur in a fixed interval, think **Poisson**. If you are measuring a continuous trait with a bell shaped distribution, think **Normal**. -->
-<!-- ::: -->
-<!-- ## Debrief Prompts -->
-<!-- - What features in a scenario tell you that the number of trials is fixed and the probability is constant -->
-<!-- - What keywords suggest a count per interval -->
-<!-- - When would a Binomial scenario be approximated by a Normal distribution -->
-<!-- ## Answer Key -->
-<!-- <details> -->
-<!-- <summary>Reveal suggested answers</summary> -->
-<!-- **Scenarios:**   -->
-<!-- 1. **Binomial**. Fixed number of bulbs and each is defective or not with the same probability.   -->
-<!-- 2. **Poisson**. Count of arrivals in a fixed time interval.   -->
-<!-- 3. **Normal**. Heights are often modeled as approximately normal.   -->
-<!-- 4. **Binomial**. Out of 30 students with done or not done as outcomes.   -->
-<!-- 5. **Poisson**. Count of cars per fixed time interval.   -->
-<!-- 6. **Normal**. IQ scores are modeled as normal by design. -->
-<!-- **Mini Check for Understanding:**   -->
-<!-- A. **Binomial**   -->
-<!-- B. Neither Poisson nor Binomial precisely. The time between events is often modeled by the **Exponential** distribution which is related to the Poisson process.   -->
-<!-- C. **Normal**   -->
-<!-- </details> -->
-<!-- ::: {.callout-caution collapse="true"} -->
-<!-- ## For which test data point, the classification result is uncertain or unstable? -->
-<!-- ::: -->
-<!-- ::: {.callout-caution collapse="true"} -->
-<!-- ## Which data point can be labelled as one particular category with 100% certainty, for all different $K$s? -->
-<!-- ::: -->
-<!-- ::: {.callout-caution collapse="true"} -->
-<!-- ## For the blue point, what happened when $K$ increases? Do we change the prediction? What about uncertainty? -->
-<!-- ::: -->
-<!-- ::: {.callout-caution collapse="true"} -->
-<!-- ## If you would like to make a classification rule or set the decision boundary to predict cats or dogs, what would the decision boundary look like? Why? -->
-<!-- ::: -->
-<!-- 1. **Income of households in a country** – Skewed heavily to the right, not symmetric. Better: Lognormal or Pareto.   -->
-<!-- 2. **Time between buses arriving at a stop** – Waiting times are exponential, not Poisson. Better: Exponential distribution.   -->
-<!-- 3. **Grades in a course (A, B, C, D, F)** – Multiple ordered categories, not just two outcomes. Better: Multinomial or ordinal logistic.   -->
-<!-- 4. **Daily stock price changes** – Heavy tails with extreme values. Better: Student’s t or heavy-tailed distributions.   -->
-<!-- 5. **Number of cars a family owns** – Not fixed trials, not symmetric continuous. Better: Geometric or negative binomial.   -->
-<!-- 6. **Survival time of patients after surgery** – Skewed times to event, cannot be negative. Better: Exponential, Weibull, or survival analysis methods. -->
-
+</div>
+</div>
+<ol start="2" type="1">
+<li><p>Roll your die <strong>5</strong> times, records your outcomes in <strong>Enter your die rolls separated by commas or spaces:</strong>, then hit <strong>Submit Rolls</strong>.</p></li>
+<li><p>Check the histogram of sample means. Does it look like a normal distribution?</p></li>
+<li><p>Change 5 to <strong>30</strong> in <strong>Select number of rolls:</strong></p></li>
+<li><p>Roll your die <strong>30</strong> times, records your outcomes in <strong>Enter your die rolls separated by commas or spaces:</strong>, then hit <strong>Submit Rolls</strong>.</p></li>
+<li><p>How does the histogram look compared to the 5-roll sample means?</p></li>
+</ol></section><section id="discussion" class="level2"><h2 class="anchored" data-anchor-id="discussion">Discussion</h2>
+<ul>
+<li><p>What happened to the variability of the sample means as sample size increased?</p></li>
+<li><p>How did the shape of the distribution change?</p></li>
+<li><p>How does this illustrate the Central Limit Theorem?</p></li>
+</ul>
+<!-- Key Takeaways --><!-- Sample means vary from sample to sample. --><!-- As sample size increases, the distribution of sample means: --><!-- Becomes approximately normal, regardless of the population distribution (here, uniform die rolls). --><!-- Has smaller spread (standard error decreases). --><!-- This is the essence of the Central Limit Theorem. -->
 
 </section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -909,7 +789,7 @@ window.Quarto = {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/activity/act_knn.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/activity/act_sampling_clt.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
