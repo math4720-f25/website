@@ -1,10 +1,5 @@
 ---
 title: "Activity: Sampling Distribution and Central Limit Theorem"
-format: html
-execute:
-  echo: true
-  warning: false
-  message: false
 ---
 
 
