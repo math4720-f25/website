@@ -3,6 +3,9 @@ title: "Homework 2"
 subtitle: "Basic R, Data Description and Graphics"
 categories: "Homework"
 editor: source
+execute:
+  echo: false
+  eval: false
 ---
 
 ::: callout-important
@@ -28,6 +31,7 @@ editor: source
 
 
 ```{r}
+#| echo: true
 # ==============================================================================
 ## Vector
 # ==============================================================================
@@ -42,9 +46,20 @@ names(roulette_vec) <- days_vec
     (a) Assign to the variable `total_daily` how much you won or lost on each day in total (poker and roulette combined).
     (b) Calculate the winnings overall `total_week`. Print it out.
 
+```{r}
+## (a)
+total_daily <- poker_vec + roulette_vec
+total_daily
+
+## (b)
+total_week <- sum(total_daily)
+total_week
+```
+
 <br>
 
 ```{r}
+#| echo: true
 # ==============================================================================
 ## Factor
 # ==============================================================================
@@ -56,9 +71,17 @@ speed_vec <- c("medium", "slow", "slow", "medium", "fast")
 (@) **Factor.**
     (a) `speed_vec` above should be converted to an **ordinal** factor since its categories have a natural ordering. Create an ordered factor vector `speed_fac` by completing the code below. Set the argument `ordered` to `TRUE`, and set the argument `levels` to `c("slow", "medium", "fast")`. Print `speed_fac`.
 
+
+```{r}
+## (a)
+(speed_fac <- factor(speed_vec, ordered = TRUE, 
+                    levels = c("slow", "medium", "fast")))
+```
+
 <br>
 
 ```{r}
+#| echo: true
 # ==============================================================================
 ## Data frame
 # ==============================================================================
@@ -81,6 +104,36 @@ rings <- c(FALSE, FALSE, FALSE, FALSE, TRUE, TRUE, TRUE, TRUE)
     (f) Use `$` to select the `rings` variable from `planets_df`.
     (g) Use (f) to select all columns for planets that have rings.
 
+
+```{r}
+## (a)
+planets_df <- data.frame(name, type, diameter, rotation, rings)
+planets_df
+
+## (b)
+str(planets_df)
+# name, type, rings: categorical, nominal
+# diameter, rotation: numerical, ratio, continuous
+
+
+## (c)
+planets_df[1, 3]
+
+## (d)
+planets_df[4, ]
+
+
+## (e)
+planets_df[1:5, "diameter"]
+
+## (f)
+planets_df$rings
+
+## (g)
+planets_df[planets_df$rings, ]
+
+```
+
 <br>   
 
 (@) **Data Description and Graphics.** We use the data set `mtcars` to do data summary and graphics. Type `?mtcars` for the description of the data set.
@@ -97,6 +150,29 @@ rings <- c(FALSE, FALSE, FALSE, FALSE, TRUE, TRUE, TRUE, TRUE)
     <!-- (e) Use the function `plot()` to create a scatter plot of displacement (`disp`) vs. miles per gallon (`mpg`). As the displacement increases, the miles per gallon tends to increase or decrease? -->
     <!-- (f) Compute the mean, median and standard deviation of the miles per gallon (`mpg`). -->
 
+
+```{r}
+## (a)
+## most cars have 8 cylinders
+pie(table(mtcars$cyl))
+## (b)
+## most cars have 3 gears
+barplot(table(mtcars$gear))
+## (c)
+## right-skewed
+hist(mtcars$hp, breaks = 10)
+## (d) 
+## there are two outliers
+boxplot(mtcars$wt)
+## (e)
+## As the displacement increases, the miles per gallon tends to decrease.
+plot(x = mtcars$disp, y = mtcars$mpg)
+## (f)
+mean(mtcars$mpg)
+median(mtcars$mpg)
+sd(mtcars$mpg)
+```
+
 To save your figures, in RStudio you go to tab **Plots > Export > Save as Image > choose Image format (PNG is good), choose where the image is saved (Directory), type the File name, decide Width and Height > Click Save**. To download an image file to your local computer, select the file, go to **More > Export > Download**. You could take screenshots of plots or code to show your work too.
 
 <br>
@@ -106,6 +182,25 @@ To save your figures, in RStudio you go to tab **Plots > Export > Save as Image 
     (b) Construct a list, named `my_list` that contains 3 list components: `days_vec`, `planets_df`, and `employee`. Print the structure of `my_list`.  
     (c) What is the difference between `my_list[[1]]` and `my_list[1]`? What is the data type they return?
     (d) Obtain the salary in `employee` from `my_list` using `$`.
+
+
+```{r}
+## (a)
+employee <- list(name = "Joe", salary = 55000, union = TRUE)
+employee
+## (b)
+my_list <- list(days_vec, planets_df, employee)
+my_list
+## (c)
+## my_list[[1]] returns a vector of type character
+my_list[[1]]
+typeof(my_list[[1]])
+## my_list[1] keeps the list structure with the first element of my_list
+my_list[1]
+typeof(my_list[1])
+## (d)
+my_list[[3]]$salary
+```
 
 <br>
 

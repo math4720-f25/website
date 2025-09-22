@@ -3,6 +3,10 @@ title: "Homework 1"
 subtitle: "Data Collection and Data Type"
 categories: "Homework"
 editor: source
+params:
+  show_sol: true
+execute:
+  echo: true
 ---
 
 ::: callout-important
@@ -22,6 +26,7 @@ editor: source
 - Questions started with **(MSSC)** are *required* for MSSC 5720 students, and optional for MATH 4720 students.
 
 
+
 # Homework Questions
 
 ```{r, echo=FALSE}
@@ -32,6 +37,13 @@ editor: source
     (b) The colors of pills
     (c) The weights of aspirin tablets
 
+```{r}
+  # (a) Categorical
+  # (b) Categorical
+  # (c) Numerical
+```
+
+
 <br>
 
 (@) **Level of Measurements.** Identify the level of measurement used in each of the following.
@@ -39,6 +51,13 @@ editor: source
     (b) A physician's descriptions of "abstains from alcohol, light drinker, moderate drinker, heavy drinker."
     (c) Tree classifications of "oak, maple, elm."
     (d) Bob measures time in days, with 0 corresponding to his birth date. The day before his birth is -1, the day after his birth is +1, and so on. Bib has converted the dates of major historical events to his numbering system. What is the level of measurement of these numbers?
+
+```{r}
+  # (a) Ratio
+  # (b) Ordinal
+  # (c) Nominal
+  # (d) Interval
+```
 
 <br>
 
@@ -51,6 +70,13 @@ editor: source
     (c) From a data set, we see that a female had an arm circumference of 32.49 cm.
     (d) A sample of married couples is randomly selected and the number of children in each family is recorded.
  
+```{r}
+  # (a) Discrete
+  # (b) Continuous
+  # (c) Continuous
+  # (d) Discrete
+```
+
 <br>   
 
 
@@ -62,6 +88,14 @@ editor: source
     (a) Dr. Yu surveys his statistics class by identifying groups of males and females, then randomly selecting 5 students from each of those two groups.
     (b) Dr. Yu conducts a survey by randomly selecting 3 different classes at Marquette and surveying all of the students as they left those classes.
     (c) 532 subjects were randomly assigned to (1) regular exercise or (2) no exercise groups to study the effectiveness of exercise in lowering blood pressure.
+
+
+```{r}
+  # (a) Stratified
+  # (b) Cluster
+  # (c) Random
+```
+
 
 <br>
 
@@ -75,7 +109,12 @@ editor: source
 (@) **Study Type.** Determine whether the study is an experiment or an observational study, then identify a major problem with this study.
     (a) In a survey conducted by *USA Today*, 1072 Internet users chose to respond to the question:"How often do you seek medical information online?" 38% of the respondents said "frequently."
     (b) The Physicians' Health Study involved 22,071 male physicians. Based on random selections, 11,037 of them were treated with aspirin and other other 11,034 were given placebos. The study was stopped early because it became clear that aspirin reduced the risk of myocardial infarctions by a substantial amount.
-    
+
+
+```{r}
+  # (a) Observational: self-reported voluntary sample may not be representative and may be biased. The question is posted in E-newsletter, so the sample is biased from the begining.
+  # (b) Experiment: Male physicians only. Better to include male and female who are not physicians.
+```
 
 <br>
 
@@ -90,6 +129,13 @@ editor: source
 ## OpenIntro 1-15
 knitr::include_graphics("./hw01-fiona.png")
 ```
+
+
+```{r}
+  # (a) Year, number of baby girls named Fiona born in that year, nation. 
+  # (b) Year (numerical, discrete), number of baby girls named Fiona born in that year (numerical, discrete), nation (categorical, nominal).
+```
+
 
 (@) **AI Usage Declaration.** Using GenAI is permitted for this course. If you choose to use GenAI to assist with your homework, you must include a brief statement documenting your use. Please provide the following information:
     (a) **Why/How I Used AI** Why do you need to use GenAI? Which tool did you use? Describe your prompts or questions. What and how did you ask the AI to help you?
