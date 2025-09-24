@@ -4,18 +4,25 @@ title: "Activity: Match the Scenario to the Distribution"
 
 ## **Objective**
 
-You will practice identifying which type of probability distribution (**binomial**, **Poisson**, or **normal**) fits a given real-world context, and explain why.
+You will practice identifying which type of probability distribution (**binomial**, **Poisson**, or **normal**) can approximately fit or describe a given real-world context, and explain why.
 
 
 ## Instructions
 
-(1) Form groups of **three** or **four**.
+(1) Form a group of **three** or **four**.
 
-(2) Scan the QR code, or go to <https://forms.office.com/r/eiiVmnu3nq> to fill out your names.
+(2) Scan the QR code, or go to <https://forms.office.com/r/bprPDtLtbQ> to fill out your names.
 
 (3) In the form, read each scenario, choose the most appropriate distribution, or all three distributions may not be appropriate to model the scenario.
 
-(4) The group with the most correct answers will get a hex sticker, and share their reasoning!
+(4) The first group with the most correct answers will get a hex sticker, and share their reasoning!
+<!-- # ```{r} -->
+<!-- # #| echo: false -->
+<!-- # #| out-width: 10% -->
+<!-- # #| fig-align: left -->
+<!-- # knitr::include_graphics("https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/ggplot2.svg") -->
+<!-- # ``` -->
+
 
 ```{r}
 #| echo: false
@@ -27,11 +34,16 @@ knitr::include_graphics("../images/QRCode_distribution.png")
 
 (@) A quality inspector checks 20 light bulbs, each having a 5 percent chance of being defective. What distribution models the number of defective bulbs?
 
-(@) The number of emails arriving in a professor’s inbox between 2 and 3 pm. 
+(@) The number of emails arriving in Dr. Yu's inbox between 2 and 3 pm. 
 
-(@) The distribution of households income in Wisconsin, USA
+(@) The distribution of households income in 2010 in the USA.
 
-(@) The heights of adult women in the United States.
+```{r}
+#| echo: false
+#| out-width: 80%
+#| fig-align: center
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/0/0d/Distribution_of_Annual_Household_Income_in_the_United_States_2010.png")
+```
 
 (@) The number of students who show up to class without doing their homework, out of 30 students.
 
@@ -39,9 +51,28 @@ knitr::include_graphics("../images/QRCode_distribution.png")
 
 (@) The number of cars passing through a toll booth in a 10 minute interval.
 
+(@) The heights of adult women in the United States.
+
+```{r}
+#| echo: false
+#| out-width: 50%
+#| fig-align: center
+#| fig-asp: 0.5
+knitr::include_graphics("../images/women_height.png")
+```
+
+
 (@) Students' letter grades in Dr. Yu's MATH 4720 class (A, B, C, D, F).
 
-(@) The distribution of IQ scores of adults in Milwaukee.
+(@) The distribution of blood pressure of adults in Milwaukee.
+
+```{r}
+#| echo: false
+#| out-width: 50%
+#| fig-align: center
+#| fig-asp: 0.5
+knitr::include_graphics("../images/blood_pressure.png")
+```
 
 (@) Survival time of cancer patients after chemotherapy.
 
