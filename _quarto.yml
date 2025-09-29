@@ -90,6 +90,7 @@ website:
       #     - href: project-work.qmd
       #       text: Topics and Works
       - hw.qmd
+      - exercise.qmd
       # - ae.qmd
       # - exam-review.qmd
 
