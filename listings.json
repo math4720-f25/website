@@ -7,5 +7,11 @@
       "/hw/hw03.html",
       "/hw/hw04.html"
     ]
+  },
+  {
+    "listing": "/exercise.html",
+    "items": [
+      "/exercise/exercise1.html"
+    ]
   }
 ]
