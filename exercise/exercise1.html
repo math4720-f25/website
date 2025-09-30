@@ -398,7 +398,15 @@ window.Quarto = {
 
 
 </header><ol class="example" type="1">
-<li>The General Social Survey asked the question, After an average work day, about how many hours do you have to relax or pursue activities that you enjoy?” to a random sample of 1,155 Americans. The average relaxing time was found to be 1.65 hours. Determine which of the following is an observation, a variable, a sample statistic (value calculated based on the observed sample), or a population parameter.</li>
+<li>The General Social Survey asked the question, After an average work day, about how many hours do you have to relax or pursue activities that you enjoy?” to a random sample of 1,155 Americans. The average relaxing time was found to be 1.65 hours. Determine which of the following is an observation, a variable, a sample statistic (value calculated based on the observed sample), or a population parameter. <!-- \begin{enumerate} -->
+<ol type="a">
+<li>An American in the sample.</li>
+<li>Number of hours spent relaxing after an average work day.</li>
+<li>1.65.</li>
+<li>Average number of hours all Americans spend relaxing after an average work day. <!-- \end{enumerate} -->
+</li>
+</ol>
+</li>
 </ol>
 <div class="cell">
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># (a) Observation.</span></span>
@@ -408,7 +416,13 @@ window.Quarto = {
 </div>
 <p><br></p>
 <ol start="2" class="example" type="1">
-<li>Identify which value represents the sample mean and which value represents the claimed population mean.</li>
+<li>Identify which value represents the sample mean and which value represents the claimed population mean. <!-- \begin{enumerate} -->
+<ol type="a">
+<li>American households spent an average of about $52 in 2007 on Halloween merchandise such as costumes, decorations and candy. To see if this number had changed, researchers conducted a new survey in 2008 before industry numbers were reported. The survey included 1,500 households and found that average Halloween spending was $58 per household.</li>
+<li>The average GPA of students in 2001 at a private university was 3.37. A survey on a sample of 203 students from this university yielded an average GPA of 3.59 a decade later. <!-- \end{enumerate} -->
+</li>
+</ol>
+</li>
 </ol>
 <div class="cell">
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># (a) Population mean, 2007 = 52; sample mean, 2008 = 58.</span></span>
@@ -416,7 +430,17 @@ window.Quarto = {
 </div>
 <p><br></p>
 <ol start="3" class="example" type="1">
-<li>Data collected at elementary schools in DeKalb County, GA suggest that each year roughly 25% of students miss exactly one day of school, 15% miss 2 days, and 28% miss 3 or more days due to sickness.</li>
+<li>Data collected at elementary schools in DeKalb County, GA suggest that each year roughly 25% of students miss exactly one day of school, 15% miss 2 days, and 28% miss 3 or more days due to sickness. <!-- \begin{enumerate} -->
+<ol type="a">
+<li>What is the probability that a student chosen at random doesn’t miss any days of school due to sickness this year?</li>
+<li>What is the probability that a student chosen at random misses no more than one day?</li>
+<li>What is the probability that a student chosen at random misses at least one day?</li>
+<li>If a parent has two kids at a DeKalb County elementary school, what is the probability that neither kid will miss any school? Note any assumption you must make to answer this question.</li>
+<li>If a parent has two kids at a DeKalb County elementary school, what is the probability that both kids will miss some school, i.e.&nbsp;at least one day? Note any assumption you make.</li>
+<li>If you made an assumption in part (d) or (e), do you think it was reasonable? If you didn’t make any assumptions, double check your earlier answers. <!-- \end{enumerate} -->
+</li>
+</ol>
+</li>
 </ol>
 <div class="cell">
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># (a) P(no misses) = 1 - (0.25 + 0.15 + 0.28) = 0.32</span></span>
@@ -434,7 +458,13 @@ window.Quarto = {
 </div>
 <p><br></p>
 <ol start="4" class="example" type="1">
-<li>In the United States, approximately <span class="math inline">\(9\%\)</span> of the population have diabetes, while about <span class="math inline">\(30\%\)</span> of adults have high blood pressure. An estimated <span class="math inline">\(6\%\)</span> of the population have both diabetes (<span class="math inline">\(D\)</span>) and hypertension (<span class="math inline">\(H\)</span>).</li>
+<li>In the United States, approximately <span class="math inline">\(9\%\)</span> of the population have diabetes, while about <span class="math inline">\(30\%\)</span> of adults have high blood pressure. An estimated <span class="math inline">\(6\%\)</span> of the population have both diabetes (<span class="math inline">\(D\)</span>) and hypertension (<span class="math inline">\(H\)</span>). <!-- \begin{enumerate} -->
+<ol type="a">
+<li>What is the probability that a randomly selected American adult has both two diseases (<span class="math inline">\(D \cap H\)</span>) doesn’t have any of the two diseases (<span class="math inline">\(D^c \cap H^c\)</span>)? (Drawing a Venn diagram may help)</li>
+<li>If a randomly selected American adult has diabetes, what’s the probability that he also has hypertension, i.e., <span class="math inline">\(P(H \mid D)\)</span>? Based on your result, is the event of someone being hypertensive independent of the event that someone has diabetes? How knowing someone having diabetes help us predict whether or not he also has hypertension? <!-- \end{enumerate} -->
+</li>
+</ol>
+</li>
 </ol>
 <div class="cell">
 <div class="sourceCode" id="cb4"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">## (a) P(H and D) + P(H^c and D^c) = 6% + (1 - c(24% + 6% + 3%)) = 73%</span></span>
@@ -442,7 +472,13 @@ window.Quarto = {
 </div>
 <p><br></p>
 <ol start="5" class="example" type="1">
-<li>Assume that females have pulse rates that are normally distributed with a mean of 74.0 beats per minute and a standard deviation of 12.5 beats per minute.</li>
+<li>Assume that females have pulse rates that are normally distributed with a mean of 74.0 beats per minute and a standard deviation of 12.5 beats per minute. <!-- \begin{enumerate} -->
+<ol type="a">
+<li>If 1 adult female is randomly selected, find the probability that her pulse rate is less than 80 beats per minute.</li>
+<li>If 16 adult female are randomly selected, find the probability that their mean pulse rate is less than 80 beats per minute. <!-- \end{enumerate} -->
+</li>
+</ol>
+</li>
 </ol>
 <div class="cell">
 <div class="sourceCode" id="cb5"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">## (a)</span></span>
@@ -501,15 +537,18 @@ window.Quarto = {
 </li>
 </ol>
 <div class="cell">
-<div class="sourceCode" id="cb11"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="op">-</span><span class="fl">1.75</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb11"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">#(a)</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="op">-</span><span class="fl">1.75</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>[1] 0.04005916</code></pre>
 </div>
-<div class="sourceCode" id="cb13"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="fl">1.3</span><span class="op">)</span> <span class="op">-</span> <span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="op">-</span><span class="fl">0.7</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb13"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">#(b)</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="fl">1.3</span><span class="op">)</span> <span class="op">-</span> <span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="op">-</span><span class="fl">0.7</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>[1] 0.6612359</code></pre>
 </div>
-<div class="sourceCode" id="cb15"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="op">-</span><span class="fl">1</span><span class="op">)</span> <span class="op">+</span> <span class="op">(</span><span class="fl">1</span> <span class="op">-</span> <span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="fl">1</span><span class="op">)</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb15"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">#(c)</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="op">-</span><span class="fl">1</span><span class="op">)</span> <span class="op">+</span> <span class="op">(</span><span class="fl">1</span> <span class="op">-</span> <span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="fl">1</span><span class="op">)</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>[1] 0.3173105</code></pre>
 </div>
@@ -540,7 +579,8 @@ window.Quarto = {
 </li>
 </ol>
 <div class="cell">
-<div class="sourceCode" id="cb18"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="op">(</span><span class="fl">97</span><span class="op">-</span><span class="fl">104</span><span class="op">)</span><span class="op">/</span><span class="fl">6</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb18"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">#(a)</span></span>
+<span><span class="op">(</span><span class="fl">97</span><span class="op">-</span><span class="fl">104</span><span class="op">)</span><span class="op">/</span><span class="fl">6</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>[1] -1.166667</code></pre>
 </div>
@@ -548,7 +588,8 @@ window.Quarto = {
 <div class="cell-output cell-output-stdout">
 <pre><code>[1] 0.6666667</code></pre>
 </div>
-<div class="sourceCode" id="cb22"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># 97 mm more unusal</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb22"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">#(b)</span></span>
+<span><span class="co"># 97 mm more unusal</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p><br></p>
 <ol start="11" class="example" type="1">
