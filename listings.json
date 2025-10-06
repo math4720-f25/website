@@ -9,6 +9,12 @@
     ]
   },
   {
+    "listing": "/exam.html",
+    "items": [
+      "/exam/take_home_exam1.html"
+    ]
+  },
+  {
     "listing": "/exercise.html",
     "items": [
       "/exercise/exercise1.html"
