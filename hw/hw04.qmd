@@ -113,7 +113,7 @@ dpois(x = 0, lambda = n*p)
 #| echo: false
 #| eval: false
 plot(x = 0:8, y = dbinom(0:8, size = n, prob = p), type = 'h', xlab = "x", 
-     ylab = "P(X = x)", lwd = 5, main = "Binomial(1000, 0.001)")
+     las = 1, ylab = "P(X = x)", lwd = 5, main = "Binomial(1000, 0.001)")
 ```
 
 ```{r}

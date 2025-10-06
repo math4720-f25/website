@@ -91,6 +91,7 @@ website:
       #       text: Topics and Works
       - hw.qmd
       - exercise.qmd
+      - exam.qmd
       # - ae.qmd
       # - exam-review.qmd
 
