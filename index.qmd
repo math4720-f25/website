@@ -26,7 +26,7 @@ format:
 |  | Wed, Oct 1 | Central Limit Theorem (CLT) | 👉[CLT](ojs/prob-clt-ojs.html)<br> 👉[Rolling dice](https://cheyu.shinyapps.io/rolling-die/) | [IS Ch 13](https://chenghanyu-introstatsbook.netlify.app/prob-llnclt#central-limit-theorem) |  |  | ✅ Quiz 2 |  |
 | 7 | Mon, Oct 6 | **In-class Exam 1** |  |  |  |  |  | [Take-home Exam 1](exam/take_home_exam1.html) |
 |  | Wed, Oct 8 | Confidence Intervals | [🖥️ confidence interval](/slides/09-ci-slides.html) <br> 👉[CI](ojs/infer-ci-ojs.html) | [IS Ch 14](https://chenghanyu-introstatsbook.netlify.app/infer-ci) | [`r fontawesome::fa("file-code")`](code/13-infer-ci.R) (confidence interval) |  |  |  |
-| 8 | Mon, Oct 13 | Confidence Intervals Activity: How Much Do Students Sleep? | 👉[Student-t](ojs/infer-ci-t-ojs.html) |  |  |  |  |  |
+| 8 | Mon, Oct 13 | Confidence Intervals **Activity: How Much Do Students Sleep?** | 👉[Student-t](ojs/infer-ci-t-ojs.html) |  |  |  |  |  |
 |  | Wed, Oct 15 | Hypothesis Testing |  | IS Ch 16 |  | ✍️ HW 5 |  |  |
 | 9 | Mon, Oct 20 | Comparing Two Population Means | 🖥️ | IS Ch 17 | `r fontawesome::fa("file-code")` |  |  |  |
 |  | Wed, Oct 22 | Comparing Two Population Means |  | IS Ch 17 |  | ✍️ HW 6 |  |  |

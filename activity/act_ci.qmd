@@ -11,7 +11,12 @@ You will create your own confidence interval for estimating on average how much 
 
 (1) Form a group of **three** or **four**. (This is your sample size!)
 
-(2) Record how many hours of sleep each one of you got last night. No need to be integers. Sleeping 7.6 hours totally works! So use decimal hours like the table below.
+(2) Record how many hours of sleep each one of you got last night. No need to be integers. Sleeping 7.6 hours totally works! So please use decimal hours as your data. Don't know decimal hours for 7 hours 20 minutes? Use the app below for the answer!
+
+<iframe src="https://cheyu.shinyapps.io/hours/"
+        width="100%"
+        height="380"
+        frameborder="0"></iframe>
 
 (3) Construct your 95\% confidence interval for mean sleeping hours using the formula
 
@@ -21,6 +26,8 @@ where $\bar{x}$ is the sample mean, $s$ is the sample standard deviation, $n$ is
 
 
 (4) Let's create a larger sample by considering all of your sleeping hours. Construct its 95\% confidence interval. Note that you need to obtain new $\bar{x}$, $s$, $n$, and $t_{0.025, n-1}$.
+
+
 
 ## Discussion
 
@@ -37,23 +44,23 @@ where $\bar{x}$ is the sample mean, $s$ is the sample standard deviation, $n$ is
 
 
 
-| Hours | Minutes | Decimal Hours |
-|:------:|:--------:|:--------------:|
-| 6 | 10 | 6.17 |
-| 6 | 20 | 6.33 |
-| 6 | 30 | 6.50 |
-| 6 | 40 | 6.67 |
-| 6 | 50 | 6.83 |
-| 7 | 10 | 7.17 |
-| 7 | 20 | 7.33 |
-| 7 | 30 | 7.50 |
-| 7 | 40 | 7.67 |
-| 7 | 50 | 7.83 |
-| 8 | 10 | 8.17 |
-| 8 | 20 | 8.33 |
-| 8 | 30 | 8.50 |
-| 8 | 40 | 8.67 |
-| 8 | 50 | 8.83 |
+<!-- | Hours | Minutes | Decimal Hours | -->
+<!-- |:------:|:--------:|:--------------:| -->
+<!-- | 6 | 10 | 6.17 | -->
+<!-- | 6 | 20 | 6.33 | -->
+<!-- | 6 | 30 | 6.50 | -->
+<!-- | 6 | 40 | 6.67 | -->
+<!-- | 6 | 50 | 6.83 | -->
+<!-- | 7 | 10 | 7.17 | -->
+<!-- | 7 | 20 | 7.33 | -->
+<!-- | 7 | 30 | 7.50 | -->
+<!-- | 7 | 40 | 7.67 | -->
+<!-- | 7 | 50 | 7.83 | -->
+<!-- | 8 | 10 | 8.17 | -->
+<!-- | 8 | 20 | 8.33 | -->
+<!-- | 8 | 30 | 8.50 | -->
+<!-- | 8 | 40 | 8.67 | -->
+<!-- | 8 | 50 | 8.83 | -->
 
 
 <!-- ## Mini Check for Understanding -->
