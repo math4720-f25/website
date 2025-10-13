@@ -146,7 +146,7 @@ knitr::kable(grade_dist, longtable = TRUE,
 
 - For the in-class parts, one piece of  **letter size** cheat sheet is allowed. It has to be turned-in with your exam.
 
-- For the take-home parts, you are allowed to use GenAI tools. However, you **must carefully cite it or reveal your use of AI.** See @sec-genai for more details.
+- For the take-home parts, you are allowed to use GenAI tools. However, you **must carefully cite it or reveal your use of AI.** See @sec-genai for more details. No late submission is allowed.
 
 - Please go to **Assessments > Dropbox** to submit your take-home exam in **PDF** format. 
 
@@ -167,6 +167,7 @@ knitr::kable(grade_dist, longtable = TRUE,
 
 - You **must carefully cite your GenAI tool or reveal your use of AI.** See @sec-genai for more details.
 
+- No late submission is allowed.
 
 
 ### Class Participation
