@@ -1626,7 +1626,7 @@
     "href": "index.html",
     "title": "MATH 4720 (MSSC 5720) Statistical Methods Fall 2025",
     "section": "",
-    "text": "The website is for Section-101 2 - 3:15 PM and Section-102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nMaterials\nReading\nR Code\nHomework\nQuiz/Exercise\nExam/Project\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ statistics and data\n\n\nSyllabusIS Ch1GenAI Video\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n\nIS Ch 2\n\n✍️ HW 1 (due 9/5)\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n\n🖥️ R and RStudio🖥️ data type and structure\n\nIS Ch 3\n\n (data type and structure)\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n\n🖥️ data summary👉histogram breaks👉data extremes\n\nIS Ch 5 - 6\n\n (data graphics)\n\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n\nIS Ch 5 - 6\n\n (data numerics)\n✍️ HW 2 (due 9/19)\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n\n🖥️ probability👉venn diagram\n\nIS Ch 7 - 8\n\n\n\n\n\n\n\nWed, Sep 17\nConditional Probability, Independence, Bayes Formula\n\nIS Ch 9\n\n✍️ HW 3 (due 9/26)\n✅ Quiz 1\n\n\n\n5\nMon, Sep 22\nRandom Variables, Discrete Probability Distributions\n\n🖥️ distribution 👉binomial👉poisson\n\nIS Ch 10\n\n (discrete distribution)\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions Activity: Match the Scenario to the Distribution\n\n👉normal\n\nIS Ch 11\n\n (continuous distribution)\n✍️ HW 4 (due 10/3)\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️ sampling-dist-clt\nIS Ch 12\n\n (sampling distribution and CLT)\n\n📋 Exercise for Exam 1\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem (CLT)\n👉CLT 👉Rolling dice\n\nIS Ch 13\n\n\n✅ Quiz 2\n\n\n\n7\nMon, Oct 6\nIn-class Exam 1\n\n\n\n\n\nTake-home Exam 1\n\n\n\nWed, Oct 8\nConfidence Intervals\n\n🖥️ confidence interval  👉CI\n\nIS Ch 14\n\n (confidence interval)\n\n\n\n\n\n8\nMon, Oct 13\nConfidence Intervals Activity: How Much Do Students Sleep?\n\n👉Student-t\n\n\n\n\n\n\n\n\n\nWed, Oct 15\nHypothesis Testing\n\nIS Ch 16\n\n✍️ HW 5\n\n\n\n\n9\nMon, Oct 20\nComparing Two Population Means\n🖥️\nIS Ch 17\n\n\n\n\n\n\n\nWed, Oct 22\nComparing Two Population Means\n\nIS Ch 17\n\n✍️ HW 6\n\n\n\n\n10\nMon, Oct 27\nInference about Population Variances\n🖥️\nIS Ch 18\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Population Variances\n\nIS Ch 18\n\n✍️ HW 7\n✅ Quiz 3\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA)\n🖥️\nIS Ch 24\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA)\n\nIS Ch 24\n\n\n\n\n\n\n12\nMon, Nov 10\nIn-class Exam 2\n\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n🖥️\nIS Ch 25\n\n\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\nIS Ch 27.1\n\n\n\n\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\nIS Ch 27.2 - 27.3\n\n\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\nIS Ch 27.4 - 27.6\n\n\n\n\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n✍️ HW 8\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\nIS Ch 19\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\nIS Ch 20\n\n\n✅ Quiz 4\n\n\n\n16\n\nWed, Dec 10, 10:30 AM - 12:30 PM\n\nIn-class Final Exam (Sec101-2PM)\n\n\n\n\n\n\n\n\n\nFri, Dec 12, 8- 10 AM\nIn-class Final Exam (Sec102-3:30PM)\n\n\n\n\n\n\n\n\n\n\nI reserve the right to make changes to the schedule.",
+    "text": "The website is for Section-101 2 - 3:15 PM and Section-102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nMaterials\nReading\nR Code\nHomework\nQuiz/Exercise\nExam/Project\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ statistics and data\n\n\nSyllabusIS Ch1GenAI Video\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n\nIS Ch 2\n\n✍️ HW 1 (due 9/5)\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n\n🖥️ R and RStudio🖥️ data type and structure\n\nIS Ch 3\n\n (data type and structure)\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n\n🖥️ data summary👉histogram breaks👉data extremes\n\nIS Ch 5 - 6\n\n (data graphics)\n\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n\nIS Ch 5 - 6\n\n (data numerics)\n✍️ HW 2 (due 9/19)\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n\n🖥️ probability👉venn diagram\n\nIS Ch 7 - 8\n\n\n\n\n\n\n\nWed, Sep 17\nConditional Probability, Independence, Bayes Formula\n\nIS Ch 9\n\n✍️ HW 3 (due 9/26)\n✅ Quiz 1\n\n\n\n5\nMon, Sep 22\nRandom Variables, Discrete Probability Distributions\n\n🖥️ distribution 👉binomial👉poisson\n\nIS Ch 10\n\n (discrete distribution)\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions Activity: Match the Scenario to the Distribution\n\n👉normal\n\nIS Ch 11\n\n (continuous distribution)\n✍️ HW 4 (due 10/3)\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️ sampling-dist-clt\nIS Ch 12\n\n (sampling distribution and CLT)\n\n📋 Exercise for Exam 1\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem (CLT)\n👉CLT 👉Rolling dice\n\nIS Ch 13\n\n\n✅ Quiz 2\n\n\n\n7\nMon, Oct 6\nIn-class Exam 1\n\n\n\n\n\nTake-home Exam 1\n\n\n\nWed, Oct 8\nConfidence Intervals\n\n🖥️ confidence interval  👉CI\n\nIS Ch 14\n\n (confidence interval)\n\n\n\n\n\n8\nMon, Oct 13\nConfidence Intervals Activity: How Much Do Students Sleep?\n\n👉Student-t\n\n\n\n\n\n\n\n\n\nWed, Oct 15\nHypothesis Testing\n\n🖥️ testing 👉testing\n\nIS Ch 16\n\n (testing)\n✍️ HW 5\n\n\n\n\n9\nMon, Oct 20\nComparing Two Population Means\n🖥️\nIS Ch 17\n\n\n\n\n\n\n\nWed, Oct 22\nComparing Two Population Means\n\nIS Ch 17\n\n✍️ HW 6\n\n\n\n\n10\nMon, Oct 27\nInference about Population Variances\n🖥️\nIS Ch 18\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Population Variances\n\nIS Ch 18\n\n✍️ HW 7\n✅ Quiz 3\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA)\n🖥️\nIS Ch 24\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA)\n\nIS Ch 24\n\n\n\n\n\n\n12\nMon, Nov 10\nIn-class Exam 2\n\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n🖥️\nIS Ch 25\n\n\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\nIS Ch 27.1\n\n\n\n\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\nIS Ch 27.2 - 27.3\n\n\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\nIS Ch 27.4 - 27.6\n\n\n\n\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n✍️ HW 8\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\nIS Ch 19\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\nIS Ch 20\n\n\n✅ Quiz 4\n\n\n\n16\n\nWed, Dec 10, 10:30 AM - 12:30 PM\n\nIn-class Final Exam (Sec101-2PM)\n\n\n\n\n\n\n\n\n\nFri, Dec 12, 8- 10 AM\nIn-class Final Exam (Sec102-3:30PM)\n\n\n\n\n\n\n\n\n\n\nI reserve the right to make changes to the schedule.",
     "crumbs": [
       "Course Information",
       "Schedule"
@@ -3990,5 +3990,495 @@
     "crumbs": [
       "Exercise"
     ]
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#what-is-a-hypothesis-testing",
+    "href": "slides/10-ht-slides.html#what-is-a-hypothesis-testing",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "What is a Hypothesis Testing?",
+    "text": "What is a Hypothesis Testing?\n\n\nA hypothesis is a claim or statement about a property of a population, often the value of a population parameter.\n\n The mean body temperature of humans is less than \\(98.6^{\\circ}\\) F, or \\(\\mu &lt; 98.6\\). \n Marquette students’ IQ scores has standard deviation equal to 15, or \\(\\sigma = 15\\). \n\n\n\n\n\n\nNull hypothesis \\((H_0)\\): a statement that the value of a parameter is\n\n\nequal to some claim value\nthe negation of the alternative hypothesis\noften represents a skeptical perspective to be tested\n\n\n\nAlternative hypothesis \\((H_1\\) or \\(H_a)\\): a claim that the parameter is less than, greater than or not equal to some value.\n\nusually our research hypothesis of some new scientific theory or finding\n\n\n\n\nThe null hypothesis (H0) often represents either a skeptical perspective or a claim to be tested.\nThe alternative hypothesis (HA) is an alternative claim and is often represented by a range of possible parameter values.\nThe null hypothesis often represents a skeptical position or a perspective of “no difference”.\nThe alternative hypothesis generally represents a new or stronger perspective."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#null-and-alternative-hypothesis",
+    "href": "slides/10-ht-slides.html#null-and-alternative-hypothesis",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Null and Alternative Hypothesis",
+    "text": "Null and Alternative Hypothesis\n\nA \\(H_0\\) claim or \\(H_1\\) claim?\n\n\n The percentage of Marquette female students loving Japanese food is equal to 80%.\n On average, Marquette students consume less than 3 drinks per week. \n\n\n\nA hypothesis testing 1 is a procedure to decide whether to reject \\(H_0\\) or not by how much evidence against \\(H_0\\).\n\nA hypothesis testing is a method for calculating the probability of making a specific observation under a working hypothesis, called the null hypothesis.\n\n\nNull Hypothesis Statistical Testing (NHST), statistical testing or test of significance."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#hypothesis-testing-example",
+    "href": "slides/10-ht-slides.html#hypothesis-testing-example",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Hypothesis Testing Example",
+    "text": "Hypothesis Testing Example\n\n\nA person is charged with a crime.\n\nA jury decide whether the person is guilty or not.\nThe accuse is assumed to be innocent until the jury declares otherwise.\nOnly if overwhelming evidence of the person’s guilt can be shown is the jury expected to declare the person guilty, otherwise the person is considered not guilty.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat should be \\(H_0\\) and \\(H_a\\)?\n\n\nA person comes into court charged with a crime.\nA jury decide whether the person is guilty or not.\nEven though the person is charged with the crime, at the beginning of the trial (and until the jury declares otherwise) the accuse is assumed to be innocent.\nOnly if overwhelming evidence of the person’s guilt can be shown is the jury expected to declare the person guilty, otherwise the person is considered innocent.\n\n.question[ What should be \\(H_0\\) and \\(H_a\\)?]\n\n\n\n\n\\(H_0:\\) The person is  not guilty  🙂\n\\(H_1:\\) The person is  guilty  😟\nEvidence:  Photos, videos, witness, fingerprint, DNA \nDecision Rule:  Jury’s voting \nConclusion: Verdict  “guilty”  or  “NOT enough evidence to convict”"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#how-to-formally-do-a-statistical-hypothesis-testing",
+    "href": "slides/10-ht-slides.html#how-to-formally-do-a-statistical-hypothesis-testing",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "How to Formally Do a Statistical Hypothesis Testing",
+    "text": "How to Formally Do a Statistical Hypothesis Testing\n\n\nStep 0: Check Method Assumptions\n\n\n\nStep 1: Set the \\(H_0\\) and \\(H_a\\) in Symbolic Form from a Claim\n\n\n\nStep 2: Set the Significance Level \\(\\alpha\\)\n\n\nStep 3: Calculate the Test Statistic (Evidence) \n\n\n\n(Decision Rule I: Critical Value Method)\n\n Step 4-c: Find the Critical Value \n Step 5-c: Draw a Conclusion Using Critical Value Method \n\n\n(Decision Rule II: P-Value Method)\n\n Step 4-p: Find the P-Value \n Step 5-p: Draw a Conclusion Using P-Value Method \n\n\n\nStep 6: Restate the Conclusion in Nontechnical Terms, and Address the Original Claim\n\n\n\n😎 No worries, we will learn the steps step by step!"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#the-new-treatment-is-effective",
+    "href": "slides/10-ht-slides.html#the-new-treatment-is-effective",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\nA population of hypertension group is normal and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population, and \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\).\nGoal: Determine whether a new treatment is effective in reducing BP."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#step-0-check-method-assumptions",
+    "href": "slides/10-ht-slides.html#step-0-check-method-assumptions",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 0: Check Method Assumptions",
+    "text": "Step 0: Check Method Assumptions\nThe testing methods are based on normality or approximate normality by CLT.\n\nRandom sample\nNormally distributed and/or \\(n &gt; 30\\)"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#the-new-treatment-is-effective-1",
+    "href": "slides/10-ht-slides.html#the-new-treatment-is-effective-1",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population, and \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\).\nGoal: Determine whether a new treatment is effective in reducing BP."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#step-1-set-the-h_0-and-h_1-from-a-claim",
+    "href": "slides/10-ht-slides.html#step-1-set-the-h_0-and-h_1-from-a-claim",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 1: Set the \\(H_0\\) and \\(H_1\\) from a Claim",
+    "text": "Step 1: Set the \\(H_0\\) and \\(H_1\\) from a Claim\n\n👩‍🏫 The mean IQ score of statistics professors is higher than 120.\n\n\n\n \\(\\begin{align}&H_0: \\mu \\le 120 \\\\ &H_1: \\mu &gt; 120 \\end{align}\\) \n💵 The mean starting salary for Marquette graduates who didn’t take MATH 4720 is less than $60,000.\n\n\n\n\n \\(\\begin{align} &H_0: \\mu \\ge 60000 \\\\ &H_1: \\mu &lt; 60000 \\end{align}\\) \n📺 The mean time between uses of a TV remote control by males during commercials equals 5 sec.\n\n\n\n\n \\(\\begin{align} &H_0: \\mu = 5 \\\\ &H_1: \\mu \\ne 5 \\end{align}\\) \n\n( \\(H_0\\) claim)"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#the-new-treatment-is-effective-2",
+    "href": "slides/10-ht-slides.html#the-new-treatment-is-effective-2",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\nA population of hypertension group is normal and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population, and \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\).\nGoal: Determine whether a new treatment is  effective in reducing BP .\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe claim that the new treatment is effective in reducing BP means the mean BP is less than 150. ( \\(H_1\\) claim )\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\)"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#step-2-set-the-significance-level-alpha",
+    "href": "slides/10-ht-slides.html#step-2-set-the-significance-level-alpha",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 2: Set the Significance Level \\(\\alpha\\)\n",
+    "text": "Step 2: Set the Significance Level \\(\\alpha\\)\n\n\nThe significant level \\(\\alpha\\) determines how rare or unlikely our evidence must be in order to represent sufficient evidence against \\(H_0\\).\nAn \\(\\alpha\\) level of 0.05 implies that evidence occurring with probability lower than 5% will be considered sufficient evidence against \\(H_0\\) (Reject \\(H_0\\)).\n\\(\\alpha = P(\\text{Reject } H_0 \\mid H_0 \\text{ is true})\\)\n\n\n\n\n\n\n\n\n\n\n\n\n\nRare Event Rule: If, under a given assumption, the probability of a particular observed event is exceptional small, we conclude that the assumption is probably not correct.\n\n\n\n\n\\(\\alpha\\) is like a threshold. If our collected evidence has a smaller probability than \\(\\alpha\\) happening, then the current assumption or claim is probably not correct.\nIf the true mean IQ of statistics professors is 120, \\(\\alpha \\%\\) of them will have IQ greater than 125.\nThe level \\(\\alpha\\) is related to \\(\\alpha\\) used in confidence intervals for defining a “critical value”.\n\n\\(\\alpha = 0.05\\) means that we incorrectly reject \\(H_0\\) 5 out of every 100 times we collect a sample and run the test."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#the-new-treatment-is-effective-3",
+    "href": "slides/10-ht-slides.html#the-new-treatment-is-effective-3",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population, and \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\).\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \n\n\n\nSet \\(\\alpha= 0.05\\). We are asking: Is there a sufficient evidence at \\(\\alpha= 0.05\\) that the new treatment is effective?"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#step-3-calculate-the-test-statistic",
+    "href": "slides/10-ht-slides.html#step-3-calculate-the-test-statistic",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 3: Calculate the Test Statistic",
+    "text": "Step 3: Calculate the Test Statistic\n\nA test statistic is a statistic value used in making a decision about the \\(H_0\\).\n\n\nSuppose  \\(H_0: \\mu = \\mu_0 \\quad H_1: \\mu &lt; \\mu_0\\) \nWhen computing a test statistic, we assume \\(H_0\\) is true.\nWhen \\(\\sigma\\) is known, the test statistic for testings about \\(\\mu\\) is\n\n\\[\\small \\boxed{ z_{test} = \\frac{\\overline{x} - \\color{blue}{\\mu_0}}{\\sigma/\\sqrt{n}} }\\]\n\nGuess what test statistic we use when \\(\\sigma\\) is unknown!\n\n\n\nWhen \\(\\sigma\\) is unknown, the test statistic for testings about \\(\\mu\\) is\n\n\\[\\small \\boxed{ t_{test} = \\frac{\\overline{x} - \\color{blue}{\\mu_0}}{s/\\sqrt{n}} }\\]"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#the-new-treatment-is-effective-4",
+    "href": "slides/10-ht-slides.html#the-new-treatment-is-effective-4",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \n\n\n\n The test statistic is \\(\\small t_{test} = \\frac{\\overline{x} - \\mu_0}{s/\\sqrt{n}} =  \\frac{147.2 - 150}{5.5/\\sqrt{25}} = -2.55\\)"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#step-4-c-find-the-critical-value",
+    "href": "slides/10-ht-slides.html#step-4-c-find-the-critical-value",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 4-c: Find the Critical Value",
+    "text": "Step 4-c: Find the Critical Value\n\nThe critical value(s) separates the rejection region or critical region (where we reject \\(H_0\\)) from the values of the test statistic that do not lead to rejection of \\(H_0\\).\n\nThey depends on whether the test is right-tailed, left-tailed or two-tailed.\n\n\n\n\nIn the absence of prior evidence that people typically wish to be lighter (or heavier), it is reasonable to begin with an alternative hypothesis that allows for differences in either direction. A one-sided alternative could be used if, for example, an investigator felt there was prior evidence that people typically wish to weigh less than they currently do:"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#step-4-c-find-the-critical-value-1",
+    "href": "slides/10-ht-slides.html#step-4-c-find-the-critical-value-1",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 4-c: Find the Critical Value",
+    "text": "Step 4-c: Find the Critical Value\n\n👉 \\(z_{\\alpha}\\) is such that \\(P(Z &gt; z_{\\alpha}) = \\alpha\\) and \\(Z \\sim N(0, 1)\\).\n👉 \\(t_{\\alpha, n-1}\\) is such that \\(P(T &gt; t_{\\alpha, n-1}) = \\alpha\\) and \\(T \\sim t_{n-1}\\).\n\n\n\n\n\n\n\n\n\nCondition    \n\nRight-tailed \\((H_1: \\mu &gt; \\mu_0)\\)\n\n\nLeft-tailed \\((H_1: \\mu &lt; \\mu_0)\\)\n\n\nTwo-tailed \\((H_1: \\mu \\ne \\mu_0)\\)\n\n\n\n\n\n\\(\\sigma\\) known\n\\(z_{\\alpha}\\)\n\\(-z_{\\alpha}\\)\n\n\\(-z_{\\alpha/2}\\) and \\(z_{\\alpha/2}\\)\n\n\n\n\n\\(\\sigma\\) unknown\n\\(t_{\\alpha, n-1}\\)\n\\(-t_{\\alpha, n-1}\\)\n\n\\(-t_{\\alpha/2, n-1}\\) and \\(t_{\\alpha/2, n-1}\\)\n\n\n\n\n\n\\(z_{0.025} =\\) 1.96, \\(z_{0.05} =\\) 1.64\n\\(z_{\\alpha}\\) and \\(t_{\\alpha, n-1}\\) are always positive."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#the-new-treatment-is-effective-5",
+    "href": "slides/10-ht-slides.html#the-new-treatment-is-effective-5",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \n The test statistic is \\(\\small t_{test} = \\frac{\\overline{x} - \\mu_0}{s/\\sqrt{n}} =  \\frac{147.2 - 150}{5.5/\\sqrt{25}} = -2.55\\)\n\n\n\n The critical value is \\(\\small -t_{0.05, 25-1} = -t_{0.05, 24} = -1.711\\)"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#step-5-c-draw-a-conclusion-using-critical-value",
+    "href": "slides/10-ht-slides.html#step-5-c-draw-a-conclusion-using-critical-value",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 5-c: Draw a Conclusion Using Critical Value",
+    "text": "Step 5-c: Draw a Conclusion Using Critical Value\nIf the test statistic is\n\nin the rejection region, we reject \\(H_0\\).\nnot in the rejection region, we do not or fail to reject \\(H_0\\).\n\nReject \\(H_0\\) if\n\n\n\n\n\n\n\n\n\nCondition    \n\nRight-tailed \\((H_1: \\mu &gt; \\mu_0)\\)\n\n\nLeft-tailed \\((H_1: \\mu &lt; \\mu_0)\\)\n\n\nTwo-tailed \\((H_1: \\mu \\ne \\mu_0)\\)\n\n\n\n\n\n\\(\\sigma\\) known\n\\(z_{test} &gt; z_{\\alpha}\\)\n\\(z_{test} &lt; -z_{\\alpha}\\)\n\\(\\mid z_{test}\\mid \\, &gt; z_{\\alpha/2}\\)\n\n\n\n\\(\\sigma\\) unknown\n\\(t_{test} &gt; t_{\\alpha, n-1}\\)\n\\(t_{test} &lt; -t_{\\alpha, n-1}\\)\n\\(\\mid t_{test}\\mid \\, &gt; t_{\\alpha/2, n-1}\\)\n\n\n\n\n\n\\(|z_{test}| &gt; z_{\\alpha/2}\\)\\(|t_{test}| &gt; t_{\\alpha/2, n-1}\\)"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#the-new-treatment-is-effective-6",
+    "href": "slides/10-ht-slides.html#the-new-treatment-is-effective-6",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \n The test statistic is \\(\\small t_{test} = \\frac{\\overline{x} - \\mu_0}{s/\\sqrt{n}} =  \\frac{147.2 - 150}{5.5/\\sqrt{25}} = -2.55\\)\n The critical value is \\(\\small -t_{0.05, 25-1} = -t_{0.05, 24} = -1.711\\) \n\n\n\n We reject \\(H_0\\) if \\(t_{test} &lt; -t_{\\alpha, n-1}\\). Since \\(\\small t_{test} = -2.55 &lt; -1.711 = -t_{\\alpha, n-1}\\), we reject \\(H_0\\)."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#step-4-p-find-the-p-value",
+    "href": "slides/10-ht-slides.html#step-4-p-find-the-p-value",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 4-p: Find the P-Value",
+    "text": "Step 4-p: Find the P-Value\n\nThe \\(p\\)-value measures the strength of the evidence against \\(H_0\\) provided by the data.\nThe smaller the \\(p\\)-value, the greater the evidence against \\(H_0\\).\n\nThe \\(p\\)-value is the probability of getting a test statistic value that is at least as extreme as the one obtained from the data, assuming that \\(H_0\\) is true. \\((\\mu = \\mu_0)\\)\n\nFor example, \\(p\\)-value \\(= P(Z \\ge z_{test} \\mid H_0)\\) for a right-tailed test.\n\n\n\n\nWhat is the chance of having evidence that is more unlikely to happen than our current collected evidence?"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#p-value-illustration",
+    "href": "slides/10-ht-slides.html#p-value-illustration",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "P-Value Illustration",
+    "text": "P-Value Illustration"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#the-new-treatment-is-effective-7",
+    "href": "slides/10-ht-slides.html#the-new-treatment-is-effective-7",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \nThis is a left-tailed test, so the \\(p\\)-value is \\(P(T &lt; t_{test})=P(T &lt; -2.55) =\\) 0.01 \n\n\nStep 5-p:  We reject \\(H_0\\) if \\(p\\)-value &lt; \\(\\alpha\\). Since \\(p\\)-value \\(= 0.0088 &lt; 0.05 = \\alpha\\), we reject \\(H_0\\).\n\nStep 6:  There is sufficient evidence to support the claim that the new treatment is effective."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#step-5-p-draw-a-conclusion-using-p-value-method",
+    "href": "slides/10-ht-slides.html#step-5-p-draw-a-conclusion-using-p-value-method",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 5-p: Draw a Conclusion Using P-Value Method",
+    "text": "Step 5-p: Draw a Conclusion Using P-Value Method\n\nIf \\(p\\)-value \\(\\le \\alpha\\) , reject \\(H_0\\).\nIf \\(p\\)-value \\(&gt; \\alpha\\), do not reject \\(H_0\\).\n\n\n\n\n\n\n\n\n\nCondition    \n\nRight-tailed \\((H_1: \\mu &gt; \\mu_0)\\)\n\n\nLeft-tailed \\((H_1: \\mu &lt; \\mu_0)\\)\n\n\nTwo-tailed \\((H_1: \\mu \\ne \\mu_0)\\)\n\n\n\n\n\n\\(\\sigma\\) known\n\\(P(Z &gt; z_{test} \\mid H_0)\\)\n\\(P(Z &lt; z_{test} \\mid H_0)\\)\n\\(2P(Z &gt; \\,\\mid z_{test} \\mid \\, \\mid H_0)\\)\n\n\n\n\\(\\sigma\\) unknown\n\\(P(T &gt; t_{test} \\mid H_0)\\)\n\\(P(T &lt; t_{test} \\mid H_0)\\)\n\\(2P(T &gt; \\, \\mid t_{test} \\mid  \\, \\mid H_0)\\)\n\n\n\n\\(2P(Z &gt; z_{test} \\mid H_0)\\) if \\(z_{test}\\) on the right \\(2P(Z &lt; z_{test} \\mid H_0)\\) if \\(z_{test}\\) on the left \\(2P(T &gt; t_{test} \\mid H_0)\\) if \\(t_{test}\\) on the right \\(2P(T &lt; t_{test} \\mid H_0)\\) if \\(t_{test}\\) on the left"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#the-new-treatment-is-effective-8",
+    "href": "slides/10-ht-slides.html#the-new-treatment-is-effective-8",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \nThis is a left-tailed test, so the \\(p\\)-value is \\(P(T &lt; t_{test})=P(T &lt; -2.55) =\\) 0.01 \n\n\n\n We reject \\(H_0\\) if \\(p\\)-value &lt; \\(\\alpha\\). Since \\(p\\)-value \\(= 0.01 &lt; 0.05 = \\alpha\\), we reject \\(H_0\\).\n\n\nStep 6:  There is sufficient evidence to support the claim that the new treatment is effective."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#both-methods-lead-to-the-same-conclusion",
+    "href": "slides/10-ht-slides.html#both-methods-lead-to-the-same-conclusion",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Both Methods Lead to the Same Conclusion",
+    "text": "Both Methods Lead to the Same Conclusion"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#step-6-restate-the-conclusion-in-nontechnical-terms-and-address-the-original-claim",
+    "href": "slides/10-ht-slides.html#step-6-restate-the-conclusion-in-nontechnical-terms-and-address-the-original-claim",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 6: Restate the Conclusion in Nontechnical Terms, and Address the Original Claim",
+    "text": "Step 6: Restate the Conclusion in Nontechnical Terms, and Address the Original Claim\n\n\n\n\n\nhttps://www.drdawnwright.com/category/statistics/"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#section-2",
+    "href": "slides/10-ht-slides.html#section-2",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "",
+    "text": "https://www.pinterest.com/pin/287878601159173631/\n\n\n\n\nNote! Why can’t we say we “accept the null”? The reason is that we are assuming the null hypothesis is true and trying to see if there is evidence against it. Therefore, the conclusion should be in terms of rejecting the null."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#the-new-treatment-is-effective-9",
+    "href": "slides/10-ht-slides.html#the-new-treatment-is-effective-9",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \n There is sufficient evidence to support the claim that the new treatment is effective."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#example-calculation-in-r",
+    "href": "slides/10-ht-slides.html#example-calculation-in-r",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Example Calculation in R",
+    "text": "Example Calculation in R\n\n## create objects for any information we have\nalpha &lt;- 0.05; mu_0 &lt;- 150; \nx_bar &lt;- 147.2; s &lt;- 5.5; n &lt;- 25\n\n## Test statistic\n(t_test &lt;- (x_bar - mu_0) / (s / sqrt(n))) \n\n[1] -2.545\n\n## Critical value\n(t_cri &lt;- qt(alpha, df = n - 1, lower.tail = TRUE)) \n\n[1] -1.711\n\n## p-value\n(p_val &lt;- pt(t_test, df = n - 1, lower.tail = TRUE)) \n\n[1] 0.008878\n\n\n\n\n[1] \"Reject H0 by crit. value\"\n\n\n[1] \"Reject H0 by p-value\""
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#example-2-two-tailed-z-test",
+    "href": "slides/10-ht-slides.html#example-2-two-tailed-z-test",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Example 2: Two-tailed z-test",
+    "text": "Example 2: Two-tailed z-test\n\n\nThe milk price of a gallon of 2% milk is normally distributed with standard deviation of $0.10.\n\nLast week the mean milk price was 2.78. This week, based on a sample of size 25, the sample mean milk price \\(\\overline{x} = 2.80\\).\nUnder \\(\\alpha = 0.05\\), determine if this week the mean price is different.\n\n\n\n\n\n\n\n\n\n\n\n\n\nStep 1: This is a \\(H_1\\) claim  \\(\\small \\begin{align}&H_0: \\mu = 2.78 \\\\ &H_1: \\mu \\ne 2.78 \\end{align}\\) \n\n\n\n\n\nStep 2:  \\(\\small \\alpha = 0.05\\) \n\n\n\n\n\nStep 3:  \\(\\small z_{test} = \\frac{\\overline{x} - \\mu_0}{\\sigma/\\sqrt{n}} =  \\frac{2.8 - 2.78}{0.1/\\sqrt{25}} = 1.00\\) \n\n\n\n\n\nStep 4-c:  \\(\\small z_{0.05/2} = 1.96\\). \n\n\n\n\n\nStep 5-c: This is a two-tailed test and we reject \\(H_0\\) if \\(|z_{test}| &gt; z_{\\alpha/2}\\). Since \\(\\small |z_{test}| = 1 &lt; 1.96 = z_{\\alpha/2}\\), we DO NOT reject \\(H_0\\)."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#example-2-two-tailed-z-test-contd",
+    "href": "slides/10-ht-slides.html#example-2-two-tailed-z-test-contd",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Example 2: two-tailed z-test Cont’d",
+    "text": "Example 2: two-tailed z-test Cont’d\n\nStep 4-p: This is a two-tailed test, and the test statistic is on the right \\((&gt; 0)\\), so the \\(p\\)-value is \\(2P(Z &gt; z_{test})=\\) 0.317 \n\n\n\n\nStep 5-p:  We reject \\(H_0\\) if \\(p\\)-value &lt; \\(\\alpha\\). Since \\(p\\)-value \\(= 0.317 &gt; 0.05 = \\alpha\\), we DO NOT reject \\(H_0\\).\n\n\n\n\n\nStep 6:  There is insufficient evidence to support the claim that this week the mean milk price is different from the price last week."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#example-2-calculation-in-r",
+    "href": "slides/10-ht-slides.html#example-2-calculation-in-r",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Example 2 Calculation in R",
+    "text": "Example 2 Calculation in R\n\n## create objects to be used\nalpha &lt;- 0.05; mu_0 &lt;- 2.78; \nx_bar &lt;- 2.8; sigma &lt;- 0.1; n &lt;- 25\n\n## Test statistic\n(z_test &lt;- (x_bar - mu_0) / (sigma / sqrt(n))) \n\n[1] 1\n\n## Critical value\n(z_crit &lt;- qnorm(alpha/2, lower.tail = FALSE)) \n\n[1] 1.96\n\n## p-value\n(p_val &lt;- 2 * pnorm(z_test, lower.tail = FALSE)) \n\n[1] 0.3173\n\n\n\n\n[1] \"Do not reject H0 by critical value method\"\n\n\n[1] \"Do not reject H0 by p-value method\""
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#testing-summary",
+    "href": "slides/10-ht-slides.html#testing-summary",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Testing Summary",
+    "text": "Testing Summary\n\n\n\n\n\n\n\n\nNumerical Data, \\(\\sigma\\) known\nNumerical Data, \\(\\sigma\\)  unknown \n\n\n\n\nParameter of Interest\nPopulation Mean \\(\\mu\\)\n\nPopulation Mean \\(\\mu\\)\n\n\n\nTest Type\nOne sample \\(\\color{blue}{z}\\) test \\(H_0: \\mu = \\mu_0\\)\n\nOne sample \\(\\color{blue}{t}\\) test \\(H_0: \\mu = \\mu_0\\)\n\n\n\nConfidence Interval\n\\(\\bar{x} \\pm z_{\\alpha/2} \\frac{\\sigma}{\\sqrt{n}}\\)\n\\(\\bar{x} \\pm t_{\\alpha/2, n-1} \\frac{\\color{blue}{s}}{\\sqrt{n}}\\)\n\n\nTest Stat under \\(H_0\\)\n\\(z_{test} = \\frac{\\overline{x} - \\mu_0}{\\frac{\\sigma}{\\sqrt{n}}}\\)\n\\(t_{test} = \\frac{\\overline{x} - \\mu_0}{\\frac{\\color{blue}{s}}{\\sqrt{n}}}\\)\n\n\n\\(p\\)-value under \\(H_0\\)\n\n\\(H_1: \\mu &lt; \\mu_0\\) \\(p\\)-value \\(=P(Z \\le z_{test})\\)\n\n\n\\(H_1: \\mu &lt; \\mu_0\\) \\(p\\)-value \\(=P(T_{n-1} \\le t_{test})\\)\n\n\n\n\n\n\\(H_1: \\mu &gt; \\mu_0\\) \\(p\\)-value \\(=P(Z \\ge z_{test})\\)\n\n\n\\(H_1: \\mu &lt; \\mu_0\\) \\(p\\)-value \\(=P(T_{n-1} \\ge t_{test})\\)\n\n\n\n\n\n\\(H_1: \\mu \\ne \\mu_0\\) \\(p\\)-value \\(=2P(Z \\ge \\, \\mid z_{test}\\mid)\\)\n\n\n\\(H_1: \\mu \\ne \\mu_0\\) \\(p\\)-value \\(=2P(T_{n-1} \\ge  \\, \\mid t_{test} \\mid)\\)"
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#type-i-and-type-ii-errors",
+    "href": "slides/10-ht-slides.html#type-i-and-type-ii-errors",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Type I and Type II Errors",
+    "text": "Type I and Type II Errors\n\n\nDecision\n\n\\(H_0\\) is true\n\n\\(H_0\\) is false\n\n\n\nReject \\(H_0\\)\n\nType I error\nCorrect decision\n\n\nDo not reject \\(H_0\\)\n\nCorrect decision\nType II error\n\n\n\n\n\nBack to the crime example: \\(H_0:\\) The person is  not guilty  v.s. \\(H_1:\\) The person is  guilty \n\n\n\n\n\n\n\n\nDecision\nTruth is the person innocent\nTruth is the person guilty\n\n\n\nJury decides the person guilty\nType I error\nCorrect decision\n\n\nJury decides the person innocent\nCorrect decision\nType II error\n\n\n\n\nIn practice, we will not know for certain if we made the correct decision or if we made one of these two errors."
+  },
+  {
+    "objectID": "slides/10-ht-slides.html#type-i-and-type-ii-errors-1",
+    "href": "slides/10-ht-slides.html#type-i-and-type-ii-errors-1",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Type I and Type II Errors",
+    "text": "Type I and Type II Errors\n\n\\(\\alpha = P(\\text{type I error}) = P(\\text{rejecting } H_0 \\text{ when } H_0 \\text{ is true})\\)\n\\(\\beta = P(\\text{type II error}) = P(\\text{failing to reject } H_0 \\text{ when } H_0 \\text{ is false})\\)\n\n\n\n\n\n\nhttps://www.statisticssolutions.com/wp-content/uploads/2017/12/rachnovblog.jpg"
+  },
+  {
+    "objectID": "ojs/infer-ht-ojs.html",
+    "href": "ojs/infer-ht-ojs.html",
+    "title": "Hypothesis Testing for Population Mean",
+    "section": "",
+    "text": "hypotext = \n{\n  var hyposign;\n  if (alternative == 'equal to'){\n    hyposign = \"\\\\neq\"\n  }else if (alternative == 'less than'){\n    hyposign = \"&lt;\"\n  }else{\n    hyposign = \"&gt;\"\n  }\n   return tex`\\textbf{Hypotheses }\\\\\n              H_0: \\mu = \\mu_0 = ${mu0}\\\\\n              H_A: \\mu ${hyposign} \\mu_0 = ${mu0}`\n}\n\n\n\n\n\n\n\ntobstext = \n{\n   return tex`\\textbf{Test statistic }\\\\\n    t_{obs} = \\frac{\\bar x -\\mu_0}{\\frac{s}{\\sqrt{n}}} = \\frac{${xbar.toFixed(3)} - ${mu0.toFixed(3)}}{\\frac{${s.toFixed(3)}}{\\sqrt{${n}}}} = ${tobs.toFixed(3)}`\n}\n\n\n\n\n\n\n\ntcrittext = \n{\n   return tex`\\textbf{Critical value }\\\\\nt_{crit} = t_{${alphaside}, \\,${n-1}} = ${tcrit.toPrecision(4)}`\n}\n\n\n\n\n\n\n\npvaluetext = {\n  var rejecttext;\n  var sign;\n  if (pvaluestudentt &lt; alpha){\n    rejecttext = \" \\\\textbf{we reject} \";\n    sign = \"&lt;\";\n  }else{\n    rejecttext = \"we \\\\textbf{do not reject} \";\n    sign = \"\\\\geq\";\n  }\n   return tex`\\textbf{p-value}\\\\\np\\text{-value}=${pvaluestudentt.toPrecision(4)}`\n}\n\n\n\n\n\n\n\npconclusion = {\n  var rejecttext;\n  var sign;\n  if (pvaluestudentt &lt; alpha){\n    rejecttext = \"We\\\\textcolor{red}{ \\\\textbf{reject}}\\ \";\n    sign = \"&lt;\";\n  }else{\n    rejecttext = \"We\\\\textcolor{steelblue}{ \\\\textbf{do not reject}} \";\n    sign = \"\\\\geq\";\n  }\n   return tex`\\text{${rejecttext}} H_0 \\text{ at } ${(alpha*100).toFixed(1)}\\% \\text{ significance level.}  `\n}\n\n\n\n\n\n\n\nviewof inputs = Inputs.form([\n      Inputs.range([2, 1000], {value: 5, step: 1, label: tex`\\text{sample }n`}), \n      Inputs.range([-10, 10], {value: 1.7, step: 0.01, label: tex`\\text{sample } \\bar x`}),\n      Inputs.range([Number.EPSILON, 10], {value: 0.5, step: 0.1, label: tex`\\text{sample }s`}),\n      Inputs.range([0.001, 1], {value: 0.05, step: 0.001, label: tex`\\text{sig. lvl }\\alpha`}),\n      Inputs.range([-10, 10], {value: 1, step: 0.1, label: tex`\\text{null }\\mu_0`}),\n      Inputs.select([\"equal to\",\"greater than\", \"less than\"], {label: tex`\\text{alternative}`})\n    ])\n\n\n\n\n\n\n\nviewof toggles = Inputs.form([\n  Inputs.toggle({value: true, label: \"show critical regions\"}),\n  Inputs.toggle({value: false, label: \"show p-values\"})\n  ])\n\n\n\n\n\n\n\njstat = require('jstat')\n\n\n\n\n\n\n\ntextfontsize = 14\n\n\n\n\n\n\n\nshowcrit = toggles[0]\n\n\n\n\n\n\n\nshowpvalue = toggles[1]\n\n\n\n\n\n\n\nn = inputs[0]\nxbar = inputs[1]\ns = inputs[2]\nalpha = inputs[3]\nmu0 = inputs[4]\nalternative = inputs[5]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nalphaside = {\n  if (alternative == 'equal to'){\n    return alpha/2\n  }else{\n    return alpha\n  }\n}\n\n\n\n\n\n\n\ntobs = (xbar-mu0)/(s/Math.sqrt(n))\n\n\n\n\n\n\n\ntcrit = jstat.studentt.inv(1-alphaside, n-1)\n\n\n\n\n\n\n\nzcrit = jstat.normal.inv(1-alphaside, 0, 1)\n\n\n\n\n\n\n\npvaluestudentt = {\n  if (alternative == 'equal to'){\n      return 2*jstat.studentt.cdf(-Math.abs(tobs), n-1)\n  }else if(alternative == 'less than'){\n    return jstat.studentt.cdf(tobs, n-1)\n  }else{\n    return 1-jstat.studentt.cdf(tobs, n-1)\n  }\n}\n\n\n\n\n\n\n\npdfdata = {\n  const x = d3.range(-10, 10, 0.01);\n  var data = x.map(x =&gt; ({x: x, pdf: jstat.normal.pdf(x, 0, 1), dist: \"normal\", type: \"pdf\"}));\n  const studentpdf = x.map(x =&gt; ({x: x, pdf: jstat.studentt.pdf(x, n-1), dist: \"student-t\", type: \"pdf\"}));\n  data = data.concat(studentpdf)\n  data = data.concat(tcritdata)\n   data = data.concat(tobsdata)\n  return data\n}\n\n\n\n\n\n\n\n\nFigure 1: Source: https://observablehq.com/@mattiasvillani/hypothesis-test-mean\n\n\n\n\n\nmax_y = 1.05*jstat.normal.pdf(0, 0, 1)\n\n\n\n\n\n\n\ntwosided = alternative == 'equal to'\n\n\n\n\n\n\n\nside = {\n  if (alternative == 'less than'){\n    return \"left\"\n  }else if(alternative == 'greater than'){\n    return \"right\"\n  }else{\n    return \"both\"\n  }\n}\n\n\n\n\n\n\n\ntcritdata = {\n  if (twosided){\n    return [{x: tcrit, y: max_y/4, dist: \"student-t\", type: \"crit\"}, {x: -tcrit, y: max_y/4, dist: \"student-t\", type: \"crit\"}]\n  }else if (alternative == 'less than'){\n    return [{x: -Math.abs(tcrit), y: max_y/4, dist: \"student-t\", type: \"crit\"}]\n  }else\n  {\n    return [{x: Math.abs(tcrit), y: max_y/4, dist: \"student-t\", type: \"crit\"}]\n  }\n}\n\n\n\n\n\n\n\ntobsdata = {\n  if (twosided){\n    return [{x: tobs, y: 0, dist: \"student-t\", type: \"obs\"}, {x: -tobs, y: 0, dist: \"student-t\", type: \"obs\"}]\n  }else if (alternative == 'less than'){\n    return [{x: -Math.abs(tobs), y: 0, dist: \"student-t\", type: \"obs\"}]\n  }else\n  {\n    return [{x: Math.abs(tobs), y: 0, dist: \"student-t\", type: \"obs\"}]\n  }\n}\n\n\n\n\n\n\n\nconclusioncolor = {\n  if(pvaluestudentt &lt; alpha){\n    return \"red\"\n  }else{\n    return \"steelblue\"\n  }\n}\n\n\n\n\n\n\n\nnudge = 1.1\nbignudge = 1.3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nplt = Plot.plot({\n    width: 800, // or a dynamic value based on `width` variable\n    height: 600,\n    style: {fontSize: \"16px\"},\n    color: {\n      legend: false\n    },\n    x: {\n      label: \"t-statistic\",\n      axis: true,\n      domain: [-10,10]\n    },\n    y: {\n      axis: false,\n      domain: [0,max_y]\n    },\n    marks: [\n      Plot.ruleY([0]),\n      Plot.line(pdfdata, {filter: d =&gt; d.dist == \"student-t\" && d.type == \"pdf\", x: \"x\", y: \"pdf\", stroke : \"dist\", strokeWidth: 2}),\n      Plot.areaY(pdfdata, {filter: d =&gt; showpvalue && side == \"left\" && d.x &lt;= tobs && \n          d.dist == \"student-t\" && d.type == \"pdf\", x: \"x\", y: \"pdf\", fill: \"orange\", opacity: 0.5}),\n      Plot.areaY(pdfdata, {filter: d =&gt; showpvalue && side == \"right\" && d.x &gt;= tobs && \n        d.dist == \"student-t\" && d.type == \"pdf\", x: \"x\", y: \"pdf\", fill: \"orange\", opacity: 0.5}),\n      Plot.areaY(pdfdata, {filter: d =&gt; showpvalue && side == \"both\" && d.x &lt;= -Math.abs(tobs) && \n          d.dist == \"student-t\" && d.type == \"pdf\", x: \"x\", y: \"pdf\", fill: \"orange\", opacity: 0.5}),\n      Plot.areaY(pdfdata, {filter: d =&gt; showpvalue && side == \"both\" && d.x &gt;= Math.abs(tobs) && \n        d.dist == \"student-t\" && d.type == \"pdf\", x: \"x\", y: \"pdf\", fill: \"orange\", opacity: 0.5}),\n      \n      Plot.dot([{x: tobs, y: 0}], {x: \"x\", y: \"y\", fill: conclusioncolor, symbol: \"circle\", r: 5}),\n      Plot.arrow([{x1: tobs, y1: max_y/12, x2:tobs, y2: 0.01}], {x1: \"x1\", y1: \"y1\", x2: \"x2\", y2: \"y2\", stroke: conclusioncolor}),\n      Plot.text([{x1: tobs, y1: bignudge*max_y/12, texter: \"t(obs)\"}], {x: \"x1\", y: \"y1\", text: \"texter\", fontSize: textfontsize}),\n      \n      Plot.ruleX([{x: tcrit, y: max_y/4}], {filter: d =&gt; showcrit && side == \"both\", x: \"x\", y: \"y\", fill: \"green\"}),\n      Plot.ruleX([{x: -tcrit, y: max_y/4}], {filter: d =&gt; showcrit && side == \"both\", x: \"x\", y: \"y\", fill: \"green\"}),\n      Plot.text([{x1: tcrit, y1: nudge*max_y/4, texter: \"t(crit)\"}], \n                {filter: d =&gt; showcrit && side == \"both\",x: \"x1\", y: \"y1\", text: \"texter\", fontSize: textfontsize}),\n      Plot.text([{x1: -tcrit, y1: nudge*max_y/4, texter: \"-t(crit)\"}], \n                {filter: d =&gt; showcrit && side == \"both\",x: \"x1\", y: \"y1\", text: \"texter\", fontSize: textfontsize}),\n\n      Plot.ruleX([{x: tcrit, y: max_y/4}], {filter: d =&gt; showcrit && side == \"right\", x: \"x\", y: \"y\", fill: \"green\"}),\n      Plot.text([{x1: tcrit, y1: nudge*max_y/4, texter: \"t(crit)\"}], \n                {filter: d =&gt; showcrit && side == \"right\",x: \"x1\", y: \"y1\", text: \"texter\", fontSize: textfontsize}),\n      \n      Plot.ruleX([{x: -tcrit, y: max_y/4}], {filter: d =&gt; showcrit && side == \"left\", x: \"x\", y: \"y\", fill: \"green\"}),\n      Plot.text([{x1: -tcrit, y1: nudge*max_y/4, texter: \"-t(crit)\"}], \n                {filter: d =&gt; showcrit && side == \"left\",x: \"x1\", y: \"y1\", text: \"texter\", fontSize: textfontsize}),\n\n      Plot.arrow([{x1: tcrit*bignudge, y1: max_y/6, x2:10, y2: max_y/6}], {filter: d =&gt; showcrit && side == \"right\", \n                                                                  x1: \"x1\", y1: \"y1\", x2: \"x2\", y2: \"y2\", stroke: \"red\"}),\n      Plot.arrow([{x1: -tcrit*bignudge, y1: max_y/6, x2:-10, y2: max_y/6}], {filter: d =&gt; showcrit && side == \"left\", \n                                                                    x1: \"x1\", y1: \"y1\", x2: \"x2\", y2: \"y2\", stroke: \"red\"}),\n      Plot.arrow([{x1: tcrit*bignudge, y1: max_y/6, x2:10, y2: max_y/6}], {filter: d =&gt; showcrit && side == \"both\", \n                                                                  x1: \"x1\", y1: \"y1\", x2: \"x2\", y2: \"y2\", stroke: \"red\"}),\n      Plot.arrow([{x1: -tcrit*bignudge, y1: max_y/6, x2:-10, y2: max_y/6}], {filter: d =&gt; showcrit && side == \"both\", \n                                                                    x1: \"x1\", y1: \"y1\", x2: \"x2\", y2: \"y2\", stroke: \"red\"}),\n      Plot.text([{x1: (-10 - tcrit*bignudge)/2, y1: max_y/4, texter: \"Reject H₀\"}], \n                {filter: d =&gt; showcrit && side == \"left\", x: \"x1\", y: \"y1\", text: \"texter\", fontSize: textfontsize}),\n      Plot.text([{x1: (10 + tcrit*bignudge)/2, y1: max_y/4, texter: \"Reject H₀\"}], \n                {filter: d =&gt; showcrit && side == \"right\", x: \"x1\", y: \"y1\", text: \"texter\", fontSize: textfontsize}),\n      Plot.text([{x1: (-10 - tcrit*bignudge)/2, y1: max_y/4, texter: \"Reject H₀\"}], \n                {filter: d =&gt; showcrit && side == \"both\", x: \"x1\", y: \"y1\", text: \"texter\", fontSize: textfontsize}),\n      Plot.text([{x1: (10 + tcrit*bignudge)/2, y1: max_y/4, texter: \"Reject H₀\"}], \n                {filter: d =&gt; showcrit && side == \"both\", x: \"x1\", y: \"y1\", text: \"texter\", fontSize: textfontsize})\n    ]\n  })\n\n\n\n\n\n\n\n\nFigure 2: https://observablehq.com/@mattiasvillani/hypothesis-test-mean?collection=@mattiasvillani/statistics"
+  },
+  {
+    "objectID": "slides/10-ht.html#what-is-a-hypothesis-testing",
+    "href": "slides/10-ht.html#what-is-a-hypothesis-testing",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "What is a Hypothesis Testing?",
+    "text": "What is a Hypothesis Testing?\n\n\nA hypothesis is a claim or statement about a property of a population, often the value of a population parameter.\n\n The mean body temperature of humans is less than \\(98.6^{\\circ}\\) F, or \\(\\mu &lt; 98.6\\). \n Marquette students’ IQ scores has standard deviation equal to 15, or \\(\\sigma = 15\\). \n\n\n\n. . .\n\n\nNull hypothesis \\((H_0)\\): a statement that the value of a parameter is\n\n\nequal to some claim value\nthe negation of the alternative hypothesis\noften represents a skeptical perspective to be tested\n\n\n\nAlternative hypothesis \\((H_1\\) or \\(H_a)\\): a claim that the parameter is less than, greater than or not equal to some value.\n\nusually our research hypothesis of some new scientific theory or finding\n\n\n\n\n\n\nThe null hypothesis (H0) often represents either a skeptical perspective or a claim to be tested.\nThe alternative hypothesis (HA) is an alternative claim and is often represented by a range of possible parameter values.\nThe null hypothesis often represents a skeptical position or a perspective of “no difference”.\nThe alternative hypothesis generally represents a new or stronger perspective."
+  },
+  {
+    "objectID": "slides/10-ht.html#null-and-alternative-hypothesis",
+    "href": "slides/10-ht.html#null-and-alternative-hypothesis",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Null and Alternative Hypothesis",
+    "text": "Null and Alternative Hypothesis\n\nA \\(H_0\\) claim or \\(H_1\\) claim?\n\n\n The percentage of Marquette female students loving Japanese food is equal to 80%.\n On average, Marquette students consume less than 3 drinks per week. \n\n. . .\n\nA hypothesis testing 1 is a procedure to decide whether to reject \\(H_0\\) or not by how much evidence against \\(H_0\\).\n\n\nA hypothesis testing is a method for calculating the probability of making a specific observation under a working hypothesis, called the null hypothesis."
+  },
+  {
+    "objectID": "slides/10-ht.html#hypothesis-testing-example",
+    "href": "slides/10-ht.html#hypothesis-testing-example",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Hypothesis Testing Example",
+    "text": "Hypothesis Testing Example\n\n\nA person is charged with a crime.\n\nA jury decide whether the person is guilty or not.\nThe accuse is assumed to be innocent until the jury declares otherwise.\nOnly if overwhelming evidence of the person’s guilt can be shown is the jury expected to declare the person guilty, otherwise the person is considered not guilty.\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nWhat should be \\(H_0\\) and \\(H_a\\)?\n\n\n\nA person comes into court charged with a crime.\nA jury decide whether the person is guilty or not.\nEven though the person is charged with the crime, at the beginning of the trial (and until the jury declares otherwise) the accuse is assumed to be innocent.\nOnly if overwhelming evidence of the person’s guilt can be shown is the jury expected to declare the person guilty, otherwise the person is considered innocent.\n\n.question[ What should be \\(H_0\\) and \\(H_a\\)?]\n\n. . .\n\n\\(H_0:\\) The person is  not guilty  🙂\n\\(H_1:\\) The person is  guilty  😟\nEvidence:  Photos, videos, witness, fingerprint, DNA \nDecision Rule:  Jury’s voting \nConclusion: Verdict  “guilty”  or  “NOT enough evidence to convict”"
+  },
+  {
+    "objectID": "slides/10-ht.html#how-to-formally-do-a-statistical-hypothesis-testing",
+    "href": "slides/10-ht.html#how-to-formally-do-a-statistical-hypothesis-testing",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "How to Formally Do a Statistical Hypothesis Testing",
+    "text": "How to Formally Do a Statistical Hypothesis Testing\n\n\nStep 0: Check Method Assumptions\n\n\n\nStep 1: Set the \\(H_0\\) and \\(H_a\\) in Symbolic Form from a Claim\n\n\n\nStep 2: Set the Significance Level \\(\\alpha\\)\n\n\nStep 3: Calculate the Test Statistic (Evidence) \n\n\n\n(Decision Rule I: Critical Value Method)\n\n Step 4-c: Find the Critical Value \n Step 5-c: Draw a Conclusion Using Critical Value Method \n\n\n(Decision Rule II: P-Value Method)\n\n Step 4-p: Find the P-Value \n Step 5-p: Draw a Conclusion Using P-Value Method \n\n\n\n\nStep 6: Restate the Conclusion in Nontechnical Terms, and Address the Original Claim\n\n. . .\n\n😎 No worries, we will learn the steps step by step!"
+  },
+  {
+    "objectID": "slides/10-ht.html#the-new-treatment-is-effective",
+    "href": "slides/10-ht.html#the-new-treatment-is-effective",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\nA population of hypertension group is normal and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population, and \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\).\nGoal: Determine whether a new treatment is effective in reducing BP."
+  },
+  {
+    "objectID": "slides/10-ht.html#step-0-check-method-assumptions",
+    "href": "slides/10-ht.html#step-0-check-method-assumptions",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 0: Check Method Assumptions",
+    "text": "Step 0: Check Method Assumptions\nThe testing methods are based on normality or approximate normality by CLT.\n\nRandom sample\nNormally distributed and/or \\(n &gt; 30\\)"
+  },
+  {
+    "objectID": "slides/10-ht.html#the-new-treatment-is-effective-1",
+    "href": "slides/10-ht.html#the-new-treatment-is-effective-1",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population, and \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\).\nGoal: Determine whether a new treatment is effective in reducing BP."
+  },
+  {
+    "objectID": "slides/10-ht.html#step-1-set-the-h_0-and-h_1-from-a-claim",
+    "href": "slides/10-ht.html#step-1-set-the-h_0-and-h_1-from-a-claim",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 1: Set the \\(H_0\\) and \\(H_1\\) from a Claim",
+    "text": "Step 1: Set the \\(H_0\\) and \\(H_1\\) from a Claim\n\n👩‍🏫 The mean IQ score of statistics professors is higher than 120.\n\n. . .\n\n \\(\\begin{align}&H_0: \\mu \\le 120 \\\\ &H_1: \\mu &gt; 120 \\end{align}\\) \n💵 The mean starting salary for Marquette graduates who didn’t take MATH 4720 is less than $60,000.\n\n. . .\n\n \\(\\begin{align} &H_0: \\mu \\ge 60000 \\\\ &H_1: \\mu &lt; 60000 \\end{align}\\) \n📺 The mean time between uses of a TV remote control by males during commercials equals 5 sec.\n\n. . .\n\n \\(\\begin{align} &H_0: \\mu = 5 \\\\ &H_1: \\mu \\ne 5 \\end{align}\\) \n\n\n( \\(H_0\\) claim)"
+  },
+  {
+    "objectID": "slides/10-ht.html#the-new-treatment-is-effective-2",
+    "href": "slides/10-ht.html#the-new-treatment-is-effective-2",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\nA population of hypertension group is normal and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population, and \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\).\nGoal: Determine whether a new treatment is  effective in reducing BP .\n\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nThe claim that the new treatment is effective in reducing BP means the mean BP is less than 150. ( \\(H_1\\) claim )\n\n. . .\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\)"
+  },
+  {
+    "objectID": "slides/10-ht.html#step-2-set-the-significance-level-alpha",
+    "href": "slides/10-ht.html#step-2-set-the-significance-level-alpha",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 2: Set the Significance Level \\(\\alpha\\)\n",
+    "text": "Step 2: Set the Significance Level \\(\\alpha\\)\n\n\nThe significant level \\(\\alpha\\) determines how rare or unlikely our evidence must be in order to represent sufficient evidence against \\(H_0\\).\nAn \\(\\alpha\\) level of 0.05 implies that evidence occurring with probability lower than 5% will be considered sufficient evidence against \\(H_0\\) (Reject \\(H_0\\)).\n\\(\\alpha = P(\\text{Reject } H_0 \\mid H_0 \\text{ is true})\\)\n\n\n\n\n\n\n\n\n\n\n\n\n\nRare Event Rule: If, under a given assumption, the probability of a particular observed event is exceptional small, we conclude that the assumption is probably not correct.\n\n\n\n\n\n\n\\(\\alpha\\) is like a threshold. If our collected evidence has a smaller probability than \\(\\alpha\\) happening, then the current assumption or claim is probably not correct.\nIf the true mean IQ of statistics professors is 120, \\(\\alpha \\%\\) of them will have IQ greater than 125.\nThe level \\(\\alpha\\) is related to \\(\\alpha\\) used in confidence intervals for defining a “critical value”.\n\n\\(\\alpha = 0.05\\) means that we incorrectly reject \\(H_0\\) 5 out of every 100 times we collect a sample and run the test."
+  },
+  {
+    "objectID": "slides/10-ht.html#the-new-treatment-is-effective-3",
+    "href": "slides/10-ht.html#the-new-treatment-is-effective-3",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population, and \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\).\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \n\n. . .\n\nSet \\(\\alpha= 0.05\\). We are asking: Is there a sufficient evidence at \\(\\alpha= 0.05\\) that the new treatment is effective?"
+  },
+  {
+    "objectID": "slides/10-ht.html#step-3-calculate-the-test-statistic",
+    "href": "slides/10-ht.html#step-3-calculate-the-test-statistic",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 3: Calculate the Test Statistic",
+    "text": "Step 3: Calculate the Test Statistic\n\nA test statistic is a statistic value used in making a decision about the \\(H_0\\).\n\n\nSuppose  \\(H_0: \\mu = \\mu_0 \\quad H_1: \\mu &lt; \\mu_0\\) \nWhen computing a test statistic, we assume \\(H_0\\) is true.\nWhen \\(\\sigma\\) is known, the test statistic for testings about \\(\\mu\\) is\n\n\\[\\small \\boxed{ z_{test} = \\frac{\\overline{x} - \\color{blue}{\\mu_0}}{\\sigma/\\sqrt{n}} }\\]\n\nGuess what test statistic we use when \\(\\sigma\\) is unknown!\n\n. . .\n\nWhen \\(\\sigma\\) is unknown, the test statistic for testings about \\(\\mu\\) is\n\n\\[\\small \\boxed{ t_{test} = \\frac{\\overline{x} - \\color{blue}{\\mu_0}}{s/\\sqrt{n}} }\\]"
+  },
+  {
+    "objectID": "slides/10-ht.html#the-new-treatment-is-effective-4",
+    "href": "slides/10-ht.html#the-new-treatment-is-effective-4",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \n\n. . .\n\n The test statistic is \\(\\small t_{test} = \\frac{\\overline{x} - \\mu_0}{s/\\sqrt{n}} =  \\frac{147.2 - 150}{5.5/\\sqrt{25}} = -2.55\\)"
+  },
+  {
+    "objectID": "slides/10-ht.html#step-4-c-find-the-critical-value",
+    "href": "slides/10-ht.html#step-4-c-find-the-critical-value",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 4-c: Find the Critical Value",
+    "text": "Step 4-c: Find the Critical Value\n\nThe critical value(s) separates the rejection region or critical region (where we reject \\(H_0\\)) from the values of the test statistic that do not lead to rejection of \\(H_0\\).\n\nThey depends on whether the test is right-tailed, left-tailed or two-tailed.\n\n\n\n\n\n\n\n\n\n\n\n\nIn the absence of prior evidence that people typically wish to be lighter (or heavier), it is reasonable to begin with an alternative hypothesis that allows for differences in either direction. A one-sided alternative could be used if, for example, an investigator felt there was prior evidence that people typically wish to weigh less than they currently do:"
+  },
+  {
+    "objectID": "slides/10-ht.html#step-4-c-find-the-critical-value-1",
+    "href": "slides/10-ht.html#step-4-c-find-the-critical-value-1",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 4-c: Find the Critical Value",
+    "text": "Step 4-c: Find the Critical Value\n\n👉 \\(z_{\\alpha}\\) is such that \\(P(Z &gt; z_{\\alpha}) = \\alpha\\) and \\(Z \\sim N(0, 1)\\).\n👉 \\(t_{\\alpha, n-1}\\) is such that \\(P(T &gt; t_{\\alpha, n-1}) = \\alpha\\) and \\(T \\sim t_{n-1}\\).\n\n\n\n\n\n\n\n\n\nCondition    \n\nRight-tailed \\((H_1: \\mu &gt; \\mu_0)\\)\n\n\nLeft-tailed \\((H_1: \\mu &lt; \\mu_0)\\)\n\n\nTwo-tailed \\((H_1: \\mu \\ne \\mu_0)\\)\n\n\n\n\n\n\\(\\sigma\\) known\n\\(z_{\\alpha}\\)\n\\(-z_{\\alpha}\\)\n\n\\(-z_{\\alpha/2}\\) and \\(z_{\\alpha/2}\\)\n\n\n\n\n\\(\\sigma\\) unknown\n\\(t_{\\alpha, n-1}\\)\n\\(-t_{\\alpha, n-1}\\)\n\n\\(-t_{\\alpha/2, n-1}\\) and \\(t_{\\alpha/2, n-1}\\)\n\n\n\n\n\n\\(z_{0.025} =\\) 1.96, \\(z_{0.05} =\\) 1.64\n\\(z_{\\alpha}\\) and \\(t_{\\alpha, n-1}\\) are always positive."
+  },
+  {
+    "objectID": "slides/10-ht.html#the-new-treatment-is-effective-5",
+    "href": "slides/10-ht.html#the-new-treatment-is-effective-5",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \n The test statistic is \\(\\small t_{test} = \\frac{\\overline{x} - \\mu_0}{s/\\sqrt{n}} =  \\frac{147.2 - 150}{5.5/\\sqrt{25}} = -2.55\\)\n\n. . .\n\n The critical value is \\(\\small -t_{0.05, 25-1} = -t_{0.05, 24} = -1.711\\)"
+  },
+  {
+    "objectID": "slides/10-ht.html#step-5-c-draw-a-conclusion-using-critical-value",
+    "href": "slides/10-ht.html#step-5-c-draw-a-conclusion-using-critical-value",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 5-c: Draw a Conclusion Using Critical Value",
+    "text": "Step 5-c: Draw a Conclusion Using Critical Value\nIf the test statistic is\n\nin the rejection region, we reject \\(H_0\\).\nnot in the rejection region, we do not or fail to reject \\(H_0\\).\n\nReject \\(H_0\\) if\n\n\n\n\n\n\n\n\n\nCondition    \n\nRight-tailed \\((H_1: \\mu &gt; \\mu_0)\\)\n\n\nLeft-tailed \\((H_1: \\mu &lt; \\mu_0)\\)\n\n\nTwo-tailed \\((H_1: \\mu \\ne \\mu_0)\\)\n\n\n\n\n\n\\(\\sigma\\) known\n\\(z_{test} &gt; z_{\\alpha}\\)\n\\(z_{test} &lt; -z_{\\alpha}\\)\n\\(\\mid z_{test}\\mid \\, &gt; z_{\\alpha/2}\\)\n\n\n\n\\(\\sigma\\) unknown\n\\(t_{test} &gt; t_{\\alpha, n-1}\\)\n\\(t_{test} &lt; -t_{\\alpha, n-1}\\)\n\\(\\mid t_{test}\\mid \\, &gt; t_{\\alpha/2, n-1}\\)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(|z_{test}| &gt; z_{\\alpha/2}\\)\\(|t_{test}| &gt; t_{\\alpha/2, n-1}\\)"
+  },
+  {
+    "objectID": "slides/10-ht.html#the-new-treatment-is-effective-6",
+    "href": "slides/10-ht.html#the-new-treatment-is-effective-6",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \n The test statistic is \\(\\small t_{test} = \\frac{\\overline{x} - \\mu_0}{s/\\sqrt{n}} =  \\frac{147.2 - 150}{5.5/\\sqrt{25}} = -2.55\\)\n The critical value is \\(\\small -t_{0.05, 25-1} = -t_{0.05, 24} = -1.711\\) \n\n. . .\n\n We reject \\(H_0\\) if \\(t_{test} &lt; -t_{\\alpha, n-1}\\). Since \\(\\small t_{test} = -2.55 &lt; -1.711 = -t_{\\alpha, n-1}\\), we reject \\(H_0\\)."
+  },
+  {
+    "objectID": "slides/10-ht.html#step-4-p-find-the-p-value",
+    "href": "slides/10-ht.html#step-4-p-find-the-p-value",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 4-p: Find the P-Value",
+    "text": "Step 4-p: Find the P-Value\n\nThe \\(p\\)-value measures the strength of the evidence against \\(H_0\\) provided by the data.\nThe smaller the \\(p\\)-value, the greater the evidence against \\(H_0\\).\n\nThe \\(p\\)-value is the probability of getting a test statistic value that is at least as extreme as the one obtained from the data, assuming that \\(H_0\\) is true. \\((\\mu = \\mu_0)\\)\n\nFor example, \\(p\\)-value \\(= P(Z \\ge z_{test} \\mid H_0)\\) for a right-tailed test.\n\n\n\n\n\nWhat is the chance of having evidence that is more unlikely to happen than our current collected evidence?"
+  },
+  {
+    "objectID": "slides/10-ht.html#p-value-illustration",
+    "href": "slides/10-ht.html#p-value-illustration",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "P-Value Illustration",
+    "text": "P-Value Illustration"
+  },
+  {
+    "objectID": "slides/10-ht.html#the-new-treatment-is-effective-7",
+    "href": "slides/10-ht.html#the-new-treatment-is-effective-7",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \nThis is a left-tailed test, so the \\(p\\)-value is \\(P(T &lt; t_{test})=P(T &lt; -2.55) =\\) 0.01 \n\n\n\nStep 5-p:  We reject \\(H_0\\) if \\(p\\)-value &lt; \\(\\alpha\\). Since \\(p\\)-value \\(= 0.0088 &lt; 0.05 = \\alpha\\), we reject \\(H_0\\).\n\nStep 6:  There is sufficient evidence to support the claim that the new treatment is effective."
+  },
+  {
+    "objectID": "slides/10-ht.html#step-5-p-draw-a-conclusion-using-p-value-method",
+    "href": "slides/10-ht.html#step-5-p-draw-a-conclusion-using-p-value-method",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 5-p: Draw a Conclusion Using P-Value Method",
+    "text": "Step 5-p: Draw a Conclusion Using P-Value Method\n\nIf \\(p\\)-value \\(\\le \\alpha\\) , reject \\(H_0\\).\nIf \\(p\\)-value \\(&gt; \\alpha\\), do not reject \\(H_0\\).\n\n\n\n\n\n\n\n\n\nCondition    \n\nRight-tailed \\((H_1: \\mu &gt; \\mu_0)\\)\n\n\nLeft-tailed \\((H_1: \\mu &lt; \\mu_0)\\)\n\n\nTwo-tailed \\((H_1: \\mu \\ne \\mu_0)\\)\n\n\n\n\n\n\\(\\sigma\\) known\n\\(P(Z &gt; z_{test} \\mid H_0)\\)\n\\(P(Z &lt; z_{test} \\mid H_0)\\)\n\\(2P(Z &gt; \\,\\mid z_{test} \\mid \\, \\mid H_0)\\)\n\n\n\n\\(\\sigma\\) unknown\n\\(P(T &gt; t_{test} \\mid H_0)\\)\n\\(P(T &lt; t_{test} \\mid H_0)\\)\n\\(2P(T &gt; \\, \\mid t_{test} \\mid  \\, \\mid H_0)\\)\n\n\n\n\n\\(2P(Z &gt; z_{test} \\mid H_0)\\) if \\(z_{test}\\) on the right \\(2P(Z &lt; z_{test} \\mid H_0)\\) if \\(z_{test}\\) on the left \\(2P(T &gt; t_{test} \\mid H_0)\\) if \\(t_{test}\\) on the right \\(2P(T &lt; t_{test} \\mid H_0)\\) if \\(t_{test}\\) on the left"
+  },
+  {
+    "objectID": "slides/10-ht.html#the-new-treatment-is-effective-8",
+    "href": "slides/10-ht.html#the-new-treatment-is-effective-8",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \nThis is a left-tailed test, so the \\(p\\)-value is \\(P(T &lt; t_{test})=P(T &lt; -2.55) =\\) 0.01 \n\n. . .\n\n We reject \\(H_0\\) if \\(p\\)-value &lt; \\(\\alpha\\). Since \\(p\\)-value \\(= 0.01 &lt; 0.05 = \\alpha\\), we reject \\(H_0\\).\n\n\n\nStep 6:  There is sufficient evidence to support the claim that the new treatment is effective."
+  },
+  {
+    "objectID": "slides/10-ht.html#both-methods-lead-to-the-same-conclusion",
+    "href": "slides/10-ht.html#both-methods-lead-to-the-same-conclusion",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Both Methods Lead to the Same Conclusion",
+    "text": "Both Methods Lead to the Same Conclusion"
+  },
+  {
+    "objectID": "slides/10-ht.html#step-6-restate-the-conclusion-in-nontechnical-terms-and-address-the-original-claim",
+    "href": "slides/10-ht.html#step-6-restate-the-conclusion-in-nontechnical-terms-and-address-the-original-claim",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Step 6: Restate the Conclusion in Nontechnical Terms, and Address the Original Claim",
+    "text": "Step 6: Restate the Conclusion in Nontechnical Terms, and Address the Original Claim\n\n\n\n\n\nhttps://www.drdawnwright.com/category/statistics/"
+  },
+  {
+    "objectID": "slides/10-ht.html#section-2",
+    "href": "slides/10-ht.html#section-2",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "",
+    "text": "https://www.pinterest.com/pin/287878601159173631/\n\n\n\n\n\nNote! Why can’t we say we “accept the null”? The reason is that we are assuming the null hypothesis is true and trying to see if there is evidence against it. Therefore, the conclusion should be in terms of rejecting the null."
+  },
+  {
+    "objectID": "slides/10-ht.html#the-new-treatment-is-effective-9",
+    "href": "slides/10-ht.html#the-new-treatment-is-effective-9",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "The New Treatment is Effective?",
+    "text": "The New Treatment is Effective?\n\n\n\n\n A population of hypertension group is normal  and has mean blood pressure (BP) 150.\nAfter 6 months of treatment, BP was recorded on 25 patients of this population,  \\(\\overline{x} = 147.2\\) and \\(s = 5.5\\) .\nGoal: Determine whether a new treatment is effective in reducing BP.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \\(\\small \\begin{align} &H_0: \\mu = 150 \\\\ &H_1: \\mu &lt; 150 \\end{align}\\) \n There is sufficient evidence to support the claim that the new treatment is effective."
+  },
+  {
+    "objectID": "slides/10-ht.html#example-calculation-in-r",
+    "href": "slides/10-ht.html#example-calculation-in-r",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Example Calculation in R",
+    "text": "Example Calculation in R\n\n## create objects for any information we have\nalpha &lt;- 0.05; mu_0 &lt;- 150; \nx_bar &lt;- 147.2; s &lt;- 5.5; n &lt;- 25\n\n## Test statistic\n(t_test &lt;- (x_bar - mu_0) / (s / sqrt(n))) \n\n[1] -2.545\n\n## Critical value\n(t_cri &lt;- qt(alpha, df = n - 1, lower.tail = TRUE)) \n\n[1] -1.711\n\n## p-value\n(p_val &lt;- pt(t_test, df = n - 1, lower.tail = TRUE)) \n\n[1] 0.008878\n\n\n\n\n\n[1] \"Reject H0 by crit. value\"\n\n\n[1] \"Reject H0 by p-value\""
+  },
+  {
+    "objectID": "slides/10-ht.html#example-2-two-tailed-z-test",
+    "href": "slides/10-ht.html#example-2-two-tailed-z-test",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Example 2: Two-tailed z-test",
+    "text": "Example 2: Two-tailed z-test\n\n\nThe milk price of a gallon of 2% milk is normally distributed with standard deviation of $0.10.\n\nLast week the mean milk price was 2.78. This week, based on a sample of size 25, the sample mean milk price \\(\\overline{x} = 2.80\\).\nUnder \\(\\alpha = 0.05\\), determine if this week the mean price is different.\n\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nStep 1: This is a \\(H_1\\) claim  \\(\\small \\begin{align}&H_0: \\mu = 2.78 \\\\ &H_1: \\mu \\ne 2.78 \\end{align}\\) \n\n\n. . .\n\nStep 2:  \\(\\small \\alpha = 0.05\\) \n\n\n. . .\n\nStep 3:  \\(\\small z_{test} = \\frac{\\overline{x} - \\mu_0}{\\sigma/\\sqrt{n}} =  \\frac{2.8 - 2.78}{0.1/\\sqrt{25}} = 1.00\\) \n\n\n. . .\n\nStep 4-c:  \\(\\small z_{0.05/2} = 1.96\\). \n\n\n. . .\n\nStep 5-c: This is a two-tailed test and we reject \\(H_0\\) if \\(|z_{test}| &gt; z_{\\alpha/2}\\). Since \\(\\small |z_{test}| = 1 &lt; 1.96 = z_{\\alpha/2}\\), we DO NOT reject \\(H_0\\)."
+  },
+  {
+    "objectID": "slides/10-ht.html#example-2-two-tailed-z-test-contd",
+    "href": "slides/10-ht.html#example-2-two-tailed-z-test-contd",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Example 2: two-tailed z-test Cont’d",
+    "text": "Example 2: two-tailed z-test Cont’d\n\nStep 4-p: This is a two-tailed test, and the test statistic is on the right \\((&gt; 0)\\), so the \\(p\\)-value is \\(2P(Z &gt; z_{test})=\\) 0.317 \n\n\n. . .\n\nStep 5-p:  We reject \\(H_0\\) if \\(p\\)-value &lt; \\(\\alpha\\). Since \\(p\\)-value \\(= 0.317 &gt; 0.05 = \\alpha\\), we DO NOT reject \\(H_0\\).\n\n\n. . .\n\nStep 6:  There is insufficient evidence to support the claim that this week the mean milk price is different from the price last week."
+  },
+  {
+    "objectID": "slides/10-ht.html#example-2-calculation-in-r",
+    "href": "slides/10-ht.html#example-2-calculation-in-r",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Example 2 Calculation in R",
+    "text": "Example 2 Calculation in R\n\n## create objects to be used\nalpha &lt;- 0.05; mu_0 &lt;- 2.78; \nx_bar &lt;- 2.8; sigma &lt;- 0.1; n &lt;- 25\n\n## Test statistic\n(z_test &lt;- (x_bar - mu_0) / (sigma / sqrt(n))) \n\n[1] 1\n\n## Critical value\n(z_crit &lt;- qnorm(alpha/2, lower.tail = FALSE)) \n\n[1] 1.96\n\n## p-value\n(p_val &lt;- 2 * pnorm(z_test, lower.tail = FALSE)) \n\n[1] 0.3173\n\n\n\n\n\n[1] \"Do not reject H0 by critical value method\"\n\n\n[1] \"Do not reject H0 by p-value method\""
+  },
+  {
+    "objectID": "slides/10-ht.html#testing-summary",
+    "href": "slides/10-ht.html#testing-summary",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Testing Summary",
+    "text": "Testing Summary\n\n\n\n\n\n\n\n\nNumerical Data, \\(\\sigma\\) known\nNumerical Data, \\(\\sigma\\)  unknown \n\n\n\n\nParameter of Interest\nPopulation Mean \\(\\mu\\)\n\nPopulation Mean \\(\\mu\\)\n\n\n\nTest Type\nOne sample \\(\\color{blue}{z}\\) test \\(H_0: \\mu = \\mu_0\\)\n\nOne sample \\(\\color{blue}{t}\\) test \\(H_0: \\mu = \\mu_0\\)\n\n\n\nConfidence Interval\n\\(\\bar{x} \\pm z_{\\alpha/2} \\frac{\\sigma}{\\sqrt{n}}\\)\n\\(\\bar{x} \\pm t_{\\alpha/2, n-1} \\frac{\\color{blue}{s}}{\\sqrt{n}}\\)\n\n\nTest Stat under \\(H_0\\)\n\\(z_{test} = \\frac{\\overline{x} - \\mu_0}{\\frac{\\sigma}{\\sqrt{n}}}\\)\n\\(t_{test} = \\frac{\\overline{x} - \\mu_0}{\\frac{\\color{blue}{s}}{\\sqrt{n}}}\\)\n\n\n\\(p\\)-value under \\(H_0\\)\n\n\\(H_1: \\mu &lt; \\mu_0\\) \\(p\\)-value \\(=P(Z \\le z_{test})\\)\n\n\n\\(H_1: \\mu &lt; \\mu_0\\) \\(p\\)-value \\(=P(T_{n-1} \\le t_{test})\\)\n\n\n\n\n\n\\(H_1: \\mu &gt; \\mu_0\\) \\(p\\)-value \\(=P(Z \\ge z_{test})\\)\n\n\n\\(H_1: \\mu &lt; \\mu_0\\) \\(p\\)-value \\(=P(T_{n-1} \\ge t_{test})\\)\n\n\n\n\n\n\\(H_1: \\mu \\ne \\mu_0\\) \\(p\\)-value \\(=2P(Z \\ge \\, \\mid z_{test}\\mid)\\)\n\n\n\\(H_1: \\mu \\ne \\mu_0\\) \\(p\\)-value \\(=2P(T_{n-1} \\ge  \\, \\mid t_{test} \\mid)\\)"
+  },
+  {
+    "objectID": "slides/10-ht.html#type-i-and-type-ii-errors",
+    "href": "slides/10-ht.html#type-i-and-type-ii-errors",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Type I and Type II Errors",
+    "text": "Type I and Type II Errors\n\n\nDecision\n\n\\(H_0\\) is true\n\n\\(H_0\\) is false\n\n\n\nReject \\(H_0\\)\n\nType I error\nCorrect decision\n\n\nDo not reject \\(H_0\\)\n\nCorrect decision\nType II error\n\n\n\n. . .\n\nBack to the crime example: \\(H_0:\\) The person is  not guilty  v.s. \\(H_1:\\) The person is  guilty \n\n\n\n\n\n\n\n\nDecision\nTruth is the person innocent\nTruth is the person guilty\n\n\n\nJury decides the person guilty\nType I error\nCorrect decision\n\n\nJury decides the person innocent\nCorrect decision\nType II error\n\n\n\n\n\nIn practice, we will not know for certain if we made the correct decision or if we made one of these two errors."
+  },
+  {
+    "objectID": "slides/10-ht.html#type-i-and-type-ii-errors-1",
+    "href": "slides/10-ht.html#type-i-and-type-ii-errors-1",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Type I and Type II Errors",
+    "text": "Type I and Type II Errors\n\n\\(\\alpha = P(\\text{type I error}) = P(\\text{rejecting } H_0 \\text{ when } H_0 \\text{ is true})\\)\n\\(\\beta = P(\\text{type II error}) = P(\\text{failing to reject } H_0 \\text{ when } H_0 \\text{ is false})\\)\n\n\n\n\n\n\nhttps://www.statisticssolutions.com/wp-content/uploads/2017/12/rachnovblog.jpg"
+  },
+  {
+    "objectID": "slides/10-ht.html#footnotes",
+    "href": "slides/10-ht.html#footnotes",
+    "title": "Statistical Inference: Hypothesis Testing \n",
+    "section": "Footnotes",
+    "text": "Footnotes\n\nNull Hypothesis Statistical Testing (NHST), statistical testing or test of significance.↩︎"
   }
 ]

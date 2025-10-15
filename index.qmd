@@ -27,9 +27,9 @@ format:
 | 7 | Mon, Oct 6 | **In-class Exam 1** |  |  |  |  |  | [Take-home Exam 1](exam/take_home_exam1.html) |
 |  | Wed, Oct 8 | Confidence Intervals | [🖥️ confidence interval](/slides/09-ci-slides.html) <br> 👉[CI](ojs/infer-ci-ojs.html) | [IS Ch 14](https://chenghanyu-introstatsbook.netlify.app/infer-ci) | [`r fontawesome::fa("file-code")`](code/13-infer-ci.R) (confidence interval) |  |  |  |
 | 8 | Mon, Oct 13 | Confidence Intervals [**Activity: How Much Do Students Sleep?**](activity/act_ci.html) | 👉[Student-t](ojs/infer-ci-t-ojs.html) |  |  |  |  |  |
-|  | Wed, Oct 15 | Hypothesis Testing |  | IS Ch 16 |  | ✍️ HW 5 |  |  |
-| 9 | Mon, Oct 20 | Comparing Two Population Means | 🖥️ | IS Ch 17 | `r fontawesome::fa("file-code")` |  |  |  |
-|  | Wed, Oct 22 | Comparing Two Population Means |  | IS Ch 17 |  | ✍️ HW 6 |  |  |
+|  | Wed, Oct 15 | Hypothesis Testing | [🖥️ testing](/slides/10-ht-slides.html)<br> 👉[testing](ojs/infer-ht-ojs.html) | [IS Ch 16](https://chenghanyu-introstatsbook.netlify.app/infer-ht) | [`r fontawesome::fa("file-code")`](code/15-infer-ht.R) (testing) | ✍️ HW 5 |  |  |
+| 9 | Mon, Oct 20 | Comparing Two Population Means | 🖥️ | IS Ch 17 |  |  |  |  |
+|  | Wed, Oct 22 | Comparing Two Population Means |  | IS Ch 17 | `r fontawesome::fa("file-code")` | ✍️ HW 6 |  |  |
 | 10 | Mon, Oct 27 | Inference about Population Variances | 🖥️ | IS Ch 18 | `r fontawesome::fa("file-code")` |  |  |  |
 |  | Wed, Oct 29 | Inference about Population Variances |  | IS Ch 18 |  | ✍️ HW 7 | ✅ Quiz 3 |  |
 | 11 | Mon, Nov 3 | Analysis of Variance (ANOVA) | 🖥️ | IS Ch 24 | `r fontawesome::fa("file-code")` |  |  |  |
