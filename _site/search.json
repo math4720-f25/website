@@ -2470,7 +2470,7 @@
     "href": "index.html",
     "title": "MATH 4720 (MSSC 5720) Statistical Methods Fall 2025",
     "section": "",
-    "text": "The website is for Section-101 2 - 3:15 PM and Section-102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nMaterials\nReading\nR Code\nHomework\nQuiz/Exercise\nExam/Project\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ statistics and data\n\n\nSyllabusIS Ch1GenAI Video\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n\nIS Ch 2\n\n✍️ HW 1 (due 9/5)\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n\n🖥️ R and RStudio🖥️ data type and structure\n\nIS Ch 3\n\n (data type and structure)\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n\n🖥️ data summary👉histogram breaks👉data extremes\n\nIS Ch 5 - 6\n\n (data graphics)\n\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n\nIS Ch 5 - 6\n\n (data numerics)\n✍️ HW 2 (due 9/19)\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n\n🖥️ probability👉venn diagram\n\nIS Ch 7 - 8\n\n\n\n\n\n\n\nWed, Sep 17\nConditional Probability, Independence, Bayes Formula\n\nIS Ch 9\n\n✍️ HW 3 (due 9/26)\n✅ Quiz 1\n\n\n\n5\nMon, Sep 22\nRandom Variables, Discrete Probability Distributions\n\n🖥️ distribution 👉binomial👉poisson\n\nIS Ch 10\n\n (discrete distribution)\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions Activity: Match the Scenario to the Distribution\n\n👉normal\n\nIS Ch 11\n\n (continuous distribution)\n✍️ HW 4 (due 10/3)\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️ sampling-dist-clt\nIS Ch 12\n\n (sampling distribution and CLT)\n\n📋 Exercise for Exam 1\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem (CLT)\n👉CLT 👉Rolling dice\n\nIS Ch 13\n\n\n✅ Quiz 2\n\n\n\n7\nMon, Oct 6\nIn-class Exam 1\n\n\n\n\n\nTake-home Exam 1\n\n\n\nWed, Oct 8\nConfidence Intervals\n\n🖥️ confidence interval  👉CI\n\nIS Ch 14\n\n (confidence interval)\n\n\n\n\n\n8\nMon, Oct 13\nConfidence Intervals Activity: How Much Do Students Sleep?\n\n👉Student-t\n\n\n\n\n\n\n\n\n\nWed, Oct 15\nHypothesis Testing\n\n🖥️ testing 👉testing\n\nIS Ch 16\n\n (testing)\n✍️ HW 5 (due 10/24)\n\n\n\n\n9\nMon, Oct 20\nComparing Two Population Means\n🖥️\nIS Ch 17\n\n\n\n\n\n\n\nWed, Oct 22\nComparing Two Population Means\n\nIS Ch 17\n\n✍️ HW 6\n\n\n\n\n10\nMon, Oct 27\nInference about Population Variances\n🖥️\nIS Ch 18\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Population Variances\n\nIS Ch 18\n\n✍️ HW 7\n✅ Quiz 3\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA)\n🖥️\nIS Ch 24\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA)\n\nIS Ch 24\n\n\n\n\n\n\n12\nMon, Nov 10\nIn-class Exam 2\n\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n🖥️\nIS Ch 25\n\n\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\nIS Ch 27.1\n\n\n\n\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\nIS Ch 27.2 - 27.3\n\n\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\nIS Ch 27.4 - 27.6\n\n\n\n\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n✍️ HW 8\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\nIS Ch 19\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\nIS Ch 20\n\n\n✅ Quiz 4\n\n\n\n16\n\nWed, Dec 10, 10:30 AM - 12:30 PM\n\nIn-class Final Exam (Sec101-2PM)\n\n\n\n\n\n\n\n\n\nFri, Dec 12, 8- 10 AM\nIn-class Final Exam (Sec102-3:30PM)\n\n\n\n\n\n\n\n\n\n\nI reserve the right to make changes to the schedule.",
+    "text": "The website is for Section-101 2 - 3:15 PM and Section-102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nMaterials\nReading\nR Code\nHomework\nQuiz/Exercise\nExam/Project\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ statistics and data\n\n\nSyllabusIS Ch1GenAI Video\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n\nIS Ch 2\n\n✍️ HW 1 (due 9/5)\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n\n🖥️ R and RStudio🖥️ data type and structure\n\nIS Ch 3\n\n (data type and structure)\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n\n🖥️ data summary👉histogram breaks👉data extremes\n\nIS Ch 5 - 6\n\n (data graphics)\n\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n\nIS Ch 5 - 6\n\n (data numerics)\n✍️ HW 2 (due 9/19)\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n\n🖥️ probability👉venn diagram\n\nIS Ch 7 - 8\n\n\n\n\n\n\n\nWed, Sep 17\nConditional Probability, Independence, Bayes Formula\n\nIS Ch 9\n\n✍️ HW 3 (due 9/26)\n✅ Quiz 1\n\n\n\n5\nMon, Sep 22\nRandom Variables, Discrete Probability Distributions\n\n🖥️ distribution 👉binomial👉poisson\n\nIS Ch 10\n\n (discrete distribution)\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions Activity: Match the Scenario to the Distribution\n\n👉normal\n\nIS Ch 11\n\n (continuous distribution)\n✍️ HW 4 (due 10/3)\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️ sampling-dist-clt\nIS Ch 12\n\n (sampling distribution and CLT)\n\n📋 Exercise for Exam 1\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem (CLT)\n👉CLT 👉Rolling dice\n\nIS Ch 13\n\n\n✅ Quiz 2\n\n\n\n7\nMon, Oct 6\nIn-class Exam 1\n\n\n\n\n\nTake-home Exam 1\n\n\n\nWed, Oct 8\nConfidence Intervals\n\n🖥️ confidence interval  👉CI\n\nIS Ch 14\n\n (confidence interval)\n\n\n\n\n\n8\nMon, Oct 13\nConfidence Intervals Activity: How Much Do Students Sleep?\n\n👉Student-t\n\n\n\n\n\n\n\n\n\nWed, Oct 15\nHypothesis Testing\n\n🖥️ testing 👉testing\n\nIS Ch 16\n\n (testing)\n✍️ HW 5 (due 10/24)\n\n\n\n\n9\nMon, Oct 20\nHypothesis Testing\n\n\n\n\n\n\n\n\n\nWed, Oct 22\nTwo Population Means: Matched Pairs\n🖥️ two samples\nIS Ch 17\n\n (two samples)\n✍️ HW 6\n\n\n\n\n10\nMon, Oct 27\nTwo Population Means: Independent Samples Inference for One Population Variance\n🖥️\nIS Ch 18\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Two Population Variances\n\nIS Ch 18\n\n✍️ HW 7\n✅ Quiz 3\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA) Rationale\n🖥️\nIS Ch 24\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA) Procedure\n\nIS Ch 24\n\n\n\n\n\n\n12\nMon, Nov 10\nIn-class Exam 2\n\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n🖥️\nIS Ch 25\n\n\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\nIS Ch 27.1\n\n\n\n\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\nIS Ch 27.2 - 27.3\n\n\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\nIS Ch 27.4 - 27.6\n\n\n\n\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n✍️ HW 8\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\nIS Ch 19\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\nIS Ch 20\n\n\n✅ Quiz 4\n\n\n\n16\n\nWed, Dec 10, 10:30 AM - 12:30 PM\n\nIn-class Final Exam (Sec101-2PM)\n\n\n\n\n\n\n\n\n\nFri, Dec 12, 8- 10 AM\nIn-class Final Exam (Sec102-3:30PM)\n\n\n\n\n\n\n\n\n\n\nI reserve the right to make changes to the schedule.",
     "crumbs": [
       "Course Information",
       "Schedule"
@@ -4480,5 +4480,411 @@
     "crumbs": [
       "Exercise"
     ]
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#why-comparing-two-populations",
+    "href": "slides/11-infer-two-means-slides.html#why-comparing-two-populations",
+    "title": "Comparing Two Population Means \n",
+    "section": "Why Comparing Two Populations",
+    "text": "Why Comparing Two Populations\n\n\nOften faced with a comparison of parameters from different populations.\n\n Comparing the mean annual income for Male and Female groups. \n Testing if a diet used for losing weight is effective from Placebo and New Diet samples. \n\n\n\n\n\nIf these two samples are drawn from populations with means \\(\\mu_1\\) and \\(\\mu_2\\) respectively,  \\[\\begin{align}\n&H_0: \\mu_1 = \\mu_2 \\\\\n&H_1: \\mu_1 &gt; \\mu_2\n\\end{align}\\] \n\n\n\\(\\mu_1\\): male mean annual income; \\(\\mu_2\\): female mean annual income\n\n\\(\\mu_1\\): mean weight loss from the New Diet group; \\(\\mu_2\\): mean weight loss from the Placebo group\n\n\n\n\n\nOften we are faced with an inference involving a comparison of parameters from different populations.\n\n Comparing the mean annual income for male and female groups. \n Testing if a diet used for losing weight is effective from Placebo samples and New Diet samples. \n\n\n\nIf these two samples are drawn from populations with means \\(\\mu_1\\) and \\(\\mu_2\\) respectively, then the testing problem can be formulated as  \\[\\begin{align}\n&H_0: \\mu_1 = \\mu_2 \\\\\n&H_1: \\mu_1 &gt; \\mu_2\n\\end{align}\\] \n\n\n\\(\\mu_1\\): male mean annual income; \\(\\mu_2\\): female mean annual income\n\n\\(\\mu_1\\): weight loss from the New Diet group; \\(\\mu_2\\): weight loss from the Placebo group"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#dependent-and-independent-samples",
+    "href": "slides/11-infer-two-means-slides.html#dependent-and-independent-samples",
+    "title": "Comparing Two Population Means \n",
+    "section": "Dependent and Independent Samples",
+    "text": "Dependent and Independent Samples\n\nThe two samples can be independent or dependent.\n\n\n\nTwo samples are dependent or matched pairs if the sample values are matched, where the matching is based on some inherent relationship.\n\n Height data of fathers and daughters. The height of each dad is matched with the height of his daughter. \n Weights of subjects measure before and after some diet treatment. The subjects are the same before and after measurements. \n\n\n\n\n\n\n\n\n\n\n\n\nThe statistical methods are different for these two types of samples."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#dependent-samples-matched-pairs-1",
+    "href": "slides/11-infer-two-means-slides.html#dependent-samples-matched-pairs-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Dependent Samples (Matched Pairs)",
+    "text": "Dependent Samples (Matched Pairs)\n\nSubject 1 may refer to\n\nthe first matched pair (dad-daughter)\nthe same person with two measurements (before and after)\n\n\n\n\n\n\n\n\nSubject\n(Dad) Before\n(Daughter) After\n\n\n\n1\n\\(x_{b1}\\)\n\\(x_{a1}\\)\n\n\n2\n\\(x_{b2}\\)\n\\(x_{a2}\\)\n\n\n3\n\\(x_{b3}\\)\n\\(x_{a3}\\)\n\n\n\\(\\vdots\\)\n\\(\\vdots\\)\n\\(\\vdots\\)\n\n\n\\(n\\)\n\\(x_{bn}\\)\n\\(x_{an}\\)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSubject 1 dad is 7 feet tall, subject 2 is 5 feet fall\nSubject 1 has weight 200 pounds, subject 2 weight 100 pounds\nIt makes more sense to tie the two samples together"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#independent-samples-1",
+    "href": "slides/11-infer-two-means-slides.html#independent-samples-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Independent Samples",
+    "text": "Independent Samples\n\n\nTwo samples are independent if the sample values from one population are not related to the sample values from the other.\n\n Salary samples of men and women. Two samples are drawn independently from the male and female groups. \n\n\n\n\n\n\n\n\n\n\n\n\nSubject 1 of Group 1 has nothing to do with the subject 1 of Group 2.\n\n\n\n\n\n\n\n\n\n\nSubject of Group 1 (Male)\nMeasurement of Group 1\nSubject of Group 2 (Female)\nMeasurement of Group 2\n\n\n\n1\n\\(x_{11}\\)\n1\n\\(x_{21}\\)\n\n\n2\n\\(x_{12}\\)\n2\n\\(x_{22}\\)\n\n\n3\n\\(x_{13}\\)\n3\n\\(x_{23}\\)\n\n\n\\(\\vdots\\)\n\\(\\vdots\\)\n\\(\\vdots\\)\n\\(\\vdots\\)\n\n\n\\(n_1\\)\n\\(x_{1n_1}\\)\n\\(\\vdots\\)\n\\(\\vdots\\)\n\n\n\n\n\\(n_2\\)\n\\(x_{2n_2}\\)"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#inference-from-two-samples",
+    "href": "slides/11-infer-two-means-slides.html#inference-from-two-samples",
+    "title": "Comparing Two Population Means \n",
+    "section": "Inference from Two Samples",
+    "text": "Inference from Two Samples\n\n\n\n\nThe statistical methods are different for these two types of samples.\n\n\n\n\nGood news: The concepts of CI and HT for one population can be applied to two-population cases.\n\n\n\n\n\\(\\text{CI = point estimate} \\pm \\text{margin of error (E)}\\), e.g., \\(\\overline{x} \\pm t_{\\alpha/2, n-1} \\frac{s}{\\sqrt{n}}\\)\nMargin of error = critical value \\(\\times\\) standard error of the point estimator\n\n\n\n\nThe 6 testing steps are the same, and both critical value and \\(p\\)-value method can be applied too, e.g., \\(t_{test} = \\frac{\\overline{x} - \\mu_0}{s/\\sqrt{n}}\\)\n\n\n\n\nTo compare two populations from two samples, we will learn and find\n\nthe point estimate for the parameter we are interested and its standard error\nwhich critical value and test statistic should be used in which cases"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#hypothesis-testing-for-dependent-samples",
+    "href": "slides/11-infer-two-means-slides.html#hypothesis-testing-for-dependent-samples",
+    "title": "Comparing Two Population Means \n",
+    "section": "Hypothesis Testing for Dependent Samples",
+    "text": "Hypothesis Testing for Dependent Samples\n\nTo analyze a paired data set, simply analyze the differences!\n\n\n\n\n\n\n\n\n\n\n\nSubject\n\\(x_1\\)\n\\(x_2\\)\nDifference \\(d = x_1 - x_2\\)\n\n\n\n1\n\\(x_{11}\\)\n\\(x_{21}\\)\n\\(\\color{red}{d_1}\\)\n\n\n2\n\\(x_{12}\\)\n\\(x_{22}\\)\n\\(\\color{red}{d_2}\\)\n\n\n3\n\\(x_{13}\\)\n\\(x_{23}\\)\n\\(\\color{red}{d_3}\\)\n\n\n\\(\\vdots\\)\n\\(\\vdots\\)\n\\(\\vdots\\)\n\\(\\color{red}{\\vdots}\\)\n\n\n\\(n\\)\n\\(x_{1n}\\)\n\\(x_{2n}\\)\n\\(\\color{red}{d_n}\\)\n\n\n\n\n\n\\(\\mu_d = \\mu_1 - \\mu_2\\)\n \\(\\begin{align} & H_0: \\mu_1 - \\mu_2 = 0 \\iff \\mu_d = 0 \\\\ & H_1: \\mu_1 - \\mu_2 &gt; 0 \\iff \\mu_d &gt; 0 \\\\ & H_1: \\mu_1 - \\mu_2 &lt; 0 \\iff \\mu_d &lt; 0  \\\\ & H_1: \\mu_1 - \\mu_2 \\ne 0 \\iff \\mu_d \\ne 0 \\end{align}\\) \n\n\n\n\nThe point estimate of \\(\\mu_1 - \\mu_2\\) is \\(\\overline{x}_1 - \\overline{x}_2 = \\overline{d}\\).\n\n\nTransform two samples into one sample by taking the difference between paired measurements."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#inference-for-paired-data",
+    "href": "slides/11-infer-two-means-slides.html#inference-for-paired-data",
+    "title": "Comparing Two Population Means \n",
+    "section": "Inference for Paired Data",
+    "text": "Inference for Paired Data\n\n\nRequirements: the sample differences \\(\\color{blue}{d_i}\\)s are\n\nrandom sample\nfrom a normal distribution and/or \\(n &gt; 30\\) (tested by QQ-plot of \\(d_i\\)s)\n\n\nFollow the same procedure as the one-sample \\(t\\)-test!\nThe test statistic is \\(\\color{blue}{t_{test} = \\frac{\\overline{d}-0}{s_d/\\sqrt{n}}} \\sim T_{n-1}\\) under \\(H_0\\) where \\(\\overline{d}\\) and \\(s_d\\) are the mean and SD of the difference samples \\((d_1, d_2, \\dots, d_n)\\).\nThe critical value \\(t_{\\alpha, n-1}\\) and \\(t_{\\alpha/2, n-1}\\).\n\n\n\n\n\n\n\n\n\nPaired \\(t\\)-test\nTest Statistic\nConfidence Interval for \\(\\mu_d = \\mu_1 - \\mu_2\\)\n\n\n\n\n\\(\\sigma_d\\) is unknown\n\\(\\large t_{test} = \\frac{\\overline{d}}{s_d/\\sqrt{n}}\\)\n\\(\\large \\overline{d} \\pm t_{\\alpha/2, n-1} \\frac{s_d}{\\sqrt{n}}\\)\n\n\n\nThe test from matched pairs is called a paired \\(t\\)-test.\n\n(Yes, the same as one-sample \\(t\\)-test)"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#example",
+    "href": "slides/11-infer-two-means-slides.html#example",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example",
+    "text": "Example\n\nConsider a capsule used to reduce blood pressure (BP) for the hypertensive individuals. Sample of 10 hypertensive individuals take the medicine for 4 weeks.\nDoes the data provide sufficient evidence that the treatment is effective in reducing BP?\n\n\n\n\n\n\n\n\n\n\n\n\nSubject\nBefore \\((x_b)\\)\n\nAfter \\((x_a)\\)\n\nDifference \\(d = x_b - x_a\\)\n\n\n\n1\n143\n124\n19\n\n\n2\n153\n129\n24\n\n\n3\n142\n131\n11\n\n\n4\n139\n145\n-6\n\n\n5\n172\n152\n20\n\n\n6\n176\n150\n26\n\n\n7\n155\n125\n30\n\n\n8\n149\n142\n7\n\n\n9\n140\n145\n-5\n\n\n10\n169\n160\n9"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#example-contd",
+    "href": "slides/11-infer-two-means-slides.html#example-contd",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example Cont’d",
+    "text": "Example Cont’d\n\n\\(\\overline{d} = 13.5\\), \\(s_d= 12.48\\).\n\\(\\mu_1 =\\) Mean Before, \\(\\mu_2 =\\) Mean After, and \\(\\mu_d = \\mu_1 - \\mu_2\\).\n\n\n\nStep 1:  \\(\\begin{align} &H_0: \\mu_1 = \\mu_2 \\iff \\mu_d = 0\\\\ &H_1: \\mu_1 &gt; \\mu_2 \\iff \\mu_d &gt; 0 \\end{align}\\) \n\n\n\n\n\nStep 2:  \\(\\alpha = 0.05\\) \n\n\n\n\n\nStep 3:  \\(t_{test} = \\frac{\\overline{d}}{s_d/\\sqrt{n}} = \\frac{13.5}{12.48/\\sqrt{10}} = 3.42\\) \n\n\n\n\n\nStep 4-c:  \\(t_{\\alpha, n-1} = t_{0.05, 9} = 1.833\\).\n\n\n\n\n\nStep 5-c:  Since \\(\\small t_{test} = 3.42 &gt; 1.833  = t_{\\alpha, n-1}\\), we reject \\(H_0\\).\n\n\n\n\n\n\nStep 6:  There is sufficient evidence to support the claim that the drug is effective in reducing blood pressure. \n\n\nWe reject \\(H_0\\) if \\(\\small t_{test} &gt; t_{\\alpha, n-1}\\)."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#example-contd-1",
+    "href": "slides/11-infer-two-means-slides.html#example-contd-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example Cont’d",
+    "text": "Example Cont’d\n\nThe 95% CI for \\(\\mu_d = \\mu_1 - \\mu_2\\) is \\[\\begin{align}\\overline{d} \\pm t_{\\alpha/2, df} \\frac{s_d}{\\sqrt{n}} &= 13.5 \\pm t_{0.025, 9}\\frac{12.48}{\\sqrt{10}}\\\\ &= 13.5 \\pm 8.927 \\\\ &= (4.573, 22.427).\\end{align}\\]\n95% confident that the mean difference in blood pressure is between 4.57 and 22.43.\nSince the interval does NOT include 0, it leads to the same conclusion as rejection of \\(H_0\\)."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#two-sample-paired-test-in-r",
+    "href": "slides/11-infer-two-means-slides.html#two-sample-paired-test-in-r",
+    "title": "Comparing Two Population Means \n",
+    "section": "Two-Sample Paired Test in R",
+    "text": "Two-Sample Paired Test in R\n\n\n\n\npair_data\n\n   before after\n1     143   124\n2     153   129\n3     142   131\n4     139   145\n5     172   152\n6     176   150\n7     155   125\n8     149   142\n9     140   145\n10    169   160\n\n\n\n\n\n(d &lt;- pair_data$before - pair_data$after)\n\n [1] 19 24 11 -6 20 26 30  7 -5  9\n\n(d_bar &lt;- mean(d))\n\n[1] 14\n\n\n\n\n\n(s_d &lt;- sd(d))\n\n[1] 12\n\n\n\n## t_test\n(t_test &lt;- d_bar/(s_d/sqrt(length(d))))\n\n[1] 3.4\n\n\n\n## t_cv\nqt(p = 0.95, df = length(d) - 1)\n\n[1] 1.8\n\n\n\n## p_value\npt(q = t_test, df = length(d) - 1, \n   lower.tail = FALSE)\n\n[1] 0.0038"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#two-sample-paired-test-in-r-1",
+    "href": "slides/11-infer-two-means-slides.html#two-sample-paired-test-in-r-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Two-Sample Paired Test in R",
+    "text": "Two-Sample Paired Test in R\n\n## CI\nd_bar + c(-1, 1) * qt(p = 0.975, df = length(d) - 1) * (s_d / sqrt(length(d))) \n\n[1]  4.6 22.4\n\n\n\n\n\n\n## t.test() function\nt.test(x = pair_data$before, y = pair_data$after, alternative = \"greater\", mu = 0, paired = TRUE)\n\n\n    Paired t-test\n\ndata:  pair_data$before and pair_data$after\nt = 3, df = 9, p-value = 0.004\nalternative hypothesis: true mean difference is greater than 0\n95 percent confidence interval:\n 6.3 Inf\nsample estimates:\nmean difference \n             14 \n\n\n\n\n\n\nBe careful about the one-sided CI! We should use the two-sided CI!"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#compare-population-means-independent-samples",
+    "href": "slides/11-infer-two-means-slides.html#compare-population-means-independent-samples",
+    "title": "Comparing Two Population Means \n",
+    "section": "Compare Population Means: Independent Samples",
+    "text": "Compare Population Means: Independent Samples\n\nWhether stem cells can improve heart function.\nThe relationship between pregnant womens’ smoking habits and newborns’ weights.\nWhether one variation of an exam is harder than another variation."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#testing-for-independent-samples-sigma_1-ne-sigma_2",
+    "href": "slides/11-infer-two-means-slides.html#testing-for-independent-samples-sigma_1-ne-sigma_2",
+    "title": "Comparing Two Population Means \n",
+    "section": "Testing for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n",
+    "text": "Testing for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n\n\n\nRequirements:\n\nThe two samples are independent.\nBoth samples are a random sample.\n\\(n_1 &gt; 30\\), \\(n_2 &gt; 30\\) and/or both samples are from a normally distributed population.\n\n\nInterested in whether the two population means \\(\\mu_1\\) and \\(\\mu_2\\) are equal or not, or one is larger than the other.\n\\(H_0: \\mu_1 = \\mu_2\\)\nIt is equivalent to testing if their difference is zero.\n\\(H_0: \\mu_1 - \\mu_2 = 0\\)\n\n\nWe start with finding a point estimate for \\(\\mu_1 - \\mu_2\\). What is the best point estimator for \\(\\mu_1 - \\mu_2\\)?\n\n\n\\(\\overline{X}_1 - \\overline{X}_2\\) is the best point estimator for \\(\\mu_1 - \\mu_2\\)!\nThe difference between the sample means ** \\(\\overline{X}_1 - \\overline{X}_2\\) is the best point estimator for \\(\\mu_1 - \\mu_2\\) **!"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#sampling-distribution-of-overlinex_1---overlinex_2",
+    "href": "slides/11-infer-two-means-slides.html#sampling-distribution-of-overlinex_1---overlinex_2",
+    "title": "Comparing Two Population Means \n",
+    "section": "Sampling Distribution of \\(\\overline{X}_1 - \\overline{X}_2\\)\n",
+    "text": "Sampling Distribution of \\(\\overline{X}_1 - \\overline{X}_2\\)\n\nIf the two samples are from independent normally distributed populations or \\(n_1 &gt; 30\\) and \\(n_2 &gt; 30\\), \\[\\small \\overline{X}_1 \\sim N\\left(\\mu_1, \\frac{\\sigma_1^2}{n_1} \\right), \\quad \\overline{X}_2 \\sim N\\left(\\mu_2,\n\\frac{\\sigma_2^2}{n_2} \\right)\\]\n\n\\(\\overline{X}_1 - \\overline{X}_2\\) has the sampling distribution \\[\\small \\overline{X}_1 - \\overline{X}_2 \\sim N\\left(\\mu_1 - \\mu_2, \\frac{\\sigma_1^2}{n_1} {\\color{red}{+}} \\frac{\\sigma_2^2}{n_2} \\right) \\]\n\n\n\\[\\small Z = \\frac{(\\overline{X}_1 - \\overline{X}_2) - (\\mu_1 - \\mu_2)}{\\sqrt{\\frac{\\sigma_1^2}{n_1} + \\frac{\\sigma_2^2}{n_2}}} \\sim N(0, 1)\\]"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#test-statistic-for-independent-samples-sigma_1-ne-sigma_2",
+    "href": "slides/11-infer-two-means-slides.html#test-statistic-for-independent-samples-sigma_1-ne-sigma_2",
+    "title": "Comparing Two Population Means \n",
+    "section": "Test Statistic for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n",
+    "text": "Test Statistic for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n\n\n\nWith \\(D_0\\) a hypothesized value (often 0),\n\n \\(\\small \\begin{align} &H_0: \\mu_1 - \\mu_2 \\le D_0\\\\ &H_1: \\mu_1 - \\mu_2 &gt; D_0 \\end{align}\\)  (right-tailed)\n \\(\\small \\begin{align} &H_0: \\mu_1 - \\mu_2 \\ge D_0\\\\ &H_1: \\mu_1 - \\mu_2 &lt; D_0 \\end{align}\\)  (left-tailed)\n \\(\\small \\begin{align} &H_0: \\mu_1 - \\mu_2 = D_0\\\\ &H_1: \\mu_1 - \\mu_2 \\ne D_0 \\end{align}\\)  (two-tailed)\n\n\nIf \\(\\sigma_1\\) and \\(\\sigma_2\\) are known, the test statistic is the z-score of \\(\\small \\overline{X}_1 - \\overline{X}_2\\) under \\(H_0\\): \\[z_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - (\\mu_1 - \\mu_2)}{\\sqrt{\\frac{\\sigma_1^2}{n_1} + \\frac{\\sigma_2^2}{n_2}}} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sqrt{\\frac{\\sigma_1^2}{n_1} + \\frac{\\sigma_2^2}{n_2}}} \\]\nThen find \\(z_{\\alpha}\\) or \\(z_{\\alpha/2}\\) and follow our testing steps!"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#test-statistic-for-independent-samples-sigma_1-ne-sigma_2-1",
+    "href": "slides/11-infer-two-means-slides.html#test-statistic-for-independent-samples-sigma_1-ne-sigma_2-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Test Statistic for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n",
+    "text": "Test Statistic for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n\n\nIf \\(\\sigma_1\\) and \\(\\sigma_2\\) are unknown, the test statistic becomes \\(t_{test}\\):\n\n\\[t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - (\\mu_1 - \\mu_2)}{\\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}}} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}}} \\]\n\n\n\nThe critical value \\(t_{\\alpha, df}\\) (one-tailed) and \\(t_{\\alpha/2, df}\\) (two-tailed), and the \\(t\\) distribution used to compute the \\(p\\)-value has the degrees of freedom \\[\\small df = \\dfrac{(A+B)^2}{\\dfrac{A^2}{n_1-1}+ \\dfrac{B^2}{n_2-1}},\\] where \\(\\small A = \\dfrac{s_1^2}{n_1}\\) and \\(\\small B = \\dfrac{s_2^2}{n_2}\\).\n\n\nIf the \\(df\\) is not an integer, we round it down to an integer. \n\n\nsimilar to the one sample case,"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#inference-from-independent-samples-sigma_1-ne-sigma_2",
+    "href": "slides/11-infer-two-means-slides.html#inference-from-independent-samples-sigma_1-ne-sigma_2",
+    "title": "Comparing Two Population Means \n",
+    "section": "Inference from Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n",
+    "text": "Inference from Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n\n\n\n\n\n\n\n\n\\(\\large \\color{red}{\\sigma_1 \\ne \\sigma_2}\\)\nTest Statistic\nConfidence Interval for \\(\\mu_1 - \\mu_2\\)\n\n\n\n\nknown\n\\(\\large z_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sqrt{\\frac{\\sigma_1^2}{n_1} + \\frac{\\sigma_2^2}{n_2}}}\\)\n\\(\\large (\\overline{x}_1 - \\overline{x}_2) \\pm z_{\\alpha/2} \\sqrt{\\frac{\\sigma_1^2}{n_1} + \\frac{\\sigma_2^2}{n_2}}\\)\n\n\nunknown\n\\(\\large t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}}}\\)\n\\(\\large (\\overline{x}_1 - \\overline{x}_2) \\pm t_{\\alpha/2, df} \\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}}\\)\n\n\n\n\nUse \\(\\small df = \\dfrac{(A+B)^2}{\\dfrac{A^2}{n_1-1}+ \\dfrac{B^2}{n_2-1}},\\) where \\(\\small A = \\dfrac{s_1^2}{n_1}\\) and \\(\\small B = \\dfrac{s_2^2}{n_2}\\) to get the \\(p\\)-value, critical value, and CI.\nThe unequal-variance t-test is called Welch’s t-test."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#example-two-sample-t-test",
+    "href": "slides/11-infer-two-means-slides.html#example-two-sample-t-test",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example: Two-Sample t-Test",
+    "text": "Example: Two-Sample t-Test\n\n\nDoes an oversized tennis racket exert less stress/force on the elbow? The data show\n\nOversized: \\(n_1 = 33\\), \\(\\overline{x}_1 = 25.2\\), \\(s_1 = 8.6\\)\nConventional: \\(n_2 = 12\\), \\(\\overline{x}_2 = 33.9\\), \\(s_2 = 17.4\\)\nThe two populations are nearly normal.\nThe large difference in the sample SD suggests \\(\\sigma_1 \\ne \\sigma_2\\).\nForm a hypothesis test with \\(\\alpha = 0.05\\) and construct a 95% CI for the mean difference of force on the elbow.\n\n\n\n\n\n\n\n\n\n\n\n\nStep 1:  \\(\\begin{align} &H_0: \\mu_1 = \\mu_2 \\\\ &H_1: \\mu_1 &lt; \\mu_2 \\end{align}\\) \n\n\n\n\nStep 2:  \\(\\alpha = 0.05\\)"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#example-two-sample-t-test-contd",
+    "href": "slides/11-infer-two-means-slides.html#example-two-sample-t-test-contd",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example: Two-Sample t-Test Cont’d",
+    "text": "Example: Two-Sample t-Test Cont’d\n\nStep 3:  \\(t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - (\\mu_1-\\mu_2)}{\\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}}} = \\frac{(25.2 - 33.9) - 0}{\\sqrt{\\frac{\\color{red}{8.6^2}}{33} + \\frac{\\color{red}{17.4^2}}{12}}} = -1.66\\)\n\n\n\n\n\n\n\\(\\small A = \\dfrac{8.6^2}{33}\\), \\(\\small B = \\dfrac{17.4^2}{12}\\), \\(\\small df = \\dfrac{(A+B)^2}{\\dfrac{A^2}{33-1}+ \\dfrac{B^2}{12-1}} = 13.01\\)\n\nIf the computed value of \\(df\\) is not an integer, always round down to the nearest integer.\n\n\n\n\nStep 4-c:  \\(-t_{0.05, 13} = -1.77\\). \nStep 5-c:  We reject \\(H_0\\) if \\(\\small t_{test} &lt; -t_{\\alpha, df}\\). \\(\\small t_{test} = -1.66 &gt; -1.77 = -t_{\\alpha, df}\\), we fail to reject \\(H_0\\). \nStep 6:  There is insufficient evidence to support the claim that the the oversized racket delivers less stress to the elbow."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#example-two-sample-t-test-contd-1",
+    "href": "slides/11-infer-two-means-slides.html#example-two-sample-t-test-contd-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example: Two-Sample t-Test Cont’d",
+    "text": "Example: Two-Sample t-Test Cont’d\n\nThe 95% CI for \\(\\mu_1 - \\mu_2\\) is\n\n\\[\\begin{align}(\\overline{x}_1 - \\overline{x}_2) \\pm t_{\\alpha/2, df} \\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}} &= (25.2 - 33.9) \\pm t_{0.025,13}\\sqrt{\\frac{8.6^2}{33} + \\frac{17.4^2}{12}}\\\\&= -8.7 \\pm 11.32 = (-20.02, 2.62).\\end{align}\\]\n\nWe are 95% confident that the difference in the mean forces is between -20.02 and 2.62.\nSince the interval includes 0, it leads to the same conclusion as failing to reject \\(H_0\\)."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#two-sample-t-test-in-r",
+    "href": "slides/11-infer-two-means-slides.html#two-sample-t-test-in-r",
+    "title": "Comparing Two Population Means \n",
+    "section": "Two-Sample t-Test in R",
+    "text": "Two-Sample t-Test in R\n\nn1 = 33; x1_bar = 25.2; s1 = 8.6\nn2 = 12; x2_bar = 33.9; s2 = 17.4\nA &lt;- s1^2 / n1; B &lt;- s2^2 / n2\ndf &lt;- (A + B)^2 / (A^2/(n1-1) + B^2/(n2-1))\n(df &lt;- floor(df))\n\n[1] 13\n\n## t_test\n(t_test &lt;- (x1_bar - x2_bar) / sqrt(s1^2/n1 + s2^2/n2))\n\n[1] -1.7\n\n## t_cv\nqt(p = 0.05, df = df)\n\n[1] -1.8\n\n## p_value\npt(q = t_test, df = df)\n\n[1] 0.06"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#test-statistic-for-independent-samples-sigma_1-sigma_2-sigma",
+    "href": "slides/11-infer-two-means-slides.html#test-statistic-for-independent-samples-sigma_1-sigma_2-sigma",
+    "title": "Comparing Two Population Means \n",
+    "section": "Test Statistic for Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n",
+    "text": "Test Statistic for Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n\n\nIf \\(\\sigma_1\\) and \\(\\sigma_2\\) are known,\n\n\\[z_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - (\\mu_1 - \\mu_2)}{\\sigma\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sigma\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}} \\]\n\n\nIf \\(\\sigma_1\\) and \\(\\sigma_2\\) are unknown, similar to the one sample case, we use \\(t_{test}\\).\nAs \\(\\sigma_1 = \\sigma_2 = \\sigma\\), we don’t need two but one sample SD to replace the \\(\\sigma\\).\nUse the pooled sample variance to estimate the common \\(\\sigma^2\\):\n\n\\[ s_p^2 = \\frac{(n_1-1)s_1^2 + (n_2-1)s_2^2}{n_1+n_2-2} \\] which is the weighted average of \\(s_1^2\\) and \\(s_2^2\\).\n\nBut not so similar to the equal-variance case."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#test-statistic-for-independent-samples-sigma_1-sigma_2-sigma-1",
+    "href": "slides/11-infer-two-means-slides.html#test-statistic-for-independent-samples-sigma_1-sigma_2-sigma-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Test Statistic for Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n",
+    "text": "Test Statistic for Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n\n\nIf \\(\\sigma_1\\) and \\(\\sigma_2\\) are unknown, \\[t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - (\\mu_1 - \\mu_2)}{ {\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{{\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}}\\]\nHere, the critical value \\(t_{\\alpha, df}\\) (for one-tailed tests) and \\(t_{\\alpha/2, df}\\) (for two-tailed tests), and the \\(t\\) distribution used to compute the \\(p\\)-value have the degrees of freedom \\[df = n_1 + n_2 - 2\\]"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#inference-from-independent-samples-sigma_1-sigma_2-sigma",
+    "href": "slides/11-infer-two-means-slides.html#inference-from-independent-samples-sigma_1-sigma_2-sigma",
+    "title": "Comparing Two Population Means \n",
+    "section": "Inference from Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n",
+    "text": "Inference from Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n\n\n\n\n\n\n\n\n\\(\\large \\color{red}{\\sigma_1 = \\sigma_2}\\)\nTest Statistic\nConfidence Interval for \\(\\mu_1 - \\mu_2\\)\n\n\n\n\nknown\n\\(\\large z_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sigma\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}}\\)\n\\(\\large (\\overline{x}_1 - \\overline{x}_2) \\pm z_{\\alpha/2} \\sigma \\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}\\)\n\n\nunknown\n\\(\\large t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{{\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}}\\)\n\\(\\large (\\overline{x}_1 - \\overline{x}_2) \\pm t_{\\alpha/2, df} {\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}\\)\n\n\n\n\n\\(s_p = \\sqrt{\\frac{(n_1-1)s_1^2 + (n_2-1)s_2^2}{n_1+n_2-2}}\\)\nUse \\(df = n_1+n_2-2\\) get the \\(p\\)-value, critical value and CI.\nThe test from two independent samples with \\(\\sigma_1 = \\sigma_2  = \\sigma\\) is usually called two-sample pooled \\(z\\)-test or two-sample pooled \\(t\\)-test."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#example-weight-loss",
+    "href": "slides/11-infer-two-means-slides.html#example-weight-loss",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example: Weight Loss",
+    "text": "Example: Weight Loss\n\n\nA study was conducted to see the effectiveness of a weight loss program.\n\nTwo groups (Control and Experimental) of 10 subjects were selected.\nThe two populations are normally distributed and have the same SD.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe data on weight loss was collected at the end of six months\n\n\nControl: \\(n_1 = 10\\), \\(\\overline{x}_1 = 2.1\\, lb\\), \\(s_1 = 0.5\\, lb\\)\n\n\nExperimental: \\(n_2 = 10\\), \\(\\overline{x}_2 = 4.2\\, lb\\), \\(s_2 = 0.7\\, lb\\)\n\n\n\nIs there a sufficient evidence at \\(\\alpha = 0.05\\) to conclude that the program is effective?\nIf yes, construct a 95% CI for \\(\\mu_1 - \\mu_2\\) to show how much effective it is.\n\n\n\n\n\n\n\n\n\n\n\nStep 1:  \\(\\begin{align} &H_0: \\mu_1 = \\mu_2 \\\\ &H_1: \\mu_1 &lt; \\mu_2 \\end{align}\\) \n\n\n\n\n\nStep 2:  \\(\\alpha = 0.05\\)"
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#example-contd-2",
+    "href": "slides/11-infer-two-means-slides.html#example-contd-2",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example Cont’d",
+    "text": "Example Cont’d\n\nStep 3:  \\(t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{{\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}}\\). \n\\(s_p = \\sqrt{\\frac{(n_1-1)s_1^2 + (n_2-1)s_2^2}{n_1+n_2-2}} = \\sqrt{\\frac{(10-1)0.5^2 + (10-1)0.7^2}{10+10-2}}=0.61\\)\n \\(t_{test} = \\frac{(2.1 - 4.2) - 0}{0.6083\\sqrt{\\frac{1}{10} + \\frac{1}{10}}} = -7.72\\)\n\n\n\nStep 4-c:  \\(df = n_1 + n_2 - 2 = 10 + 10 - 2 = 18\\). So \\(-t_{0.05, df = 18} = -1.734\\). \n\n\n\n\n\nStep 5-c:  We reject \\(H_0\\) if \\(\\small t_{test} &lt; -t_{\\alpha, df}\\). Since \\(\\small t_{test} = -7.72 &lt; -1.73  = -t_{\\alpha, df}\\), we reject \\(H_0\\).\n\n\n\n\n\nStep 4-p:  The \\(p\\)-value is \\(P(T_{df=18} &lt; t_{test}) \\approx 0\\) \n\n\n\n\n\nStep 5-p:  We reject \\(H_0\\) if \\(p\\)-value &lt; \\(\\alpha\\). Since \\(p\\)-value \\(\\approx 0 &lt; 0.05  = \\alpha\\), we reject \\(H_0\\).\n\n\n\n\n\nStep 6:  There is sufficient evidence to support the claim that the weight loss program is effective."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#example-contd-3",
+    "href": "slides/11-infer-two-means-slides.html#example-contd-3",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example Cont’d",
+    "text": "Example Cont’d\n\nThe 95% CI for \\(\\mu_1 - \\mu_2\\) is \\[\\begin{align}(\\overline{x}_1 - \\overline{x}_2) \\pm t_{\\alpha/2, df} {\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}} &= (2.1 - 4.2) \\pm t_{0.025, 18} (0.61)\\sqrt{\\frac{1}{10} + \\frac{1}{10}}\\\\ &= -2.1 \\pm 0.57 = (-2.67, -1.53) \\end{align}\\]\nWe are 95% confident that the difference in the mean weight is between -2.67 and -1.53.\nSince the interval does not include 0, it leads to the same conclusion as rejection of \\(H_0\\)."
+  },
+  {
+    "objectID": "slides/11-infer-two-means-slides.html#two-sample-pooled-t-test-in-r",
+    "href": "slides/11-infer-two-means-slides.html#two-sample-pooled-t-test-in-r",
+    "title": "Comparing Two Population Means \n",
+    "section": "Two-Sample Pooled t-Test in R",
+    "text": "Two-Sample Pooled t-Test in R\n\nn1 = 10; x1_bar = 2.1; s1 = 0.5\nn2 = 10; x2_bar = 4.2; s2 = 0.7\nsp &lt;- sqrt(((n1 - 1) * s1 ^ 2 + (n2 - 1) * s2 ^ 2) / (n1 + n2 - 2))\nsp\n\n[1] 0.61\n\ndf &lt;- n1 + n2 - 2\n## t_test\n(t_test &lt;- (x1_bar - x2_bar) / (sp * sqrt(1 / n1 + 1 / n2)))\n\n[1] -7.7\n\n## t_cv\nqt(p = 0.05, df = df)\n\n[1] -1.7\n\n## p_value\npt(q = t_test, df = df)\n\n[1] 2e-07"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#why-comparing-two-populations",
+    "href": "slides/11-infer-two-means.html#why-comparing-two-populations",
+    "title": "Comparing Two Population Means \n",
+    "section": "Why Comparing Two Populations",
+    "text": "Why Comparing Two Populations\n\n\nOften faced with a comparison of parameters from different populations.\n\n Comparing the mean annual income for Male and Female groups. \n Testing if a diet used for losing weight is effective from Placebo and New Diet samples. \n\n\n\n. . .\n\nIf these two samples are drawn from populations with means \\(\\mu_1\\) and \\(\\mu_2\\) respectively,  \\[\\begin{align}\n&H_0: \\mu_1 = \\mu_2 \\\\\n&H_1: \\mu_1 &gt; \\mu_2\n\\end{align}\\] \n\n\n\\(\\mu_1\\): male mean annual income; \\(\\mu_2\\): female mean annual income\n\n\\(\\mu_1\\): mean weight loss from the New Diet group; \\(\\mu_2\\): mean weight loss from the Placebo group\n\n\n\n\n\n\nOften we are faced with an inference involving a comparison of parameters from different populations.\n\n Comparing the mean annual income for male and female groups. \n Testing if a diet used for losing weight is effective from Placebo samples and New Diet samples. \n\n\n\nIf these two samples are drawn from populations with means \\(\\mu_1\\) and \\(\\mu_2\\) respectively, then the testing problem can be formulated as  \\[\\begin{align}\n&H_0: \\mu_1 = \\mu_2 \\\\\n&H_1: \\mu_1 &gt; \\mu_2\n\\end{align}\\] \n\n\n\\(\\mu_1\\): male mean annual income; \\(\\mu_2\\): female mean annual income\n\n\\(\\mu_1\\): weight loss from the New Diet group; \\(\\mu_2\\): weight loss from the Placebo group"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#dependent-and-independent-samples",
+    "href": "slides/11-infer-two-means.html#dependent-and-independent-samples",
+    "title": "Comparing Two Population Means \n",
+    "section": "Dependent and Independent Samples",
+    "text": "Dependent and Independent Samples\n\nThe two samples can be independent or dependent.\n\n\n\nTwo samples are dependent or matched pairs if the sample values are matched, where the matching is based on some inherent relationship.\n\n Height data of fathers and daughters. The height of each dad is matched with the height of his daughter. \n Weights of subjects measure before and after some diet treatment. The subjects are the same before and after measurements. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe statistical methods are different for these two types of samples."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#dependent-samples-matched-pairs-1",
+    "href": "slides/11-infer-two-means.html#dependent-samples-matched-pairs-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Dependent Samples (Matched Pairs)",
+    "text": "Dependent Samples (Matched Pairs)\n\nSubject 1 may refer to\n\nthe first matched pair (dad-daughter)\nthe same person with two measurements (before and after)\n\n\n\n\n\n\n\n\nSubject\n(Dad) Before\n(Daughter) After\n\n\n\n1\n\\(x_{b1}\\)\n\\(x_{a1}\\)\n\n\n2\n\\(x_{b2}\\)\n\\(x_{a2}\\)\n\n\n3\n\\(x_{b3}\\)\n\\(x_{a3}\\)\n\n\n\\(\\vdots\\)\n\\(\\vdots\\)\n\\(\\vdots\\)\n\n\n\\(n\\)\n\\(x_{bn}\\)\n\\(x_{an}\\)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSubject 1 dad is 7 feet tall, subject 2 is 5 feet fall\nSubject 1 has weight 200 pounds, subject 2 weight 100 pounds\nIt makes more sense to tie the two samples together"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#independent-samples-1",
+    "href": "slides/11-infer-two-means.html#independent-samples-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Independent Samples",
+    "text": "Independent Samples\n\n\nTwo samples are independent if the sample values from one population are not related to the sample values from the other.\n\n Salary samples of men and women. Two samples are drawn independently from the male and female groups. \n\n\n\n\n\n\n\n\n\n\n\n\n\nSubject 1 of Group 1 has nothing to do with the subject 1 of Group 2.\n\n\n\n\n\n\n\n\n\n\nSubject of Group 1 (Male)\nMeasurement of Group 1\nSubject of Group 2 (Female)\nMeasurement of Group 2\n\n\n\n1\n\\(x_{11}\\)\n1\n\\(x_{21}\\)\n\n\n2\n\\(x_{12}\\)\n2\n\\(x_{22}\\)\n\n\n3\n\\(x_{13}\\)\n3\n\\(x_{23}\\)\n\n\n\\(\\vdots\\)\n\\(\\vdots\\)\n\\(\\vdots\\)\n\\(\\vdots\\)\n\n\n\\(n_1\\)\n\\(x_{1n_1}\\)\n\\(\\vdots\\)\n\\(\\vdots\\)\n\n\n\n\n\\(n_2\\)\n\\(x_{2n_2}\\)"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#inference-from-two-samples",
+    "href": "slides/11-infer-two-means.html#inference-from-two-samples",
+    "title": "Comparing Two Population Means \n",
+    "section": "Inference from Two Samples",
+    "text": "Inference from Two Samples\n\n\n\n\nThe statistical methods are different for these two types of samples.\n\n. . .\n\n\nGood news: The concepts of CI and HT for one population can be applied to two-population cases.\n\n. . .\n\n\\(\\text{CI = point estimate} \\pm \\text{margin of error (E)}\\), e.g., \\(\\overline{x} \\pm t_{\\alpha/2, n-1} \\frac{s}{\\sqrt{n}}\\)\nMargin of error = critical value \\(\\times\\) standard error of the point estimator\n\n. . .\n\nThe 6 testing steps are the same, and both critical value and \\(p\\)-value method can be applied too, e.g., \\(t_{test} = \\frac{\\overline{x} - \\mu_0}{s/\\sqrt{n}}\\)\n\n\n\n\n\nTo compare two populations from two samples, we will learn and find\n\nthe point estimate for the parameter we are interested and its standard error\nwhich critical value and test statistic should be used in which cases"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#hypothesis-testing-for-dependent-samples",
+    "href": "slides/11-infer-two-means.html#hypothesis-testing-for-dependent-samples",
+    "title": "Comparing Two Population Means \n",
+    "section": "Hypothesis Testing for Dependent Samples",
+    "text": "Hypothesis Testing for Dependent Samples\n\nTo analyze a paired data set, simply analyze the differences!\n\n\n\n\n\n\n\n\n\n\n\nSubject\n\\(x_1\\)\n\\(x_2\\)\nDifference \\(d = x_1 - x_2\\)\n\n\n\n1\n\\(x_{11}\\)\n\\(x_{21}\\)\n\\(\\color{red}{d_1}\\)\n\n\n2\n\\(x_{12}\\)\n\\(x_{22}\\)\n\\(\\color{red}{d_2}\\)\n\n\n3\n\\(x_{13}\\)\n\\(x_{23}\\)\n\\(\\color{red}{d_3}\\)\n\n\n\\(\\vdots\\)\n\\(\\vdots\\)\n\\(\\vdots\\)\n\\(\\color{red}{\\vdots}\\)\n\n\n\\(n\\)\n\\(x_{1n}\\)\n\\(x_{2n}\\)\n\\(\\color{red}{d_n}\\)\n\n\n\n\n\n\\(\\mu_d = \\mu_1 - \\mu_2\\)\n \\(\\begin{align} & H_0: \\mu_1 - \\mu_2 = 0 \\iff \\mu_d = 0 \\\\ & H_1: \\mu_1 - \\mu_2 &gt; 0 \\iff \\mu_d &gt; 0 \\\\ & H_1: \\mu_1 - \\mu_2 &lt; 0 \\iff \\mu_d &lt; 0  \\\\ & H_1: \\mu_1 - \\mu_2 \\ne 0 \\iff \\mu_d \\ne 0 \\end{align}\\) \n\n\n\n\n\nThe point estimate of \\(\\mu_1 - \\mu_2\\) is \\(\\overline{x}_1 - \\overline{x}_2 = \\overline{d}\\).\n\n\n\nTransform two samples into one sample by taking the difference between paired measurements."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#inference-for-paired-data",
+    "href": "slides/11-infer-two-means.html#inference-for-paired-data",
+    "title": "Comparing Two Population Means \n",
+    "section": "Inference for Paired Data",
+    "text": "Inference for Paired Data\n\n\nRequirements: the sample differences \\(\\color{blue}{d_i}\\)s are\n\nrandom sample\nfrom a normal distribution and/or \\(n &gt; 30\\) (tested by QQ-plot of \\(d_i\\)s)\n\n\nFollow the same procedure as the one-sample \\(t\\)-test!\nThe test statistic is \\(\\color{blue}{t_{test} = \\frac{\\overline{d}-0}{s_d/\\sqrt{n}}} \\sim T_{n-1}\\) under \\(H_0\\) where \\(\\overline{d}\\) and \\(s_d\\) are the mean and SD of the difference samples \\((d_1, d_2, \\dots, d_n)\\).\nThe critical value \\(t_{\\alpha, n-1}\\) and \\(t_{\\alpha/2, n-1}\\).\n\n. . .\n\n\n\n\n\n\n\nPaired \\(t\\)-test\nTest Statistic\nConfidence Interval for \\(\\mu_d = \\mu_1 - \\mu_2\\)\n\n\n\n\n\\(\\sigma_d\\) is unknown\n\\(\\large t_{test} = \\frac{\\overline{d}}{s_d/\\sqrt{n}}\\)\n\\(\\large \\overline{d} \\pm t_{\\alpha/2, n-1} \\frac{s_d}{\\sqrt{n}}\\)\n\n\n\nThe test from matched pairs is called a paired \\(t\\)-test.\n\n\n\n(Yes, the same as one-sample \\(t\\)-test)"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#example",
+    "href": "slides/11-infer-two-means.html#example",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example",
+    "text": "Example\n\nConsider a capsule used to reduce blood pressure (BP) for the hypertensive individuals. Sample of 10 hypertensive individuals take the medicine for 4 weeks.\nDoes the data provide sufficient evidence that the treatment is effective in reducing BP?\n\n\n\n\n\n\n\n\n\n\n\n\nSubject\nBefore \\((x_b)\\)\n\nAfter \\((x_a)\\)\n\nDifference \\(d = x_b - x_a\\)\n\n\n\n1\n143\n124\n19\n\n\n2\n153\n129\n24\n\n\n3\n142\n131\n11\n\n\n4\n139\n145\n-6\n\n\n5\n172\n152\n20\n\n\n6\n176\n150\n26\n\n\n7\n155\n125\n30\n\n\n8\n149\n142\n7\n\n\n9\n140\n145\n-5\n\n\n10\n169\n160\n9"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#example-contd",
+    "href": "slides/11-infer-two-means.html#example-contd",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example Cont’d",
+    "text": "Example Cont’d\n\n\\(\\overline{d} = 13.5\\), \\(s_d= 12.48\\).\n\\(\\mu_1 =\\) Mean Before, \\(\\mu_2 =\\) Mean After, and \\(\\mu_d = \\mu_1 - \\mu_2\\).\n\n. . .\n\nStep 1:  \\(\\begin{align} &H_0: \\mu_1 = \\mu_2 \\iff \\mu_d = 0\\\\ &H_1: \\mu_1 &gt; \\mu_2 \\iff \\mu_d &gt; 0 \\end{align}\\) \n\n\n. . .\n\nStep 2:  \\(\\alpha = 0.05\\) \n\n\n. . .\n\nStep 3:  \\(t_{test} = \\frac{\\overline{d}}{s_d/\\sqrt{n}} = \\frac{13.5}{12.48/\\sqrt{10}} = 3.42\\) \n\n\n. . .\n\nStep 4-c:  \\(t_{\\alpha, n-1} = t_{0.05, 9} = 1.833\\).\n\n\n. . .\n\nStep 5-c:  Since \\(\\small t_{test} = 3.42 &gt; 1.833  = t_{\\alpha, n-1}\\), we reject \\(H_0\\).\n\n\n. . .\n\nStep 6:  There is sufficient evidence to support the claim that the drug is effective in reducing blood pressure. \n\n\n\nWe reject \\(H_0\\) if \\(\\small t_{test} &gt; t_{\\alpha, n-1}\\)."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#example-contd-1",
+    "href": "slides/11-infer-two-means.html#example-contd-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example Cont’d",
+    "text": "Example Cont’d\n\nThe 95% CI for \\(\\mu_d = \\mu_1 - \\mu_2\\) is \\[\\begin{align}\\overline{d} \\pm t_{\\alpha/2, df} \\frac{s_d}{\\sqrt{n}} &= 13.5 \\pm t_{0.025, 9}\\frac{12.48}{\\sqrt{10}}\\\\ &= 13.5 \\pm 8.927 \\\\ &= (4.573, 22.427).\\end{align}\\]\n95% confident that the mean difference in blood pressure is between 4.57 and 22.43.\nSince the interval does NOT include 0, it leads to the same conclusion as rejection of \\(H_0\\)."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#two-sample-paired-test-in-r",
+    "href": "slides/11-infer-two-means.html#two-sample-paired-test-in-r",
+    "title": "Comparing Two Population Means \n",
+    "section": "Two-Sample Paired Test in R",
+    "text": "Two-Sample Paired Test in R\n\n\n\n\npair_data\n\n   before after\n1     143   124\n2     153   129\n3     142   131\n4     139   145\n5     172   152\n6     176   150\n7     155   125\n8     149   142\n9     140   145\n10    169   160\n\n\n\n\n\n(d &lt;- pair_data$before - pair_data$after)\n\n [1] 19 24 11 -6 20 26 30  7 -5  9\n\n(d_bar &lt;- mean(d))\n\n[1] 14\n\n\n\n\n\n(s_d &lt;- sd(d))\n\n[1] 12\n\n\n\n## t_test\n(t_test &lt;- d_bar/(s_d/sqrt(length(d))))\n\n[1] 3.4\n\n\n\n## t_cv\nqt(p = 0.95, df = length(d) - 1)\n\n[1] 1.8\n\n\n\n## p_value\npt(q = t_test, df = length(d) - 1, \n   lower.tail = FALSE)\n\n[1] 0.0038"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#two-sample-paired-test-in-r-1",
+    "href": "slides/11-infer-two-means.html#two-sample-paired-test-in-r-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Two-Sample Paired Test in R",
+    "text": "Two-Sample Paired Test in R\n\n## CI\nd_bar + c(-1, 1) * qt(p = 0.975, df = length(d) - 1) * (s_d / sqrt(length(d))) \n\n[1]  4.6 22.4\n\n\n. . .\n\n\n\n## t.test() function\nt.test(x = pair_data$before, y = pair_data$after, alternative = \"greater\", mu = 0, paired = TRUE)\n\n\n    Paired t-test\n\ndata:  pair_data$before and pair_data$after\nt = 3, df = 9, p-value = 0.004\nalternative hypothesis: true mean difference is greater than 0\n95 percent confidence interval:\n 6.3 Inf\nsample estimates:\nmean difference \n             14 \n\n\n\n. . .\n\nBe careful about the one-sided CI! We should use the two-sided CI!"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#compare-population-means-independent-samples",
+    "href": "slides/11-infer-two-means.html#compare-population-means-independent-samples",
+    "title": "Comparing Two Population Means \n",
+    "section": "Compare Population Means: Independent Samples",
+    "text": "Compare Population Means: Independent Samples\n\nWhether stem cells can improve heart function.\nThe relationship between pregnant womens’ smoking habits and newborns’ weights.\nWhether one variation of an exam is harder than another variation."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#testing-for-independent-samples-sigma_1-ne-sigma_2",
+    "href": "slides/11-infer-two-means.html#testing-for-independent-samples-sigma_1-ne-sigma_2",
+    "title": "Comparing Two Population Means \n",
+    "section": "Testing for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n",
+    "text": "Testing for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n\n\n\nRequirements:\n\nThe two samples are independent.\nBoth samples are a random sample.\n\\(n_1 &gt; 30\\), \\(n_2 &gt; 30\\) and/or both samples are from a normally distributed population.\n\n\nInterested in whether the two population means \\(\\mu_1\\) and \\(\\mu_2\\) are equal or not, or one is larger than the other.\n\\(H_0: \\mu_1 = \\mu_2\\)\nIt is equivalent to testing if their difference is zero.\n\\(H_0: \\mu_1 - \\mu_2 = 0\\)\n\n\nWe start with finding a point estimate for \\(\\mu_1 - \\mu_2\\). What is the best point estimator for \\(\\mu_1 - \\mu_2\\)?\n\n. . .\n\\(\\overline{X}_1 - \\overline{X}_2\\) is the best point estimator for \\(\\mu_1 - \\mu_2\\)!\n\nThe difference between the sample means ** \\(\\overline{X}_1 - \\overline{X}_2\\) is the best point estimator for \\(\\mu_1 - \\mu_2\\) **!"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#sampling-distribution-of-overlinex_1---overlinex_2",
+    "href": "slides/11-infer-two-means.html#sampling-distribution-of-overlinex_1---overlinex_2",
+    "title": "Comparing Two Population Means \n",
+    "section": "Sampling Distribution of \\(\\overline{X}_1 - \\overline{X}_2\\)\n",
+    "text": "Sampling Distribution of \\(\\overline{X}_1 - \\overline{X}_2\\)\n\nIf the two samples are from independent normally distributed populations or \\(n_1 &gt; 30\\) and \\(n_2 &gt; 30\\), \\[\\small \\overline{X}_1 \\sim N\\left(\\mu_1, \\frac{\\sigma_1^2}{n_1} \\right), \\quad \\overline{X}_2 \\sim N\\left(\\mu_2,\n\\frac{\\sigma_2^2}{n_2} \\right)\\]\n. . .\n\\(\\overline{X}_1 - \\overline{X}_2\\) has the sampling distribution \\[\\small \\overline{X}_1 - \\overline{X}_2 \\sim N\\left(\\mu_1 - \\mu_2, \\frac{\\sigma_1^2}{n_1} {\\color{red}{+}} \\frac{\\sigma_2^2}{n_2} \\right) \\]\n. . .\n\\[\\small Z = \\frac{(\\overline{X}_1 - \\overline{X}_2) - (\\mu_1 - \\mu_2)}{\\sqrt{\\frac{\\sigma_1^2}{n_1} + \\frac{\\sigma_2^2}{n_2}}} \\sim N(0, 1)\\]"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#test-statistic-for-independent-samples-sigma_1-ne-sigma_2",
+    "href": "slides/11-infer-two-means.html#test-statistic-for-independent-samples-sigma_1-ne-sigma_2",
+    "title": "Comparing Two Population Means \n",
+    "section": "Test Statistic for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n",
+    "text": "Test Statistic for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n\n\n\nWith \\(D_0\\) a hypothesized value (often 0),\n\n \\(\\small \\begin{align} &H_0: \\mu_1 - \\mu_2 \\le D_0\\\\ &H_1: \\mu_1 - \\mu_2 &gt; D_0 \\end{align}\\)  (right-tailed)\n \\(\\small \\begin{align} &H_0: \\mu_1 - \\mu_2 \\ge D_0\\\\ &H_1: \\mu_1 - \\mu_2 &lt; D_0 \\end{align}\\)  (left-tailed)\n \\(\\small \\begin{align} &H_0: \\mu_1 - \\mu_2 = D_0\\\\ &H_1: \\mu_1 - \\mu_2 \\ne D_0 \\end{align}\\)  (two-tailed)\n\n\nIf \\(\\sigma_1\\) and \\(\\sigma_2\\) are known, the test statistic is the z-score of \\(\\small \\overline{X}_1 - \\overline{X}_2\\) under \\(H_0\\): \\[z_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - (\\mu_1 - \\mu_2)}{\\sqrt{\\frac{\\sigma_1^2}{n_1} + \\frac{\\sigma_2^2}{n_2}}} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sqrt{\\frac{\\sigma_1^2}{n_1} + \\frac{\\sigma_2^2}{n_2}}} \\]\nThen find \\(z_{\\alpha}\\) or \\(z_{\\alpha/2}\\) and follow our testing steps!"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#test-statistic-for-independent-samples-sigma_1-ne-sigma_2-1",
+    "href": "slides/11-infer-two-means.html#test-statistic-for-independent-samples-sigma_1-ne-sigma_2-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Test Statistic for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n",
+    "text": "Test Statistic for Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n\n\nIf \\(\\sigma_1\\) and \\(\\sigma_2\\) are unknown, the test statistic becomes \\(t_{test}\\):\n\n\\[t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - (\\mu_1 - \\mu_2)}{\\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}}} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}}} \\]\n\n. . .\n\nThe critical value \\(t_{\\alpha, df}\\) (one-tailed) and \\(t_{\\alpha/2, df}\\) (two-tailed), and the \\(t\\) distribution used to compute the \\(p\\)-value has the degrees of freedom \\[\\small df = \\dfrac{(A+B)^2}{\\dfrac{A^2}{n_1-1}+ \\dfrac{B^2}{n_2-1}},\\] where \\(\\small A = \\dfrac{s_1^2}{n_1}\\) and \\(\\small B = \\dfrac{s_2^2}{n_2}\\).\n\n\nIf the \\(df\\) is not an integer, we round it down to an integer. \n\n\n\nsimilar to the one sample case,"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#inference-from-independent-samples-sigma_1-ne-sigma_2",
+    "href": "slides/11-infer-two-means.html#inference-from-independent-samples-sigma_1-ne-sigma_2",
+    "title": "Comparing Two Population Means \n",
+    "section": "Inference from Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n",
+    "text": "Inference from Independent Samples \\((\\sigma_1 \\ne \\sigma_2)\\)\n\n\n\n\n\n\n\n\n\\(\\large \\color{red}{\\sigma_1 \\ne \\sigma_2}\\)\nTest Statistic\nConfidence Interval for \\(\\mu_1 - \\mu_2\\)\n\n\n\n\nknown\n\\(\\large z_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sqrt{\\frac{\\sigma_1^2}{n_1} + \\frac{\\sigma_2^2}{n_2}}}\\)\n\\(\\large (\\overline{x}_1 - \\overline{x}_2) \\pm z_{\\alpha/2} \\sqrt{\\frac{\\sigma_1^2}{n_1} + \\frac{\\sigma_2^2}{n_2}}\\)\n\n\nunknown\n\\(\\large t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}}}\\)\n\\(\\large (\\overline{x}_1 - \\overline{x}_2) \\pm t_{\\alpha/2, df} \\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}}\\)\n\n\n\n\nUse \\(\\small df = \\dfrac{(A+B)^2}{\\dfrac{A^2}{n_1-1}+ \\dfrac{B^2}{n_2-1}},\\) where \\(\\small A = \\dfrac{s_1^2}{n_1}\\) and \\(\\small B = \\dfrac{s_2^2}{n_2}\\) to get the \\(p\\)-value, critical value, and CI.\nThe unequal-variance t-test is called Welch’s t-test."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#example-two-sample-t-test",
+    "href": "slides/11-infer-two-means.html#example-two-sample-t-test",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example: Two-Sample t-Test",
+    "text": "Example: Two-Sample t-Test\n\n\nDoes an oversized tennis racket exert less stress/force on the elbow? The data show\n\nOversized: \\(n_1 = 33\\), \\(\\overline{x}_1 = 25.2\\), \\(s_1 = 8.6\\)\nConventional: \\(n_2 = 12\\), \\(\\overline{x}_2 = 33.9\\), \\(s_2 = 17.4\\)\nThe two populations are nearly normal.\nThe large difference in the sample SD suggests \\(\\sigma_1 \\ne \\sigma_2\\).\nForm a hypothesis test with \\(\\alpha = 0.05\\) and construct a 95% CI for the mean difference of force on the elbow.\n\n\n\n\n\n\n\n\n\n\n\n\n\nStep 1:  \\(\\begin{align} &H_0: \\mu_1 = \\mu_2 \\\\ &H_1: \\mu_1 &lt; \\mu_2 \\end{align}\\) \n\n\n. . .\n\nStep 2:  \\(\\alpha = 0.05\\)"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#example-two-sample-t-test-contd",
+    "href": "slides/11-infer-two-means.html#example-two-sample-t-test-contd",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example: Two-Sample t-Test Cont’d",
+    "text": "Example: Two-Sample t-Test Cont’d\n\nStep 3:  \\(t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - (\\mu_1-\\mu_2)}{\\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}}} = \\frac{(25.2 - 33.9) - 0}{\\sqrt{\\frac{\\color{red}{8.6^2}}{33} + \\frac{\\color{red}{17.4^2}}{12}}} = -1.66\\)\n\n\n. . .\n\n\n\n\\(\\small A = \\dfrac{8.6^2}{33}\\), \\(\\small B = \\dfrac{17.4^2}{12}\\), \\(\\small df = \\dfrac{(A+B)^2}{\\dfrac{A^2}{33-1}+ \\dfrac{B^2}{12-1}} = 13.01\\)\n\nIf the computed value of \\(df\\) is not an integer, always round down to the nearest integer.\n\n. . .\n\nStep 4-c:  \\(-t_{0.05, 13} = -1.77\\). \nStep 5-c:  We reject \\(H_0\\) if \\(\\small t_{test} &lt; -t_{\\alpha, df}\\). \\(\\small t_{test} = -1.66 &gt; -1.77 = -t_{\\alpha, df}\\), we fail to reject \\(H_0\\). \nStep 6:  There is insufficient evidence to support the claim that the the oversized racket delivers less stress to the elbow."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#example-two-sample-t-test-contd-1",
+    "href": "slides/11-infer-two-means.html#example-two-sample-t-test-contd-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example: Two-Sample t-Test Cont’d",
+    "text": "Example: Two-Sample t-Test Cont’d\n\nThe 95% CI for \\(\\mu_1 - \\mu_2\\) is\n\n\\[\\begin{align}(\\overline{x}_1 - \\overline{x}_2) \\pm t_{\\alpha/2, df} \\sqrt{\\frac{\\color{red}{s_1^2}}{n_1} + \\frac{\\color{red}{s_2^2}}{n_2}} &= (25.2 - 33.9) \\pm t_{0.025,13}\\sqrt{\\frac{8.6^2}{33} + \\frac{17.4^2}{12}}\\\\&= -8.7 \\pm 11.32 = (-20.02, 2.62).\\end{align}\\]\n\nWe are 95% confident that the difference in the mean forces is between -20.02 and 2.62.\nSince the interval includes 0, it leads to the same conclusion as failing to reject \\(H_0\\)."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#two-sample-t-test-in-r",
+    "href": "slides/11-infer-two-means.html#two-sample-t-test-in-r",
+    "title": "Comparing Two Population Means \n",
+    "section": "Two-Sample t-Test in R",
+    "text": "Two-Sample t-Test in R\n\nn1 = 33; x1_bar = 25.2; s1 = 8.6\nn2 = 12; x2_bar = 33.9; s2 = 17.4\nA &lt;- s1^2 / n1; B &lt;- s2^2 / n2\ndf &lt;- (A + B)^2 / (A^2/(n1-1) + B^2/(n2-1))\n(df &lt;- floor(df))\n\n[1] 13\n\n## t_test\n(t_test &lt;- (x1_bar - x2_bar) / sqrt(s1^2/n1 + s2^2/n2))\n\n[1] -1.7\n\n## t_cv\nqt(p = 0.05, df = df)\n\n[1] -1.8\n\n## p_value\npt(q = t_test, df = df)\n\n[1] 0.06"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#test-statistic-for-independent-samples-sigma_1-sigma_2-sigma",
+    "href": "slides/11-infer-two-means.html#test-statistic-for-independent-samples-sigma_1-sigma_2-sigma",
+    "title": "Comparing Two Population Means \n",
+    "section": "Test Statistic for Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n",
+    "text": "Test Statistic for Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n\n\nIf \\(\\sigma_1\\) and \\(\\sigma_2\\) are known,\n\n\\[z_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - (\\mu_1 - \\mu_2)}{\\sigma\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sigma\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}} \\]\n. . .\n\nIf \\(\\sigma_1\\) and \\(\\sigma_2\\) are unknown, similar to the one sample case, we use \\(t_{test}\\).\nAs \\(\\sigma_1 = \\sigma_2 = \\sigma\\), we don’t need two but one sample SD to replace the \\(\\sigma\\).\nUse the pooled sample variance to estimate the common \\(\\sigma^2\\):\n\n\\[ s_p^2 = \\frac{(n_1-1)s_1^2 + (n_2-1)s_2^2}{n_1+n_2-2} \\] which is the weighted average of \\(s_1^2\\) and \\(s_2^2\\).\n\n\nBut not so similar to the equal-variance case."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#test-statistic-for-independent-samples-sigma_1-sigma_2-sigma-1",
+    "href": "slides/11-infer-two-means.html#test-statistic-for-independent-samples-sigma_1-sigma_2-sigma-1",
+    "title": "Comparing Two Population Means \n",
+    "section": "Test Statistic for Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n",
+    "text": "Test Statistic for Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n\n\nIf \\(\\sigma_1\\) and \\(\\sigma_2\\) are unknown, \\[t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - (\\mu_1 - \\mu_2)}{ {\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{{\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}}\\]\nHere, the critical value \\(t_{\\alpha, df}\\) (for one-tailed tests) and \\(t_{\\alpha/2, df}\\) (for two-tailed tests), and the \\(t\\) distribution used to compute the \\(p\\)-value have the degrees of freedom \\[df = n_1 + n_2 - 2\\]"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#inference-from-independent-samples-sigma_1-sigma_2-sigma",
+    "href": "slides/11-infer-two-means.html#inference-from-independent-samples-sigma_1-sigma_2-sigma",
+    "title": "Comparing Two Population Means \n",
+    "section": "Inference from Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n",
+    "text": "Inference from Independent Samples \\((\\sigma_1 = \\sigma_2 = \\sigma)\\)\n\n\n\n\n\n\n\n\n\\(\\large \\color{red}{\\sigma_1 = \\sigma_2}\\)\nTest Statistic\nConfidence Interval for \\(\\mu_1 - \\mu_2\\)\n\n\n\n\nknown\n\\(\\large z_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{\\sigma\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}}\\)\n\\(\\large (\\overline{x}_1 - \\overline{x}_2) \\pm z_{\\alpha/2} \\sigma \\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}\\)\n\n\nunknown\n\\(\\large t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{{\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}}\\)\n\\(\\large (\\overline{x}_1 - \\overline{x}_2) \\pm t_{\\alpha/2, df} {\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}\\)\n\n\n\n\n\\(s_p = \\sqrt{\\frac{(n_1-1)s_1^2 + (n_2-1)s_2^2}{n_1+n_2-2}}\\)\nUse \\(df = n_1+n_2-2\\) get the \\(p\\)-value, critical value and CI.\nThe test from two independent samples with \\(\\sigma_1 = \\sigma_2  = \\sigma\\) is usually called two-sample pooled \\(z\\)-test or two-sample pooled \\(t\\)-test."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#example-weight-loss",
+    "href": "slides/11-infer-two-means.html#example-weight-loss",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example: Weight Loss",
+    "text": "Example: Weight Loss\n\n\nA study was conducted to see the effectiveness of a weight loss program.\n\nTwo groups (Control and Experimental) of 10 subjects were selected.\nThe two populations are normally distributed and have the same SD.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe data on weight loss was collected at the end of six months\n\n\nControl: \\(n_1 = 10\\), \\(\\overline{x}_1 = 2.1\\, lb\\), \\(s_1 = 0.5\\, lb\\)\n\n\nExperimental: \\(n_2 = 10\\), \\(\\overline{x}_2 = 4.2\\, lb\\), \\(s_2 = 0.7\\, lb\\)\n\n\n\nIs there a sufficient evidence at \\(\\alpha = 0.05\\) to conclude that the program is effective?\nIf yes, construct a 95% CI for \\(\\mu_1 - \\mu_2\\) to show how much effective it is.\n\n\n\n\n\n\n\n\n\n\n\n. . .\n\nStep 1:  \\(\\begin{align} &H_0: \\mu_1 = \\mu_2 \\\\ &H_1: \\mu_1 &lt; \\mu_2 \\end{align}\\) \n\n\n. . .\n\nStep 2:  \\(\\alpha = 0.05\\)"
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#example-contd-2",
+    "href": "slides/11-infer-two-means.html#example-contd-2",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example Cont’d",
+    "text": "Example Cont’d\n\nStep 3:  \\(t_{test} = \\frac{(\\overline{x}_1 - \\overline{x}_2) - \\color{blue}{D_0}}{{\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}}}\\). \n\\(s_p = \\sqrt{\\frac{(n_1-1)s_1^2 + (n_2-1)s_2^2}{n_1+n_2-2}} = \\sqrt{\\frac{(10-1)0.5^2 + (10-1)0.7^2}{10+10-2}}=0.61\\)\n \\(t_{test} = \\frac{(2.1 - 4.2) - 0}{0.6083\\sqrt{\\frac{1}{10} + \\frac{1}{10}}} = -7.72\\)\n\n. . .\n\nStep 4-c:  \\(df = n_1 + n_2 - 2 = 10 + 10 - 2 = 18\\). So \\(-t_{0.05, df = 18} = -1.734\\). \n\n\n. . .\n\nStep 5-c:  We reject \\(H_0\\) if \\(\\small t_{test} &lt; -t_{\\alpha, df}\\). Since \\(\\small t_{test} = -7.72 &lt; -1.73  = -t_{\\alpha, df}\\), we reject \\(H_0\\).\n\n\n. . .\n\nStep 4-p:  The \\(p\\)-value is \\(P(T_{df=18} &lt; t_{test}) \\approx 0\\) \n\n\n. . .\n\nStep 5-p:  We reject \\(H_0\\) if \\(p\\)-value &lt; \\(\\alpha\\). Since \\(p\\)-value \\(\\approx 0 &lt; 0.05  = \\alpha\\), we reject \\(H_0\\).\n\n\n. . .\n\nStep 6:  There is sufficient evidence to support the claim that the weight loss program is effective."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#example-contd-3",
+    "href": "slides/11-infer-two-means.html#example-contd-3",
+    "title": "Comparing Two Population Means \n",
+    "section": "Example Cont’d",
+    "text": "Example Cont’d\n\nThe 95% CI for \\(\\mu_1 - \\mu_2\\) is \\[\\begin{align}(\\overline{x}_1 - \\overline{x}_2) \\pm t_{\\alpha/2, df} {\\color{red}{s_p}}\\sqrt{\\frac{1}{n_1} + \\frac{1}{n_2}} &= (2.1 - 4.2) \\pm t_{0.025, 18} (0.61)\\sqrt{\\frac{1}{10} + \\frac{1}{10}}\\\\ &= -2.1 \\pm 0.57 = (-2.67, -1.53) \\end{align}\\]\nWe are 95% confident that the difference in the mean weight is between -2.67 and -1.53.\nSince the interval does not include 0, it leads to the same conclusion as rejection of \\(H_0\\)."
+  },
+  {
+    "objectID": "slides/11-infer-two-means.html#two-sample-pooled-t-test-in-r",
+    "href": "slides/11-infer-two-means.html#two-sample-pooled-t-test-in-r",
+    "title": "Comparing Two Population Means \n",
+    "section": "Two-Sample Pooled t-Test in R",
+    "text": "Two-Sample Pooled t-Test in R\n\nn1 = 10; x1_bar = 2.1; s1 = 0.5\nn2 = 10; x2_bar = 4.2; s2 = 0.7\nsp &lt;- sqrt(((n1 - 1) * s1 ^ 2 + (n2 - 1) * s2 ^ 2) / (n1 + n2 - 2))\nsp\n\n[1] 0.61\n\ndf &lt;- n1 + n2 - 2\n## t_test\n(t_test &lt;- (x1_bar - x2_bar) / (sp * sqrt(1 / n1 + 1 / n2)))\n\n[1] -7.7\n\n## t_cv\nqt(p = 0.05, df = df)\n\n[1] -1.7\n\n## p_value\npt(q = t_test, df = df)\n\n[1] 2e-07"
   }
 ]
