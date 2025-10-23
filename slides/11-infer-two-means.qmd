@@ -601,10 +601,11 @@ knitr::include_graphics("./images/11-infer-two-means/exam.jpeg")
 
 ::: midi
 ```{r}
-#| out-width: 80%
-knitr::include_graphics("./images/11-infer-two-means/two_indept_sample_overview.png")
+#| out-width: 100%
+knitr::include_graphics("./images/11-infer-two-means/two_indept_sample_overview_new.png")
 ```
 :::
+
 
 
 ## Testing for Independent Samples $(\sigma_1 \ne \sigma_2)$
