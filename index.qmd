@@ -29,11 +29,11 @@ format:
 | 8 | Mon, Oct 13 | Confidence Intervals [**Activity: How Much Do Students Sleep?**](activity/act_ci.html) | 👉[Student-t](ojs/infer-ci-t-ojs.html) |  |  |  |  |  |
 |  | Wed, Oct 15 | Hypothesis Testing | [🖥️ testing](/slides/10-ht-slides.html)<br> 👉[testing](ojs/infer-ht-ojs.html) | [IS Ch 16](https://chenghanyu-introstatsbook.netlify.app/infer-ht) | [`r fontawesome::fa("file-code")`](code/15-infer-ht.R) (testing) | ✍️ [HW 5](hw/hw05.html "Confidence interval") (due 10/24) |  |  |
 | 9 | Mon, Oct 20 | Hypothesis Testing |  |  |  |  |  |  |
-|  | Wed, Oct 22 | Two Population Means: Matched Pairs | [🖥️ two samples](/slides/11-infer-two-means-slides.html) | [IS Ch 17](https://chenghanyu-introstatsbook.netlify.app/infer-twomean) | [`r fontawesome::fa("file-code")`](code/16-infer-twomean.R) (two samples) | ✍️ HW 6 |  |  |
-| 10 | Mon, Oct 27 | Two Population Means: Independent Samples Inference for One  Population Variance | 🖥️ | IS Ch 18 | `r fontawesome::fa("file-code")` |  |  |  |
-|  | Wed, Oct 29 | Inference about Two Population Variances |  | IS Ch 18 |  | ✍️ HW 7 | ✅ Quiz 3 |  |
+|  | Wed, Oct 22 | Two Population Means: Matched Pairs | [🖥️ two samples](/slides/11-infer-two-means-slides.html) | [IS Ch 17](https://chenghanyu-introstatsbook.netlify.app/infer-twomean) | [`r fontawesome::fa("file-code")`](code/16-infer-twomean.R) (two samples) | ✍️ [HW 6](hw/hw06.html "two population means") (due 10/31) |  |  |
+| 10 | Mon, Oct 27 | Two Population Means: Independent Samples Inference for One  Population Variance | [🖥️ variances](/slides/12-infer-variance-slides.html) <br> 👉[chi-squared](ojs/infer-var-chisq-ojs.html) | [IS Ch 18](https://chenghanyu-introstatsbook.netlify.app/infer-var) | [`r fontawesome::fa("file-code")`](code/17-infer-var.R) (variances) |  |  |  |
+|  | Wed, Oct 29 | Inference about Two Population Variances | 👉 [f](ojs/infer-var-f-ojs.html) |  |  | ✍️ HW 7 | ✅ Quiz 3 |  |
 | 11 | Mon, Nov 3 | Analysis of Variance (ANOVA) Rationale | 🖥️ | IS Ch 24 | `r fontawesome::fa("file-code")` |  |  |  |
-|  | Wed, Nov 5 | Analysis of Variance (ANOVA) Procedure |  | IS Ch 24 |  |  |  |  |
+|  | Wed, Nov 5 | Analysis of Variance (ANOVA) Procedure |  |  |  |  |  |  |
 | 12 | Mon, Nov 10 | **In-class Exam 2** |  |  |  |  |  |  |
 |  | Wed, Nov 12 | Multiple Comparisons | 🖥️ | IS Ch 25 | `r fontawesome::fa("file-code")` |  |  |  |
 | 13 | Mon, Nov 17 | Correlation | 🖥️ | IS Ch 27.1 |  |  |  |  |

@@ -157,7 +157,7 @@
     "href": "hw.html",
     "title": "Homework",
     "section": "",
-    "text": "More homework sets to be added as the semester progresses.\n\n\n\n\n\n\n\n\n\n\nNo.\n\n\n\nTitle\n\n\n\nDue date\n\n\n\n\n\n\n\n\nHomework 1\n\n\nData Collection and Data Type\n\n\n\n\n\n\n\n\n\nHomework 2\n\n\nBasic R, Data Description and Graphics\n\n\n\n\n\n\n\n\n\nHomework 3\n\n\nProbability Fundamentals\n\n\n\n\n\n\n\n\n\nHomework 4\n\n\nProbability Distributions\n\n\n\n\n\n\n\n\n\nHomework 5\n\n\nInferences about population means\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "More homework sets to be added as the semester progresses.\n\n\n\n\n\n\n\n\n\n\nNo.\n\n\n\nTitle\n\n\n\nDue date\n\n\n\n\n\n\n\n\nHomework 1\n\n\nData Collection and Data Type\n\n\n\n\n\n\n\n\n\nHomework 2\n\n\nBasic R, Data Description and Graphics\n\n\n\n\n\n\n\n\n\nHomework 3\n\n\nProbability Fundamentals\n\n\n\n\n\n\n\n\n\nHomework 4\n\n\nProbability Distributions\n\n\n\n\n\n\n\n\n\nHomework 5\n\n\nInferences about population means\n\n\n\n\n\n\n\n\n\nHomework 6\n\n\nComparing Two Population Means and Inference about Variances\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Homework"
     ]
@@ -2130,7 +2130,7 @@
     "href": "index.html",
     "title": "MATH 4720 (MSSC 5720) Statistical Methods Fall 2025",
     "section": "",
-    "text": "The website is for Section-101 2 - 3:15 PM and Section-102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nMaterials\nReading\nR Code\nHomework\nQuiz/Exercise\nExam/Project\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ statistics and data\n\n\nSyllabusIS Ch1GenAI Video\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n\nIS Ch 2\n\n✍️ HW 1 (due 9/5)\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n\n🖥️ R and RStudio🖥️ data type and structure\n\nIS Ch 3\n\n (data type and structure)\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n\n🖥️ data summary👉histogram breaks👉data extremes\n\nIS Ch 5 - 6\n\n (data graphics)\n\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n\nIS Ch 5 - 6\n\n (data numerics)\n✍️ HW 2 (due 9/19)\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n\n🖥️ probability👉venn diagram\n\nIS Ch 7 - 8\n\n\n\n\n\n\n\nWed, Sep 17\nConditional Probability, Independence, Bayes Formula\n\nIS Ch 9\n\n✍️ HW 3 (due 9/26)\n✅ Quiz 1\n\n\n\n5\nMon, Sep 22\nRandom Variables, Discrete Probability Distributions\n\n🖥️ distribution 👉binomial👉poisson\n\nIS Ch 10\n\n (discrete distribution)\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions Activity: Match the Scenario to the Distribution\n\n👉normal\n\nIS Ch 11\n\n (continuous distribution)\n✍️ HW 4 (due 10/3)\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️ sampling-dist-clt\nIS Ch 12\n\n (sampling distribution and CLT)\n\n📋 Exercise for Exam 1\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem (CLT)\n👉CLT 👉Rolling dice\n\nIS Ch 13\n\n\n✅ Quiz 2\n\n\n\n7\nMon, Oct 6\nIn-class Exam 1\n\n\n\n\n\nTake-home Exam 1\n\n\n\nWed, Oct 8\nConfidence Intervals\n\n🖥️ confidence interval  👉CI\n\nIS Ch 14\n\n (confidence interval)\n\n\n\n\n\n8\nMon, Oct 13\nConfidence Intervals Activity: How Much Do Students Sleep?\n\n👉Student-t\n\n\n\n\n\n\n\n\n\nWed, Oct 15\nHypothesis Testing\n\n🖥️ testing 👉testing\n\nIS Ch 16\n\n (testing)\n✍️ HW 5 (due 10/24)\n\n\n\n\n9\nMon, Oct 20\nHypothesis Testing\n\n\n\n\n\n\n\n\n\nWed, Oct 22\nTwo Population Means: Matched Pairs\n🖥️ two samples\nIS Ch 17\n\n (two samples)\n✍️ HW 6\n\n\n\n\n10\nMon, Oct 27\nTwo Population Means: Independent Samples Inference for One Population Variance\n🖥️\nIS Ch 18\n\n\n\n\n\n\n\nWed, Oct 29\nInference about Two Population Variances\n\nIS Ch 18\n\n✍️ HW 7\n✅ Quiz 3\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA) Rationale\n🖥️\nIS Ch 24\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA) Procedure\n\nIS Ch 24\n\n\n\n\n\n\n12\nMon, Nov 10\nIn-class Exam 2\n\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n🖥️\nIS Ch 25\n\n\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\nIS Ch 27.1\n\n\n\n\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\nIS Ch 27.2 - 27.3\n\n\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\nIS Ch 27.4 - 27.6\n\n\n\n\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n✍️ HW 8\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\nIS Ch 19\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\nIS Ch 20\n\n\n✅ Quiz 4\n\n\n\n16\n\nWed, Dec 10, 10:30 AM - 12:30 PM\n\nIn-class Final Exam (Sec101-2PM)\n\n\n\n\n\n\n\n\n\nFri, Dec 12, 8- 10 AM\nIn-class Final Exam (Sec102-3:30PM)\n\n\n\n\n\n\n\n\n\n\nI reserve the right to make changes to the schedule.",
+    "text": "The website is for Section-101 2 - 3:15 PM and Section-102 3:30-4:45 PM.\n\nThis schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nMaterials\nReading\nR Code\nHomework\nQuiz/Exercise\nExam/Project\n\n\n\n1\nMon, Aug 25\nSyllabus/Overview of Statistics\n\n🖥️ syllabus🖥️ statistics and data\n\n\nSyllabusIS Ch1GenAI Video\n\n\n\n\n\n\n\n\nWed, Aug 27\nStatistical Studies and Data Collection; Data Type\n\nIS Ch 2\n\n✍️ HW 1 (due 9/5)\n\n\n\n\n2\nMon, Sep 1\nNO CLASS: Labor Day\n\n\n\n\n\n\n\n\n\nWed, Sep 3\nR Software and Computation\n\n🖥️ R and RStudio🖥️ data type and structure\n\nIS Ch 3\n\n (data type and structure)\n\n\n\n\n\n3\nMon, Sep 8\nSummarizing Data: Centrality\n\n🖥️ data summary👉histogram breaks👉data extremes\n\nIS Ch 5 - 6\n\n (data graphics)\n\n\n\n\n\n\nWed, Sep 10\nSummarizing Data: Variation\n\nIS Ch 5 - 6\n\n (data numerics)\n✍️ HW 2 (due 9/19)\n\n\n\n\n4\nMon, Sep 15\nProbability Fundamentals\n\n🖥️ probability👉venn diagram\n\nIS Ch 7 - 8\n\n\n\n\n\n\n\nWed, Sep 17\nConditional Probability, Independence, Bayes Formula\n\nIS Ch 9\n\n✍️ HW 3 (due 9/26)\n✅ Quiz 1\n\n\n\n5\nMon, Sep 22\nRandom Variables, Discrete Probability Distributions\n\n🖥️ distribution 👉binomial👉poisson\n\nIS Ch 10\n\n (discrete distribution)\n\n\n\n\n\n\nWed, Sep 24\nContinuous Probability Distributions Activity: Match the Scenario to the Distribution\n\n👉normal\n\nIS Ch 11\n\n (continuous distribution)\n✍️ HW 4 (due 10/3)\n\n\n\n\n6\nMon, Sep 29\nSampling Distributions\n🖥️ sampling-dist-clt\nIS Ch 12\n\n (sampling distribution and CLT)\n\n📋 Exercise for Exam 1\n\n\n\n\n\nWed, Oct 1\nCentral Limit Theorem (CLT)\n👉CLT 👉Rolling dice\n\nIS Ch 13\n\n\n✅ Quiz 2\n\n\n\n7\nMon, Oct 6\nIn-class Exam 1\n\n\n\n\n\nTake-home Exam 1\n\n\n\nWed, Oct 8\nConfidence Intervals\n\n🖥️ confidence interval  👉CI\n\nIS Ch 14\n\n (confidence interval)\n\n\n\n\n\n8\nMon, Oct 13\nConfidence Intervals Activity: How Much Do Students Sleep?\n\n👉Student-t\n\n\n\n\n\n\n\n\n\nWed, Oct 15\nHypothesis Testing\n\n🖥️ testing 👉testing\n\nIS Ch 16\n\n (testing)\n✍️ HW 5 (due 10/24)\n\n\n\n\n9\nMon, Oct 20\nHypothesis Testing\n\n\n\n\n\n\n\n\n\nWed, Oct 22\nTwo Population Means: Matched Pairs\n🖥️ two samples\nIS Ch 17\n\n (two samples)\n✍️ HW 6 (due 10/31)\n\n\n\n\n10\nMon, Oct 27\nTwo Population Means: Independent Samples Inference for One Population Variance\n\n🖥️ variances  👉chi-squared\n\nIS Ch 18\n\n (variances)\n\n\n\n\n\n\nWed, Oct 29\nInference about Two Population Variances\n👉 f\n\n\n\n✍️ HW 7\n✅ Quiz 3\n\n\n\n11\nMon, Nov 3\nAnalysis of Variance (ANOVA) Rationale\n🖥️\nIS Ch 24\n\n\n\n\n\n\n\nWed, Nov 5\nAnalysis of Variance (ANOVA) Procedure\n\n\n\n\n\n\n\n\n12\nMon, Nov 10\nIn-class Exam 2\n\n\n\n\n\n\n\n\n\nWed, Nov 12\nMultiple Comparisons\n🖥️\nIS Ch 25\n\n\n\n\n\n\n13\nMon, Nov 17\nCorrelation\n🖥️\nIS Ch 27.1\n\n\n\n\n\n\n\nWed, Nov 19\nSimple Linear Regression\n\nIS Ch 27.2 - 27.3\n\n\n\n\n\n\n14\nMon, Nov 24\nSimple Linear Regression\n\nIS Ch 27.4 - 27.6\n\n\n\n\n\n\n\nWed, Nov 26\nNO CLASS: Thanksgiving\n\n\n\n✍️ HW 8\n\n\n\n\n15\nMon, Dec 1\nInference for Categorical Data\n🖥️\nIS Ch 19\n\n\n\n\n\n\n\nWed, Dec 3\nInference for Categorical Data\n\nIS Ch 20\n\n\n✅ Quiz 4\n\n\n\n16\n\nWed, Dec 10, 10:30 AM - 12:30 PM\n\nIn-class Final Exam (Sec101-2PM)\n\n\n\n\n\n\n\n\n\nFri, Dec 12, 8- 10 AM\nIn-class Final Exam (Sec102-3:30PM)\n\n\n\n\n\n\n\n\n\n\nI reserve the right to make changes to the schedule.",
     "crumbs": [
       "Course Information",
       "Schedule"
@@ -4886,5 +4886,166 @@
     "crumbs": [
       "Exercise"
     ]
+  },
+  {
+    "objectID": "hw/hw06.html",
+    "href": "hw/hw06.html",
+    "title": "Homework 6",
+    "section": "",
+    "text": "Important\n\n\n\nDue Friday, Oct 31, 11:59 PM\n\n\n\nHomework 6 covers Week 9 and 10.\nPlease submit your work in one PDF file to D2L &gt; Assessments &gt; Dropbox. Multiple files or a file that is not in pdf format is not allowed.\nIn your homework, please number questions in order.\n\n\nHandwritten tables and figures receive no credits.\nYou do not need to attach your code of any language you use in the homework. However, if you fail to complete your calculations or produce your table or figure, you receive partial credits if your code is attached.\n\nHomework Questions\n\nYou are given the following hypotheses: \\[\\begin{align*}\nH_0&: \\mu = 60 \\\\\nH_A&: \\mu \\neq 60\n\\end{align*}\\] We know that the sample standard deviation is 8 and the sample size is 20. For what sample mean would the p-value be equal to 0.05? Assume that all conditions necessary for inference are satisfied.\n\n\n\nHere are summary statistics for randomly selected weights of newborn girls: \\(n =205\\), \\(\\bar{x} = 30.4\\)hg (1hg = 100 grams), \\(s = 7.1\\)hg.\n\nWith significance level 0.01, use the critical value method to test the claim that the population mean of birth weights of females is greater than 30hg.\nDo the same test in (a), but use the p-value method. Are the conclusions in (a) and (b) the same?\n\n\n\n\n\nHere are summary statistics for randomly selected weights of newborn girls: \\(n =205\\), \\(\\bar{x} = 30.4\\)hg (1hg = 100 grams), \\(s = 7.1\\)hg.\n\nCompute a 95% confidence interval for \\(\\mu\\), the mean weight of newborn girls.\nAre the result in (a) very different from the 95% confidence interval if \\(\\sigma = 7.1\\)? Why?\n\n\n\n\n\nA study was conducted to assess the effects that occur when children are expected to cocaine before birth. Children were tested at age 4 for object assembly skill, which was described as “a task requiring visual-spatial skills related to mathematical competence.” The 190 children born to cocaine users had a mean of 7.3 and a standard deviation of 3.0. The 186 children not exposed to cocaine had a mean score of 8.2 and a standard deviation of 3.0.\n\nWith \\(\\alpha = 0.05\\), use the critical-value method and p-value method to perform a 2-sample t-test on the claim that prenatal cocaine exposure is associated with lower scores of 4-year-old children on the test of object assembly.\nTest the claim in part (a) by using a confidence interval.\n\n\n\n\n\nListed below are heights (in.) of mothers and their first daughters.\n\nUse \\(\\alpha = 0.05\\) to test the claim that there is no difference in heights between mothers and their first daughters.\nTest the claim in part (a) by using a confidence interval.\n\n\n\n\n\n\n\n\n\n\nHeight of Mother and Daughter (inches)\n\n\nHeight of Mother\nHeight of Daughter\n\n\n\n\n68.0\n68.5\n\n\n60.0\n60.0\n\n\n61.0\n63.5\n\n\n63.5\n67.5\n\n\n69.0\n68.0\n\n\n64.0\n65.5\n\n\n69.0\n69.0\n\n\n64.0\n68.0\n\n\n63.5\n64.5\n\n\n66.0\n63.0\n\n\n\n\n\n\n\n\nThe data about male and female pulse rates are summarized below.\n\nConstruct a 95% CI for \\(\\sigma_{male}\\) of pulse rates for males.\nConstruct a 95% CI for \\(\\sigma_{male}/\\sigma_{female}\\).\nDoes it appear that the population standard deviations for males and females are different? Why or why not?\n\n\n\n\n\n\n\n\n\n\nPulse Rate by Gender\n\n\n\nMale\nFemale\n\n\n\n\nMean (x̄)\n70\n76\n\n\nStandard deviation (s)\n10\n13\n\n\nSample size (n)\n16\n11\n\n\n\n\n\n\n\n\n\nAI Usage Declaration. Using GenAI is permitted for this course. If you choose to use GenAI to assist with your homework, you must include a brief statement documenting your use. Please provide the following information:\n\n\nWhy/How I Used AI Why do you need to use GenAI? Which tool did you use? Describe your prompts or questions. What and how did you ask the AI to help you?\n\nGenerated Output Include a screenshot or excerpt (copy and paste) of the AI’s response.\n\nHow I Used the Output Did you revise it? Did you use it directly, or compare it with your answers? What decisions did you make based on the output?"
+  },
+  {
+    "objectID": "ojs/infer-var-chisq-ojs.html",
+    "href": "ojs/infer-var-chisq-ojs.html",
+    "title": "Chi-squared distribution",
+    "section": "",
+    "text": "viewof params = Inputs.form([\n      Inputs.range([1, 100], {value: 4, step: 1, label: tex`\\nu`}),\n      Inputs.range([0.01, 50], {value: 2, step: 0.01, label: \"quantile:\"})\n    ])\n\n\n\n\n\n\n\ndist_quantile = tex`\\text{If } X \\sim \\chi^2_{${params[0]}} \\text{ then } \\\\[1em]`\n\n\n\n\n\n\n\nmoments = tex`\n\\begin{aligned}\n&E( X) =\\nu = ${params[0].toPrecision(3)} \\\\[1em]\n&Var( X) =2\\nu= ${(2*params[0]).toPrecision(3)} \\\\[1em]\n&P( X\\leq ${params[1]}) =${chisquarecdf.toPrecision(4)}\n\\end{aligned}\n`\n\n\n\n\n\n\n\n\n\n\n\n\nplt_pdf = Plot.plot({\n    width: 800, // or a dynamic value based on `width` variable\n    height: 600,\n    style: {fontSize: \"15px\"},\n    color: {\n      legend: true\n    },\n    x: {\n      label: \"x\",\n      axis: true\n    },\n    y: {\n      label: \"f(x)\",\n      //axis: false,\n      domain: [0,jstat.chisquare.pdf(Math.max(0,params[0]-2), params[0])]\n    },\n    marks: [\n      Plot.ruleY([0]),\n      Plot.ruleX([0]),\n      Plot.line(chisquarepdf, {x: \"x\", y: \"pdf\", stroke : \"steelblue\", strokeWidth: 2}),\n      Plot.areaY(chisquarepdf, {filter: d =&gt; d.x &lt;= params[1], x: \"x\", y: \"pdf\", fill: \"steelblue\", opacity: 0.2})\n    ]\n  })\n\n\n\n\n\n\n\n\nFigure 1: https://observablehq.com/@mattiasvillani/chi2-distribution\n\n\n\n\n\nchisquarepdf = {\n  const x = d3.range(0.01, params[0]+5*Math.sqrt(2*params[0]), 0.01);\n  const pdf = x.map(x =&gt; ({x: x, pdf: jstat.chisquare.pdf(x, params[0])}));\n  return pdf\n}\n\n\n\n\n\n\n\nchisquarecdf = jstat.chisquare.cdf(params[1], params[0]);\n\n\n\n\n\n\n\njstat = require('jstat')"
+  },
+  {
+    "objectID": "ojs/infer-var-f-ojs.html",
+    "href": "ojs/infer-var-f-ojs.html",
+    "title": "F distribution",
+    "section": "",
+    "text": "viewof params_f = Inputs.form([\n      Inputs.range([1, 100], {value: 4, step: 1, label: tex`\\nu_1`}),\n      Inputs.range([1, 100], {value: 4, step: 1, label: tex`\\nu_2`}),\n      Inputs.range([0.01, 10], {value: 2, step: 0.01, label: \"quantile:\"})\n    ])\n\n\n\n\n\n\n\ndist_quantile_f = tex`\\text{If } X \\sim F(${nu1},${nu2}) \\text{ then } `\n\n\n\n\n\n\n\nmoments_f = {\n  if (nu2&gt;4){\n    return tex`\n      \\begin{aligned}\n        &E( X) =\\frac{\\nu_2}{\\nu_2-2} = ${(nu2/(nu2-2)).toPrecision(3)} \\\\[1em]\n        &Var( X) = 2\\Big(\\frac{\\nu_2}{\\nu_2-2}\\Big)^2\\frac{\\nu_1+\\nu_2-2}{\\nu_1(\\nu_2-4)} = \n        ${(2*(nu2/(nu2-2))**2 * ((nu1+nu2-2)/(nu1*(nu2-4)))).toPrecision(3)} \\\\[1em]\n        &P( X\\leq ${quantile}) =${fcdf.toPrecision(4)}\n      \\end{aligned}\n    `\n  }\n  else{\n    if (nu2&gt;2 && nu2&lt;=4){\n      return tex`\n      \\begin{aligned}\n        &E( X) =\\frac{\\nu_2}{\\nu_2-2} = ${(nu2/(nu2-2)).toPrecision(3)} ( \\nu_2&gt;2 \\text{ is needed} )\\\\[1em]\n        &Var( X) = \\text{ does not exist} ( \\nu_2&gt;4 \\text{ is needed} ) \\\\[1em]\n        &P( X\\leq ${quantile}) =${fcdf.toPrecision(4)}\n      \\end{aligned}\n    `\n    }\n    else{\n    return tex`\n      \\begin{aligned}\n        &E( X) =\\text{ does not exist} ( \\nu_2&gt;2 \\text{ is needed} )\\\\[1em]\n        &Var( X) = \\text{ does not exist} ( \\nu_2&gt;4 \\text{ is needed} ) \\\\[1em]\n        &P( X\\leq ${quantile}) =${fcdf.toPrecision(4)}\n      \\end{aligned}\n    `\n    }\n  }\n  \n}\n\n\n\n\n\n\n\n\n\n\n\n\nplt_pdf_f = Plot.plot({\n    width: 800, // or a dynamic value based on `width` variable\n    height: 600,\n    style: {fontSize: \"15px\"},\n    color: {\n      legend: true\n    },\n    x: {\n      label: \"x\",\n      axis: true\n    },\n    y: {\n      label: \"f(x)\",\n      //axis: false,\n      //domain: [0,jstat.chisquare.pdf(mode, nu1, nu2)]\n    },\n    marks: [\n      Plot.ruleY([0]),\n      Plot.ruleX([0]),\n      Plot.line(fpdf, {x: \"x\", y: \"pdf\", stroke : \"purple\", strokeWidth: 2}),\n      Plot.areaY(fpdf, {filter: d =&gt; d.x &lt;= quantile, x: \"x\", y: \"pdf\", fill: \"purple\", opacity: 0.2})\n    ]\n  })\n\n\n\n\n\n\n\n\nFigure 1: https://observablehq.com/@mattiasvillani/f-distribution\n\n\n\n\n\nnu1 = params_f[0]\nnu2 = params_f[1]\nquantile = params_f[2]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfpdf = {\n  const x = d3.range(0.01, jstat.centralF.inv( 0.99, nu1, nu2 ), 0.01);\n  const pdf = x.map(x =&gt; ({x: x, pdf: jstat.centralF.pdf(x, nu1, nu2 )}));\n  return pdf\n}\n\n\n\n\n\n\n\nfcdf = jstat.centralF.cdf(quantile, nu1, nu2);\n\n\n\n\n\n\n\njstat = require('jstat')"
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#why-inference-for-population-variances",
+    "href": "slides/12-infer-variance-slides.html#why-inference-for-population-variances",
+    "title": "Inference About Population Variances \n",
+    "section": "Why Inference for Population Variances?",
+    "text": "Why Inference for Population Variances?\n\nWe like to know if \\(\\sigma_1 = \\sigma_2\\), so a correct or better method can be used.\n\n\nWhich test we learned needs \\(\\sigma_1 = \\sigma_2\\)?\n\n\n\nIn some situations, we care about variation!\n\n\n\n\n\n the variation in potency of drugs: affects patients’ health\n\n\n\n\n\n\n\n\n\n\n\n\n\n the variance of stock prices : the higher the variance, the riskier the investment\n\n\n\n\n\n\n\n\n\n\n\n\nWhen doing inference for population means,\nWe like to know if \\(\\sigma_1 = \\sigma_2\\), so that a correct or better method can be used. For example, we use the pooled \\(t\\)-test if \\(\\sigma_1 = \\sigma_2\\) or they are very close to each other for higher power.\ndrug for lowering BP. We hope the same amount or dose level of the drug provide the same effect on each individual. We don’t want some patients BP is lowered a lot, but some other patient’s BP is lowered just a little bit.\nWe want the new treatment can provide consistent potency and efficacy for all patients."
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#inference-for-population-variances",
+    "href": "slides/12-infer-variance-slides.html#inference-for-population-variances",
+    "title": "Inference About Population Variances \n",
+    "section": "Inference for Population Variances",
+    "text": "Inference for Population Variances\n\nThe sample variance \\(S^2 = \\frac{\\sum_{i=1}^n(X_i - \\overline{X})^2}{n-1}\\) is our point estimator for the population variance \\(\\sigma^2\\). \nThe inference for \\(\\sigma^2\\) needs the population to be normal.\n\n\n❗ The methods can work poorly if the normality is violated, even the sample is large.\n\n\n\n\nIn some situations, we do care about variation.\n\n\n the variation in potency of drugs: affects patients’ health\n\n the variance of stock prices : the higher the variance, the riskier the investment\n\n\nIntuitively, the sample variance \\(S^2 = \\frac{\\sum_{i=1}^n(X_i - \\overline{X})^2}{n-1}\\) is our point estimator for the population variance \\(\\sigma^2\\).\nFor a random sample of size \\(n\\) drawn from a population with mean \\(\\mu\\) and variance \\(\\sigma^2\\), \\(S^2\\) is an unbiased estimator for \\(\\sigma^2\\).\nIn Chapter 7, we discuss inference methods for \\(\\sigma^2\\) when the population is assumed normal. The methods discussed here can work poorly if normality is violated, even if the sample is large."
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#chi-squared-chi2-distribution",
+    "href": "slides/12-infer-variance-slides.html#chi-squared-chi2-distribution",
+    "title": "Inference About Population Variances \n",
+    "section": "Chi-Squared \\(\\chi^2\\) Distribution",
+    "text": "Chi-Squared \\(\\chi^2\\) Distribution\nThe inference for \\(\\sigma^2\\) involves the \\(\\chi^2\\) distribution.\n\n\n\nDefined over positive numbers\nParameter: degrees of freedom \\(df\\)\nRight skewed\nMore symmetric as \\(df\\) gets larger"
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#upper-tail-and-lower-tail-of-chi-square",
+    "href": "slides/12-infer-variance-slides.html#upper-tail-and-lower-tail-of-chi-square",
+    "title": "Inference About Population Variances \n",
+    "section": "Upper Tail and Lower Tail of Chi-Square",
+    "text": "Upper Tail and Lower Tail of Chi-Square\n\n\n\\(\\chi^2_{\\frac{\\alpha}{2},\\, df}\\) has area to the right of \\(\\alpha/2\\).\n\\(\\chi^2_{1-\\frac{\\alpha}{2},\\, df}\\) has area to the left of \\(\\alpha/2\\).\nIn \\(N(0, 1)\\), \\(z_{1-\\frac{\\alpha}{2}} = -z_{\\frac{\\alpha}{2}}\\). But \\(\\chi^2_{1-\\frac{\\alpha}{2},\\,df} \\ne -\\chi^2_{\\frac{\\alpha}{2},\\,df}\\) because of non-symmetry of the \\(\\chi^2\\) distribution.\n\n\n\nDefine critical values \\(\\chi_U^2\\) and \\(\\chi_L^2\\).\nWhen constructing a CI with level \\(1-\\alpha\\), we put \\(1-\\alpha\\) in the middle and"
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#sampling-distribution",
+    "href": "slides/12-infer-variance-slides.html#sampling-distribution",
+    "title": "Inference About Population Variances \n",
+    "section": "Sampling Distribution",
+    "text": "Sampling Distribution\n\nWhen a random sample of size \\(n\\) is from \\(\\color{red}{N(\\mu, \\sigma^2)}\\), \\[ \\frac{(n-1)S^2}{\\sigma^2} \\sim \\chi^2_{n-1} \\] \nThe inference method for \\(\\sigma^2\\) introduced here can work poorly if the normality assumption is violated, even for large samples!"
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#alpha100-confidence-interval-for-sigma2",
+    "href": "slides/12-infer-variance-slides.html#alpha100-confidence-interval-for-sigma2",
+    "title": "Inference About Population Variances \n",
+    "section": "\n\\((1-\\alpha)100\\%\\) Confidence Interval for \\(\\sigma^2\\)\n",
+    "text": "\\((1-\\alpha)100\\%\\) Confidence Interval for \\(\\sigma^2\\)\n\n\n\n\\((1-\\alpha)100\\%\\) CI for \\(\\sigma^2\\) is \\[\\color{blue}{\\left( \\frac{(n-1)S^2}{\\chi^2_{\\frac{\\alpha}{2}, \\, n-1}}, \\frac{(n-1)S^2}{\\chi^2_{1-\\frac{\\alpha}{2}, \\, n-1}} \\right)}\\]\n\n\n\n\n\n\n\n\n\n\n\n❗ The CI for \\(\\sigma^2\\) cannot be expressed as \\((S^2-m, S^2+m)\\) anymore!"
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#example-supermodel-heights",
+    "href": "slides/12-infer-variance-slides.html#example-supermodel-heights",
+    "title": "Inference About Population Variances \n",
+    "section": "Example: Supermodel Heights",
+    "text": "Example: Supermodel Heights\n\n\nListed below are heights (cm) for the simple random sample of 16 female supermodels:\n\nheights &lt;- c(178, 177, 176, 174, 175, 178, 175, 178, \n             178, 177, 180, 176, 180, 178, 180, 176)\n\n\nThe supermodels’ height is normally distributed.\nConstruct a \\(95\\%\\) confidence interval for population standard deviation \\(\\sigma\\).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(n = 16\\), \\(s^2 = 3.4\\), \\(\\alpha = 0.05\\).\n\\(\\chi^2_{\\alpha/2, n-1} = \\chi^2_{0.025, 15} = 27.49\\)\n\\(\\chi^2_{1-\\alpha/2, n-1} = \\chi^2_{0.975, 15} = 6.26\\)\n\n\n\n\nThe \\(95\\%\\) CI for \\(\\sigma\\) is \\(\\small \\left( \\sqrt{\\frac{(n-1)s^2}{\\chi^2_{\\frac{\\alpha}{2}, \\, n-1}}}, \\sqrt{\\frac{(n-1)s^2}{\\chi^2_{1-\\frac{\\alpha}{2}, \\, n-1}}} \\right) = \\left( \\sqrt{\\frac{(16-1)(3.4)}{27.49}}, \\sqrt{\\frac{(16-1)(3.4)}{6.26}}\\right) = (1.36, 2.85)\\)"
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#example-computation-in-r",
+    "href": "slides/12-infer-variance-slides.html#example-computation-in-r",
+    "title": "Inference About Population Variances \n",
+    "section": "Example: Computation in R",
+    "text": "Example: Computation in R\n\nn &lt;- 16\ns2 &lt;- var(heights)\nal &lt;- 0.05\n\n## two chi-square critical values\nchi2_right &lt;- qchisq(al / 2, df = n - 1, lower.tail = FALSE)\nchi2_left &lt;- qchisq(al / 2, df = n - 1, lower.tail = TRUE)\n\n## two bounds of CI for sigma2\nci_lwr &lt;- (n - 1) * s2 / chi2_right\nci_upr &lt;- (n - 1) * s2 / chi2_left\n\n\n\n## two bounds of CI for sigma\nsqrt(ci_lwr)\n\n[1] 1.36\n\nsqrt(ci_upr)\n\n[1] 2.85"
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#example-contd-testing",
+    "href": "slides/12-infer-variance-slides.html#example-contd-testing",
+    "title": "Inference About Population Variances \n",
+    "section": "Example Cont’d: Testing",
+    "text": "Example Cont’d: Testing\nUse \\(\\alpha = 0.05\\) to test the claim that “supermodels have heights with a standard deviation that is less than \\(\\sigma = 7.5\\) cm for the population of women”.\n\n\n\nStep 1: \\(H_0: \\sigma = \\sigma_0\\) vs. \\(H_1: \\sigma &lt; \\sigma_0\\). Here \\(\\sigma_0 = 7.5\\) cm\n\n\n\n\n\nStep 2: \\(\\alpha = 0.05\\)\n\n\n\n\n\n\nStep 3: Under \\(H_0\\), \\(\\chi_{test}^2 = \\frac{(n-1)s^2}{\\sigma_0^2} = \\frac{(16-1)(3.4)}{7.5^2} = 0.91\\), a statistic drawn from \\(\\chi^2_{n-1}\\).\n\n\n\n\n\n\n\nStep 4-c: This is a left-tailed test. The critical value is \\(\\chi_{1-\\alpha, df}^2 = \\chi_{0.95, 15}^2 = 7.26\\)\n\n\nStep-5-c: Reject \\(H_0\\) in favor of \\(H_1\\) if \\(\\chi_{test}^2 &lt; \\chi_{1-\\alpha, df}^2\\). Since \\(0.91 &lt; 7.26\\), we reject \\(H_0\\)."
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#example-contd-testing-1",
+    "href": "slides/12-infer-variance-slides.html#example-contd-testing-1",
+    "title": "Inference About Population Variances \n",
+    "section": "Example Cont’d: Testing",
+    "text": "Example Cont’d: Testing\nUse \\(\\alpha = 0.05\\) to test the claim that “supermodels have heights with a standard deviation that is less than \\(\\sigma = 7.5\\) cm for the population of women”.\n\nStep 1: \\(H_0: \\sigma = \\sigma_0\\) vs. \\(H_1: \\sigma &lt; \\sigma_0\\). Here \\(\\sigma_0 = 7.5\\) cm\nStep 2: \\(\\alpha = 0.05\\)\nStep 3: Under \\(H_0\\), \\(\\chi_{test}^2 = \\frac{(n-1)s^2}{\\sigma_0^2} = \\frac{(16-1)(3.4)}{7.5^2} = 0.91\\), a statistic drawn from \\(\\chi^2_{n-1}\\).\n\n\n\n\n\nStep 6: There is sufficient evidence to support the claim that supermodels have heights with a SD that is less than the SD for the population of women.\n\nHeights of supermodels vary less than heights of women in the general population."
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#back-to-pooled-t-test",
+    "href": "slides/12-infer-variance-slides.html#back-to-pooled-t-test",
+    "title": "Inference About Population Variances \n",
+    "section": "Back to Pooled t-Test",
+    "text": "Back to Pooled t-Test\nIn a pooled t-test, we assume\n\n both samples are of large size or drawn from a normal population. \n \\(\\sigma_1 = \\sigma_2\\) \n\n\n\nUse QQ-plot (and normality tests, Anderson, Shapiro, etc) to check the assumption of normal distribution.\nWe learn to check the assumption \\(\\sigma_1 = \\sigma_2\\).\n\n\nWhenever we use t-statistics, there are assumptions."
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#f-distribution",
+    "href": "slides/12-infer-variance-slides.html#f-distribution",
+    "title": "Inference About Population Variances \n",
+    "section": "F Distribution",
+    "text": "F Distribution\n\nWe use \\(F\\) distribution for the inference about two population variances.\n\n\n\nTwo parameters: \\(df_1\\), \\(df_2\\)\nRight skewed\nDefined over positive numbers"
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#upper-and-lower-tail-of-f-distribution",
+    "href": "slides/12-infer-variance-slides.html#upper-and-lower-tail-of-f-distribution",
+    "title": "Inference About Population Variances \n",
+    "section": "Upper and Lower Tail of F Distribution",
+    "text": "Upper and Lower Tail of F Distribution\n\nWe denote \\(F_{\\alpha, \\, df_1, \\, df_2}\\) as the \\(F\\) quantile so that \\(P(F_{df_1, df_2} &gt; F_{\\alpha, \\, df_1, \\, df_2}) = \\alpha\\)."
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#sampling-distribution-1",
+    "href": "slides/12-infer-variance-slides.html#sampling-distribution-1",
+    "title": "Inference About Population Variances \n",
+    "section": "Sampling Distribution",
+    "text": "Sampling Distribution\n\n\nThe random samples of size \\(n_1\\) and \\(n_2\\) are independent from two normal populations, \\(N(\\mu_1, \\sigma_1^2)\\) and \\(N(\\mu_2, \\sigma_2^2)\\).\nThe ratio \\[\\frac{S_1^2/S_2^2}{\\sigma_1^2/\\sigma_2^2} \\sim F_{n_1-1, \\, n_2-1}\\]\n\n\\[\\frac{s_1^2/\\sigma_1^2}{s_2^2/\\sigma_2^2} = \\frac{s_1^2/s_2^2}{\\sigma_1^2/\\sigma_2^2} \\sim F_{n_1-1, \\, n_2-1}\\]"
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#alpha100-confidence-interval-for-sigma_12-sigma_22",
+    "href": "slides/12-infer-variance-slides.html#alpha100-confidence-interval-for-sigma_12-sigma_22",
+    "title": "Inference About Population Variances \n",
+    "section": "\n\\((1-\\alpha)100\\%\\) Confidence Interval for \\(\\sigma_1^2 / \\sigma_2^2\\)\n",
+    "text": "\\((1-\\alpha)100\\%\\) Confidence Interval for \\(\\sigma_1^2 / \\sigma_2^2\\)\n\n\n\n\\((1-\\alpha)100\\%\\) CI for \\(\\sigma_1^2 / \\sigma_2^2\\) is \\[\\color{blue}{\\left( \\frac{s_1^2/s_2^2}{F_{\\alpha/2, \\, n_1 - 1, \\, n_2 - 1}}, \\frac{s_1^2/s_2^2}{F_{1-\\alpha/2, \\, \\, n_1 - 1, \\, n_2 - 1}} \\right)}\\]\n\n\n\n\n\n\n\n\n\n\n\n❗ The CI for \\(\\sigma_1^2 / \\sigma_2^2\\) cannot be expressed as \\(\\left(\\frac{s_1^2}{s_2^2}-m, \\frac{s_1^2}{s_2^2} + m\\right)\\) anymore!"
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#f-test-for-comparing-sigma_12-and-sigma_22",
+    "href": "slides/12-infer-variance-slides.html#f-test-for-comparing-sigma_12-and-sigma_22",
+    "title": "Inference About Population Variances \n",
+    "section": "F test for comparing \\(\\sigma_1^2\\) and \\(\\sigma_2^2\\)\n",
+    "text": "F test for comparing \\(\\sigma_1^2\\) and \\(\\sigma_2^2\\)\n\n\n\n\nStep 1: right-tailed  \\(\\small \\begin{align} &H_0: \\sigma_1 \\le \\sigma_2 \\\\ &H_1: \\sigma_1 &gt; \\sigma_2 \\end{align}\\)  and two-tailed  \\(\\small \\begin{align} &H_0: \\sigma_1 = \\sigma_2 \\\\ &H_1: \\sigma_1 \\ne \\sigma_2 \\end{align}\\) \n\n\n\n\n\nStep 2: \\(\\alpha = 0.05\\)\n\n\n\n\n\n\nStep 3: Under \\(H_0\\), \\(\\sigma_1 = \\sigma_2\\), and the test statistic is\n\n\\[\\small F_{test} = \\frac{s_1^2/s_2^2}{\\sigma_1^2/\\sigma_2^2} = \\frac{s_1^2}{s_2^2} \\sim F_{n_1-1, \\, n_2-1}\\]\n\n\n\n\nStep 4-c:\n\nRight-tailed:  \\(F_{\\alpha, \\, n_1-1, \\, n_2-1}\\) .\nTwo-tailed:  \\(F_{\\alpha/2, \\, n_1-1, \\, n_2-1}\\) or \\(F_{1-\\alpha/2, \\, n_1-1, \\, n_2-1}\\) \n\n\n\n\n\n\n\n\nStep 5-c:\n\nRight-tailed: reject \\(H_0\\) if  \\(F_{test} \\ge F_{\\alpha, \\, n_1-1, \\, n_2-1}\\).\nTwo-tailed: reject \\(H_0\\) if  \\(F_{test} \\ge F_{\\alpha/2, \\, n_1-1, \\, n_2-1}\\) or \\(F_{test} \\le F_{1-\\alpha/2, \\, n_1-1, \\, n_2-1}\\)"
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#back-to-the-weight-loss-example",
+    "href": "slides/12-infer-variance-slides.html#back-to-the-weight-loss-example",
+    "title": "Inference About Population Variances \n",
+    "section": "Back to the Weight Loss Example",
+    "text": "Back to the Weight Loss Example\n\n\nA study was conducted to see the effectiveness of a weight loss program.\n\nTwo groups (Control and Experimental) of 10 subjects were selected.\nThe two populations are normally distributed and have the same SD.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe data on weight loss was collected at the end of six months\n\n\nControl: \\(n_1 = 10\\), \\(\\overline{x}_1 = 2.1\\, lb\\), \\(s_1 = 0.5\\, lb\\)\n\n\nExperimental: \\(n_2 = 10\\), \\(\\overline{x}_2 = 4.2\\, lb\\), \\(s_2 = 0.7\\, lb\\)\n\n\n\n\nAssumptions:\n\n \\(\\sigma_1 = \\sigma_2\\) \nThe weight loss for both groups are normally distributed."
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#back-to-the-weight-loss-example-check-if-sigma_1-sigma_2",
+    "href": "slides/12-infer-variance-slides.html#back-to-the-weight-loss-example-check-if-sigma_1-sigma_2",
+    "title": "Inference About Population Variances \n",
+    "section": "Back to the Weight Loss Example: Check if \\(\\sigma_1 = \\sigma_2\\)\n",
+    "text": "Back to the Weight Loss Example: Check if \\(\\sigma_1 = \\sigma_2\\)\n\n\n\n\n\\(n_1 = 10\\), \\(s_1 = 0.5 \\, lb\\)\n\\(n_2 = 10\\), \\(s_2 = 0.7 \\, lb\\)\nStep 1: \\(\\begin{align} &H_0: \\sigma_1 = \\sigma_2 \\\\ &H_1: \\sigma_1 \\ne \\sigma_2 \\end{align}\\)\nStep 2: \\(\\alpha = 0.05\\)\nStep 3: \\(F_{test} = \\frac{s_1^2}{s_2^2} = \\frac{0.5^2}{0.7^2} = 0.51\\).\nStep 4-c: Two-tailed test. The critical value is \\(F_{0.05/2, \\, 10-1, \\, 10-1} = 4.03\\) or \\(F_{1-0.05/2, \\, 10-1, \\, 10-1} = 0.25\\).\n\n\n\n\n\n\n\n\n\n\n\n\nStep 5-c: Is \\(F_{test} &gt; 4.03\\) or \\(F_{test} &lt; 0.25\\)? No.\nStep 6: The evidence is not sufficient to reject the claim that \\(\\sigma_1 = \\sigma_2\\)."
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#back-to-the-weight-loss-example-95-ci-for-sigma_12-sigma_22",
+    "href": "slides/12-infer-variance-slides.html#back-to-the-weight-loss-example-95-ci-for-sigma_12-sigma_22",
+    "title": "Inference About Population Variances \n",
+    "section": "Back to the Weight Loss Example: 95% CI for \\(\\sigma_1^2 / \\sigma_2^2\\)\n",
+    "text": "Back to the Weight Loss Example: 95% CI for \\(\\sigma_1^2 / \\sigma_2^2\\)\n\n\n\n\n\n\n\nThe 95% CI for \\(\\sigma_1^2 / \\sigma_2^2\\) is \\[\\small \\begin{align} &\\left( \\frac{s_1^2/s_2^2}{F_{\\alpha/2, \\, df_1, \\, df_2}}, \\frac{s_1^2/s_2^2}{F_{1-\\alpha/2, \\, df_1, \\, df_2}} \\right) \\\\ &= \\left( \\frac{0.51}{4.03}, \\frac{0.51}{0.25} \\right) = \\left(0.13, 2.04\\right)\\end{align}\\]\n\nWe are 95% confident that the ratio \\(\\sigma_1^2 / \\sigma_2^2\\) is between 0.13 and 2.04."
+  },
+  {
+    "objectID": "slides/12-infer-variance-slides.html#implementing-f-test-in-r",
+    "href": "slides/12-infer-variance-slides.html#implementing-f-test-in-r",
+    "title": "Inference About Population Variances \n",
+    "section": "Implementing F-test in R",
+    "text": "Implementing F-test in R\n\n\n\n\nn1 &lt;- 10; n2 &lt;- 10\ns1 &lt;- 0.5; s2 &lt;- 0.7\nal &lt;- 0.05\n\n## 95% CI for sigma_1^2 / sigma_2^2\nf_small &lt;- qf(p = al / 2, \n              df1 = n1 - 1, df2 = n2 - 1, \n              lower.tail = TRUE)\nf_big &lt;- qf(p = al / 2, \n            df1 = n1 - 1, df2 = n2 - 1, \n            lower.tail = FALSE)\n\n\n## lower bound\n(s1 ^ 2 / s2 ^ 2) / f_big\n\n[1] 0.127\n\n## upper bound\n(s1 ^ 2 / s2 ^ 2) / f_small\n\n[1] 2.05\n\n\n\n\n\n## Testing sigma_1 = sigma_2\n(test_stats &lt;- s1 ^ 2 / s2 ^ 2)\n\n[1] 0.51\n\n(cri_big &lt;- qf(p = al / 2, \n               df1 = n1 - 1, \n               df2 = n2 - 1, \n               lower.tail = FALSE))\n\n[1] 4.03\n\n(cri_small &lt;- qf(p = al / 2, \n                 df1 = n1 - 1, \n                 df2 = n2 - 1, \n                 lower.tail = TRUE))\n\n[1] 0.248\n\n# var.test(x, y, alternative = \"two.sided\")"
   }
 ]
