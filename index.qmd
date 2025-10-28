@@ -31,7 +31,7 @@ format:
 | 9 | Mon, Oct 20 | Hypothesis Testing |  |  |  |  |  |  |
 |  | Wed, Oct 22 | Two Population Means: Matched Pairs | [🖥️ two samples](/slides/11-infer-two-means-slides.html) | [IS Ch 17](https://chenghanyu-introstatsbook.netlify.app/infer-twomean) | [`r fontawesome::fa("file-code")`](code/16-infer-twomean.R) (two samples) | ✍️ [HW 6](hw/hw06.html "two population means") (due 10/31) |  |  |
 | 10 | Mon, Oct 27 | Two Population Means: Independent Samples Inference for One  Population Variance | [🖥️ variances](/slides/12-infer-variance-slides.html) <br> 👉[chi-squared](ojs/infer-var-chisq-ojs.html) | [IS Ch 18](https://chenghanyu-introstatsbook.netlify.app/infer-var) | [`r fontawesome::fa("file-code")`](code/17-infer-var.R) (variances) |  |  |  |
-|  | Wed, Oct 29 | Inference about Two Population Variances | 👉 [f](ojs/infer-var-f-ojs.html) |  |  | ✍️ HW 7 | ✅ Quiz 3 |  |
+|  | Wed, Oct 29 | Inference about Two Population Variances | 👉 [f](ojs/infer-var-f-ojs.html) |  |  | ✍️ [**Extra credit!**](hw/hw06-extra.html) (due 10/31)<br>✍️ HW 7 | ✅ Quiz 3 |  |
 | 11 | Mon, Nov 3 | Analysis of Variance (ANOVA) Rationale | 🖥️ | IS Ch 24 | `r fontawesome::fa("file-code")` |  |  |  |
 |  | Wed, Nov 5 | Analysis of Variance (ANOVA) Procedure |  |  |  |  |  |  |
 | 12 | Mon, Nov 10 | **In-class Exam 2** |  |  |  |  |  |  |

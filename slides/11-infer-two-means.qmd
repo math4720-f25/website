@@ -774,7 +774,7 @@ If the computed value of $df$ is not an integer, always **round down** to the ne
 
 - Step 5-c:  <span style="color:blue"> We reject $H_0$ if $\small t_{test} < -t_{\alpha, df}$. $\small t_{test} = -1.66 > -1.77 = -t_{\alpha, df}$, we fail to reject $H_0$. </span>
 
-- Step 6:  <span style="color:blue"> **There is insufficient evidence to support the claim that the the oversized racket delivers less stress to the elbow**. </span>
+- Step 6:  <span style="color:blue"> **There is insufficient evidence to support the claim that the oversized racket delivers less stress to the elbow**. </span>
 
 
 ## Example: Two-Sample t-Test Cont'd
@@ -934,7 +934,7 @@ knitr::include_graphics("./images/11-infer-two-means/weight.jpeg")
 
 - The 95% CI for $\mu_1 - \mu_2$ is $$\begin{align}(\overline{x}_1 - \overline{x}_2) \pm t_{\alpha/2, df} {\color{red}{s_p}}\sqrt{\frac{1}{n_1} + \frac{1}{n_2}} &= (2.1 - 4.2) \pm t_{0.025, 18} (0.61)\sqrt{\frac{1}{10} + \frac{1}{10}}\\ &= -2.1 \pm 0.57 = (-2.67, -1.53) \end{align}$$
 
-- We are 95% confident that the difference in the mean weight is between -2.67 and -1.53.
+- We are 95% confident that the difference in the mean weight loss is between -2.67 and -1.53.
 
 - Since the interval does not include 0, it leads to the same conclusion as rejection of $H_0$.
 
