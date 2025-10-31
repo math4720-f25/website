@@ -8,7 +8,8 @@
       "/hw/hw03.html",
       "/hw/hw04.html",
       "/hw/hw05.html",
-      "/hw/hw06.html"
+      "/hw/hw06.html",
+      "/hw/hw07.html"
     ]
   },
   {
@@ -20,7 +21,8 @@
   {
     "listing": "/exercise.html",
     "items": [
-      "/exercise/exercise1.html"
+      "/exercise/exercise1.html",
+      "/exercise/exercise2.html"
     ]
   }
 ]
