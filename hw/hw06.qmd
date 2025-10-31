@@ -162,60 +162,60 @@ mean(mom - dau) + c(1, -1) * qt(0.025, df = length(mom) - 1) * sd(mom - dau) / s
 
 
 
-(@) The data about male and female pulse rates are summarized below.
-    (a) Construct a 95\% CI for $\sigma_{male}$ of pulse rates for males. 
-    (b) Construct a 95\% CI for $\sigma_{male}/\sigma_{female}$.
-    (c) Does it appear that the population standard deviations for males and females are different? Why or why not?
-```{r}
-#| echo: false
-#| eval: true
-library(gt)
-data <- data.frame(
-Statistic = c("Mean (x̄)", "Standard deviation (s)", "Sample size (n)"),
-Male = c(70, 10, 16),
-Female = c(76, 13, 11)
-)
-gt(data) |>
-tab_header(title = "Pulse Rate by Gender") |>
-cols_label(
-Statistic = "",
-Male = "Male",
-Female = "Female"
-)
-```
+<!-- (@) The data about male and female pulse rates are summarized below. -->
+<!--     (a) Construct a 95\% CI for $\sigma_{male}$ of pulse rates for males.  -->
+<!--     (b) Construct a 95\% CI for $\sigma_{male}/\sigma_{female}$. -->
+<!--     (c) Does it appear that the population standard deviations for males and females are different? Why or why not? -->
+<!-- ```{r} -->
+<!-- #| echo: false -->
+<!-- #| eval: true -->
+<!-- library(gt) -->
+<!-- data <- data.frame( -->
+<!-- Statistic = c("Mean (x̄)", "Standard deviation (s)", "Sample size (n)"), -->
+<!-- Male = c(70, 10, 16), -->
+<!-- Female = c(76, 13, 11) -->
+<!-- ) -->
+<!-- gt(data) |> -->
+<!-- tab_header(title = "Pulse Rate by Gender") |> -->
+<!-- cols_label( -->
+<!-- Statistic = "", -->
+<!-- Male = "Male", -->
+<!-- Female = "Female" -->
+<!-- ) -->
+<!-- ``` -->
 
-```{r}
-#| echo: false
-#| eval: false
-## Fall 2021 4740 Exam 2
+<!-- ```{r} -->
+<!-- #| echo: false -->
+<!-- #| eval: false -->
+<!-- ## Fall 2021 4740 Exam 2 -->
 
-n1 <- 16; n2 <- 11
-s1 <- 10; s2 <- 13
-alpha <- 0.05
+<!-- n1 <- 16; n2 <- 11 -->
+<!-- s1 <- 10; s2 <- 13 -->
+<!-- alpha <- 0.05 -->
 
-## 95% CI for sigma_1
-chi2_upper <- qchisq(alpha/2, 15, lower.tail = FALSE)
-chi2_lower <- qchisq(alpha/2, 15, lower.tail = TRUE)
-sqrt((n1 - 1) * s1^2 / chi2_upper)
-sqrt((n1 - 1) * s1^2 / chi2_lower)
+<!-- ## 95% CI for sigma_1 -->
+<!-- chi2_upper <- qchisq(alpha/2, 15, lower.tail = FALSE) -->
+<!-- chi2_lower <- qchisq(alpha/2, 15, lower.tail = TRUE) -->
+<!-- sqrt((n1 - 1) * s1^2 / chi2_upper) -->
+<!-- sqrt((n1 - 1) * s1^2 / chi2_lower) -->
 
-## 95% CI for sigma_1^2 / sigma_2^2
-f_small <- qf(p = alpha / 2, 
-              df1 = n1 - 1, df2 = n2 - 1, 
-              lower.tail = TRUE)
-f_big <- qf(p = alpha / 2, 
-            df1 = n1 - 1, df2 = n2 - 1, 
-            lower.tail = FALSE)
+<!-- ## 95% CI for sigma_1^2 / sigma_2^2 -->
+<!-- f_small <- qf(p = alpha / 2,  -->
+<!--               df1 = n1 - 1, df2 = n2 - 1,  -->
+<!--               lower.tail = TRUE) -->
+<!-- f_big <- qf(p = alpha / 2,  -->
+<!--             df1 = n1 - 1, df2 = n2 - 1,  -->
+<!--             lower.tail = FALSE) -->
 
-## lower bound
-sqrt((s1 ^ 2 / s2 ^ 2) / f_big)
+<!-- ## lower bound -->
+<!-- sqrt((s1 ^ 2 / s2 ^ 2) / f_big) -->
 
-## upper bound
-sqrt((s1 ^ 2 / s2 ^ 2) / f_small)
+<!-- ## upper bound -->
+<!-- sqrt((s1 ^ 2 / s2 ^ 2) / f_small) -->
 
-```
+<!-- ``` -->
 
-<br>
+<!-- <br> -->
 
 
 (@) **AI Usage Declaration.** Using GenAI is permitted for this course. If you choose to use GenAI to assist with your homework, you must include a brief statement documenting your use. Please provide the following information:
