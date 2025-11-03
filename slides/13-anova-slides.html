@@ -285,7 +285,7 @@ Dr.&nbsp;Cheng-Han Yu <br> Department of Mathematical and Statistical Sciences <
       }</style></aside></section><section id="requirements-of-one-way-anova" class="slide level2"><h2>Requirements of One-Way ANOVA</h2>
 <ul>
 <li><p>The populations of each category are <strong>normally</strong> distributed.</p></li>
-<li><p>The populations have the <strong>same variance</strong> <span class="math inline">\(\sigma^2\)</span> (two sample pooled <span class="math inline">\(t\)</span>-test).</p></li>
+<li><p>The populations have the <strong>same variance</strong> <span class="math inline">\(\sigma^2\)</span> (two-sample pooled <span class="math inline">\(t\)</span>-test).</p></li>
 <li><p>The samples are <strong>random samples</strong>.</p></li>
 <li><p>The samples are <strong>independent</strong> of each other. (not matched or paired in any way)</p></li>
 </ul>
@@ -509,63 +509,20 @@ Dr.&nbsp;Cheng-Han Yu <br> Department of Mathematical and Statistical Sciences <
           display:block!important;
       }</style></aside>
 </div>
-</section><section id="anova-table-sum-of-squares" class="slide level2"><h2>ANOVA Table: Sum of Squares</h2>
-<!-- ::: midi -->
+</section><section id="s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom" class="slide level2"><h2>
+<span class="math inline">\(s_B^2\)</span> and <span class="math inline">\(s_W^2\)</span> as Sum of Squares/Degrees of Freedom</h2>
 <ul>
-<li>
-<strong>Total Sum of Squares (SST)</strong> measures total variation around <span class="math inline">\(\bar{y}_{}\)</span> in all of the sample data combined (ignoring the groups):</li>
-</ul>
-<p><span class="math display">\[\scriptsize{\color{blue}{SST = \sum_{j=1}^{n_i}\sum_{i=1}^{k} \left(y_{ij} - \bar{y}_{}\right)^2}}\]</span></p>
-<!-- ::: -->
-<div class="fragment">
-<!-- ::: midi -->
-<ul>
-<li>
-<strong>Sum of Squares Between Samples (SSB)</strong> measures the variation <strong>between</strong> sample means:</li>
-</ul>
-<p><span class="math display">\[\scriptsize{ \color{blue}{SSB = \sum_{i=1}^{k}n_i \left(\bar{y}_{i} - \bar{y}_{}\right)^2}}\]</span> <!-- ::: --></p>
-</div>
-<div class="fragment">
-<!-- ::: midi -->
-<ul>
-<li>
-<strong>Sum of Squares Within Samples (SSW)</strong> measures the variation of an value <span class="math inline">\(y_{ij}\)</span> about its sample mean <span class="math inline">\(\bar{y}_{i}\)</span>:</li>
-</ul>
-<p><span class="math display">\[\scriptsize{ \color{blue}{SSW = \sum_{i=1}^{k} \sum_{j=1}^{n_i} \left(y_{ij} - \bar{y}_{i}\right)^2 = \sum_{i=1}^{k} (n_i - 1)s_i^2}}\]</span></p>
-<!-- ::: -->
-<aside class="notes"><ul>
-<li>SST: sum of squared deviation from each observation to the overall grand mean</li>
-<li>SSB: sum of squared deviation from each group mean to the overall grand mean</li>
-<li>What happens when all group means are equal?</li>
-<li>SSW: sum of squared deviation from each group value to its group mean</li>
-</ul><style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</div>
-</section><section id="sum-of-squares-identity" class="slide level2"><h2>Sum of Squares Identity</h2>
-<!-- - $\left(y_{ij} - \bar{y}_{\cdot\cdot}\right) =  \left(y_{ij} - \bar{y}_{i\cdot}\right) + \left(\bar{y}_{i\cdot} - \bar{y}_{\cdot\cdot}\right)$ -->
-<!-- - $\sum_{j=1}^{n_i}\sum_{i=1}^{t} \left(y_{ij} - \bar{y}_{\cdot\cdot}\right)^2 = \sum_{i=1}^{t}n_i \left(\bar{y}_{i\cdot} - \bar{y}_{\cdot\cdot}\right)^2 + \sum_{i=1}^{t} \sum_{j=1}^{n_i}\left(y_{ij} - \bar{y}_{i\cdot}\right)^2$ -->
-<ul>
-<li><p><span class="math inline">\(SST = SSB + SSW\)</span></p></li>
-<li><p><span class="math inline">\(df_{T} = df_{B} + df_{W} \implies N - 1 = (k-1) + (N - k)\)</span> <span class="math inline">\((N = n_1 + \cdots + n_k)\)</span> <!-- $\begin{align} &df_{T} = df_{B} + df_{W} \\&n - 1 = (k-1) + (n - k) \end{align}$ --></p></li>
+<li><p>Variance is defined as <span class="math inline">\(\frac{\text{Sum of Squares}}{\text{Degrees of Freedom}}\)</span>, which is also called <span class="math inline">\(\text{Mean Square (MS)}\)</span></p></li>
+<li><p><span class="math inline">\(s_B^2 = \frac{\sum_{i=1}^k n_i (\bar{y}_{i} - \bar{y}_{})^2}{k-1} = \frac{\text{Sum of Squares Between Samples (SSB)}}{df_B} = MSB\)</span></p></li>
+<li><p><span class="math inline">\(s_W^2 = \frac{\sum_{i=1}^{k} (n_i - 1)s_i^2}{n_1 + n_2 + \cdots + n_k - k} = \frac{\text{Sum of Squares Within Samples (SSW)}}{df_W} = MSW\)</span> <span class="math inline">\((N = n_1 + \cdots + n_k)\)</span></p></li>
 </ul>
 
-<img data-src="./images/13-anova/anova_table_k.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section><section id="sum-of-squares-identity-1" class="slide level2"><h2>Sum of Squares Identity</h2>
-<ul>
-<li><p><span class="math inline">\(\text{Mean Square (MS)} = \frac{\text{sum of squares}}{\text{degrees of freedom}}\)</span></p></li>
-<li><p><span class="math inline">\(MSB = \frac{SSB}{k-1} = s^2_{B}\)</span></p></li>
-<li><p><span class="math inline">\(MSW = \frac{SSW}{N-k} = s^2_{W}\)</span></p></li>
-</ul>
+<!-- ## ANOVA Table: Sum of Squares -->
+<img data-src="./images/13-anova/anova_table_k.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section><section id="sum-of-squares-identity" class="slide level2"><h2>Sum of Squares Identity</h2>
+<p><span class="math display">\[\text{Total Sum of Squares (SST)} = \sum_{j=1}^{n_i}\sum_{i=1}^{k} \left(y_{ij} - \bar{y}_{}\right)^2 = SSB + SSW\]</span></p>
+<p><span class="math display">\[df_{T} = df_{B} + df_{W} \implies N - 1 = (k-1) + (N - k)\]</span></p>
 
-<img data-src="./images/13-anova/anova_table_k.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section><section id="sum-of-squares-identity-2" class="slide level2"><h2>Sum of Squares Identity</h2>
+<img data-src="./images/13-anova/anova_table_k.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section><section id="sum-of-squares-identity-3" class="slide level2"><h2>Sum of Squares Identity</h2>
 <ul>
 <li><p><span class="math inline">\(F_{test} = \frac{MSB}{MSW}\)</span></p></li>
 <li><p>Under <span class="math inline">\(H_0\)</span>, <span class="math inline">\(\frac{S^2_{B}}{S_W^2} \sim F_{k-1, \, N-k}\)</span></p></li>
@@ -727,7 +684,7 @@ Dr.&nbsp;Cheng-Han Yu <br> Department of Mathematical and Statistical Sciences <
           display:block!important;
       }</style></aside></section><section id="example---boxplot" class="slide level2"><h2>Example - Boxplot</h2>
 
-<img data-src="13-anova_files/figure-revealjs/unnamed-chunk-18-1.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section><section id="example---test-assumptions" class="slide level2"><h2>Example - Test Assumptions</h2>
+<img data-src="13-anova_files/figure-revealjs/unnamed-chunk-20-1.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section><section id="example---test-assumptions" class="slide level2"><h2>Example - Test Assumptions</h2>
 <ul>
 <li>Assumptions:
 <ul>
@@ -738,7 +695,7 @@ Dr.&nbsp;Cheng-Han Yu <br> Department of Mathematical and Statistical Sciences <
 </li>
 </ul>
 <!-- - Test for variance equality $\sigma_1 = \sigma_2 = \sigma_3$ using the Levene test. I did it, and we do not reject equality of variances. --><!-- - Test of normality using the Anderson-Darling test. I did it, and we do not reject normality assumption. -->
-<img data-src="13-anova_files/figure-revealjs/unnamed-chunk-19-1.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section><section id="example---anova-testing" class="slide level2"><h2>Example - ANOVA Testing</h2>
+<img data-src="13-anova_files/figure-revealjs/unnamed-chunk-21-1.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section><section id="example---anova-testing" class="slide level2"><h2>Example - ANOVA Testing</h2>
 <!-- - **Step 4-c**: The critical value is $F_{\alpha, \, df_B, \, df_W} = F_{0.05, \, 3 - 1, \, 15 - 3} = F_{0.05, \, 2, \, 12} = 3.89$ -->
 <!-- - **Step 5-c**: Since $F_{test} < F_{cri}$, we do not reject $H_0$.  -->
 <!-- - **Step 6**: There is insufficient evidence to support the claim that the mean isoflavone levels vary among these food items. -->

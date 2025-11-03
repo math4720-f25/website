@@ -310,7 +310,7 @@ window.Quarto = {
 </section><section id="requirements-of-one-way-anova" class="level2"><h2 class="anchored" data-anchor-id="requirements-of-one-way-anova">Requirements of One-Way ANOVA</h2>
 <ul>
 <li><p>The populations of each category are <strong>normally</strong> distributed.</p></li>
-<li><p>The populations have the <strong>same variance</strong> <span class="math inline">\(\sigma^2\)</span> (two sample pooled <span class="math inline">\(t\)</span>-test).</p></li>
+<li><p>The populations have the <strong>same variance</strong> <span class="math inline">\(\sigma^2\)</span> (two-sample pooled <span class="math inline">\(t\)</span>-test).</p></li>
 <li><p>The samples are <strong>random samples</strong>.</p></li>
 <li><p>The samples are <strong>independent</strong> of each other. (not matched or paired in any way)</p></li>
 </ul>
@@ -504,7 +504,34 @@ window.Quarto = {
 </div>
 </div>
 </div>
-</section><section id="anova-table-sum-of-squares" class="level2"><h2 class="anchored" data-anchor-id="anova-table-sum-of-squares">ANOVA Table: Sum of Squares</h2>
+</section><section id="s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom" class="level2"><h2 class="anchored" data-anchor-id="s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom">
+<span class="math inline">\(s_B^2\)</span> and <span class="math inline">\(s_W^2\)</span> as Sum of Squares/Degrees of Freedom</h2>
+<ul>
+<li><p>Variance is defined as <span class="math inline">\(\frac{\text{Sum of Squares}}{\text{Degrees of Freedom}}\)</span>, which is also called <span class="math inline">\(\text{Mean Square (MS)}\)</span></p></li>
+<li><p><span class="math inline">\(s_B^2 = \frac{\sum_{i=1}^k n_i (\bar{y}_{i} - \bar{y}_{})^2}{k-1} = \frac{\text{Sum of Squares Between Samples (SSB)}}{df_B} = MSB\)</span></p></li>
+<li><p><span class="math inline">\(s_W^2 = \frac{\sum_{i=1}^{k} (n_i - 1)s_i^2}{n_1 + n_2 + \cdots + n_k - k} = \frac{\text{Sum of Squares Within Samples (SSW)}}{df_W} = MSW\)</span> <span class="math inline">\((N = n_1 + \cdots + n_k)\)</span></p></li>
+</ul>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="./images/13-anova/anova_table_k.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<!-- ## ANOVA Table: Sum of Squares -->
+</section><section id="sum-of-squares-identity" class="level2"><h2 class="anchored" data-anchor-id="sum-of-squares-identity">Sum of Squares Identity</h2>
+<p><span class="math display">\[\text{Total Sum of Squares (SST)} = \sum_{j=1}^{n_i}\sum_{i=1}^{k} \left(y_{ij} - \bar{y}_{}\right)^2 = SSB + SSW\]</span></p>
+<p><span class="math display">\[df_{T} = df_{B} + df_{W} \implies N - 1 = (k-1) + (N - k)\]</span></p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="./images/13-anova/anova_table_k.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</section><section id="section-1" class="level2" data-visibility="hidden"><h2 data-visibility="hidden" class="anchored" data-anchor-id="section-1"></h2>
 <!-- ::: midi -->
 <ul>
 <li>
@@ -512,14 +539,12 @@ window.Quarto = {
 </ul>
 <p><span class="math display">\[\scriptsize{\color{blue}{SST = \sum_{j=1}^{n_i}\sum_{i=1}^{k} \left(y_{ij} - \bar{y}_{}\right)^2}}\]</span></p>
 <!-- ::: -->
-<p>. . .</p>
 <!-- ::: midi -->
 <ul>
 <li>
 <strong>Sum of Squares Between Samples (SSB)</strong> measures the variation <strong>between</strong> sample means:</li>
 </ul>
 <p><span class="math display">\[\scriptsize{ \color{blue}{SSB = \sum_{i=1}^{k}n_i \left(\bar{y}_{i} - \bar{y}_{}\right)^2}}\]</span> <!-- ::: --></p>
-<p>. . .</p>
 <!-- ::: midi -->
 <ul>
 <li>
@@ -535,7 +560,7 @@ window.Quarto = {
 <li>SSW: sum of squared deviation from each group value to its group mean</li>
 </ul>
 </div>
-</section><section id="sum-of-squares-identity" class="level2"><h2 class="anchored" data-anchor-id="sum-of-squares-identity">Sum of Squares Identity</h2>
+</section><section id="sum-of-squares-identity-1" class="level2" data-visibility="hidden"><h2 data-visibility="hidden" class="anchored" data-anchor-id="sum-of-squares-identity-1">Sum of Squares Identity</h2>
 <!-- - $\left(y_{ij} - \bar{y}_{\cdot\cdot}\right) =  \left(y_{ij} - \bar{y}_{i\cdot}\right) + \left(\bar{y}_{i\cdot} - \bar{y}_{\cdot\cdot}\right)$ -->
 <!-- - $\sum_{j=1}^{n_i}\sum_{i=1}^{t} \left(y_{ij} - \bar{y}_{\cdot\cdot}\right)^2 = \sum_{i=1}^{t}n_i \left(\bar{y}_{i\cdot} - \bar{y}_{\cdot\cdot}\right)^2 + \sum_{i=1}^{t} \sum_{j=1}^{n_i}\left(y_{ij} - \bar{y}_{i\cdot}\right)^2$ -->
 <ul>
@@ -550,7 +575,7 @@ window.Quarto = {
 </div>
 </div>
 </div>
-</section><section id="sum-of-squares-identity-1" class="level2"><h2 class="anchored" data-anchor-id="sum-of-squares-identity-1">Sum of Squares Identity</h2>
+</section><section id="sum-of-squares-identity-2" class="level2" data-visibility="hidden"><h2 data-visibility="hidden" class="anchored" data-anchor-id="sum-of-squares-identity-2">Sum of Squares Identity</h2>
 <ul>
 <li><p><span class="math inline">\(\text{Mean Square (MS)} = \frac{\text{sum of squares}}{\text{degrees of freedom}}\)</span></p></li>
 <li><p><span class="math inline">\(MSB = \frac{SSB}{k-1} = s^2_{B}\)</span></p></li>
@@ -564,7 +589,7 @@ window.Quarto = {
 </div>
 </div>
 </div>
-</section><section id="sum-of-squares-identity-2" class="level2"><h2 class="anchored" data-anchor-id="sum-of-squares-identity-2">Sum of Squares Identity</h2>
+</section><section id="sum-of-squares-identity-3" class="level2"><h2 class="anchored" data-anchor-id="sum-of-squares-identity-3">Sum of Squares Identity</h2>
 <ul>
 <li><p><span class="math inline">\(F_{test} = \frac{MSB}{MSW}\)</span></p></li>
 <li><p>Under <span class="math inline">\(H_0\)</span>, <span class="math inline">\(\frac{S^2_{B}}{S_W^2} \sim F_{k-1, \, N-k}\)</span></p></li>
@@ -720,7 +745,7 @@ window.Quarto = {
 <div class="cell" data-layout-align="center">
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
-<figure class="figure"><p><img src="13-anova_files/figure-revealjs/unnamed-chunk-18-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+<figure class="figure"><p><img src="13-anova_files/figure-revealjs/unnamed-chunk-20-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
 </figure>
 </div>
 </div>
@@ -738,7 +763,7 @@ window.Quarto = {
 <!-- - Test for variance equality $\sigma_1 = \sigma_2 = \sigma_3$ using the Levene test. I did it, and we do not reject equality of variances. --><!-- - Test of normality using the Anderson-Darling test. I did it, and we do not reject normality assumption. --><div class="cell" data-layout-align="center">
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
-<figure class="figure"><p><img src="13-anova_files/figure-revealjs/unnamed-chunk-19-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+<figure class="figure"><p><img src="13-anova_files/figure-revealjs/unnamed-chunk-21-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
 </figure>
 </div>
 </div>

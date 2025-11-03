@@ -2936,7 +2936,7 @@
     "href": "slides/13-anova.html#requirements-of-one-way-anova",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Requirements of One-Way ANOVA",
-    "text": "Requirements of One-Way ANOVA\n\nThe populations of each category are normally distributed.\nThe populations have the same variance \\(\\sigma^2\\) (two sample pooled \\(t\\)-test).\nThe samples are random samples.\nThe samples are independent of each other. (not matched or paired in any way)\n\n\n\nThe method can still work fairly well when the variances are not equal, unless they are differ by large amounts."
+    "text": "Requirements of One-Way ANOVA\n\nThe populations of each category are normally distributed.\nThe populations have the same variance \\(\\sigma^2\\) (two-sample pooled \\(t\\)-test).\nThe samples are random samples.\nThe samples are independent of each other. (not matched or paired in any way)\n\n\n\nThe method can still work fairly well when the variances are not equal, unless they are differ by large amounts."
   },
   {
     "objectID": "slides/13-anova.html#rationale-for-anova",
@@ -2988,29 +2988,43 @@
     "text": "Variance Between Samples\n\\[\\boxed{s^2_{B} = \\frac{\\sum_{i=1}^k n_i (\\bar{y}_{i} - \\bar{y}_{})^2}{k-1}}\\]\n\n\\(\\bar{y}_{i}\\) is the \\(i\\)-th sample mean.\n\\(\\bar{y}_{}\\) is the grand sample mean with all data points in all groups combined.\n\n. . .\n\n\\(s^2_{B}\\) is also an estimate of \\(\\sigma^2\\) and measures variability among sample means for the \\(k\\) groups.\n\nIf \\(H_0\\) is true \\((\\mu_1 = \\cdots = \\mu_k = \\mu)\\), any variation in the sample means is due to chance and randomness, and shouldn’t be too large.\n\n\n\\(\\bar{y}_{1}, \\cdots, \\bar{y}_{k}\\) should be close each other, and they are close to \\(\\bar{y}_{}\\)."
   },
   {
-    "objectID": "slides/13-anova.html#anova-table-sum-of-squares",
-    "href": "slides/13-anova.html#anova-table-sum-of-squares",
+    "objectID": "slides/13-anova.html#s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom",
+    "href": "slides/13-anova.html#s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom",
     "title": "Analysis of Variance (ANOVA) \n",
-    "section": "ANOVA Table: Sum of Squares",
-    "text": "ANOVA Table: Sum of Squares\n\n\n\nTotal Sum of Squares (SST) measures total variation around \\(\\bar{y}_{}\\) in all of the sample data combined (ignoring the groups):\n\n\\[\\scriptsize{\\color{blue}{SST = \\sum_{j=1}^{n_i}\\sum_{i=1}^{k} \\left(y_{ij} - \\bar{y}_{}\\right)^2}}\\]\n\n. . .\n\n\n\nSum of Squares Between Samples (SSB) measures the variation between sample means:\n\n\\[\\scriptsize{ \\color{blue}{SSB = \\sum_{i=1}^{k}n_i \\left(\\bar{y}_{i} - \\bar{y}_{}\\right)^2}}\\] \n. . .\n\n\n\nSum of Squares Within Samples (SSW) measures the variation of an value \\(y_{ij}\\) about its sample mean \\(\\bar{y}_{i}\\):\n\n\\[\\scriptsize{ \\color{blue}{SSW = \\sum_{i=1}^{k} \\sum_{j=1}^{n_i} \\left(y_{ij} - \\bar{y}_{i}\\right)^2 = \\sum_{i=1}^{k} (n_i - 1)s_i^2}}\\]\n\n\n\nSST: sum of squared deviation from each observation to the overall grand mean\nSSB: sum of squared deviation from each group mean to the overall grand mean\nWhat happens when all group means are equal?\nSSW: sum of squared deviation from each group value to its group mean"
+    "section": "\n\\(s_B^2\\) and \\(s_W^2\\) as Sum of Squares/Degrees of Freedom",
+    "text": "\\(s_B^2\\) and \\(s_W^2\\) as Sum of Squares/Degrees of Freedom\n\nVariance is defined as \\(\\frac{\\text{Sum of Squares}}{\\text{Degrees of Freedom}}\\), which is also called \\(\\text{Mean Square (MS)}\\)\n\\(s_B^2 = \\frac{\\sum_{i=1}^k n_i (\\bar{y}_{i} - \\bar{y}_{})^2}{k-1} = \\frac{\\text{Sum of Squares Between Samples (SSB)}}{df_B} = MSB\\)\n\\(s_W^2 = \\frac{\\sum_{i=1}^{k} (n_i - 1)s_i^2}{n_1 + n_2 + \\cdots + n_k - k} = \\frac{\\text{Sum of Squares Within Samples (SSW)}}{df_W} = MSW\\) \\((N = n_1 + \\cdots + n_k)\\)"
   },
   {
     "objectID": "slides/13-anova.html#sum-of-squares-identity",
     "href": "slides/13-anova.html#sum-of-squares-identity",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Sum of Squares Identity",
-    "text": "Sum of Squares Identity\n\n\n\n\\(SST = SSB + SSW\\)\n\\(df_{T} = df_{B} + df_{W} \\implies N - 1 = (k-1) + (N - k)\\) \\((N = n_1 + \\cdots + n_k)\\)"
+    "text": "Sum of Squares Identity\n\\[\\text{Total Sum of Squares (SST)} = \\sum_{j=1}^{n_i}\\sum_{i=1}^{k} \\left(y_{ij} - \\bar{y}_{}\\right)^2 = SSB + SSW\\]\n\\[df_{T} = df_{B} + df_{W} \\implies N - 1 = (k-1) + (N - k)\\]"
+  },
+  {
+    "objectID": "slides/13-anova.html#section-1",
+    "href": "slides/13-anova.html#section-1",
+    "title": "Analysis of Variance (ANOVA) \n",
+    "section": "",
+    "text": "Total Sum of Squares (SST) measures total variation around \\(\\bar{y}_{}\\) in all of the sample data combined (ignoring the groups):\n\n\\[\\scriptsize{\\color{blue}{SST = \\sum_{j=1}^{n_i}\\sum_{i=1}^{k} \\left(y_{ij} - \\bar{y}_{}\\right)^2}}\\]\n\n\n\n\nSum of Squares Between Samples (SSB) measures the variation between sample means:\n\n\\[\\scriptsize{ \\color{blue}{SSB = \\sum_{i=1}^{k}n_i \\left(\\bar{y}_{i} - \\bar{y}_{}\\right)^2}}\\] \n\n\n\nSum of Squares Within Samples (SSW) measures the variation of an value \\(y_{ij}\\) about its sample mean \\(\\bar{y}_{i}\\):\n\n\\[\\scriptsize{ \\color{blue}{SSW = \\sum_{i=1}^{k} \\sum_{j=1}^{n_i} \\left(y_{ij} - \\bar{y}_{i}\\right)^2 = \\sum_{i=1}^{k} (n_i - 1)s_i^2}}\\]\n\n\n\nSST: sum of squared deviation from each observation to the overall grand mean\nSSB: sum of squared deviation from each group mean to the overall grand mean\nWhat happens when all group means are equal?\nSSW: sum of squared deviation from each group value to its group mean"
   },
   {
     "objectID": "slides/13-anova.html#sum-of-squares-identity-1",
     "href": "slides/13-anova.html#sum-of-squares-identity-1",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Sum of Squares Identity",
-    "text": "Sum of Squares Identity\n\n\\(\\text{Mean Square (MS)} = \\frac{\\text{sum of squares}}{\\text{degrees of freedom}}\\)\n\\(MSB = \\frac{SSB}{k-1} = s^2_{B}\\)\n\\(MSW = \\frac{SSW}{N-k} = s^2_{W}\\)"
+    "text": "Sum of Squares Identity\n\n\n\n\\(SST = SSB + SSW\\)\n\\(df_{T} = df_{B} + df_{W} \\implies N - 1 = (k-1) + (N - k)\\) \\((N = n_1 + \\cdots + n_k)\\)"
   },
   {
     "objectID": "slides/13-anova.html#sum-of-squares-identity-2",
     "href": "slides/13-anova.html#sum-of-squares-identity-2",
+    "title": "Analysis of Variance (ANOVA) \n",
+    "section": "Sum of Squares Identity",
+    "text": "Sum of Squares Identity\n\n\\(\\text{Mean Square (MS)} = \\frac{\\text{sum of squares}}{\\text{degrees of freedom}}\\)\n\\(MSB = \\frac{SSB}{k-1} = s^2_{B}\\)\n\\(MSW = \\frac{SSW}{N-k} = s^2_{W}\\)"
+  },
+  {
+    "objectID": "slides/13-anova.html#sum-of-squares-identity-3",
+    "href": "slides/13-anova.html#sum-of-squares-identity-3",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Sum of Squares Identity",
     "text": "Sum of Squares Identity\n\n\\(F_{test} = \\frac{MSB}{MSW}\\)\nUnder \\(H_0\\), \\(\\frac{S^2_{B}}{S_W^2} \\sim F_{k-1, \\, N-k}\\)\n\nReject \\(H_0\\) if\n\n\\(F_{test} &gt; F_{\\alpha, \\, k - 1,\\, N-k}\\)\n\n\\(p\\)-value \\(P(F_{k - 1,\\, N-k} &gt; F_{test}) &lt; \\alpha\\)"
@@ -3076,7 +3090,7 @@
     "href": "slides/13-anova-slides.html#requirements-of-one-way-anova",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Requirements of One-Way ANOVA",
-    "text": "Requirements of One-Way ANOVA\n\nThe populations of each category are normally distributed.\nThe populations have the same variance \\(\\sigma^2\\) (two sample pooled \\(t\\)-test).\nThe samples are random samples.\nThe samples are independent of each other. (not matched or paired in any way)\n\n\nThe method can still work fairly well when the variances are not equal, unless they are differ by large amounts."
+    "text": "Requirements of One-Way ANOVA\n\nThe populations of each category are normally distributed.\nThe populations have the same variance \\(\\sigma^2\\) (two-sample pooled \\(t\\)-test).\nThe samples are random samples.\nThe samples are independent of each other. (not matched or paired in any way)\n\n\nThe method can still work fairly well when the variances are not equal, unless they are differ by large amounts."
   },
   {
     "objectID": "slides/13-anova-slides.html#rationale-for-anova",
@@ -3128,29 +3142,22 @@
     "text": "Variance Between Samples\n\\[\\boxed{s^2_{B} = \\frac{\\sum_{i=1}^k n_i (\\bar{y}_{i} - \\bar{y}_{})^2}{k-1}}\\]\n\n\\(\\bar{y}_{i}\\) is the \\(i\\)-th sample mean.\n\\(\\bar{y}_{}\\) is the grand sample mean with all data points in all groups combined.\n\n\n\n\\(s^2_{B}\\) is also an estimate of \\(\\sigma^2\\) and measures variability among sample means for the \\(k\\) groups.\n\nIf \\(H_0\\) is true \\((\\mu_1 = \\cdots = \\mu_k = \\mu)\\), any variation in the sample means is due to chance and randomness, and shouldn’t be too large.\n\n\n\\(\\bar{y}_{1}, \\cdots, \\bar{y}_{k}\\) should be close each other, and they are close to \\(\\bar{y}_{}\\)."
   },
   {
-    "objectID": "slides/13-anova-slides.html#anova-table-sum-of-squares",
-    "href": "slides/13-anova-slides.html#anova-table-sum-of-squares",
+    "objectID": "slides/13-anova-slides.html#s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom",
+    "href": "slides/13-anova-slides.html#s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom",
     "title": "Analysis of Variance (ANOVA) \n",
-    "section": "ANOVA Table: Sum of Squares",
-    "text": "ANOVA Table: Sum of Squares\n\n\n\nTotal Sum of Squares (SST) measures total variation around \\(\\bar{y}_{}\\) in all of the sample data combined (ignoring the groups):\n\n\\[\\scriptsize{\\color{blue}{SST = \\sum_{j=1}^{n_i}\\sum_{i=1}^{k} \\left(y_{ij} - \\bar{y}_{}\\right)^2}}\\]\n\n\n\n\n\nSum of Squares Between Samples (SSB) measures the variation between sample means:\n\n\\[\\scriptsize{ \\color{blue}{SSB = \\sum_{i=1}^{k}n_i \\left(\\bar{y}_{i} - \\bar{y}_{}\\right)^2}}\\] \n\n\n\n\n\nSum of Squares Within Samples (SSW) measures the variation of an value \\(y_{ij}\\) about its sample mean \\(\\bar{y}_{i}\\):\n\n\\[\\scriptsize{ \\color{blue}{SSW = \\sum_{i=1}^{k} \\sum_{j=1}^{n_i} \\left(y_{ij} - \\bar{y}_{i}\\right)^2 = \\sum_{i=1}^{k} (n_i - 1)s_i^2}}\\]\n\n\nSST: sum of squared deviation from each observation to the overall grand mean\nSSB: sum of squared deviation from each group mean to the overall grand mean\nWhat happens when all group means are equal?\nSSW: sum of squared deviation from each group value to its group mean"
+    "section": "\n\\(s_B^2\\) and \\(s_W^2\\) as Sum of Squares/Degrees of Freedom",
+    "text": "\\(s_B^2\\) and \\(s_W^2\\) as Sum of Squares/Degrees of Freedom\n\nVariance is defined as \\(\\frac{\\text{Sum of Squares}}{\\text{Degrees of Freedom}}\\), which is also called \\(\\text{Mean Square (MS)}\\)\n\\(s_B^2 = \\frac{\\sum_{i=1}^k n_i (\\bar{y}_{i} - \\bar{y}_{})^2}{k-1} = \\frac{\\text{Sum of Squares Between Samples (SSB)}}{df_B} = MSB\\)\n\\(s_W^2 = \\frac{\\sum_{i=1}^{k} (n_i - 1)s_i^2}{n_1 + n_2 + \\cdots + n_k - k} = \\frac{\\text{Sum of Squares Within Samples (SSW)}}{df_W} = MSW\\) \\((N = n_1 + \\cdots + n_k)\\)"
   },
   {
     "objectID": "slides/13-anova-slides.html#sum-of-squares-identity",
     "href": "slides/13-anova-slides.html#sum-of-squares-identity",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Sum of Squares Identity",
-    "text": "Sum of Squares Identity\n\n\n\n\\(SST = SSB + SSW\\)\n\\(df_{T} = df_{B} + df_{W} \\implies N - 1 = (k-1) + (N - k)\\) \\((N = n_1 + \\cdots + n_k)\\)"
+    "text": "Sum of Squares Identity\n\\[\\text{Total Sum of Squares (SST)} = \\sum_{j=1}^{n_i}\\sum_{i=1}^{k} \\left(y_{ij} - \\bar{y}_{}\\right)^2 = SSB + SSW\\]\n\\[df_{T} = df_{B} + df_{W} \\implies N - 1 = (k-1) + (N - k)\\]"
   },
   {
-    "objectID": "slides/13-anova-slides.html#sum-of-squares-identity-1",
-    "href": "slides/13-anova-slides.html#sum-of-squares-identity-1",
-    "title": "Analysis of Variance (ANOVA) \n",
-    "section": "Sum of Squares Identity",
-    "text": "Sum of Squares Identity\n\n\\(\\text{Mean Square (MS)} = \\frac{\\text{sum of squares}}{\\text{degrees of freedom}}\\)\n\\(MSB = \\frac{SSB}{k-1} = s^2_{B}\\)\n\\(MSW = \\frac{SSW}{N-k} = s^2_{W}\\)"
-  },
-  {
-    "objectID": "slides/13-anova-slides.html#sum-of-squares-identity-2",
-    "href": "slides/13-anova-slides.html#sum-of-squares-identity-2",
+    "objectID": "slides/13-anova-slides.html#sum-of-squares-identity-3",
+    "href": "slides/13-anova-slides.html#sum-of-squares-identity-3",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Sum of Squares Identity",
     "text": "Sum of Squares Identity\n\n\\(F_{test} = \\frac{MSB}{MSW}\\)\nUnder \\(H_0\\), \\(\\frac{S^2_{B}}{S_W^2} \\sim F_{k-1, \\, N-k}\\)\n\nReject \\(H_0\\) if\n\n\\(F_{test} &gt; F_{\\alpha, \\, k - 1,\\, N-k}\\)\n\n\\(p\\)-value \\(P(F_{k - 1,\\, N-k} &gt; F_{test}) &lt; \\alpha\\)"
