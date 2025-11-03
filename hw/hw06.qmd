@@ -40,8 +40,6 @@ H_A&: \mu \neq 60
 \end{align*}
 We know that the sample standard deviation is 8 and the sample size is 20. For what sample mean would the p-value be equal to 0.05? Assume that all conditions necessary for inference are satisfied.
 ```{r}
-#| echo: false
-#| eval: false
 ## OI 7.9
 s <- 8
 n <- 20
@@ -56,8 +54,6 @@ t_test <- qt(0.025, df = n - 1, lower.tail = FALSE)
     (a) With significance level 0.01, use the critical value method to test the claim that the population mean of birth weights of females is greater than 30hg.
     (b) Do the same test in (a), but use the p-value method. Are the conclusions in (a) and (b) the same?
 ```{r}
-#| echo: false
-#| eval: false
 ## BIO 7.2 9/8.3 14
 x_bar <- 30.4
 s <- 7.1
@@ -75,8 +71,6 @@ al <- 0.01
     (a) Compute a 95% confidence interval for $\mu$, the mean weight of newborn girls.
     (b) Are the result in (a) very different from the 95% confidence interval if $\sigma = 7.1$? Why?
 ```{r}
-#| echo: false
-#| eval: false
 ## BIO 7.2 9/8.3 14
 ## (a)
 x_bar <- 30.4
@@ -100,8 +94,6 @@ al <- 0.01
     (a) With $\alpha = 0.05$, use the critical-value method and p-value method to perform a 2-sample t-test on the claim that prenatal cocaine exposure is associated with lower scores of 4-year-old children on the test of object assembly.
     (b) Test the claim in part (a) by using a confidence interval.
 ```{r}
-#| echo: false
-#| eval: false
 ## BIO 9.2 7
 n1 = 190; x1_bar = 7.3; s1 = 3
 n2 = 186; x2_bar = 8.2; s2 = 3
@@ -147,8 +139,6 @@ Daughter = "Height of Daughter"
 ```
 
 ```{r}
-#| echo: false
-#| eval: false
 ## BIO 9.3 9
 mom <- c(68, 60, 61, 63.5, 69, 64, 69, 64, 63.5, 66)
 dau <- c(68.5, 60, 63.5, 67.5, 68, 65.5, 69, 68, 64.5, 63)
