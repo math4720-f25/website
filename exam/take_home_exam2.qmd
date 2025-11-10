@@ -167,3 +167,10 @@ boxplot(shield_machine_log_new)
 # aov_res <- aov(diameter ~ machine, data = data_sim_log)
 # summary(aov_res)
 ```
+
+
+(@) **AI Usage Declaration.** Using GenAI is permitted for this course. If you choose to use GenAI to assist with your exam, you must include a brief statement documenting your use. Please provide the following information:
+    (a) **Why/How I Used AI** Why do you need to use GenAI? Which tool did you use? Describe your prompts or questions. What and how did you ask the AI to help you?
+    (b) **Generated Output** Include a screenshot or excerpt (copy and paste) of the AI’s response.
+    (c) **How I Used the Output** Did you revise it? Did you use it directly, or compare it with your answers? What decisions did you make based on the output?
+
