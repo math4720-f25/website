@@ -2936,7 +2936,7 @@
     "href": "slides/13-anova.html#requirements-of-one-way-anova",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Requirements of One-Way ANOVA",
-    "text": "Requirements of One-Way ANOVA\n\nThe populations of each category are normally distributed.\nThe populations have the same variance \\(\\sigma^2\\) (two sample pooled \\(t\\)-test).\nThe samples are random samples.\nThe samples are independent of each other. (not matched or paired in any way)\n\n\n\nThe method can still work fairly well when the variances are not equal, unless they are differ by large amounts."
+    "text": "Requirements of One-Way ANOVA\n\nThe populations of each category are normally distributed.\nThe populations have the same variance \\(\\sigma^2\\) (two-sample pooled \\(t\\)-test).\nThe samples are random samples.\nThe samples are independent of each other. (not matched or paired in any way)\n\n\n\nThe method can still work fairly well when the variances are not equal, unless they are differ by large amounts."
   },
   {
     "objectID": "slides/13-anova.html#rationale-for-anova",
@@ -2988,29 +2988,43 @@
     "text": "Variance Between Samples\n\\[\\boxed{s^2_{B} = \\frac{\\sum_{i=1}^k n_i (\\bar{y}_{i} - \\bar{y}_{})^2}{k-1}}\\]\n\n\\(\\bar{y}_{i}\\) is the \\(i\\)-th sample mean.\n\\(\\bar{y}_{}\\) is the grand sample mean with all data points in all groups combined.\n\n. . .\n\n\\(s^2_{B}\\) is also an estimate of \\(\\sigma^2\\) and measures variability among sample means for the \\(k\\) groups.\n\nIf \\(H_0\\) is true \\((\\mu_1 = \\cdots = \\mu_k = \\mu)\\), any variation in the sample means is due to chance and randomness, and shouldn’t be too large.\n\n\n\\(\\bar{y}_{1}, \\cdots, \\bar{y}_{k}\\) should be close each other, and they are close to \\(\\bar{y}_{}\\)."
   },
   {
-    "objectID": "slides/13-anova.html#anova-table-sum-of-squares",
-    "href": "slides/13-anova.html#anova-table-sum-of-squares",
+    "objectID": "slides/13-anova.html#s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom",
+    "href": "slides/13-anova.html#s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom",
     "title": "Analysis of Variance (ANOVA) \n",
-    "section": "ANOVA Table: Sum of Squares",
-    "text": "ANOVA Table: Sum of Squares\n\n\n\nTotal Sum of Squares (SST) measures total variation around \\(\\bar{y}_{}\\) in all of the sample data combined (ignoring the groups):\n\n\\[\\scriptsize{\\color{blue}{SST = \\sum_{j=1}^{n_i}\\sum_{i=1}^{k} \\left(y_{ij} - \\bar{y}_{}\\right)^2}}\\]\n\n. . .\n\n\n\nSum of Squares Between Samples (SSB) measures the variation between sample means:\n\n\\[\\scriptsize{ \\color{blue}{SSB = \\sum_{i=1}^{k}n_i \\left(\\bar{y}_{i} - \\bar{y}_{}\\right)^2}}\\] \n. . .\n\n\n\nSum of Squares Within Samples (SSW) measures the variation of an value \\(y_{ij}\\) about its sample mean \\(\\bar{y}_{i}\\):\n\n\\[\\scriptsize{ \\color{blue}{SSW = \\sum_{i=1}^{k} \\sum_{j=1}^{n_i} \\left(y_{ij} - \\bar{y}_{i}\\right)^2 = \\sum_{i=1}^{k} (n_i - 1)s_i^2}}\\]\n\n\n\nSST: sum of squared deviation from each observation to the overall grand mean\nSSB: sum of squared deviation from each group mean to the overall grand mean\nWhat happens when all group means are equal?\nSSW: sum of squared deviation from each group value to its group mean"
+    "section": "\n\\(s_B^2\\) and \\(s_W^2\\) as Sum of Squares/Degrees of Freedom",
+    "text": "\\(s_B^2\\) and \\(s_W^2\\) as Sum of Squares/Degrees of Freedom\n\nVariance is defined as \\(\\frac{\\text{Sum of Squares}}{\\text{Degrees of Freedom}}\\), which is also called \\(\\text{Mean Square (MS)}\\)\n\\(s_B^2 = \\frac{\\sum_{i=1}^k n_i (\\bar{y}_{i} - \\bar{y}_{})^2}{k-1} = \\frac{\\text{Sum of Squares Between Samples (SSB)}}{df_B} = MSB\\)\n\\(s_W^2 = \\frac{\\sum_{i=1}^{k} (n_i - 1)s_i^2}{n_1 + n_2 + \\cdots + n_k - k} = \\frac{\\text{Sum of Squares Within Samples (SSW)}}{df_W} = MSW\\) \\((N = n_1 + \\cdots + n_k)\\)"
   },
   {
     "objectID": "slides/13-anova.html#sum-of-squares-identity",
     "href": "slides/13-anova.html#sum-of-squares-identity",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Sum of Squares Identity",
-    "text": "Sum of Squares Identity\n\n\n\n\\(SST = SSB + SSW\\)\n\\(df_{T} = df_{B} + df_{W} \\implies N - 1 = (k-1) + (N - k)\\) \\((N = n_1 + \\cdots + n_k)\\)"
+    "text": "Sum of Squares Identity\n\\[\\text{Total Sum of Squares (SST)} = \\sum_{j=1}^{n_i}\\sum_{i=1}^{k} \\left(y_{ij} - \\bar{y}_{}\\right)^2 = SSB + SSW\\]\n\\[df_{T} = df_{B} + df_{W} \\implies N - 1 = (k-1) + (N - k)\\]"
+  },
+  {
+    "objectID": "slides/13-anova.html#section-1",
+    "href": "slides/13-anova.html#section-1",
+    "title": "Analysis of Variance (ANOVA) \n",
+    "section": "",
+    "text": "Total Sum of Squares (SST) measures total variation around \\(\\bar{y}_{}\\) in all of the sample data combined (ignoring the groups):\n\n\\[\\scriptsize{\\color{blue}{SST = \\sum_{j=1}^{n_i}\\sum_{i=1}^{k} \\left(y_{ij} - \\bar{y}_{}\\right)^2}}\\]\n\n\n\n\nSum of Squares Between Samples (SSB) measures the variation between sample means:\n\n\\[\\scriptsize{ \\color{blue}{SSB = \\sum_{i=1}^{k}n_i \\left(\\bar{y}_{i} - \\bar{y}_{}\\right)^2}}\\] \n\n\n\nSum of Squares Within Samples (SSW) measures the variation of an value \\(y_{ij}\\) about its sample mean \\(\\bar{y}_{i}\\):\n\n\\[\\scriptsize{ \\color{blue}{SSW = \\sum_{i=1}^{k} \\sum_{j=1}^{n_i} \\left(y_{ij} - \\bar{y}_{i}\\right)^2 = \\sum_{i=1}^{k} (n_i - 1)s_i^2}}\\]\n\n\n\nSST: sum of squared deviation from each observation to the overall grand mean\nSSB: sum of squared deviation from each group mean to the overall grand mean\nWhat happens when all group means are equal?\nSSW: sum of squared deviation from each group value to its group mean"
   },
   {
     "objectID": "slides/13-anova.html#sum-of-squares-identity-1",
     "href": "slides/13-anova.html#sum-of-squares-identity-1",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Sum of Squares Identity",
-    "text": "Sum of Squares Identity\n\n\\(\\text{Mean Square (MS)} = \\frac{\\text{sum of squares}}{\\text{degrees of freedom}}\\)\n\\(MSB = \\frac{SSB}{k-1} = s^2_{B}\\)\n\\(MSW = \\frac{SSW}{N-k} = s^2_{W}\\)"
+    "text": "Sum of Squares Identity\n\n\n\n\\(SST = SSB + SSW\\)\n\\(df_{T} = df_{B} + df_{W} \\implies N - 1 = (k-1) + (N - k)\\) \\((N = n_1 + \\cdots + n_k)\\)"
   },
   {
     "objectID": "slides/13-anova.html#sum-of-squares-identity-2",
     "href": "slides/13-anova.html#sum-of-squares-identity-2",
+    "title": "Analysis of Variance (ANOVA) \n",
+    "section": "Sum of Squares Identity",
+    "text": "Sum of Squares Identity\n\n\\(\\text{Mean Square (MS)} = \\frac{\\text{sum of squares}}{\\text{degrees of freedom}}\\)\n\\(MSB = \\frac{SSB}{k-1} = s^2_{B}\\)\n\\(MSW = \\frac{SSW}{N-k} = s^2_{W}\\)"
+  },
+  {
+    "objectID": "slides/13-anova.html#sum-of-squares-identity-3",
+    "href": "slides/13-anova.html#sum-of-squares-identity-3",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Sum of Squares Identity",
     "text": "Sum of Squares Identity\n\n\\(F_{test} = \\frac{MSB}{MSW}\\)\nUnder \\(H_0\\), \\(\\frac{S^2_{B}}{S_W^2} \\sim F_{k-1, \\, N-k}\\)\n\nReject \\(H_0\\) if\n\n\\(F_{test} &gt; F_{\\alpha, \\, k - 1,\\, N-k}\\)\n\n\\(p\\)-value \\(P(F_{k - 1,\\, N-k} &gt; F_{test}) &lt; \\alpha\\)"
@@ -3128,11 +3142,11 @@
     "text": "Variance Between Samples\n\\[\\boxed{s^2_{B} = \\frac{\\sum_{i=1}^k n_i (\\bar{y}_{i} - \\bar{y}_{})^2}{k-1}}\\]\n\n\\(\\bar{y}_{i}\\) is the \\(i\\)-th sample mean.\n\\(\\bar{y}_{}\\) is the grand sample mean with all data points in all groups combined.\n\n\n\n\\(s^2_{B}\\) is also an estimate of \\(\\sigma^2\\) and measures variability among sample means for the \\(k\\) groups.\n\nIf \\(H_0\\) is true \\((\\mu_1 = \\cdots = \\mu_k = \\mu)\\), any variation in the sample means is due to chance and randomness, and shouldn’t be too large.\n\n\n\\(\\bar{y}_{1}, \\cdots, \\bar{y}_{k}\\) should be close each other, and they are close to \\(\\bar{y}_{}\\)."
   },
   {
-    "objectID": "slides/13-anova-slides.html#anova-table-sum-of-squares",
-    "href": "slides/13-anova-slides.html#anova-table-sum-of-squares",
+    "objectID": "slides/13-anova-slides.html#s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom",
+    "href": "slides/13-anova-slides.html#s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom",
     "title": "Analysis of Variance (ANOVA) \n",
-    "section": "ANOVA Table: Sum of Squares",
-    "text": "ANOVA Table: Sum of Squares\n\n\n\nTotal Sum of Squares (SST) measures total variation around \\(\\bar{y}_{}\\) in all of the sample data combined (ignoring the groups):\n\n\\[\\scriptsize{\\color{blue}{SST = \\sum_{j=1}^{n_i}\\sum_{i=1}^{k} \\left(y_{ij} - \\bar{y}_{}\\right)^2}}\\]\n\n\n\n\n\nSum of Squares Between Samples (SSB) measures the variation between sample means:\n\n\\[\\scriptsize{ \\color{blue}{SSB = \\sum_{i=1}^{k}n_i \\left(\\bar{y}_{i} - \\bar{y}_{}\\right)^2}}\\] \n\n\n\n\n\nSum of Squares Within Samples (SSW) measures the variation of an value \\(y_{ij}\\) about its sample mean \\(\\bar{y}_{i}\\):\n\n\\[\\scriptsize{ \\color{blue}{SSW = \\sum_{i=1}^{k} \\sum_{j=1}^{n_i} \\left(y_{ij} - \\bar{y}_{i}\\right)^2 = \\sum_{i=1}^{k} (n_i - 1)s_i^2}}\\]\n\n\nSST: sum of squared deviation from each observation to the overall grand mean\nSSB: sum of squared deviation from each group mean to the overall grand mean\nWhat happens when all group means are equal?\nSSW: sum of squared deviation from each group value to its group mean"
+    "section": "\n\\(s_B^2\\) and \\(s_W^2\\) as Sum of Squares/Degrees of Freedom",
+    "text": "\\(s_B^2\\) and \\(s_W^2\\) as Sum of Squares/Degrees of Freedom\n\nVariance is defined as \\(\\frac{\\text{Sum of Squares}}{\\text{Degrees of Freedom}}\\), which is also called \\(\\text{Mean Square (MS)}\\)\n\\(s_B^2 = \\frac{\\sum_{i=1}^k n_i (\\bar{y}_{i} - \\bar{y}_{})^2}{k-1} = \\frac{\\text{Sum of Squares Between Samples (SSB)}}{df_B} = MSB\\)\n\\(s_W^2 = \\frac{\\sum_{i=1}^{k} (n_i - 1)s_i^2}{n_1 + n_2 + \\cdots + n_k - k} = \\frac{\\text{Sum of Squares Within Samples (SSW)}}{df_W} = MSW\\) \\((N = n_1 + \\cdots + n_k)\\)"
   },
   {
     "objectID": "slides/13-anova-slides.html#sum-of-squares-identity",
@@ -3142,15 +3156,8 @@
     "text": "Sum of Squares Identity\n\\[\\text{Total Sum of Squares (SST)} = \\sum_{j=1}^{n_i}\\sum_{i=1}^{k} \\left(y_{ij} - \\bar{y}_{}\\right)^2 = SSB + SSW\\]\n\\[df_{T} = df_{B} + df_{W} \\implies N - 1 = (k-1) + (N - k)\\]"
   },
   {
-    "objectID": "slides/13-anova-slides.html#sum-of-squares-identity-1",
-    "href": "slides/13-anova-slides.html#sum-of-squares-identity-1",
-    "title": "Analysis of Variance (ANOVA) \n",
-    "section": "Sum of Squares Identity",
-    "text": "Sum of Squares Identity\n\n\\(\\text{Mean Square (MS)} = \\frac{\\text{sum of squares}}{\\text{degrees of freedom}}\\)\n\\(MSB = \\frac{SSB}{k-1} = s^2_{B}\\)\n\\(MSW = \\frac{SSW}{N-k} = s^2_{W}\\)"
-  },
-  {
-    "objectID": "slides/13-anova-slides.html#sum-of-squares-identity-2",
-    "href": "slides/13-anova-slides.html#sum-of-squares-identity-2",
+    "objectID": "slides/13-anova-slides.html#sum-of-squares-identity-3",
+    "href": "slides/13-anova-slides.html#sum-of-squares-identity-3",
     "title": "Analysis of Variance (ANOVA) \n",
     "section": "Sum of Squares Identity",
     "text": "Sum of Squares Identity\n\n\\(F_{test} = \\frac{MSB}{MSW}\\)\nUnder \\(H_0\\), \\(\\frac{S^2_{B}}{S_W^2} \\sim F_{k-1, \\, N-k}\\)\n\nReject \\(H_0\\) if\n\n\\(F_{test} &gt; F_{\\alpha, \\, k - 1,\\, N-k}\\)\n\n\\(p\\)-value \\(P(F_{k - 1,\\, N-k} &gt; F_{test}) &lt; \\alpha\\)"
@@ -5456,7 +5463,7 @@
     "href": "exam/take_home_exam2.html",
     "title": "Take-home Exam 2",
     "section": "",
-    "text": "Important\n\n\n\nDue Wednesday, Nov 12, 11:59 PM\n\n\n\nPlease submit your work in one PDF file to D2L &gt; Assessments &gt; Dropbox. Multiple files or a file that is not in pdf format is not allowed.\nWith your submission, you commit to academic integrity through the following honor pledge:\n\n\nI recognize the importance of personal integrity in all aspects of life and work. I commit myself to truthfulness, honor and responsibility, by which I earn the respect of others. I support the development of good character and commit myself to uphold the highest standards of academic integrity as an important aspect of personal integrity. My commitment obliges me to conduct myself according to the Marquette University Honor Code.\n\n\nThis exam is to be entirely your own efforts. You may use any resources, including Generative AI tools, while working on this exam. However, you are NOT allowed to discuss the exam with anyone except Dr. Yu, nor may you post any of the exam questions on any platform to solicit answers. Any violation of this policy will be treated as academic misconduct. If you are caught cheating, your case will be reported immediately to the Academic Integrity Council.\nIn your exam, please number problems/questions in order.\nEven if you use R to compute your final answer, you must show your calculation steps and/or explain your reasoning in order to receive full credit.\nHandwritten tables and figures receive no credits.\n\n\nQuestions started with (MSSC) are required for MSSC 5720 students, and optional for MATH 4720 students.\n\nExam Problems (50 points)\n\n\n[30 points] A Marquette professor of College of Education believes that Marquette engineering students are talented and their mean ACT score is greater than 30. She would like to collect evidence of her claim and do a hypothesis testing. Marquette data center director said that the population of ACT score of engineering majors follows a normal distribution with variance of value 9.\n\nIs the claim a \\(H_0\\) or \\(H_1\\) claim? Write down \\(H_0\\) and \\(H_1\\) based on her claim. Is this a left-tailed, right-tailed, or two-tailed test? Please explain.\nDue to COVID-19, Marquette’s research budget is cut. The professor’s assistant can only collect a small random sample of size 16. Are one-sample \\(z\\)-test and/or \\(t\\)-test procedures appropriate with such a small size? If yes, why? If not, add conditions to make the procedures appropriate.\nThe assistant never takes MATH 4720 and she only remembers that the professor said 31.7 is the threshold value to be compared with the observed sample mean \\(\\overline{x}\\). Should she reject \\(H_0\\) when \\(\\bar{x} &gt; 31.7\\) or when \\(\\bar{x} &lt; 31.7\\)? Please explain.\nGiven the rejection region in (c), write down the definition of the type I error rate in the problem and determine its value.\nIf the \\(p\\)-value is 0.1, what is the value of observed sample mean \\(\\overline{x}\\)?\nBased on (c), (d), (e), Is \\(H_0\\) rejected or not?\n\n(MSSC) Write down the definition of the type II error rate in the problem and determine its value if the true mean ACT score is 31 (the value of \\(\\mu\\) when \\(H_0\\) is false) and the rejection region is \\(\\{(x_1, x_2, \\dots, x_{16}): \\overline{x} \\ge 31. 5\\}\\).\n\n(MSSC) The statistical power, which is defined as 1 - type II error rate, or \\(1-\\beta\\), is a way to quantify the quality of a test. The power is the probability that the test correctly reject \\(H_0\\) when \\(H_0\\) is false. With the rejection region in (g), plot the power curve (power value vs. value of \\(\\mu\\)) with mean values 30, 31, 32, 33, 34. Explain your findings.\n\n\n\n\n\n\n[20 points] A corporation in Chicago makes insulation shields for electrical wires using three types of machines. The company wants to evaluate the variation in the inside diameter dimensions of the shields produced by the machine A, B and C. A quality control engineer randomly selects shields produced by each of the machines and records the inside diameter of each shield (in millimeters), as shown in Table 1. The data can be downloaded at shield_machine.csv. She wants to determine whether the mean diameter produced by the three machines differ.\n\nCheck normality and homogeneity of variance using QQ-plot and boxplot. Comment on your plots.\nBased on your findings in (a), would it be appropriate to proceed with an analysis of variance (ANOVA)? Please explain.\nIf your answer is YES in (b), conduct ANOVA on the original data. If NOT, do the natural log (log with base \\(e = 2.71828...\\)) transformation on the data and show the transformed data satisfy ANOVA assumptions. Then conduct ANOVA on the transformed data. Show the ANOVA table and determine whether the mean diameters differ.\n\n\n\n\n\n\nTable 1: Sampled data of the inside diameter of shields produced by machine A, B and C.\n\n\n\n\nShield\nMachine A\nMachine B\nMachine C\n\n\n\n1\n31.0\n34.2\n39.3\n\n\n2\n7.0\n39.8\n36.2\n\n\n3\n8.2\n15.8\n47.8\n\n\n4\n9.1\n29.8\n58.7\n\n\n5\n14.4\n61.1\n82.3\n\n\n6\n10.5\n31.1\n30.8\n\n\n7\n10.5\n18.3\n11.0\n\n\n8\n5.1\n10.6\n15.0\n\n\n9\n18.2\n11.2\n46.3\n\n\n10\n25.2\n20.0\n36.4\n\n\n11\n6.5\n26.9\n54.5\n\n\n12\n13.4\n52.6\n25.3\n\n\n13\n23.7\n65.2\n24.6\n\n\n14\n17.0\n37.3\n90.5\n\n\n15\n8.6\n19.0\n64.0"
+    "text": "Important\n\n\n\nDue Wednesday, Nov 12, 11:59 PM\n\n\n\nPlease submit your work in one PDF file to D2L &gt; Assessments &gt; Dropbox. Multiple files or a file that is not in pdf format is not allowed.\nWith your submission, you commit to academic integrity through the following honor pledge:\n\n\nI recognize the importance of personal integrity in all aspects of life and work. I commit myself to truthfulness, honor and responsibility, by which I earn the respect of others. I support the development of good character and commit myself to uphold the highest standards of academic integrity as an important aspect of personal integrity. My commitment obliges me to conduct myself according to the Marquette University Honor Code.\n\n\nThis exam is to be entirely your own efforts. You may use any resources, including Generative AI tools, while working on this exam. However, you are NOT allowed to discuss the exam with anyone except Dr. Yu, nor may you post any of the exam questions on any platform to solicit answers. Any violation of this policy will be treated as academic misconduct. If you are caught cheating, your case will be reported immediately to the Academic Integrity Council.\nIn your exam, please number problems/questions in order.\nEven if you use R to compute your final answer, you must show your calculation steps and/or explain your reasoning in order to receive full credit.\nHandwritten tables and figures receive no credits.\n\nExam Problems (50 points)\n\n\n[30 points] A Marquette professor of College of Education believes that Marquette engineering students are talented and their mean ACT score is greater than 30. She would like to collect evidence of her claim and do a hypothesis testing. Marquette data center director said that the population of ACT score of engineering majors follows a normal distribution with the population variance of value 9.\n\nIs the claim a \\(H_0\\) or \\(H_1\\) claim? Write down \\(H_0\\) and \\(H_1\\) based on her claim. Is this a left-tailed, right-tailed, or two-tailed test? Please explain.\nDue to COVID-19, Marquette’s research budget is cut. The professor’s assistant can only collect a small random sample of size 16. Are one-sample \\(z\\)-test and/or \\(t\\)-test procedures appropriate with such a small size? If yes, why? If not, add conditions to make the procedures appropriate.\nThe assistant never takes MATH 4720 and she only remembers that the professor said 31.7 is the threshold value to be compared with the observed sample mean \\(\\overline{x}\\). Should she reject \\(H_0\\) when \\(\\bar{x} &gt; 31.7\\) or when \\(\\bar{x} &lt; 31.7\\)? Please explain.\nGiven the rejection region in (c), write down the definition of the Type I error rate in the problem and determine its value.\nIf the \\(p\\)-value is 0.1, what is the value of observed sample mean \\(\\overline{x}\\)?\nBased on (c), (d), (e), Is \\(H_0\\) rejected?  \n\n\n\n\n\n\n\n[20 points] A corporation in Chicago makes insulation shields for electrical wires using three types of machines. The company wants to evaluate the variation in the inside diameter dimensions of the shields produced by the machine A, B and C. A quality control engineer randomly selects shields produced by each of the machines and records the inside diameter of each shield (in millimeters), as shown in Table 1. The data can be downloaded at shield_machine.csv. She wants to determine whether the mean diameter produced by the three machines differ.\n\nCheck normality and homogeneity of variance using QQ-plot and boxplot. Comment on your plots.\nBased on your findings in (a), would it be appropriate to proceed with an analysis of variance (ANOVA)? Please explain.\nIf your answer is YES in (b), conduct ANOVA on the original data. If NOT, do the natural log (log with base \\(e = 2.71828...\\)) transformation on the data and show the transformed data satisfy ANOVA assumptions. Then conduct ANOVA on the transformed data. Show the ANOVA table and determine whether the mean diameters differ.\n\n\n\n\n\n\nTable 1: Sampled data of the inside diameter of shields produced by machine A, B and C.\n\n\n\n\nShield\nMachine A\nMachine B\nMachine C\n\n\n\n1\n31.0\n34.2\n39.3\n\n\n2\n7.0\n39.8\n36.2\n\n\n3\n8.2\n15.8\n47.8\n\n\n4\n9.1\n29.8\n58.7\n\n\n5\n14.4\n61.1\n82.3\n\n\n6\n10.5\n31.1\n30.8\n\n\n7\n10.5\n18.3\n11.0\n\n\n8\n5.1\n10.6\n15.0\n\n\n9\n18.2\n11.2\n46.3\n\n\n10\n25.2\n20.0\n36.4\n\n\n11\n6.5\n26.9\n54.5\n\n\n12\n13.4\n52.6\n25.3\n\n\n13\n23.7\n65.2\n24.6\n\n\n14\n17.0\n37.3\n90.5\n\n\n15\n8.6\n19.0\n64.0"
   },
   {
     "objectID": "project-description.html",
@@ -5495,26 +5502,5 @@
     "crumbs": [
       "Exercise"
     ]
-  },
-  {
-    "objectID": "slides/13-anova-slides.html#represent-s_b2-and-s_w2-using-sum-of-squares-and-degrees-of-freedom",
-    "href": "slides/13-anova-slides.html#represent-s_b2-and-s_w2-using-sum-of-squares-and-degrees-of-freedom",
-    "title": "Analysis of Variance (ANOVA) \n",
-    "section": "Represent \\(s_B^2\\) and \\(s_W^2\\) using Sum of Squares and Degrees of Freedom",
-    "text": "Represent \\(s_B^2\\) and \\(s_W^2\\) using Sum of Squares and Degrees of Freedom\n\nVariance is defined as \\(\\frac{\\text{Sum of Squares}}{\\text{Degrees of Freedom}}\\), which is also called \\(\\text{Mean Square (MS)}\\)\n\\(s_B^2 = \\frac{\\sum_{i=1}^k n_i (\\bar{y}_{i} - \\bar{y}_{})^2}{k-1} = \\frac{\\text{Sum of Squares Between Samples (SSB)}}{df_B} = MSB\\)\n\\(s_W^2 = \\frac{\\sum_{i=1}^{k} (n_i - 1)s_i^2}{n_1 + n_2 + \\cdots + n_k - k} = \\frac{\\text{Sum of Squares Within Samples (SSW)}}{df_W} = MSW\\) \\((N = n_1 + \\cdots + n_k)\\)"
-  },
-  {
-    "objectID": "slides/13-anova-slides.html#sum-of-squares-identity-3",
-    "href": "slides/13-anova-slides.html#sum-of-squares-identity-3",
-    "title": "Analysis of Variance (ANOVA) \n",
-    "section": "Sum of Squares Identity",
-    "text": "Sum of Squares Identity\n\n\\(F_{test} = \\frac{MSB}{MSW}\\)\nUnder \\(H_0\\), \\(\\frac{S^2_{B}}{S_W^2} \\sim F_{k-1, \\, N-k}\\)\n\nReject \\(H_0\\) if\n\n\\(F_{test} &gt; F_{\\alpha, \\, k - 1,\\, N-k}\\)\n\n\\(p\\)-value \\(P(F_{k - 1,\\, N-k} &gt; F_{test}) &lt; \\alpha\\)"
-  },
-  {
-    "objectID": "slides/13-anova-slides.html#s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom",
-    "href": "slides/13-anova-slides.html#s_b2-and-s_w2-as-sum-of-squaresdegrees-of-freedom",
-    "title": "Analysis of Variance (ANOVA) \n",
-    "section": "\n\\(s_B^2\\) and \\(s_W^2\\) as Sum of Squares/Degrees of Freedom",
-    "text": "\\(s_B^2\\) and \\(s_W^2\\) as Sum of Squares/Degrees of Freedom\n\nVariance is defined as \\(\\frac{\\text{Sum of Squares}}{\\text{Degrees of Freedom}}\\), which is also called \\(\\text{Mean Square (MS)}\\)\n\\(s_B^2 = \\frac{\\sum_{i=1}^k n_i (\\bar{y}_{i} - \\bar{y}_{})^2}{k-1} = \\frac{\\text{Sum of Squares Between Samples (SSB)}}{df_B} = MSB\\)\n\\(s_W^2 = \\frac{\\sum_{i=1}^{k} (n_i - 1)s_i^2}{n_1 + n_2 + \\cdots + n_k - k} = \\frac{\\text{Sum of Squares Within Samples (SSW)}}{df_W} = MSW\\) \\((N = n_1 + \\cdots + n_k)\\)"
   }
 ]

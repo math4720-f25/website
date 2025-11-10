@@ -34,7 +34,7 @@ format:
 |  | Wed, Oct 29 | Inference about Two Population Variances | 👉 [f](ojs/infer-var-f-ojs.html) |  |  | ✍️ [**Extra credit!**](hw/hw06-extra.html) (due 10/31)<br>✍️ [HW 7](hw/hw07.html) (due 11/7) | ✅ Quiz 3 |  |
 | 11 | Mon, Nov 3 | Analysis of Variance (ANOVA) Rationale | [🖥️ ANOVA](/slides/13-anova-slides.html) | [IS Ch 24](https://chenghanyu-introstatsbook.netlify.app/model-anova) | [`r fontawesome::fa("file-code")`](code/23-model-anova.R)  (ANOVA [data](./code/data_anova.csv)) |  | 📋 [Exercise for Exam 2](exercise/exercise2.html) |  |
 |  | Wed, Nov 5 | Analysis of Variance (ANOVA) Procedure |  |  |  |  |  |  |
-| 12 | Mon, Nov 10 | **In-class Exam 2** |  |  |  |  |  | Take-home Exam 2 |
+| 12 | Mon, Nov 10 | **In-class Exam 2** |  |  |  |  |  | [Take-home Exam 2](exam/take_home_exam2.html) |
 |  | Wed, Nov 12 | Multiple Comparisons | 🖥️ | IS Ch 25 | `r fontawesome::fa("file-code")` |  |  |  |
 | 13 | Mon, Nov 17 | Correlation | 🖥️ | IS Ch 27.1 |  |  |  |  |
 |  | Wed, Nov 19 | Simple Linear Regression |  | IS Ch 27.2 - 27.3 | `r fontawesome::fa("file-code")` |  |  |  |
