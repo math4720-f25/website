@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.7.32">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<title>Take-home Exam 2 – MATH 4720 (MSSC 5720) - Fall 2025</title>
+<title>Activity: Simple Linear Regression – MATH 4720 (MSSC 5720) - Fall 2025</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -16,6 +16,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -90,8 +125,8 @@ window.Quarto = {
   typesetMath
 };
 </script>
-<meta property="og:title" content="Take-home Exam 2 – MATH 4720 (MSSC 5720) - Fall 2025">
-<meta property="og:description" content="Take-home Exam for Week 7 to 11">
+<meta property="og:title" content="Activity: Simple Linear Regression – MATH 4720 (MSSC 5720) - Fall 2025">
+<meta property="og:description" content="Height vs.&nbsp;Shoe Size">
 <meta property="og:site_name" content="MATH 4720 (MSSC 5720) - Fall 2025">
 </head>
 <body class="nav-sidebar docked quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -263,7 +298,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Take-home Exam 2</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Activity: Simple Linear Regression</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -349,17 +384,16 @@ window.Quarto = {
         <nav id="TOC" role="doc-toc" class="toc-active"><h2 id="toc-title">On this page</h2>
    
   <ul>
-<li><a href="#exam-problems-50-points" id="toc-exam-problems-50-points" class="nav-link active" data-scroll-target="#exam-problems-50-points">Exam Problems (50 points)</a></li>
-  </ul><div class="toc-actions"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/exam/take_home_exam2.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<li><a href="#objective" id="toc-objective" class="nav-link active" data-scroll-target="#objective"><strong>Objective</strong></a></li>
+  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a></li>
+  <li><a href="#discussion" id="toc-discussion" class="nav-link" data-scroll-target="#discussion">Discussion</a></li>
+  </ul><div class="toc-actions"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/activity/act_reg.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
-<h1 class="title">Take-home Exam 2</h1>
-<p class="subtitle lead">Take-home Exam for Week 7 to 11</p>
-  <div class="quarto-categories">
-    <div class="quarto-category">Exam</div>
-  </div>
-  </div>
+<h1 class="title">Activity: Simple Linear Regression</h1>
+<p class="subtitle lead">Height vs.&nbsp;Shoe Size</p>
+</div>
 
 
 
@@ -372,182 +406,61 @@ window.Quarto = {
   
 
 
-</header><div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><span class="red">Due <strong>Wednesday, Nov 12, 11:59 PM</strong></span></p>
-</div>
-</div>
+</header><section id="objective" class="level2"><h2 class="anchored" data-anchor-id="objective"><strong>Objective</strong></h2>
+<p>You will:</p>
 <ul>
-<li><p>Please submit your work in <em>one</em> <strong>PDF</strong> file to <strong>D2L &gt; Assessments &gt; Dropbox</strong>. Multiple files or a file that is not in pdf format is not allowed.</p></li>
-<li><p>With your submission, you commit to academic integrity through the following honor pledge:</p></li>
-</ul>
-<blockquote class="blockquote">
-<p>I recognize the importance of personal integrity in all aspects of life and work. I commit myself to truthfulness, honor and responsibility, by which I earn the respect of others. I support the development of good character and commit myself to uphold the highest standards of academic integrity as an important aspect of personal integrity. My commitment obliges me to conduct myself according to the Marquette University Honor Code.</p>
-</blockquote>
+<li><p>Identify predictor (height) and response (shoe size).</p></li>
+<li><p>Explain what the slope means in context.</p></li>
+<li><p>Recognize variability and limitations of small-sample regressions.</p></li>
+<li><p>Experience how combining data strengthens inference.</p></li>
+</ul></section><section id="instructions" class="level2"><h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
+<ol type="1">
+<li><p>Form a group of <strong>four</strong> or <strong>five</strong>. (This is your sample size!)</p></li>
+<li>
+<p>Collect your data. Each person will share their <strong>height</strong> and <strong>shoe size</strong>!</p>
 <ul>
-<li><p><span class="red"><strong><em>This exam is to be entirely your own efforts.</em></strong></span> You may use any resources, including Generative AI tools, while working on this exam. However, <strong>you are NOT allowed to discuss the exam with anyone except Dr.&nbsp;Yu, nor may you post any of the exam questions on any platform to solicit answers.</strong> Any violation of this policy will be treated as academic misconduct. If you are caught cheating, your case will be reported immediately to the Academic Integrity Council.</p></li>
-<li><p>In your exam, please number problems/questions in order.</p></li>
-<li><p>Even if you use R to compute your final answer, you must show your calculation steps and/or explain your reasoning in order to receive full credit.</p></li>
-<li><p><strong>Handwritten tables and figures receive no credits</strong>.</p></li>
+<li>Height (<span class="math inline">\(X\)</span>): <strong>inches</strong> (Use <a href="https://www.rapidtables.com/convert/length/feet-inch-to-inch.html">feet-to-inch conversion</a> to help you get your height in inches.)</li>
+<li>Shoe Size (<span class="math inline">\(Y\)</span>): <strong>US</strong>
+</li>
 </ul>
-<!-- - You do not need to attach your code of any language you use in the homework. However, if you fail to complete your calculations or produce your table or figure, you receive partial credits if your code is attached. --><!-- - Questions started with **(MSSC)** are required for MSSC 5720 students, and optional for MATH 4720 students. --><section id="exam-problems-50-points" class="level1"><h1>Exam Problems (50 points)</h1>
-<ol class="example" type="1">
-<li>
-<em>[30 points]</em> A Marquette professor of College of Education believes that Marquette engineering students are talented and their mean ACT score is greater than 30. She would like to collect evidence of her claim and do a hypothesis testing. Marquette data center director said that the population of ACT score of engineering majors follows a normal distribution with the population variance of value 9.
-<ol type="a">
-<li>Is the claim a <span class="math inline">\(H_0\)</span> or <span class="math inline">\(H_1\)</span> claim? Write down <span class="math inline">\(H_0\)</span> and <span class="math inline">\(H_1\)</span> based on her claim. Is this a left-tailed, right-tailed, or two-tailed test? Please explain.</li>
-<li>Due to COVID-19, Marquette’s research budget is cut. The professor’s assistant can only collect a small random sample of size 16. Are one-sample <span class="math inline">\(z\)</span>-test and/or <span class="math inline">\(t\)</span>-test procedures appropriate with such a small size? If yes, why? If not, add conditions to make the procedures appropriate.</li>
-<li>The assistant never takes MATH 4720 and she only remembers that the professor said 31.7 is the threshold value to be compared with the observed sample mean <span class="math inline">\(\overline{x}\)</span>. Should she reject <span class="math inline">\(H_0\)</span> when <span class="math inline">\(\bar{x} &gt; 31.7\)</span> or when <span class="math inline">\(\bar{x} &lt; 31.7\)</span>? Please explain.</li>
-<li>Given the rejection region in (c), write down the definition of the Type I error rate in the problem and determine its value.</li>
-<li>If the <span class="math inline">\(p\)</span>-value is 0.1, what is the value of observed sample mean <span class="math inline">\(\overline{x}\)</span>?</li>
-<li>Based on (c), (d), (e), Is <span class="math inline">\(H_0\)</span> rejected? <!-- (g) **(MSSC)** Write down the definition of the Type II error rate in the problem and determine its value if the true mean ACT score is 31 (the value of $\mu$ when $H_0$ is false) and the rejection region is $\{(x_1, x_2, \dots, x_{16}): \overline{x} \ge 31. 5\}$. --> <!-- (h) **(MSSC)** The [**statistical power**](https://chenghanyu-introstatsbook.netlify.app/infer-ht#statistical-power-and-choosing-sample-size), which is defined as 1 - type II error rate, or $1-\beta$, is a way to quantify the quality of a test. The power is the probability that the test correctly reject $H_0$ when $H_0$ is false. With the rejection region in (g), plot the power curve (power value vs. value of $\mu$) with mean values 30, 31, 32, 33, 34.  Explain your findings. -->
 </li>
-</ol>
-</li>
-</ol>
-<p><br></p>
-<ol start="2" class="example" type="1">
-<li>
-<em>[20 points]</em> A corporation in Chicago makes insulation shields for electrical wires using three types of machines. The company wants to evaluate the variation in the inside diameter dimensions of the shields produced by the machine A, B and C. A quality control engineer randomly selects shields produced by each of the machines and records the inside diameter of each shield (in millimeters), as shown in <a href="#tbl-anova" class="quarto-xref">Table&nbsp;1</a>. The data can be downloaded at <a href="./shield_machine.csv">shield_machine.csv</a>. She wants to determine whether the mean diameter produced by the three machines differ.
-<ol type="a">
-<li>Check normality and homogeneity of variance using QQ-plot and boxplot. Comment on your plots.</li>
-<li>Based on your findings in (a), would it be appropriate to proceed with an analysis of variance (ANOVA)? Please explain.</li>
-<li>If your answer is YES in (b), conduct ANOVA on the original data. If NOT, do the natural log (log with base <span class="math inline">\(e = 2.71828...\)</span>) transformation on the data and show the transformed data satisfy ANOVA assumptions. Then conduct ANOVA on the transformed data. Show the ANOVA table and determine whether the mean diameters differ.</li>
-</ol>
-</li>
+<li><p>Make a R data frame. (Replace my numbers with your data!)</p></li>
 </ol>
 <div class="cell">
-<div id="tbl-anova" class="cell quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-tbl figure"><figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-anova-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Table&nbsp;1: Sampled data of the inside diameter of shields produced by machine A, B and C.
-</figcaption><div aria-describedby="tbl-anova-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<div class="cell-output-display">
-<table class="do-not-create-environment cell caption-top table table-sm table-striped small">
-<thead><tr class="header">
-<th style="text-align: right;">Shield</th>
-<th style="text-align: right;">Machine A</th>
-<th style="text-align: right;">Machine B</th>
-<th style="text-align: right;">Machine C</th>
-</tr></thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: right;">1</td>
-<td style="text-align: right;">31.0</td>
-<td style="text-align: right;">34.2</td>
-<td style="text-align: right;">39.3</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;">2</td>
-<td style="text-align: right;">7.0</td>
-<td style="text-align: right;">39.8</td>
-<td style="text-align: right;">36.2</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;">3</td>
-<td style="text-align: right;">8.2</td>
-<td style="text-align: right;">15.8</td>
-<td style="text-align: right;">47.8</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">9.1</td>
-<td style="text-align: right;">29.8</td>
-<td style="text-align: right;">58.7</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">14.4</td>
-<td style="text-align: right;">61.1</td>
-<td style="text-align: right;">82.3</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;">6</td>
-<td style="text-align: right;">10.5</td>
-<td style="text-align: right;">31.1</td>
-<td style="text-align: right;">30.8</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;">7</td>
-<td style="text-align: right;">10.5</td>
-<td style="text-align: right;">18.3</td>
-<td style="text-align: right;">11.0</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">5.1</td>
-<td style="text-align: right;">10.6</td>
-<td style="text-align: right;">15.0</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">18.2</td>
-<td style="text-align: right;">11.2</td>
-<td style="text-align: right;">46.3</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">25.2</td>
-<td style="text-align: right;">20.0</td>
-<td style="text-align: right;">36.4</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">6.5</td>
-<td style="text-align: right;">26.9</td>
-<td style="text-align: right;">54.5</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">13.4</td>
-<td style="text-align: right;">52.6</td>
-<td style="text-align: right;">25.3</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">23.7</td>
-<td style="text-align: right;">65.2</td>
-<td style="text-align: right;">24.6</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;">14</td>
-<td style="text-align: right;">17.0</td>
-<td style="text-align: right;">37.3</td>
-<td style="text-align: right;">90.5</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;">15</td>
-<td style="text-align: right;">8.6</td>
-<td style="text-align: right;">19.0</td>
-<td style="text-align: right;">64.0</td>
-</tr>
-</tbody>
-</table>
+<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="va">df</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/data.frame.html">data.frame</a></span><span class="op">(</span>height <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="fl">69</span>, <span class="fl">74</span>, <span class="fl">77</span>, <span class="fl">60</span>, <span class="fl">62</span><span class="op">)</span>, </span>
+<span>                 size <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="fl">11</span>, <span class="fl">10.5</span>, <span class="fl">12</span>, <span class="fl">9.5</span>, <span class="fl">9</span><span class="op">)</span><span class="op">)</span></span>
+<span><span class="va">df</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>  height size
+1     69 11.0
+2     74 10.5
+3     77 12.0
+4     60  9.5
+5     62  9.0</code></pre>
 </div>
 </div>
-</figure>
-</div>
-</div>
-<ol start="3" class="example" type="1">
-<li>
-<strong>AI Usage Declaration.</strong> Using GenAI is permitted for this course. If you choose to use GenAI to assist with your exam, you must include a brief statement documenting your use. Please provide the following information:
-<ol type="a">
-<li>
-<strong>Why/How I Used AI</strong> Why do you need to use GenAI? Which tool did you use? Describe your prompts or questions. What and how did you ask the AI to help you?</li>
-<li>
-<strong>Generated Output</strong> Include a screenshot or excerpt (copy and paste) of the AI’s response.</li>
-<li>
-<strong>How I Used the Output</strong> Did you revise it? Did you use it directly, or compare it with your answers? What decisions did you make based on the output?</li>
+<ol start="4" type="1">
+<li>Analyze within your group.</li>
 </ol>
-</li>
-</ol>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot your data. Height on the x-axis, Shoe Size on the y-axis.</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(<span class="at">x =</span> ______, <span class="at">y =</span> _______)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Fit the simple linear regression model</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>model <span class="ot">&lt;-</span> <span class="fu">lm</span>(____ <span class="sc">~</span> ____)</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Draw the fitted regression line.</span></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="fu">abline</span>(______)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Obtain the estimated slope. What does it mean in context? Is the effect statistically significant?</p>
+</section><section id="discussion" class="level2"><h2 class="anchored" data-anchor-id="discussion">Discussion</h2>
+<ul>
+<li><p>How does your group’s pattern compare to the overall line?</p></li>
+<li><p>What does the slope mean in context?</p></li>
+<li><p>Why might individual data vary around the line?</p></li>
+<li><p>Would it make sense to predict shoe size for someone far outside our data range (e.g., 7’3” tall)? Why or why not?</p></li>
+</ul>
 
 
 </section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
@@ -969,7 +882,7 @@ Table&nbsp;1: Sampled data of the inside diameter of shields produced by machine
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/exam/take_home_exam2.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/activity/act_reg.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
