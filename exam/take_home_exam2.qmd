@@ -43,8 +43,8 @@ editor: source
     <!-- (h) **(MSSC)** The [**statistical power**](https://chenghanyu-introstatsbook.netlify.app/infer-ht#statistical-power-and-choosing-sample-size), which is defined as 1 - type II error rate, or $1-\beta$, is a way to quantify the quality of a test. The power is the probability that the test correctly reject $H_0$ when $H_0$ is false. With the rejection region in (g), plot the power curve (power value vs. value of $\mu$) with mean values 30, 31, 32, 33, 34.  Explain your findings. -->
 
 ```{r}
-#| echo: false
-#| eval: false
+#| echo: true
+#| eval: true
 
 # ------------
 ## (a) 
@@ -116,8 +116,8 @@ kable(tbl, align = c("r","r","r","r"))
 
 
 ```{r}
-#| echo: false
-#| eval: false
+#| echo: true
+#| eval: true
 # ------------
 ## (a)
 # ------------
