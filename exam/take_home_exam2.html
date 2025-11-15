@@ -17,6 +17,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -93,7 +128,10 @@ window.Quarto = {
 </script>
 <meta property="og:title" content="Take-home Exam 2 – MATH 4720 (MSSC 5720) - Fall 2025">
 <meta property="og:description" content="Take-home Exam for Week 7 to 11">
+<meta property="og:image" content="https://math4720-f25.github.io/website/exam/take_home_exam2_files/figure-html/unnamed-chunk-2-1.png">
 <meta property="og:site_name" content="MATH 4720 (MSSC 5720) - Fall 2025">
+<meta property="og:image:height" content="960">
+<meta property="og:image:width" content="1344">
 </head>
 <body class="nav-sidebar docked quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
@@ -342,6 +380,12 @@ window.Quarto = {
  <span class="menu-text">Take-home Exams</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../project/project.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Learning Statistics using Generative AI</span></a>
+  </div>
+</li>
     </ul>
 </div>
 </nav><div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
@@ -414,6 +458,58 @@ Important
 </ol>
 </li>
 </ol>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># ------------</span></span>
+<span><span class="co">## (a) </span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co"># right-tailed, H1 claim</span></span>
+<span><span class="co"># H0: mu &lt;= 30</span></span>
+<span><span class="co"># H1: mu &gt; 30</span></span>
+<span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co">## (b) </span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co"># yes because the ACT score is normally distributed</span></span>
+<span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co">## (c) </span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co"># x_bar &gt; 31.7 because it is a right-tailed test</span></span>
+<span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co">## (d)</span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co"># type I error rate = P(reject H0 | H0 is true)</span></span>
+<span><span class="va">mu0</span> <span class="op">&lt;-</span> <span class="fl">30</span>; <span class="va">x_bar_cv</span> <span class="op">&lt;-</span> <span class="fl">31.7</span>; <span class="va">sig2</span> <span class="op">&lt;-</span> <span class="fl">9</span>; <span class="va">n</span> <span class="op">&lt;-</span> <span class="fl">16</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="op">(</span><span class="va">x_bar_cv</span> <span class="op">-</span> <span class="va">mu0</span><span class="op">)</span> <span class="op">/</span> <span class="fu"><a href="https://rdrr.io/r/base/MathFun.html">sqrt</a></span><span class="op">(</span><span class="va">sig2</span> <span class="op">/</span> <span class="va">n</span><span class="op">)</span>, lower.tail <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 0.0117053</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># ------------</span></span>
+<span><span class="co">## (e)</span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="va">p_val</span> <span class="op">&lt;-</span> <span class="fl">0.1</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">qnorm</a></span><span class="op">(</span><span class="va">p_val</span>, mean <span class="op">=</span> <span class="va">mu0</span>, sd <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/MathFun.html">sqrt</a></span><span class="op">(</span><span class="va">sig2</span> <span class="op">/</span> <span class="va">n</span><span class="op">)</span>, lower.tail <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 30.96116</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># ------------</span></span>
+<span><span class="co">## (f)</span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co"># Do not reject H0</span></span>
+<span><span class="co"># There is insufficient evidence to support the claim that engineering students has mean ACT &gt; 30.</span></span>
+<span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co">## (g) </span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co"># type II error rate = P(do not reject H0 | H0 is false)</span></span>
+<span><span class="va">x_bar_cv_new</span> <span class="op">&lt;-</span> <span class="fl">31.5</span></span>
+<span><span class="va">mu1</span> <span class="op">&lt;-</span> <span class="fl">31</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/stats/Normal.html">pnorm</a></span><span class="op">(</span><span class="op">(</span><span class="va">x_bar_cv_new</span> <span class="op">-</span> <span class="va">mu1</span><span class="op">)</span> <span class="op">/</span> <span class="fu"><a href="https://rdrr.io/r/base/MathFun.html">sqrt</a></span><span class="op">(</span><span class="va">sig2</span> <span class="op">/</span> <span class="va">n</span><span class="op">)</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 0.7475075</code></pre>
+</div>
+</div>
 <p><br></p>
 <ol start="2" class="example" type="1">
 <li>
@@ -535,6 +631,113 @@ Table&nbsp;1: Sampled data of the inside diameter of shields produced by machine
 </div>
 </figure>
 </div>
+</div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># ------------</span></span>
+<span><span class="co">## (a)</span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="va">shield_machine</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/utils/read.table.html">read.csv</a></span><span class="op">(</span><span class="st">"shield_machine.csv"</span><span class="op">)</span></span>
+<span><span class="va">shield_machine_new</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/matrix.html">matrix</a></span><span class="op">(</span><span class="va">shield_machine</span><span class="op">[</span>, <span class="fl">1</span><span class="op">]</span>, <span class="fl">15</span>, <span class="fl">3</span><span class="op">)</span></span>
+<span></span>
+<span><span class="fu">car</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/car/man/qqPlot.html">qqPlot</a></span><span class="op">(</span><span class="va">shield_machine_new</span><span class="op">[</span>, <span class="fl">1</span><span class="op">]</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure"><p><img src="take_home_exam2_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1]  1 10</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb9"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fu">car</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/car/man/qqPlot.html">qqPlot</a></span><span class="op">(</span><span class="va">shield_machine_new</span><span class="op">[</span>, <span class="fl">2</span><span class="op">]</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure"><p><img src="take_home_exam2_files/figure-html/unnamed-chunk-2-2.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 13  5</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb11"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fu">car</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/car/man/qqPlot.html">qqPlot</a></span><span class="op">(</span><span class="va">shield_machine_new</span><span class="op">[</span>, <span class="fl">3</span><span class="op">]</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure"><p><img src="take_home_exam2_files/figure-html/unnamed-chunk-2-3.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 14  5</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb13"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># not very normal but OK</span></span>
+<span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/graphics/boxplot.html">boxplot</a></span><span class="op">(</span><span class="va">shield_machine_new</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure"><p><img src="take_home_exam2_files/figure-html/unnamed-chunk-2-4.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb14"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">## variances are not homogeneous</span></span>
+<span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co">## (b)</span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co">## Not appropriate because ANONA requires normality of data and homogeneous variances.</span></span>
+<span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="co">## (d)</span></span>
+<span><span class="co"># ------------</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/base/apply.html">apply</a></span><span class="op">(</span><span class="va">shield_machine_new</span>, <span class="fl">2</span>, <span class="va">var</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1]  59.37781 296.37210 524.69314</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb16"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/base/apply.html">apply</a></span><span class="op">(</span><span class="va">shield_machine_new</span>, <span class="fl">2</span>, <span class="va">mean</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 13.89333 31.52667 44.18000</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb18"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/base/apply.html">apply</a></span><span class="op">(</span><span class="va">shield_machine_new</span>, <span class="fl">2</span>, <span class="va">var</span><span class="op">)</span><span class="op">/</span> <span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/apply.html">apply</a></span><span class="op">(</span><span class="va">shield_machine_new</span>, <span class="fl">2</span>, <span class="va">mean</span><span class="op">)</span><span class="op">^</span><span class="fl">2</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 0.3076177 0.2981818 0.2688153</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb20"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">## log-transformation</span></span>
+<span><span class="va">shield_machine_log</span> <span class="op">&lt;-</span> <span class="va">shield_machine</span></span>
+<span><span class="va">shield_machine_log</span><span class="op">[</span>, <span class="fl">1</span><span class="op">]</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/Log.html">log</a></span><span class="op">(</span><span class="va">shield_machine_log</span><span class="op">[</span>, <span class="fl">1</span><span class="op">]</span><span class="op">)</span></span>
+<span><span class="va">lm_res_log</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/stats/lm.html">lm</a></span><span class="op">(</span><span class="va">diameter</span> <span class="op">~</span> <span class="va">machine</span>, data <span class="op">=</span> <span class="va">shield_machine_log</span><span class="op">)</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/stats/anova.html">anova</a></span><span class="op">(</span><span class="va">lm_res_log</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Analysis of Variance Table
+
+Response: diameter
+          Df Sum Sq Mean Sq F value    Pr(&gt;F)    
+machine    2 10.456  5.2278  16.404 5.435e-06 ***
+Residuals 42 13.385  0.3187                      
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb22"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="va">shield_machine_log_new</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/apply.html">apply</a></span><span class="op">(</span><span class="va">shield_machine_new</span>, <span class="fl">2</span>, <span class="va">log</span><span class="op">)</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/base/apply.html">apply</a></span><span class="op">(</span><span class="va">shield_machine_log_new</span>, <span class="fl">2</span>, <span class="va">var</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 0.2871122 0.3234484 0.3454946</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb24"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/graphics/boxplot.html">boxplot</a></span><span class="op">(</span><span class="va">shield_machine_log_new</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure"><p><img src="take_home_exam2_files/figure-html/unnamed-chunk-2-5.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb25"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># fitted_val_log &lt;- matrix(lm_res_log$fitted.values, 15, 3)</span></span>
+<span><span class="co"># colnames(fitted_val_log) &lt;- c("A", "B", "C")</span></span>
+<span><span class="co"># qqPlot(lm_res_log$residuals, pch = 19, id = FALSE, ylab = "residuals", </span></span>
+<span><span class="co">#        main = "Normal Probability Plot for Residuals")</span></span>
+<span><span class="co"># plot(lm_res_log$fitted.values, lm_res_log$residuals, xlab = "Fitted Value",</span></span>
+<span><span class="co">#      ylab = "Residual", main = "Versus Fits", pch = 19, col = "red")</span></span>
+<span><span class="co"># abline(h = 0)</span></span>
+<span></span>
+<span><span class="co">## another way</span></span>
+<span><span class="co"># aov_res &lt;- aov(diameter ~ machine, data = data_sim_log)</span></span>
+<span><span class="co"># summary(aov_res)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <ol start="3" class="example" type="1">
 <li>

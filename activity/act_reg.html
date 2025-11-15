@@ -377,6 +377,12 @@ window.Quarto = {
  <span class="menu-text">Take-home Exams</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../project/project.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Learning Statistics using Generative AI</span></a>
+  </div>
+</li>
     </ul>
 </div>
 </nav><div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
@@ -410,13 +416,13 @@ window.Quarto = {
 </header><section id="objective" class="level2"><h2 class="anchored" data-anchor-id="objective"><strong>Objective</strong></h2>
 <p>You will:</p>
 <ul>
-<li><p>Identify predictor (height) and response (shoe size).</p></li>
-<li><p>Explain what the slope means in context.</p></li>
-<li><p>Recognize variability and limitations of small-sample regressions.</p></li>
-<li><p>Experience how combining data strengthens inference.</p></li>
+<li>Identify predictor (height) and response (shoe size).</li>
+<li>Explain what the slope means in context.</li>
+<li>Recognize variability and limitations of small-sample regressions.</li>
+<li>Experience how combining data strengthens inference.</li>
 </ul></section><section id="instructions" class="level2"><h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
 <ol type="1">
-<li><p>Form a group of <strong>four</strong> or <strong>five</strong>. (This is your sample size!)</p></li>
+<li><p>Form a group of 4 or 5. (This is your sample size!)</p></li>
 <li>
 <p>Collect your data. Each person will share their <strong>height</strong> and <strong>shoe size</strong>!</p>
 <ul>
@@ -444,23 +450,25 @@ window.Quarto = {
 <li>Analyze within your group.</li>
 </ol>
 <div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot your data. Height on the x-axis, Shoe Size on the y-axis.</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># (a) Plot your data. Height on the x-axis, Shoe Size on the y-axis.</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(<span class="at">x =</span> ______, <span class="at">y =</span> _______)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Fit the simple linear regression model</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># (b) Fit the simple linear regression model</span></span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>model <span class="ot">&lt;-</span> <span class="fu">lm</span>(____ <span class="sc">~</span> ____)</span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Draw the fitted regression line.</span></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="co"># (c) Draw the fitted regression line.</span></span>
 <span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="fu">abline</span>(______)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
-<p>Obtain the estimated slope. What does it mean in context? Is the effect statistically significant?</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># (d) Obtain the estimated slope. What does it mean in context? Is the effect statistically significant?</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
 </section><section id="discussion" class="level2"><h2 class="anchored" data-anchor-id="discussion">Discussion</h2>
 <ul>
-<li><p>How does your group’s pattern compare to the overall line?</p></li>
-<li><p>What does the slope mean in context?</p></li>
-<li><p>Why might individual data vary around the line?</p></li>
-<li><p>Would it make sense to predict shoe size for someone far outside our data range (e.g., 7’3” tall)? Why or why not?</p></li>
+<li>How does your group’s pattern compare to the overall line?</li>
+<li>What does the slope mean in context?</li>
+<li>Why might individual data vary around the line?</li>
+<li>Would it make sense to predict shoe size for someone far outside our data range (e.g., 7’3” tall)? Why or why not?</li>
 </ul>
 
 
