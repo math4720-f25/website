@@ -193,15 +193,17 @@ You must include your **entire AI usage history** at the end of your report. The
 
 Please use the [**project template**](./template.docx).
 
-Once you complete your project and finish your conversation with the AI tool, please prepare your full chat history. Before ending the chat, make sure to insert your final prompt shown below so that the entire interaction is captured from start to finish.
-
-::: {.italic style="font-style: italic" .blue}
-Compile the entire conversation, clearly labeled to show which parts are AI inputs and which are my responses.
-:::
-
 Follow the [**step-by-step guide**](./chat.docx) to share your AI chat conversation.
 
+<!-- Once you complete your project and finish your conversation with the AI tool, please prepare your full chat history. Before ending the chat, make sure to insert your final prompt shown below so that the entire interaction is captured from start to finish. -->
 
+<!-- ::: {.italic style="font-style: italic" .blue} -->
+<!-- Compile the entire conversation, clearly labeled to show which parts are AI inputs and which are my responses. -->
+<!-- ::: -->
+
+<!-- Follow the [**step-by-step guide**](./chat.docx) to share your AI chat conversation. -->
+
+<!-- **[Note:]** You can also share your chat history w -->
 
 <!-- Your statement must include all of the following: -->
 
