@@ -45,7 +45,9 @@ By completing this project you will:
 
 # Project Content
 
-Your project has three parts: the **data analysis report**, **personal reflection**, and **AI chat history**. Please use the initial prompt (@sec-prompt) to start your conversation with AI.
+- Your project has three parts: the **data analysis report**, **personal reflection**, and **AI chat history**. 
+
+- Please use the initial prompt (@sec-prompt) to start your conversation with AI.
 
 ## Data Analysis Report
 
@@ -163,20 +165,17 @@ Please use the [**project template**](./template.docx).
 
 ::: {.italic style="font-style: italic" .blue}
 
-I am working on a multiple linear regression project using a small health related data set with three variables: sleep, caffeine, and stress. I want you to act as a thinking partner. Please do not give me the full answers. Instead, guide my thinking with explanations of why certain steps make sense and what ideas I should consider when making decisions.
+I am working on a multiple linear regression project using a small health-related dataset with three variables: sleep, caffeine, and stress. Act as my thinking partner. Do not give me full answers or report-ready text. Instead, guide me step by step, and after each step, ask me one clarifying or reflective question before moving on. Explain why each step matters and what ideas I should consider when making decisions. Use general examples if needed, but do not use my dataset values or provide final interpretations.
 
-Please ask me clarifying questions when needed. Explain the reasoning behind each concept slowly and clearly. Help me understand the process rather than giving me the final interpretations or the exact text for my report.
+Help me understand the process by asking questions like:
+What does this coefficient mean in context?
+How would I explain R squared to someone with no statistics background?
+Why might these predictors be related?
+What assumptions should I check?
+What limitations might I need to note?
 
-You may give examples of how to think about plots, interpretations, and model evaluation, but they should be general examples. They should not be statements that directly answer my project with specific values from my data set. Let me do the calculations, write the interpretations, and make the final decisions.
+Your role is to support my reasoning and help me understand how to build and interpret the model gradually, not to create my report content.
 
-Please help me develop my understanding of multiple linear regression by asking reflective questions such as:
-What does this coefficient mean in context.
-How would I explain R squared to someone with no statistics background.
-Why might these predictors be related.
-What assumptions do I need to check.
-What limitations might I need to note.
-
-Your role is to support my reasoning and to help me understand how to build and interpret the model step by step, but not to create my report content for me.
 
 :::
 
