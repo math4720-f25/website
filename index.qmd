@@ -37,7 +37,7 @@ format:
 | 12 | Mon, Nov 10 | **In-class Exam 2** |  |  |  |  |  | ✅ [Take-home Exam 2](exam/take_home_exam2.html) |
 |  | Wed, Nov 12 | ~~Multiple Comparisons~~ Correlation; Overview of Regression | [🖥️ correlation](/slides/14-correlation-slides.html) | [IS Ch 27.1](https://chenghanyu-introstatsbook.netlify.app/model-reg#correlation); [IS Ch 27.2](https://chenghanyu-introstatsbook.netlify.app/model-reg#meaning-of-regression) | [`r fontawesome::fa("file-code")`](code/26-model-reg.R) (correlation and regression) |  |  |  |
 | 13 | Mon, Nov 17 | Simple Linear Regression: Fitting and Inference | [🖥️ regression](/slides/15-regression-slides.html) <br> 👉 [regression fitting](ojs/model-reg-ojs.html) | [IS Ch 27.3 - 27.4](https://chenghanyu-introstatsbook.netlify.app/model-reg#fitting-a-regression-line-haty-b_0-b_1x) |  |  |  | 📂 [AI Project](project/project.html) |
-|  | Wed, Nov 19 | Simple Linear Regression: ANOVA approach |  | [IS Ch 27.5](https://chenghanyu-introstatsbook.netlify.app/model-reg#analysis-of-variance-anova-approach) |  |  |  |  |
+|  | Wed, Nov 19 | Simple Linear Regression: ANOVA approach | 👉 [sampling distribution of coefficients](ojs/model-reg-beta-ojs.html) | [IS Ch 27.5](https://chenghanyu-introstatsbook.netlify.app/model-reg#analysis-of-variance-anova-approach) |  |  |  |  |
 | 14 | Mon, Nov 24 | Simple Linear Regression: Prediction [**Activity: Height vs. Shoe Size**](activity/act_reg.html) |  | [IS Ch 27.6](https://chenghanyu-introstatsbook.netlify.app/model-reg#prediction) |  |  |  |  |
 |  | Wed, Nov 26 | ***NO CLASS: Thanksgiving*** |  |  |  | ✍️ HW 8 |  |  |
 | 15 | Mon, Dec 1 | Inference for Categorical Data | 🖥️ | IS Ch 19 | `r fontawesome::fa("file-code")` |  |  |  |
