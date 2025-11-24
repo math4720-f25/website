@@ -4,8 +4,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.8.19">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta name="author" content="Dr.&nbsp;Cheng-Han Yu">
-<title>Midterm Presentation II - Classification – MATH 4720 (MSSC 5720) - Fall 2025</title>
+<title>Exercise 3 – MATH 4720 (MSSC 5720) - Fall 2025</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -18,29 +17,64 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-8dda004152c753601ea85dbdafdd9cfd.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8dda004152c753601ea85dbdafdd9cfd.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-8dda004152c753601ea85dbdafdd9cfd.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1da5838089477fe5b285348978043904.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-311c866fdd058187a59d486837a94991.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-1da5838089477fe5b285348978043904.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light"><script id="quarto-search-options" type="application/json">{
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-8dda004152c753601ea85dbdafdd9cfd.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-8dda004152c753601ea85dbdafdd9cfd.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-8dda004152c753601ea85dbdafdd9cfd.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-1da5838089477fe5b285348978043904.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-311c866fdd058187a59d486837a94991.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-1da5838089477fe5b285348978043904.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light"><script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
   "collapse-after": 3,
@@ -66,9 +100,34 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit",
     "search-label": "Search"
   }
-}</script>
-<meta property="og:title" content="Midterm Presentation II - Classification – MATH 4720 (MSSC 5720) - Fall 2025">
-<meta property="og:description" content="MSSC 6250 Machine Learning, Spring 2025">
+}</script><script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script><script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+<meta property="og:title" content="Exercise 3 – MATH 4720 (MSSC 5720) - Fall 2025">
+<meta property="og:description" content="Exercises for Final Exam">
 <meta property="og:site_name" content="MATH 4720 (MSSC 5720) - Fall 2025">
 </head>
 <body class="nav-sidebar docked quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -240,7 +299,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Midterm Presentation II - Classification</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Exercise 3</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -250,8 +309,8 @@ ul.task-list li input[type="checkbox"] {
   </nav></header><!-- content --><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto"><div class="pt-lg-2 mt-2 text-center sidebar-header">
-      <a href="./index.html" class="sidebar-logo-link">
-      <img src="./images/logo.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none"><img src="./images/logo.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none"></a>
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../images/logo.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none"><img src="../images/logo.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none"></a>
       <div class="sidebar-tools-main tools-wide">
     <a href="https://github.com/math4720-f25/website" title="GitHub organization" class="quarto-navigation-tool px-1" aria-label="GitHub organization"><i class="bi bi-github"></i></a>
     <a href="https://d2l.mu.edu/d2l/home/589421" title="D2L" class="quarto-navigation-tool px-1" aria-label="D2L"><i class="bi bi-person-fill"></i></a>
@@ -276,25 +335,25 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">
 <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-overview.html" class="sidebar-item-text sidebar-link">
+  <a href="../course-overview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Overview</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Schedule</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-syllabus.html" class="sidebar-item-text sidebar-link">
+  <a href="../course-syllabus.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Syllabus</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-hours.html" class="sidebar-item-text sidebar-link">
+  <a href="../course-hours.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Help Desk Hours</span></a>
   </div>
 </li>
@@ -302,25 +361,25 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./hw.html" class="sidebar-item-text sidebar-link">
+  <a href="../hw.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Homework</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./exercise.html" class="sidebar-item-text sidebar-link">
+  <a href="../exercise.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Exercise</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./exam.html" class="sidebar-item-text sidebar-link">
+  <a href="../exam.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Take-home Exams</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./project/project.html" class="sidebar-item-text sidebar-link">
+  <a href="../project/project.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Learning Statistics using Generative AI</span></a>
   </div>
 </li>
@@ -328,260 +387,230 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </nav><div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active"><h2 id="toc-title">On this page</h2>
-   
-  <ul>
-<li><a href="#timeline-and-things-to-do" id="toc-timeline-and-things-to-do" class="nav-link active" data-scroll-target="#timeline-and-things-to-do">Timeline and Things to Do</a></li>
-  <li>
-<a href="#policy" id="toc-policy" class="nav-link" data-scroll-target="#policy">Policy</a>
-  <ul class="collapse">
-<li><a href="#proposal" id="toc-proposal" class="nav-link" data-scroll-target="#proposal"><strong>Proposal</strong></a></li>
-  <li><a href="#presentation" id="toc-presentation" class="nav-link" data-scroll-target="#presentation"><strong>Presentation</strong></a></li>
-  <li><a href="#materials" id="toc-materials" class="nav-link" data-scroll-target="#materials"><strong>Materials</strong></a></li>
-  </ul>
-</li>
-  <li>
-<a href="#project-content" id="toc-project-content" class="nav-link" data-scroll-target="#project-content">Project Content</a>
-  <ul class="collapse">
-<li><a href="#data-analytics" id="toc-data-analytics" class="nav-link" data-scroll-target="#data-analytics">Data Analytics</a></li>
-  <li><a href="#modelalgorithm" id="toc-modelalgorithm" class="nav-link" data-scroll-target="#modelalgorithm">Model/Algorithm</a></li>
-  </ul>
-</li>
-  <li>
-<a href="#sec-grading" id="toc-sec-grading" class="nav-link" data-scroll-target="#sec-grading">Project Evaluation and Grading</a>
-  <ul class="collapse">
-<li><a href="#group-performance-evaluation" id="toc-group-performance-evaluation" class="nav-link" data-scroll-target="#group-performance-evaluation">Group Performance Evaluation</a></li>
-  </ul>
-</li>
-  </ul><div class="toc-actions"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/present-description-2.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
-<h1 class="title">Midterm Presentation II - Classification</h1>
-<p class="subtitle lead">MSSC 6250 Machine Learning, Spring 2025</p>
-</div>
+<h1 class="title">Exercise 3</h1>
+<p class="subtitle lead">Exercises for Final Exam</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Exercise</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Dr.&nbsp;Cheng-Han Yu </p>
-          </div>
-  </div>
     
   
-    <div>
-    <div class="quarto-title-meta-heading">Modified</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date-modified">November 24, 2025</p>
-    </div>
-  </div>
     
   </div>
   
 
 
-</header><section id="timeline-and-things-to-do" class="level1"><h1>Timeline and Things to Do</h1>
-<ul>
-<li><p><strong>Proposal</strong>. Please send me a <span class="blue"><strong>one-page PDF</strong></span> describing what you are going to do for your project (no word limit) with your <strong>project title</strong> by <span class="red"><strong>Tuesday, 4/8 11:59 PM</strong></span>.</p></li>
-<li><p><strong>Presentation</strong>. You will be presenting your project on <span class="red"><strong>Tuesday, 4/15 in class</strong></span>.</p></li>
-<li><p><strong>Materials</strong>. Please share your <span class="blue"><strong>entire work</strong></span> (slides, code, data, etc) by <span class="red"><strong>Friday, 4/18 11:59 PM</strong></span>.</p></li>
-</ul></section><section id="policy" class="level1"><h1>Policy</h1>
-<section id="proposal" class="level2"><h2 class="anchored" data-anchor-id="proposal"><strong>Proposal</strong></h2>
-<ul>
-<li><p><em>Each one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.</em></p></li>
-<li>
-<p>Your proposal (in PDF) should include three parts:</p>
-<ul>
-<li><strong>Project title</strong></li>
-<li>
-<strong>The goal of your project</strong>. For example, what is the research question you’d like to answer? What machine learning method/model/algorithm you’d like to introduce? What data you’d like to use for analysis or demonstration? etc.</li>
-</ul>
+</header><ol class="example" type="1">
+<li>About 30% of human twins are identical, and the rest are fraternal. Identical twins are necessarily the same sex: half are males and the other half are females. One-quarter of fraternal twins are both male, one-quarter both female, and one-half are mixes: one male, one female. You have just become a parent of twins and are told they are both girls. Given this information, what is the probability that they are identical?</li>
+</ol>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">## [(0.5)(0.3)]/[(0.5)(0.3)+(1/4)(0.7)]</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p><br></p>
+<ol start="2" class="example" type="1">
+<li>A patient named Diana was diagnosed with Fibromyalgia, a long-term syndrome of body pain, and was prescribed anti-depressants. Being the skeptic that she is, Diana didn’t initially believe that anti-depressants would help her symptoms. However after a couple months of being on the medication she decides that the anti-depressants are working, because she feels like her symptoms are in fact getting better.
+<ol type="a">
+<li>Write the hypotheses in words for Diana’s skeptical position when she started taking the anti-depressants.</li>
+<li>What is a Type 1 Error in this context?</li>
+<li>What is a Type 2 Error in this context?</li>
+</ol>
 </li>
-<li><p>Although it is risky, you can change your project topic after you submit your proposal if you decide to do something else.</p></li>
-</ul></section><section id="presentation" class="level2"><h2 class="anchored" data-anchor-id="presentation"><strong>Presentation</strong></h2>
+</ol>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">## (a)</span></span>
+<span><span class="co">## H0: Anti-depressants do not affect the symptoms of Fibromyalgia. </span></span>
+<span><span class="co">## HA: Anti-depressants do affect the symptoms of Fibromyalgia (either helping or harming).</span></span>
+<span><span class="co">## (b)</span></span>
+<span><span class="co">## Concluding that anti-depressants either help or worsen Fibromyalgia symptoms </span></span>
+<span><span class="co">## when they actually do neither.</span></span>
+<span><span class="co">## (c)</span></span>
+<span><span class="co">## Concluding that anti-depressants do not affect Fibromyalgia symptoms when they actually do.</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p><br></p>
+<ol start="3" class="example" type="1">
+<li>A Rasmussen Reports survey of 1,000 US adults found that 42% believe raising the minimum wage will help the economy. Construct a 99% confidence interval for the true proportion of US adults who believe this.</li>
+</ol>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># 0.42 -+ 2.58 (0.016)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p><br></p>
+<ol start="4" class="example" type="1">
+<li>
+<strong>True or false</strong>.
+<ol type="a">
+<li>The chi-square distribution, just like the normal distribution, has two parameters, mean and standard deviation.</li>
+<li>Consider two sets of data that are paired with each other. Each observation in one data set has a natural correspondence with exactly one observation from the other data set.</li>
+<li>As the degrees of freedom increases, the <span class="math inline">\(t\)</span>-distribution approaches normality.</li>
+<li>A correlation coefficient of -0.90 indicates a stronger linear relationship than a correlation of 0.5.</li>
+</ol>
+</li>
+</ol>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">## F</span></span>
+<span><span class="co">## T</span></span>
+<span><span class="co">## T</span></span>
+<span><span class="co">## T</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p><br></p>
+<ol start="5" class="example" type="1">
+<li>Consider a regression predicting weight (kg) from height (cm) for a sample of adult males. What are the units of the correlation coefficient, the intercept, and the slope?</li>
+</ol>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># Correlation: no units. Intercept: kg. Slope: kg/cm.</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p><br></p>
+<ol start="6" class="example" type="1">
+<li>Determine if I or II is higher or if they are equal. Explain your reasoning. For a regression line, the uncertainty associated with the slope estimate, <span class="math inline">\(b_1\)</span>, is higher when</li>
+</ol>
 <ul>
-<li><p>Each group presentation should be between <strong>10 and 11 minute</strong> long, followed by <strong>1 to 2 minute</strong> Q&amp;A. If your presentation is too short or too long, <em>every one of you loses 5 points</em> of your project grade.</p></li>
-<li><p>Every group member has to present some part of the group work. <strong>The one who does not present receives no point</strong>.</p></li>
-<li><p><span class="green">Questions are REQUIRED during Q&amp;A. Each group is required to ask as least one question. More questions are welcome. If you, as a group, don’t ask a question when you should, every one of you loses 5 points of your project grade.</span></p></li>
+<li>[I] there is a lot of scatter around the regression line</li>
+<li>[II] there is very little scatter around the regression line</li>
 </ul>
-<div class="green">
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># I is higher, the more the scatter the lower the correlation coefficient, and hence the higher the uncertainty around the regression line.</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p><br></p>
+<ol start="7" class="example" type="1">
+<li>Is the gestational age (time between conception and birth) of a low birth-weight baby useful in predicting head circumference at birth? Twenty-five low birth-weight babies were studied at a Harvard teaching hospital; the investigators calculated the regression of head circumference (measured in centimeters) against gestational age (measured in weeks). The estimated regression line is <span class="math display">\[\widehat{\text{head circumference}} = 3.91 + 0.78 \times \text{gestational age}\]</span>
+<ol type="a">
+<li>What is the predicted head circumference for a baby whose gestational age is 28 weeks?</li>
+<li>The standard error for the coefficient of gestational age is 0. 35, which is associated with <span class="math inline">\(df = 23\)</span>. Does the model provide strong evidence that gestational age is significantly associated with head circumference?</li>
+</ol>
+</li>
+</ol>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co"># 3.91 + 0.78 * 28 = 25.75</span></span>
+<span><span class="co"># t_test = 2.23 p-value = 0.02</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p><br></p>
+<ol start="8" class="example" type="1">
+<li>Lipitor (atorvastatin) is a drug used to control cholesterol. In clinical trials of Lipitor, 98 subjects were treated with Lipitor and 245 subjects were given a placebo. Among those treated with Lipitor, 6 developed infections. Among those given a placebo, 24 developed infections. Use a 0.05 significance level to test the claim that the rate of inflections was the same for those treated with Lipitor and those given a placebo.
+<ol type="a">
+<li>Test the claim using the critical-value and p-value methods.</li>
+<li>Test the claim by constructing a confidence interval.</li>
+</ol>
+</li>
+</ol>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="op">(</span><span class="va">prop_test</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/stats/prop.test.html">prop.test</a></span><span class="op">(</span>x <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="fl">6</span>, <span class="fl">24</span><span class="op">)</span>, n <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="fl">98</span>, <span class="fl">245</span><span class="op">)</span>, </span>
+<span>          alternative <span class="op">=</span> <span class="st">"two.sided"</span>, correct <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    2-sample test for equality of proportions without continuity correction
+
+data:  c(6, 24) out of c(98, 245)
+X-squared = 1.1835, df = 1, p-value = 0.2766
+alternative hypothesis: two.sided
+95 percent confidence interval:
+ -0.09705436  0.02358497
+sample estimates:
+    prop 1     prop 2 
+0.06122449 0.09795918 </code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb10"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">## test statistic = -1.09</span></span>
+<span><span class="co">## critical value = -1.96</span></span>
+<span><span class="co">## p-value = 0.2766</span></span>
+<span><span class="co">## CI = (-0.097, 0.0234)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p><br></p>
+<ol start="9" class="example" type="1">
+<li>A researcher has developed a model for predicting eye color. After examining a random sample of parents, she predicts the eye color of the first child. The table below lists the eye colors of offspring. On the basis of her theory, she predicted that 87% of the offspring would have brown eyes, 8% would have blue eyes, and 5% would have green eyes. Use 0.05 significance level to test the claim that the actual frequencies correspond to her predicted distribution.</li>
+</ol>
+<table class="caption-top table"><tbody>
+<tr class="odd">
+<td>Eye Color</td>
+<td>Brown</td>
+<td>Blue</td>
+<td>Green</td>
+</tr>
+<tr class="even">
+<td>Frequency</td>
+<td>127</td>
+<td>21</td>
+<td>5</td>
+</tr>
+</tbody></table>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb11"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="va">obs</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="fl">127</span>, <span class="fl">21</span>, <span class="fl">5</span><span class="op">)</span></span>
+<span><span class="va">pi_0</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="fl">0.87</span>, <span class="fl">0.08</span>, <span class="fl">0.05</span><span class="op">)</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/stats/chisq.test.html">chisq.test</a></span><span class="op">(</span>x <span class="op">=</span> <span class="va">obs</span>, p <span class="op">=</span> <span class="va">pi_0</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Chi-squared test for given probabilities
+
+data:  obs
+X-squared = 7.4678, df = 2, p-value = 0.0239</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb13"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="co">## critical value = 5.99</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p><br></p>
+<ol start="10" class="example" type="1">
+<li>In a study of high school students at least 16 years of age, researchers obtained survey results summarized in the accompanying table. Use a 0.05 significance level to test the claim of independence between texting while driving and driving when drinking alcohol. Are these two risky behaviors independent of one another?</li>
+</ol>
 <table class="caption-top table">
 <thead><tr class="header">
-<th>Team Presenting</th>
-<th>Team Asking Questions</th>
+<th></th>
+<th>Drove after drinking alcohol?</th>
+<th></th>
 </tr></thead>
 <tbody>
 <tr class="odd">
-<td>Team 1</td>
-<td>Team 6</td>
+<td></td>
+<td>Yes</td>
+<td>No</td>
 </tr>
 <tr class="even">
-<td>Team 2</td>
-<td>Team 1</td>
+<td>Texted while driving</td>
+<td>720</td>
+<td>3027</td>
 </tr>
 <tr class="odd">
-<td>Team 3</td>
-<td>Team 2</td>
-</tr>
-<tr class="even">
-<td>Team 4</td>
-<td>Team 3</td>
-</tr>
-<tr class="odd">
-<td>Team 5</td>
-<td>Team 4</td>
-</tr>
-<tr class="even">
-<td>Team 6</td>
-<td>Team 5</td>
+<td>Did not text while driving</td>
+<td>145</td>
+<td>4472</td>
 </tr>
 </tbody>
 </table>
-</div>
-<!-- After the 1st group presentation, the 2nd group should ask at least one question in Q&A. After the 2nd group presentation, the 3rd group should at least ask one question in Q&A, and so on and so forth. The 1st group will ask the last group questions about their project. If you, as a group, don’t ask a question when you should, every one of you loses 10 points of your project grade. -->
-</section><section id="materials" class="level2"><h2 class="anchored" data-anchor-id="materials"><strong>Materials</strong></h2>
-<ul>
-<li><p><em>Each one of you loses 5 points of your project grade if you don’t meet the requirement or miss the deadline.</em></p></li>
-<li><p>You need to share your entire work, including slides, code, and data if applicable.</p></li>
-<li><p>Your code should be able to <strong>reproduce all the numerical results, outputs, tables, and figures shown in the slides</strong>, including the source of the raw data (where you find and load the data) if the project is about data analysis.</p></li>
-</ul></section></section><section id="project-content" class="level1"><h1>Project Content</h1>
-<p>Your project can be in either of the following categories:</p>
-<ol type="1">
-<li><p><strong>(DA)</strong> Data analytics using one or more <strong>CLASSIFICATION</strong> methods.</p></li>
-<li><p><strong>(MA)</strong> Introduce a new <strong>CLASSIFICATION</strong> model/method/algorithm not lectured in class.</p></li>
-</ol>
-<section id="data-analytics" class="level2"><h2 class="anchored" data-anchor-id="data-analytics">Data Analytics</h2>
-<p>For your DA project, you need to</p>
-<ul>
-<li><p>Describe the selected data set.</p></li>
-<li><p>Explain and show why the chosen model(s) is appropriate for answering your research questions and better than others.</p></li>
-<li><p>Interpret your analysis result.</p></li>
-</ul>
-<p>Below are some data repositories you can start with, but you are encouraged to explore more and find your favorite one.</p>
-<ul>
-<li><a href="https://github.com/rfordatascience/tidytuesday">TidyTuesday</a></li>
-<li><a href="https://www.kaggle.com/datasets">Kaggle</a></li>
-<li><a href="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets</a></li>
-<li><a href="https://dataverse.harvard.edu/">Harvard Dataverse</a></li>
-<li><a href="https://archive.ics.uci.edu/ml/index.php">UCI Machine Learning Repository</a></li>
-<li><a href="https://data.fivethirtyeight.com/">FiveThirtyEight</a></li>
-</ul></section><section id="modelalgorithm" class="level2"><h2 class="anchored" data-anchor-id="modelalgorithm">Model/Algorithm</h2>
-<p>For your MA project, you need to</p>
-<ul>
-<li><p>Describe the intuition and idea of the method. What are the pros and cons of the method?</p></li>
-<li><p>Provide the mathematical expression of the model/algorithm. Explain the model and its properties, and how we do supervised learning with the model/algorithm.</p></li>
-<li><p>Compare the chosen method with other methods learned in class. Determine which method performs better under what conditions.</p></li>
-<li><p>Demo how to implement the method using a programming language for supervised learning.</p></li>
-</ul></section></section><section id="sec-grading" class="level1"><h1>Project Evaluation and Grading</h1>
-<ul>
-<li><p>Your project performance grade is <em>determined by <strong>your classmates and Dr.&nbsp;Yu</strong></em>.</p></li>
-<li><p>Table 1 shows your possible performance grade. For example, if your group finish in second place (Silver) you get 145 points.</p></li>
-<li><p>Your project grade will be</p></li>
-</ul>
-<blockquote class="blockquote">
-<p>project grade = performance grade - points lost due to violation of policy</p>
-</blockquote>
 <div class="cell">
-<div class="cell-output-display">
-<table class="caption-top table table-sm table-striped small">
-<caption>Performance Grade Sheet</caption>
-<thead><tr class="header">
-<th style="text-align: left;"></th>
-<th style="text-align: center;">Performace Grade 🎖</th>
-</tr></thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Gold 🥇 1st</td>
-<td style="text-align: center;">150</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Silver 🥈 2nd</td>
-<td style="text-align: center;">145</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Bronze 🥉 3rd</td>
-<td style="text-align: center;">140</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Other teams</td>
-<td style="text-align: center;">135</td>
-</tr>
-</tbody>
-</table>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb14"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="op">(</span><span class="va">contingency_table</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/matrix.html">matrix</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="fl">720</span>, <span class="fl">145</span>, <span class="fl">3027</span>, <span class="fl">4472</span><span class="op">)</span>, nrow <span class="op">=</span> <span class="fl">2</span>, ncol <span class="op">=</span> <span class="fl">2</span><span class="op">)</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>     [,1] [,2]
+[1,]  720 3027
+[2,]  145 4472</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb16"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="op">(</span><span class="va">ind_test</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/stats/chisq.test.html">chisq.test</a></span><span class="op">(</span>x <span class="op">=</span> <span class="va">contingency_table</span><span class="op">)</span><span class="op">)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Pearson's Chi-squared test with Yates' continuity correction
+
+data:  contingency_table
+X-squared = 574.68, df = 1, p-value &lt; 2.2e-16</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb18"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="va">ind_test</span><span class="op">$</span><span class="va">expected</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>         [,1]     [,2]
+[1,] 387.5126 3359.487
+[2,] 477.4874 4139.513</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb20"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/stats/Chisquare.html">qchisq</a></span><span class="op">(</span><span class="fl">0.05</span>, df <span class="op">=</span> <span class="op">(</span><span class="fl">2</span> <span class="op">-</span> <span class="fl">1</span><span class="op">)</span> <span class="op">*</span> <span class="op">(</span><span class="fl">2</span> <span class="op">-</span> <span class="fl">1</span><span class="op">)</span>, lower.tail <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span>  </span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 3.841459</code></pre>
 </div>
 </div>
-<section id="group-performance-evaluation" class="level2"><h2 class="anchored" data-anchor-id="group-performance-evaluation">Group Performance Evaluation</h2>
-<ul>
-<li><p>You will need to <strong>evaluate all group projects except the one you work on</strong>.</p></li>
-<li>
-<p>You evaluate group performance based on the rubric attached. Four evaluation criteria are considered:</p>
-<ul>
-<li><strong>Project Content and Organization (8 pts)</strong></li>
-<li><strong>Presentation Material (Slides) Quality (4 pts)</strong></li>
-<li><strong>Oral Presentation Skill and Delivery (4 pts)</strong></li>
-<li><strong>Interactions and Q&amp;A (4 pts)</strong></li>
-</ul>
-</li>
-<li><p>The total points of a project presentation is <strong>20</strong> points.</p></li>
-<li><p>Evaluation sheets will be provided on the presentation day.</p></li>
-</ul>
-<p>How do you get the full points for each category? Check the rubric below. <!-- Note that for Content and Organization, data analysis and package projects have different requirements. --></p>
-<ul>
-<li>
-<p><strong>Content and Organization (DA)</strong></p>
-<ul>
-<li>Beautiful visualization helps find out relationship of variables and specification of models</li>
-<li>All questions are answered accurately by the models</li>
-<li>Discuss how and why the models are chosen</li>
-<li>Apply sophisticated models and detailed analysis</li>
-<li>All ideas are presented in logical order</li>
-</ul>
-</li>
-<li>
-<p><strong>Content and Organization (MA)</strong></p>
-<ul>
-<li>Explain the method clearly and accuratly</li>
-<li>Show the pros and cons of the method, and compare with the methods learned in class.</li>
-<li>Show how the method can be implemednted for supervised learning.</li>
-<li>All ideas are presented in logical order</li>
-</ul>
-</li>
-<li>
-<p><strong>Presentation Material Quality</strong></p>
-<ul>
-<li>Presentation material show code and output beautifully</li>
-<li>Presentation material clearly aid the speaker in telling a coherent story</li>
-<li>All tables and graphics are informative and related to the topic and make it easier to understand</li>
-<li>Attractive design, layout, and neatness.</li>
-</ul>
-</li>
-<li>
-<p><strong>Oral Presentation Skill</strong></p>
-<ul>
-<li>Good volume and energy</li>
-<li>Proper pace and diction</li>
-<li>Avoidance of distracting gestures</li>
-</ul>
-</li>
-<li>
-<p><strong>Interactions and Q&amp;A</strong></p>
-<ul>
-<li>Good eye contact with audience</li>
-<li>Excellent listening skills</li>
-<li>Answers audience questions with authority and accuracy</li>
-</ul>
-</li>
-<li><p>After you evaluate all group project presentations, you rank them from 1st to last based on their earned points.</p></li>
-<li><p><strong>No two groups receive the same ranking</strong>. If you give two or more groups some points, you still need to give them a different ranking, deciding which team deserves a higher ranking according to your preference.</p></li>
-</ul>
 
 
-</section></section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
+
+</main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
     if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -1000,7 +1029,7 @@ ul.task-list li input[type="checkbox"] {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/present-description-2.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/math4720-f25/website/edit/main/exercise/exercise3.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/math4720-f25/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
