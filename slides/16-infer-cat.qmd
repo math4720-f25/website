@@ -669,7 +669,7 @@ knitr::include_graphics("./images/16-infer-cat/diversity.jpeg")
 |  | White  | Black | Hispanic | Asian | Total |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | Representation in juries | $O_1 = 205$ | $O_2 = 26$   |  $O_3 = 25$ |  $O_4 = 19$  | $n = 275$ | 
-| Registered voters | $\pi_1 = 0.72$ | $\pi_2 = 0.07$   |  $\pi_3 = 0.12$ |  $\pi_4 = 0.09$  | $1.00$ | 
+| Registered voters | $\pi_1^0 = 0.72$ | $\pi_2^0 = 0.07$   |  $\pi_3^0 = 0.12$ |  $\pi_4^0 = 0.09$  | $1.00$ | 
 
 
 ## Example: More Than 2 Categories
